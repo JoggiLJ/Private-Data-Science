@@ -14,4 +14,4 @@ Data, model results, and analysis scripts from our summer project benchmarking L
 
 ## Notes
 
-- Large files as `Benchmarks/SAT/Math/SAT_Math.pdf` are tracked with Git LFS — see `.gitattributes`.
+- Large files, such as `Benchmarks/SAT/Math/SAT_Math.pdf` are tracked with Git LFS — see `.gitattributes`.
