@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_psychology_test",
+  "description": "High school psychology multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_psychology subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "After Suzy decided to go to the prom with Dylan, Max was unconsciously furious. Max then channeled all his energies into his artwork. Which defense mechanism is Max using?",
+      "options": [
+        {
+          "label": "A",
+          "text": "displacement"
+        },
+        {
+          "label": "B",
+          "text": "sublimation"
+        },
+        {
+          "label": "C",
+          "text": "rationalization"
+        },
+        {
+          "label": "D",
+          "text": "repression"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "If arrested for committing a crime, who of the following would be most likely to be declared legally insane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aaron, who suffers symptoms of disorganized schizophrenia"
+        },
+        {
+          "label": "B",
+          "text": "Brett, who has been diagnosed with obsessive-compulsive disorder"
+        },
+        {
+          "label": "C",
+          "text": "Clara, who suffers symptoms of zoophobia"
+        },
+        {
+          "label": "D",
+          "text": "Don, who has symptoms of hypochondriasis"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Behavioral therapy typically alters the patterns of responding of clients by",
+      "options": [
+        {
+          "label": "A",
+          "text": "helping patients identify a hierarchy of anxiety-arousing experiences"
+        },
+        {
+          "label": "B",
+          "text": "vigorously challenging clients' illogical ways of thinking"
+        },
+        {
+          "label": "C",
+          "text": "influencing patients by controlling the consequences of their actions"
+        },
+        {
+          "label": "D",
+          "text": "repeating or rephrasing what a client says during the course of therapy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Which social psychological principle best explains prejudice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "individualism"
+        },
+        {
+          "label": "B",
+          "text": "collectivism"
+        },
+        {
+          "label": "C",
+          "text": "self-serving bias"
+        },
+        {
+          "label": "D",
+          "text": "in-group bias"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Information from the optic nerve is initially processed in what part of the brain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "occipital lobe"
+        },
+        {
+          "label": "B",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "thalamus"
+        },
+        {
+          "label": "D",
+          "text": "hippocampus"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "In the rock opera Tommy, Tommy becomes deaf and blind after witnessing a terrible murder, although there is nothing organically wrong with his ears or eyes. Tommy is suffering from",
+      "options": [
+        {
+          "label": "A",
+          "text": "panic disorder"
+        },
+        {
+          "label": "B",
+          "text": "post-traumatic stress disorder"
+        },
+        {
+          "label": "C",
+          "text": "conversion disorder"
+        },
+        {
+          "label": "D",
+          "text": "obsessive-compulsive disorder"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "The part of the neuron that directs synthesis of neurotransmitters and proteins is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cell body"
+        },
+        {
+          "label": "B",
+          "text": "dendrite"
+        },
+        {
+          "label": "C",
+          "text": "axon"
+        },
+        {
+          "label": "D",
+          "text": "axon terminal"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The examination of the connection between mental states and physical states is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "tabula rasa"
+        },
+        {
+          "label": "B",
+          "text": "the mind-body problem"
+        },
+        {
+          "label": "C",
+          "text": "nature vs. nurture"
+        },
+        {
+          "label": "D",
+          "text": "parallel processing"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "The ability to solve a new computer game based on logical puzzles probably depends on which kind of intelligence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fluid intelligence"
+        },
+        {
+          "label": "B",
+          "text": "crystallized intelligence"
+        },
+        {
+          "label": "C",
+          "text": "aptitude intelligence"
+        },
+        {
+          "label": "D",
+          "text": "achievement intelligence"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "The position on the basilar membrane at which waves reach their peak depends on the frequency of a tone, according to which theory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "opponent-process"
+        },
+        {
+          "label": "B",
+          "text": "trichromatic"
+        },
+        {
+          "label": "C",
+          "text": "place"
+        },
+        {
+          "label": "D",
+          "text": "volley"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Sal meets Petunia for the first time. She is outgoing and funny. He walks away with the opinion that Petunia is a fun person, whereas in actuality Petunia is temporarily gleeful because she just won the lottery. Sal's opinion that Petunia is funny is best explained by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the mere-exposure effect."
+        },
+        {
+          "label": "B",
+          "text": "self-serving bias."
+        },
+        {
+          "label": "C",
+          "text": "equipotentiality."
+        },
+        {
+          "label": "D",
+          "text": "the fundamental attribution error."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Which of the following psychological disorders is characterized by an abnormally elevated or expansive mood?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depression"
+        },
+        {
+          "label": "B",
+          "text": "Schizophrenia"
+        },
+        {
+          "label": "C",
+          "text": "Euphoria"
+        },
+        {
+          "label": "D",
+          "text": "Mania"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Areas of the brain that are damaged are referred to as having",
+      "options": [
+        {
+          "label": "A",
+          "text": "brain lesions"
+        },
+        {
+          "label": "B",
+          "text": "hemispheres"
+        },
+        {
+          "label": "C",
+          "text": "brain lobes"
+        },
+        {
+          "label": "D",
+          "text": "cortical adhesions"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "The role of the outer ear is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "transduce sound waves to stimulate the ossicles"
+        },
+        {
+          "label": "B",
+          "text": "conduct sound by exciting the cilia in the inner ear"
+        },
+        {
+          "label": "C",
+          "text": "protect the eardrum while it transduces sound"
+        },
+        {
+          "label": "D",
+          "text": "collect and focus sounds from the air"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Which of the following terms refers to the body's tendency to maintain a relatively constant state that permits cells to live and function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perceptual constancy"
+        },
+        {
+          "label": "B",
+          "text": "Set point"
+        },
+        {
+          "label": "C",
+          "text": "Homeostasis"
+        },
+        {
+          "label": "D",
+          "text": "Kinesthesia"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Endorphins are chemicals that",
+      "options": [
+        {
+          "label": "A",
+          "text": "elevate mood and reduce pain"
+        },
+        {
+          "label": "B",
+          "text": "increase alertness and reduce drowsiness"
+        },
+        {
+          "label": "C",
+          "text": "lower or raise the threshold for the firing of neurons"
+        },
+        {
+          "label": "D",
+          "text": "cannot cross the blood-brain barrier"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Kohler's studies with apes are seen as demonstrating",
+      "options": [
+        {
+          "label": "A",
+          "text": "the apes' ability to communicate."
+        },
+        {
+          "label": "B",
+          "text": "that apes are able to use objects from their natural environment as tools."
+        },
+        {
+          "label": "C",
+          "text": "latent learning in primates."
+        },
+        {
+          "label": "D",
+          "text": "that learning can occur via insight."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "What color are the shortest electromagnetic waves humans can see?",
+      "options": [
+        {
+          "label": "A",
+          "text": "green"
+        },
+        {
+          "label": "B",
+          "text": "violet"
+        },
+        {
+          "label": "C",
+          "text": "red"
+        },
+        {
+          "label": "D",
+          "text": "orange"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "All of the following are conditions sanctioned by the APA regarding the use of deception in a study EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "the research is of great importance and cannot be conducted without the use of deception"
+        },
+        {
+          "label": "B",
+          "text": "participants are expected to find the procedures reasonable upon being informed of them"
+        },
+        {
+          "label": "C",
+          "text": "participants must be allowed to withdraw from the experiment at any time"
+        },
+        {
+          "label": "D",
+          "text": "the research must be conducted as a double-blind study"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "A doctor who smokes cigarettes knows that it is unhealthy, but thinks that he can keep smoking, since he eats healthily. Which concept best explains this thought process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "reaction formation"
+        },
+        {
+          "label": "B",
+          "text": "affective retraining"
+        },
+        {
+          "label": "C",
+          "text": "cognitive dissonance"
+        },
+        {
+          "label": "D",
+          "text": "obsessive compulsion"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "The fact that people's ears are located on opposite sides of their heads is most adaptive because it helps us",
+      "options": [
+        {
+          "label": "A",
+          "text": "sense a greater range of frequencies."
+        },
+        {
+          "label": "B",
+          "text": "gauge the intensity of a stimulus."
+        },
+        {
+          "label": "C",
+          "text": "identify the origin of a sound."
+        },
+        {
+          "label": "D",
+          "text": "respond to noises behind us."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "A severely overweight rat would most likely result from lesioning of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "hippocampus"
+        },
+        {
+          "label": "B",
+          "text": "thalamus"
+        },
+        {
+          "label": "C",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "D",
+          "text": "amygdala"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "The case study of Phineas Gage's brain injury was significant for which of the following reasons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gage's accident was one of the first to be treated with drugs that alter the neurotransmitters in the brain."
+        },
+        {
+          "label": "B",
+          "text": "It was one of the first well-documented examples of a specific brain area being associated with a set of physical and emotional changes."
+        },
+        {
+          "label": "C",
+          "text": "This accident provided psychiatrists with one of the first opportunities to treat a brain-damaged patient with psychotherapeutic techniques."
+        },
+        {
+          "label": "D",
+          "text": "The CAT scan was used for the first time in the Phineas Gage case to document the extent of brain injury."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Which of the following has been linked to a deficit of dopamine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "major depressive disorder"
+        },
+        {
+          "label": "B",
+          "text": "autism"
+        },
+        {
+          "label": "C",
+          "text": "Parkinson's disease"
+        },
+        {
+          "label": "D",
+          "text": "Alzheimer's disease"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "The rooting reflex is characterized by neonates",
+      "options": [
+        {
+          "label": "A",
+          "text": "turning their heads toward stimuli when touched on their cheeks"
+        },
+        {
+          "label": "B",
+          "text": "withdrawing from painful stimuli"
+        },
+        {
+          "label": "C",
+          "text": "drawing up legs and arching their backs in response to sudden noises"
+        },
+        {
+          "label": "D",
+          "text": "grasping objects that press against their palms"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Someone who is unable to encode new memories is said to suffer from",
+      "options": [
+        {
+          "label": "A",
+          "text": "overgeneralization."
+        },
+        {
+          "label": "B",
+          "text": "belief bias."
+        },
+        {
+          "label": "C",
+          "text": "state-dependent memory."
+        },
+        {
+          "label": "D",
+          "text": "anterograde amnesia."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Which of the following neurotransmitters is most explicitly associated with the experience of pleasure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GABA"
+        },
+        {
+          "label": "B",
+          "text": "Acetylcholine"
+        },
+        {
+          "label": "C",
+          "text": "Serotonin"
+        },
+        {
+          "label": "D",
+          "text": "Dopamine"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Mr. Gordon suffered damage to the back of his right frontal lobe. As a result, he is unable to",
+      "options": [
+        {
+          "label": "A",
+          "text": "understand information he hears"
+        },
+        {
+          "label": "B",
+          "text": "understand information he reads"
+        },
+        {
+          "label": "C",
+          "text": "speak intelligibly"
+        },
+        {
+          "label": "D",
+          "text": "move his left hand"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Which of the following is most likely to lead to a constructed memory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "brain injury"
+        },
+        {
+          "label": "B",
+          "text": "serial position effect"
+        },
+        {
+          "label": "C",
+          "text": "leading questions"
+        },
+        {
+          "label": "D",
+          "text": "proactive interference"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "A 10-year-old student who was born in a non- English-speaking country has been referred as a possible candidate for special education services on the basis of low scores achieved on the school district's group achievement test. The student achieved high scores on the district's English fluency test. Of the following approaches to diagnostic assessment, the most appropriate is one that",
+      "options": [
+        {
+          "label": "A",
+          "text": "uses an interpreter who is fluent in the language of the country in which the student was born"
+        },
+        {
+          "label": "B",
+          "text": "uses the results of at least two Englishlanguage intelligence tests"
+        },
+        {
+          "label": "C",
+          "text": "accounts for sociocultural and adaptive behavior in the process of identifying skills and abilities"
+        },
+        {
+          "label": "D",
+          "text": "includes parent interviews and classroom observations as well as the results of an intelligence test"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "What is the principal tool used in all forms of psychotherapy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "talking to a patient"
+        },
+        {
+          "label": "B",
+          "text": "cognitive/behavioral interventions"
+        },
+        {
+          "label": "C",
+          "text": "biomedical/cognitive treatments"
+        },
+        {
+          "label": "D",
+          "text": "somatic therapies"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "As an experiment, a group of newborn kittens was allowed to see through only one eye at a time. Each day one of the eyes would be covered, switching between the two eyes on subsequent days. Which of the following best describes the visual limitations experienced by these cats as adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They were unable to make use of interposition depth perception."
+        },
+        {
+          "label": "B",
+          "text": "They were unable to maintain perceptual constancy."
+        },
+        {
+          "label": "C",
+          "text": "They were unable to distinguish left from right monocular cues."
+        },
+        {
+          "label": "D",
+          "text": "They were unable to use binocular cues for depth perception."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "An \"A+\" course grade is which kind of reinforcer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "primary"
+        },
+        {
+          "label": "B",
+          "text": "secondary"
+        },
+        {
+          "label": "C",
+          "text": "continuous"
+        },
+        {
+          "label": "D",
+          "text": "partial"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "According to the Gestalt organizing principles of perception, when you look at, \"i n car n a t e,\" you tend to notice the word car rather than in, nate, at, or ate, because of",
+      "options": [
+        {
+          "label": "A",
+          "text": "continuity"
+        },
+        {
+          "label": "B",
+          "text": "the phi phenomenon"
+        },
+        {
+          "label": "C",
+          "text": "similarity"
+        },
+        {
+          "label": "D",
+          "text": "proximity"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "In order to prove a psychological theory,",
+      "options": [
+        {
+          "label": "A",
+          "text": "you need to run an experiment."
+        },
+        {
+          "label": "B",
+          "text": "you need to find statistically significant results."
+        },
+        {
+          "label": "C",
+          "text": "you must replicate your findings."
+        },
+        {
+          "label": "D",
+          "text": "it is impossible to prove a theory."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "A recent comparison of the intelligence scores of Asian Americans and African Americans on the Stanford-Binet showed that",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "III only"
+        },
+        {
+          "label": "D",
+          "text": "I, II, and III"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Which of the following accurately states the order of the transmission of visual information?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Optic nerve; ganglion cells; bipolar cells; rods and cones"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar cells; ganglion cells; fovea; optic nerve"
+        },
+        {
+          "label": "C",
+          "text": "Rods and cones; retina; optic nerve; ganglion cells"
+        },
+        {
+          "label": "D",
+          "text": "Rods and cones; bipolar cells; ganglion cells; optic nerve"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "All of the following are positive symptoms of schizophrenia EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "auditory hallucinations"
+        },
+        {
+          "label": "B",
+          "text": "visual hallucinations"
+        },
+        {
+          "label": "C",
+          "text": "paranoid delusions"
+        },
+        {
+          "label": "D",
+          "text": "flat affect"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Answering multiple-choice questions is often easier than answering fill-in or completion questions, because multiple choice questions",
+      "options": [
+        {
+          "label": "A",
+          "text": "provide more retrieval cues"
+        },
+        {
+          "label": "B",
+          "text": "enhance retention of information"
+        },
+        {
+          "label": "C",
+          "text": "check memorization rather than critical thinking"
+        },
+        {
+          "label": "D",
+          "text": "are definitional rather than conceptual"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Perception refers to the process by which",
+      "options": [
+        {
+          "label": "A",
+          "text": "receptors gather information from the environment"
+        },
+        {
+          "label": "B",
+          "text": "sense organs transmit information to the brain for initial processing"
+        },
+        {
+          "label": "C",
+          "text": "the brain organizes and interprets sensations"
+        },
+        {
+          "label": "D",
+          "text": "the brain minimizes responses to stimuli that do not change"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "The most widely used self-report inventory for personality assessment is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "MMPI-2"
+        },
+        {
+          "label": "B",
+          "text": "TAT"
+        },
+        {
+          "label": "C",
+          "text": "WAIS-R"
+        },
+        {
+          "label": "D",
+          "text": "Rorschach"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Jeanette locked the front door and then checked it by turning the knob. She checked it a second time. After walking halfway down the path to the street, Jeanette went back to the door and checked to make sure that it was locked. Her behavior appears to be",
+      "options": [
+        {
+          "label": "A",
+          "text": "psychotic"
+        },
+        {
+          "label": "B",
+          "text": "schizophrenic"
+        },
+        {
+          "label": "C",
+          "text": "obsessive"
+        },
+        {
+          "label": "D",
+          "text": "compulsive"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Ben thinks students will answer questions printed on yellow paper more quickly than those printed on blue paper. All study participants will take three tests with 35 multiple-choice questions each. The independent variable in Ben's experiment is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the color of the paper"
+        },
+        {
+          "label": "B",
+          "text": "the number of questions answered correctly"
+        },
+        {
+          "label": "C",
+          "text": "how long it takes students to answer questions"
+        },
+        {
+          "label": "D",
+          "text": "the total number of questions answered"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Approximately what percent of the population scores between 70 and 130 on the WISC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "34"
+        },
+        {
+          "label": "B",
+          "text": "50"
+        },
+        {
+          "label": "C",
+          "text": "68"
+        },
+        {
+          "label": "D",
+          "text": "95"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which of the following is not a basic somatosensation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pain"
+        },
+        {
+          "label": "B",
+          "text": "touch"
+        },
+        {
+          "label": "C",
+          "text": "cold"
+        },
+        {
+          "label": "D",
+          "text": "itch"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "\"Mommy gived me a cookie\" best illustrates a basic understanding of",
+      "options": [
+        {
+          "label": "A",
+          "text": "phonemes"
+        },
+        {
+          "label": "B",
+          "text": "prelinguistic speech"
+        },
+        {
+          "label": "C",
+          "text": "holophrases"
+        },
+        {
+          "label": "D",
+          "text": "grammar"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "According to Sigmund Freud, what is the dominant factor determining our personality traits?",
+      "options": [
+        {
+          "label": "A",
+          "text": "secondary drives and needs"
+        },
+        {
+          "label": "B",
+          "text": "genetic and nutritional factors"
+        },
+        {
+          "label": "C",
+          "text": "unconscious conflicts"
+        },
+        {
+          "label": "D",
+          "text": "parenting styles"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Which of the following kinds of personality theorists is the most likely to use a projective test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "social-cognitive"
+        },
+        {
+          "label": "B",
+          "text": "behaviorist"
+        },
+        {
+          "label": "C",
+          "text": "humanist"
+        },
+        {
+          "label": "D",
+          "text": "psychoanalyst"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Some groups of gang members wear head coverings and sunglasses when they assault people. The use of such disguises contributes to",
+      "options": [
+        {
+          "label": "A",
+          "text": "social loafing"
+        },
+        {
+          "label": "B",
+          "text": "cognitive dissonance"
+        },
+        {
+          "label": "C",
+          "text": "learned helplessness"
+        },
+        {
+          "label": "D",
+          "text": "deindividuation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Aisha is a beautiful, black teenager. If she is typical, she most likely believes that",
+      "options": [
+        {
+          "label": "A",
+          "text": "white teenagers are superior to black teenagers"
+        },
+        {
+          "label": "B",
+          "text": "Asian teenagers are superior to black teenagers"
+        },
+        {
+          "label": "C",
+          "text": "Hispanic teenagers are superior to black teenagers"
+        },
+        {
+          "label": "D",
+          "text": "black teenagers are superior to white teenagers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "The brainstem is comprised of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "forebrain and RAS."
+        },
+        {
+          "label": "B",
+          "text": "hindbrain and midbrain."
+        },
+        {
+          "label": "C",
+          "text": "cerebellum and cerebrum."
+        },
+        {
+          "label": "D",
+          "text": "right and left hemispheres."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Which of the following is generally considered a disadvantage of longitudinal developmental research?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "III only"
+        },
+        {
+          "label": "D",
+          "text": "I and II only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "The focus of structuralists most closely matches the current perspective of",
+      "options": [
+        {
+          "label": "A",
+          "text": "psychoanalysts"
+        },
+        {
+          "label": "B",
+          "text": "behaviorists"
+        },
+        {
+          "label": "C",
+          "text": "cognitivists"
+        },
+        {
+          "label": "D",
+          "text": "humanists"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "The method of loci is a memory aid that employs which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Semantic encoding"
+        },
+        {
+          "label": "B",
+          "text": "Visual imagery"
+        },
+        {
+          "label": "C",
+          "text": "Auditory cues"
+        },
+        {
+          "label": "D",
+          "text": "Echoic memory"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "An unjustifiable and usually negative attitude toward a group and its members is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "prejudice"
+        },
+        {
+          "label": "B",
+          "text": "ethnocentrism"
+        },
+        {
+          "label": "C",
+          "text": "in-group bias"
+        },
+        {
+          "label": "D",
+          "text": "discrimination"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Although Andy wanted to cut class to get to the Yankee opener, he came to class to take a quiz and review for an exam. According to Freud, this behavior evidences a strong",
+      "options": [
+        {
+          "label": "A",
+          "text": "egocentricity"
+        },
+        {
+          "label": "B",
+          "text": "super id"
+        },
+        {
+          "label": "C",
+          "text": "id"
+        },
+        {
+          "label": "D",
+          "text": "superego"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Javier wants to study the effects on achievement of taking a course in chemistry in the afternoon, rather than in the morning. A teacher has chemistry classes with the same number of students at 8:30 A.M. and 1:00 P.M., and volunteers to participate with her classes. A major problem in this study would be",
+      "options": [
+        {
+          "label": "A",
+          "text": "poor replication"
+        },
+        {
+          "label": "B",
+          "text": "lack of a hypothesis"
+        },
+        {
+          "label": "C",
+          "text": "confounding variables"
+        },
+        {
+          "label": "D",
+          "text": "difficulty in obtaining informed consent"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Tonya runs into an old schoolmate on the street. During their brief conversation, Tonya is unable to recall the schoolmate's name. Days later, she remembers the name out of the blue. To remember the name \"out of the blue\" is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "tip-of-the-tongue phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "chunking"
+        },
+        {
+          "label": "C",
+          "text": "deductive reasoning"
+        },
+        {
+          "label": "D",
+          "text": "inductive reasoning"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Young Tina had never seen the space shuttle until her parents pointed out a picture of it ready to launch. When she next saw a picture of it flying, she had difficulty recognizing it. Which concept best explains this problem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "autokinetic effect"
+        },
+        {
+          "label": "B",
+          "text": "dishabituation"
+        },
+        {
+          "label": "C",
+          "text": "summation"
+        },
+        {
+          "label": "D",
+          "text": "shape constancy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Stella remembered the order of the planets from the Sun by recalling the sentence, \"My very educated mother just served us noodles.\" For Stella, this sentence is a",
+      "options": [
+        {
+          "label": "A",
+          "text": "chunking strategy"
+        },
+        {
+          "label": "B",
+          "text": "mnemonic device"
+        },
+        {
+          "label": "C",
+          "text": "peg system"
+        },
+        {
+          "label": "D",
+          "text": "acoustic encoding sequence"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "EEGs that consist primarily of alpha and beta waves are characteristic of",
+      "options": [
+        {
+          "label": "A",
+          "text": "consciousness"
+        },
+        {
+          "label": "B",
+          "text": "stage 1 sleep"
+        },
+        {
+          "label": "C",
+          "text": "stage 2 sleep"
+        },
+        {
+          "label": "D",
+          "text": "stage 3 sleep"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "In a study of brain development, two groups of rats were reared in a laboratory setting. In Group I, each rat was raised in isolation with no toys, while in Group II, rats were divided into small groups and given toys to play with. Which of the following statements most accurately reflects the probable findings of this study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The rats raised in Group I will have forebrains that weigh more than those of the rats raised in Group II."
+        },
+        {
+          "label": "B",
+          "text": "The rats raised in Group I will have forebrains that weigh less than those of the rats raised in Group II."
+        },
+        {
+          "label": "C",
+          "text": "The brains of the rats raised in Group I will not be noticeably different from the brains of the rats raised in Group II."
+        },
+        {
+          "label": "D",
+          "text": "The brains of the rats raised in Group I will consist of more white matter, while the brains of the rats raised in Group II will consist of more gray matter."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Today Susan took a pill for her allergy that raised her blood pressure, caused her heart to beat faster, and raised her body temperature. Now caught in traffic, she feels angry. Yesterday, when she took the pill, she was with her husband. When her blood pressure rose, her heart speeded up, she got hotter, and she felt amorous. This description exemplifies",
+      "options": [
+        {
+          "label": "A",
+          "text": "the adaptation-level phenomenon"
+        },
+        {
+          "label": "B",
+          "text": "two-factor theory"
+        },
+        {
+          "label": "C",
+          "text": "James-Lange theory"
+        },
+        {
+          "label": "D",
+          "text": "Cannon-Bard theory"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Shafi cited Tony's and David's 100% math test scores in providing evidence that boys do better in math than girls. His failure to recognize that seven girls in the class earned 100% while only two boys earned that score best exemplifies",
+      "options": [
+        {
+          "label": "A",
+          "text": "hindsight bias"
+        },
+        {
+          "label": "B",
+          "text": "confirmation bias"
+        },
+        {
+          "label": "C",
+          "text": "functional fixedness"
+        },
+        {
+          "label": "D",
+          "text": "proactive interference"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Research indicates that which of the following factors most influence a person's sexual orientation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "parenting style"
+        },
+        {
+          "label": "B",
+          "text": "masculine/feminine personality traits"
+        },
+        {
+          "label": "C",
+          "text": "hormones released in the womb"
+        },
+        {
+          "label": "D",
+          "text": "sexual orientation of parents"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "For which of the following disorders might a psychiatrist prescribe a selective serotonin reuptake inhibitor such as Prozac or Paxil?",
+      "options": [
+        {
+          "label": "A",
+          "text": "manic"
+        },
+        {
+          "label": "B",
+          "text": "depressive"
+        },
+        {
+          "label": "C",
+          "text": "dissociative identity"
+        },
+        {
+          "label": "D",
+          "text": "conversion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "At the outset of a study on eating habits, a researcher asks participants a variety of questions, including whether they typically eat breakfast. Whether or not a person eats breakfast is a(n)",
+      "options": [
+        {
+          "label": "A",
+          "text": "categorical variable"
+        },
+        {
+          "label": "B",
+          "text": "continuous variable"
+        },
+        {
+          "label": "C",
+          "text": "dependent variable"
+        },
+        {
+          "label": "D",
+          "text": "independent variable"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Which classical conditioning term best describes the following scenario: Later in his classical conditioning experiments, Ivan Pavlov's dogs began to salivate whenever they heard any sound similar to a bell, such as a doorbell or someone accidentally clinking a water glass.",
+      "options": [
+        {
+          "label": "A",
+          "text": "discrimination"
+        },
+        {
+          "label": "B",
+          "text": "spontaneous recovery"
+        },
+        {
+          "label": "C",
+          "text": "trace conditioning"
+        },
+        {
+          "label": "D",
+          "text": "generalization"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Of the following, which is characteristic of formal operational thinking?",
+      "options": [
+        {
+          "label": "A",
+          "text": "simple motor responses to sensory stimuli"
+        },
+        {
+          "label": "B",
+          "text": "failure to understand reversibility"
+        },
+        {
+          "label": "C",
+          "text": "capacity to deal well with concrete objects, but not with hypothetical situations"
+        },
+        {
+          "label": "D",
+          "text": "logical reasoning and systematic planning"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "According to Adler, firstborn children are more likely than subsequent children in a family to be",
+      "options": [
+        {
+          "label": "A",
+          "text": "sociable"
+        },
+        {
+          "label": "B",
+          "text": "funny"
+        },
+        {
+          "label": "C",
+          "text": "responsible"
+        },
+        {
+          "label": "D",
+          "text": "followers"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which sentence most accurately describes how neurons communicate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neurons communicate through physical contact between dendrites of one cell and the next cell."
+        },
+        {
+          "label": "B",
+          "text": "Electricity passes between neurons, which carries messages between one neuron and another."
+        },
+        {
+          "label": "C",
+          "text": "Chemicals travel from one neuron to another, influencing whether a neuron will fire or not."
+        },
+        {
+          "label": "D",
+          "text": "Neurons send messages up the spinal cord to the cerebral cortex through neural reflexes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which of the following lobes of the brain is central to visual sensation and perception?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Occipital"
+        },
+        {
+          "label": "B",
+          "text": "Temporal"
+        },
+        {
+          "label": "C",
+          "text": "Parietal"
+        },
+        {
+          "label": "D",
+          "text": "Frontal"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Extinction occurs when the conditioned stimulus",
+      "options": [
+        {
+          "label": "A",
+          "text": "precedes the unconditioned stimulus"
+        },
+        {
+          "label": "B",
+          "text": "succeeds the unconditioned stimulus"
+        },
+        {
+          "label": "C",
+          "text": "evokes the conditioned response"
+        },
+        {
+          "label": "D",
+          "text": "no longer evokes the conditioned response"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Tina is a very good student: Her grades are high, she is involved in extracurricular activities, and typically she excels at anything she tries. Therefore, when she caused an accident her second day of driver's ed., her instructor was shocked. The instructor's disbelief is most probably a result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "modeling"
+        },
+        {
+          "label": "B",
+          "text": "accommodation"
+        },
+        {
+          "label": "C",
+          "text": "a halo effect"
+        },
+        {
+          "label": "D",
+          "text": "convergence"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Which of the following LEAST influences sexual behavior?",
+      "options": [
+        {
+          "label": "A",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "B",
+          "text": "pituitary"
+        },
+        {
+          "label": "C",
+          "text": "gonads"
+        },
+        {
+          "label": "D",
+          "text": "reticular formation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "When a child is enrolled in elementary school, the parents are frequently involved in the child's education as partners, collaborators, and problem solvers. During middle and high school, the parents are more typically described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "partners"
+        },
+        {
+          "label": "B",
+          "text": "collaborators"
+        },
+        {
+          "label": "C",
+          "text": "supporters"
+        },
+        {
+          "label": "D",
+          "text": "audience"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "A medication prescribed by a psychiatrist for major depressive disorder would most likely influence the balance of which of the following neurotransmitters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "serotonin"
+        },
+        {
+          "label": "B",
+          "text": "dopamine"
+        },
+        {
+          "label": "C",
+          "text": "acetylcholine"
+        },
+        {
+          "label": "D",
+          "text": "thorazine"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "A common criticism of labeling students as disabled is that individuals tend to perform in accordance with characteristics associated with a label. This performing phenomenon is known by which of the following names?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The self-fulfilling prophecy"
+        },
+        {
+          "label": "B",
+          "text": "The law of effect"
+        },
+        {
+          "label": "C",
+          "text": "The primacy effect"
+        },
+        {
+          "label": "D",
+          "text": "Social loafing"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "According to the Law of Effect, behaviors followed by negative consequences",
+      "options": [
+        {
+          "label": "A",
+          "text": "occur more frequently"
+        },
+        {
+          "label": "B",
+          "text": "occur less frequently"
+        },
+        {
+          "label": "C",
+          "text": "will never be performed again"
+        },
+        {
+          "label": "D",
+          "text": "will be performed more forcefully"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "The most common form of Down syndrome results during sex cell formation and fertilization from",
+      "options": [
+        {
+          "label": "A",
+          "text": "three copies of chromosome 19"
+        },
+        {
+          "label": "B",
+          "text": "three copies of chromosome 21"
+        },
+        {
+          "label": "C",
+          "text": "loss of a chromosome"
+        },
+        {
+          "label": "D",
+          "text": "failure of the separation of XX"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Why can experiments determine causal relationships when no other research method can?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Experiments are more precise than the other research methods."
+        },
+        {
+          "label": "B",
+          "text": "Experiments isolate the effects of independent variables on dependent variables."
+        },
+        {
+          "label": "C",
+          "text": "Experiments typically involve more participants than other research methods do."
+        },
+        {
+          "label": "D",
+          "text": "Experiments take place in more realistic, real-life settings."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Approximately what percentage of participants in Milgram's obedience experiments thought they delivered the maximum amount of shock possible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "40"
+        },
+        {
+          "label": "D",
+          "text": "60"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "As part of her campaign for school president, Edy personally gives out cookies that say \"Vote for Edy\" on them. Which of the following is one reason that this approach might improve Edy's chances in the election?",
+      "options": [
+        {
+          "label": "A",
+          "text": "foot-in-the-door"
+        },
+        {
+          "label": "B",
+          "text": "mere-exposure effect"
+        },
+        {
+          "label": "C",
+          "text": "central route of persuasion"
+        },
+        {
+          "label": "D",
+          "text": "pluralistic ignorance"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "In a crisis, the adrenal glands of the body secrete \"emergency\" hormones, while the body prepares for fight-or-flight, directed by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the central nervous system"
+        },
+        {
+          "label": "B",
+          "text": "the somatic nervous system"
+        },
+        {
+          "label": "C",
+          "text": "the sensorimotor nervous system"
+        },
+        {
+          "label": "D",
+          "text": "the sympathetic nervous system"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "A group of participants in a sleep study are to be deprived of sleep for four days. After their second sleepless night, participants may begin reporting which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hunger"
+        },
+        {
+          "label": "B",
+          "text": "Thirst"
+        },
+        {
+          "label": "C",
+          "text": "Lack of coordination"
+        },
+        {
+          "label": "D",
+          "text": "Hallucinations"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Lucille suffered a stroke last week and cannot recognize her children or grandchildren by looking at them. Of the following structures, her brain lesion is most likely in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebellum"
+        },
+        {
+          "label": "B",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "amygdala"
+        },
+        {
+          "label": "D",
+          "text": "left cerebral cortex"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "An educational psychologist is administering a basic skills exam to second-graders of two different schools in order to compare the students' performance. The researcher administers the exam to the students of the Antrim School on a Wednesday morning and then administers the same exam in exactly the same fashion on that same Wednesday afternoon to the second-graders of the Barton School. Which of the following best identifies a confounding variable in the psychologist's research?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The psychologist is comparing two different schools."
+        },
+        {
+          "label": "B",
+          "text": "The psychologist is comparing the same grade in each school."
+        },
+        {
+          "label": "C",
+          "text": "The psychologist is testing the students in the two schools at two different times."
+        },
+        {
+          "label": "D",
+          "text": "The psychologist is testing the students in the two schools on the same day."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Certain cross-cultural studies have suggested that six facial expressions are recognized by people of virtually every culture. Which of the following correctly lists these expressions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Happiness, sadness, anger, loathing, lust, and surprise"
+        },
+        {
+          "label": "B",
+          "text": "Happiness, sadness, indifference, fright, surprise, and dislike"
+        },
+        {
+          "label": "C",
+          "text": "Happiness, sadness, desire, repulsion, fear, and surprise"
+        },
+        {
+          "label": "D",
+          "text": "Happiness, sadness, fear, anger, surprise, and disgust"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "In general, the best presentation time between the conditioned stimulus and unconditioned stimulus to produce classical conditioning is",
+      "options": [
+        {
+          "label": "A",
+          "text": "delayed"
+        },
+        {
+          "label": "B",
+          "text": "simultaneous"
+        },
+        {
+          "label": "C",
+          "text": "trace"
+        },
+        {
+          "label": "D",
+          "text": "backward"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "An animal is not likely to associate a conditioned stimulus (CS) with an unconditioned stimulus (UCS) if the",
+      "options": [
+        {
+          "label": "A",
+          "text": "delay between the CS and the UCS is too long"
+        },
+        {
+          "label": "B",
+          "text": "interval schedule between the two stimuli is variable"
+        },
+        {
+          "label": "C",
+          "text": "fixed-rational schedule between the two stimuli is altered"
+        },
+        {
+          "label": "D",
+          "text": "interstimulus ratio is variable"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "An action potential involves the movement of",
+      "options": [
+        {
+          "label": "A",
+          "text": "glucose into the axon"
+        },
+        {
+          "label": "B",
+          "text": "fats out of the axon terminal"
+        },
+        {
+          "label": "C",
+          "text": "molecules in the synaptic gap"
+        },
+        {
+          "label": "D",
+          "text": "sodium ions into the axon"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following scans can image brain function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "III only"
+        },
+        {
+          "label": "D",
+          "text": "II and III only"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "A famous character in a Shakespearean play keeps washing her hands to get them clean of blood that is no longer on them. The repeated washing of her hands is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a delusion"
+        },
+        {
+          "label": "B",
+          "text": "a compulsion"
+        },
+        {
+          "label": "C",
+          "text": "a hallucination"
+        },
+        {
+          "label": "D",
+          "text": "an obsession"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which of the following disorders is the result of an abnormality of the twenty-first chromosomal pair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bipolar disorder"
+        },
+        {
+          "label": "B",
+          "text": "Huntington's Chorea"
+        },
+        {
+          "label": "C",
+          "text": "Down syndrome"
+        },
+        {
+          "label": "D",
+          "text": "Obsessive-compulsive disorder"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Which of the following is an example of a result of operant conditioning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Milo starts at the sound of a buzzer because it sounds very similar to the alarm clock that wakes him every morning."
+        },
+        {
+          "label": "B",
+          "text": "Paula is promoted to vice president of her company and vows to not lose touch with her employees."
+        },
+        {
+          "label": "C",
+          "text": "Rebecca cancels her credit card to avoid paying the annual fee but plans to reinstate it in the new year."
+        },
+        {
+          "label": "D",
+          "text": "Ashmed speaks louder than usual when he talks to his mother on the phone because she is hard of hearing."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Hunger and eating are primarily regulated by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "somatosensory cortex"
+        },
+        {
+          "label": "B",
+          "text": "hypothalamus"
+        },
+        {
+          "label": "C",
+          "text": "medulla oblongata"
+        },
+        {
+          "label": "D",
+          "text": "occipital lobes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Garcia and Koelling's research regarding learned aversions established that which of the following UCS and CS pairs are the most powerful and learned most quickly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "performing a task and receiving a food reward"
+        },
+        {
+          "label": "B",
+          "text": "nausea and food or drink"
+        },
+        {
+          "label": "C",
+          "text": "movement and shock"
+        },
+        {
+          "label": "D",
+          "text": "punishments and rewards"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "According to Dr. William Sears, noted authority on infants and child-rearing, infant brain development is, in part, influenced by longer and more frequent periods of active sleeping and dreaming or",
+      "options": [
+        {
+          "label": "A",
+          "text": "REM sleep"
+        },
+        {
+          "label": "B",
+          "text": "NREM sleep"
+        },
+        {
+          "label": "C",
+          "text": "delta sleep"
+        },
+        {
+          "label": "D",
+          "text": "stage 3 sleep"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Xavier is beginning his first year of college. He is eager to find a few other freshmen to \"hang out\" with. Psychologists would say that Xavier is motivated by a(n)",
+      "options": [
+        {
+          "label": "A",
+          "text": "fraternization need"
+        },
+        {
+          "label": "B",
+          "text": "assimilation need"
+        },
+        {
+          "label": "C",
+          "text": "attachment need"
+        },
+        {
+          "label": "D",
+          "text": "affiliation need"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "When a person experiences a discrepancy between an attitude and a behavior, the person experiences",
+      "options": [
+        {
+          "label": "A",
+          "text": "cognitive dissonance"
+        },
+        {
+          "label": "B",
+          "text": "dissociation"
+        },
+        {
+          "label": "C",
+          "text": "behavioral dysfunction"
+        },
+        {
+          "label": "D",
+          "text": "metacognition"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

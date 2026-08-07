@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_business_validation",
+  "description": "MMLU-Pro benchmark items, category: business, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 15,
+      "text": "In contrast to _______, _______ aim to reward favourable behaviour by companies. The success of such campaigns have been heightened through the use of ___________, which allow campaigns to facilitate the company in achieving _________ .",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boycotts, Buyalls, Blockchain technology, Increased Sales"
+        },
+        {
+          "label": "B",
+          "text": "Buycotts, Boycotts, Digital technology, Decreased Sales"
+        },
+        {
+          "label": "C",
+          "text": "Boycotts, Buycotts, Digital technology, Decreased Sales"
+        },
+        {
+          "label": "D",
+          "text": "Buycotts, Boycotts, Blockchain technology, Charitable donations"
+        },
+        {
+          "label": "E",
+          "text": "Boycotts, Buyalls, Blockchain technology, Charitable donations"
+        },
+        {
+          "label": "F",
+          "text": "Boycotts, Buycotts, Digital technology, Increased Sales"
+        },
+        {
+          "label": "G",
+          "text": "Buycotts, Boycotts, Digital technology, Increased Sales"
+        },
+        {
+          "label": "H",
+          "text": "Boycotts, Buycotts, Physical technology, Increased Sales"
+        },
+        {
+          "label": "I",
+          "text": "Buycotts, Buyalls, Blockchain technology, Charitable donations"
+        },
+        {
+          "label": "J",
+          "text": "Boycotts, Buycotts, Blockchain technology, Decreased Sales"
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    },
+    {
+      "item_id": 16,
+      "text": "_______ is the direct attempt to formally or informally manage ethical issues or problems, through specific policies, practices and programmes.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Operational management"
+        },
+        {
+          "label": "B",
+          "text": "Corporate governance"
+        },
+        {
+          "label": "C",
+          "text": "Environmental management"
+        },
+        {
+          "label": "D",
+          "text": "Business ethics management"
+        },
+        {
+          "label": "E",
+          "text": "Sustainability"
+        },
+        {
+          "label": "F",
+          "text": "Stakeholder management"
+        },
+        {
+          "label": "G",
+          "text": "Social marketing"
+        },
+        {
+          "label": "H",
+          "text": "Human resource management"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "D",
+      "split": "validation"
+    },
+    {
+      "item_id": 17,
+      "text": "How can organisational structures that are characterised by democratic and inclusive styles of management be described?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flat"
+        },
+        {
+          "label": "B",
+          "text": "Bureaucratic"
+        },
+        {
+          "label": "C",
+          "text": "Autocratic"
+        },
+        {
+          "label": "D",
+          "text": "Hierarchical"
+        },
+        {
+          "label": "E",
+          "text": "Functional"
+        },
+        {
+          "label": "F",
+          "text": "Decentralized"
+        },
+        {
+          "label": "G",
+          "text": "Matrix"
+        },
+        {
+          "label": "H",
+          "text": "Network"
+        },
+        {
+          "label": "I",
+          "text": "Divisional"
+        },
+        {
+          "label": "J",
+          "text": "Centralized"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 18,
+      "text": "Although the content and quality can be as controlled as direct mail, response rates of this medium are lower because of the lack of a personal address mechanism. This media format is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Online banners."
+        },
+        {
+          "label": "B",
+          "text": "Television advertising."
+        },
+        {
+          "label": "C",
+          "text": "Email marketing."
+        },
+        {
+          "label": "D",
+          "text": "Care lines."
+        },
+        {
+          "label": "E",
+          "text": "Direct mail."
+        },
+        {
+          "label": "F",
+          "text": "Inserts."
+        },
+        {
+          "label": "G",
+          "text": "Door to door."
+        },
+        {
+          "label": "H",
+          "text": "Radio advertising."
+        },
+        {
+          "label": "I",
+          "text": "Billboards."
+        },
+        {
+          "label": "J",
+          "text": "Social media advertising."
+        }
+      ],
+      "correct_label": "G",
+      "split": "validation"
+    },
+    {
+      "item_id": 19,
+      "text": "In an organization, the group of people tasked with buying decisions is referred to as the _______________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Procurement centre."
+        },
+        {
+          "label": "B",
+          "text": "Chief executive unit."
+        },
+        {
+          "label": "C",
+          "text": "Resources allocation group."
+        },
+        {
+          "label": "D",
+          "text": "Marketing department."
+        },
+        {
+          "label": "E",
+          "text": "Purchasing department."
+        },
+        {
+          "label": "F",
+          "text": "Supply chain management team."
+        },
+        {
+          "label": "G",
+          "text": "Outsourcing unit."
+        },
+        {
+          "label": "H",
+          "text": "Decision-making unit."
+        },
+        {
+          "label": "I",
+          "text": "Operations unit."
+        },
+        {
+          "label": "J",
+          "text": "Financial management team."
+        }
+      ],
+      "correct_label": "H",
+      "split": "validation"
+    }
+  ]
+}

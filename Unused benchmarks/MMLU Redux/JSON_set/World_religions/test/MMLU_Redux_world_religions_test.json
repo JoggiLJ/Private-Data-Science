@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_world_religions_test",
+  "description": "World religions multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — world_religions subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "When was the current Dalai Lama born?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1935"
+        },
+        {
+          "label": "B",
+          "text": "2000"
+        },
+        {
+          "label": "C",
+          "text": "1965"
+        },
+        {
+          "label": "D",
+          "text": "1975"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": " Charism can be defined as which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An oil"
+        },
+        {
+          "label": "B",
+          "text": "Prophecy"
+        },
+        {
+          "label": "C",
+          "text": "A spiritual gift"
+        },
+        {
+          "label": "D",
+          "text": "Authority"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": " How many books are in the New Testament?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "29"
+        },
+        {
+          "label": "C",
+          "text": "27"
+        },
+        {
+          "label": "D",
+          "text": "47"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": " Icons are a main feature of which church?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anglican"
+        },
+        {
+          "label": "B",
+          "text": "Catholic"
+        },
+        {
+          "label": "C",
+          "text": "Orthodox"
+        },
+        {
+          "label": "D",
+          "text": "Lutheran"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": " Rome claimed that their bishop (pope) was the director successor of which leader?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peter"
+        },
+        {
+          "label": "B",
+          "text": "Paul"
+        },
+        {
+          "label": "C",
+          "text": "Jesus"
+        },
+        {
+          "label": "D",
+          "text": "Matthew"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": " The Communidades de Base is associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bishop Oscar Romero"
+        },
+        {
+          "label": "B",
+          "text": "Resistance and renewal"
+        },
+        {
+          "label": "C",
+          "text": "Dignity of all human beings"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": " The Continental Reformation started in what year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1545"
+        },
+        {
+          "label": "B",
+          "text": "1517"
+        },
+        {
+          "label": "C",
+          "text": "1492"
+        },
+        {
+          "label": "D",
+          "text": "1705"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": " The Gospel of John is associated with which theological concept?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Incarnation"
+        },
+        {
+          "label": "B",
+          "text": "Logos of God"
+        },
+        {
+          "label": "C",
+          "text": "Jesus as messiah and saviour"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": " Which Christian denomination promotes a stripped-down Christianity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Greek Orthodox"
+        },
+        {
+          "label": "B",
+          "text": "Roman Catholic"
+        },
+        {
+          "label": "C",
+          "text": "Puritans"
+        },
+        {
+          "label": "D",
+          "text": "Quakers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Speaking in tongues is a feature of which Christian denomination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evangelicalism"
+        },
+        {
+          "label": "B",
+          "text": "Pietism"
+        },
+        {
+          "label": "C",
+          "text": "Pentecostalism"
+        },
+        {
+          "label": "D",
+          "text": "Fundamentalism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which are the synoptic Gospels?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peter, John, Mark"
+        },
+        {
+          "label": "B",
+          "text": "Matthew, Mark, John"
+        },
+        {
+          "label": "C",
+          "text": "Matthew, Mark, Luke"
+        },
+        {
+          "label": "D",
+          "text": "John, Luke, Mark"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Which pope promoted the cults of St. Peter and St. Paul to bolster authority in Rome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gregory"
+        },
+        {
+          "label": "B",
+          "text": "Augustine"
+        },
+        {
+          "label": "C",
+          "text": "Athanasius"
+        },
+        {
+          "label": "D",
+          "text": "Francis"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": " According to Hindu tradition, who is considered to be the ideal wife?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sita"
+        },
+        {
+          "label": "B",
+          "text": "Rama"
+        },
+        {
+          "label": "C",
+          "text": "Kali"
+        },
+        {
+          "label": "D",
+          "text": "Durga"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": " Ghosa, Apala and Lopamurda, all named in the early Vedas, are which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Female princesses"
+        },
+        {
+          "label": "B",
+          "text": "Female warriors"
+        },
+        {
+          "label": "C",
+          "text": "Female goddesses"
+        },
+        {
+          "label": "D",
+          "text": "Female poets"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": " The kshatriyas is the caste name assigned to which group?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Priests"
+        },
+        {
+          "label": "B",
+          "text": "Servants"
+        },
+        {
+          "label": "C",
+          "text": "Rulers, warriors"
+        },
+        {
+          "label": "D",
+          "text": "Merchants"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": " To whom is the Yoga Sutras attributed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Madhva"
+        },
+        {
+          "label": "B",
+          "text": "Patanjali"
+        },
+        {
+          "label": "C",
+          "text": "Ramanuja"
+        },
+        {
+          "label": "D",
+          "text": "Aryabhatta"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": " Which term in the dharma texts of the classical period denotes the four stages of life?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kama"
+        },
+        {
+          "label": "B",
+          "text": "Samnyasin"
+        },
+        {
+          "label": "C",
+          "text": "Ashramas"
+        },
+        {
+          "label": "D",
+          "text": "Arthas"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "For whom are the Hindu Vedas most significant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brahmins"
+        },
+        {
+          "label": "B",
+          "text": "Kshatriyas"
+        },
+        {
+          "label": "C",
+          "text": "Shiva"
+        },
+        {
+          "label": "D",
+          "text": "Yogis"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Krishna and Rama are incarnations of which Hindu god?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shiva"
+        },
+        {
+          "label": "B",
+          "text": "Vishnu"
+        },
+        {
+          "label": "C",
+          "text": "Brahma"
+        },
+        {
+          "label": "D",
+          "text": "Ganesha"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Which elephant-headed Hindu deity is often described as the most beloved?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parvati"
+        },
+        {
+          "label": "B",
+          "text": "Ganesha"
+        },
+        {
+          "label": "C",
+          "text": "Vishnu"
+        },
+        {
+          "label": "D",
+          "text": "Sita"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Which term is usually associated with women in Hindu traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polluted"
+        },
+        {
+          "label": "B",
+          "text": "Ideal"
+        },
+        {
+          "label": "C",
+          "text": "Auspiciousness"
+        },
+        {
+          "label": "D",
+          "text": "Kind"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Who accompanies Vishnu in many of his incarnations as his consort, and is known as the goddess of good fortune?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parvati"
+        },
+        {
+          "label": "B",
+          "text": "Sita"
+        },
+        {
+          "label": "C",
+          "text": "Sri (Lakshmi)"
+        },
+        {
+          "label": "D",
+          "text": "Sarasvati"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": " How many times a day is the Fatihah recited?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exactly 17"
+        },
+        {
+          "label": "B",
+          "text": "At least 17"
+        },
+        {
+          "label": "C",
+          "text": "At least 13"
+        },
+        {
+          "label": "D",
+          "text": "Exactly 24"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": " What is the title for the religious and administrative leaders who succeeded the Prophet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rasul"
+        },
+        {
+          "label": "B",
+          "text": "Nabi"
+        },
+        {
+          "label": "C",
+          "text": "Caliph"
+        },
+        {
+          "label": "D",
+          "text": "Mahdi"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": " Who declared Muhammad a prophet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khadijah"
+        },
+        {
+          "label": "B",
+          "text": "Gabriel"
+        },
+        {
+          "label": "C",
+          "text": "Waraqah"
+        },
+        {
+          "label": "D",
+          "text": "Abu Bakr"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "What does the term \"Qur'an\" literally mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Holy Book"
+        },
+        {
+          "label": "B",
+          "text": "The Narrative"
+        },
+        {
+          "label": "C",
+          "text": "The Recitation"
+        },
+        {
+          "label": "D",
+          "text": "The Pillars"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "What does the word \"Islam\" mean in Arabic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Worship"
+        },
+        {
+          "label": "B",
+          "text": "Submission"
+        },
+        {
+          "label": "C",
+          "text": "Obedience"
+        },
+        {
+          "label": "D",
+          "text": "Faith"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "What is seen by Europeans, and many Muslims, as the symbol of Islam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Hijab"
+        },
+        {
+          "label": "B",
+          "text": "The Crescent"
+        },
+        {
+          "label": "C",
+          "text": "The Minaret"
+        },
+        {
+          "label": "D",
+          "text": "The Qur'an"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "What is the mi'raj?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muhammad's miraculous ascent to heaven"
+        },
+        {
+          "label": "B",
+          "text": "Muhammad's migration to Mecca"
+        },
+        {
+          "label": "C",
+          "text": "Muhammad's first community in Mecca"
+        },
+        {
+          "label": "D",
+          "text": "Muhammad's revelations of the Qur'an"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "What is the term for commentary on the Qur'an, which means \"unveiling\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fiqh"
+        },
+        {
+          "label": "B",
+          "text": "dhikr"
+        },
+        {
+          "label": "C",
+          "text": "ijtihad"
+        },
+        {
+          "label": "D",
+          "text": "tafsir"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which is the largest Muslim country in the world with more than 200 million adherents?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pakistan"
+        },
+        {
+          "label": "B",
+          "text": "Iraq"
+        },
+        {
+          "label": "C",
+          "text": "Indonesia"
+        },
+        {
+          "label": "D",
+          "text": "Turkey"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": " In Buddhism, what are ordained women known as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhikshus"
+        },
+        {
+          "label": "B",
+          "text": "Bhikshunis"
+        },
+        {
+          "label": "C",
+          "text": "The Sangha"
+        },
+        {
+          "label": "D",
+          "text": "Arhats"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": " The mudras, which are an important feature of Buddhist art, are also known as what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "hand gestures"
+        },
+        {
+          "label": "B",
+          "text": "saints"
+        },
+        {
+          "label": "C",
+          "text": "religious clothing"
+        },
+        {
+          "label": "D",
+          "text": "temples"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": " The Tibetan Book of the Dead is also known as which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bardo Thodol"
+        },
+        {
+          "label": "B",
+          "text": "Bardo Ngawang"
+        },
+        {
+          "label": "C",
+          "text": "Bardo Gyaltsen"
+        },
+        {
+          "label": "D",
+          "text": "Bardo Chogye"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": " What type of Buddhist organization is the Bodu Bala Sena?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Activist and militant organization in Sri Lanka"
+        },
+        {
+          "label": "B",
+          "text": "Ecumenical organization in India"
+        },
+        {
+          "label": "C",
+          "text": "Modern organization in the United States"
+        },
+        {
+          "label": "D",
+          "text": "Peacekeeping organization in Japan"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": " Which leader is known for spreading the dharma of non-violence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ngo Dinh Diem"
+        },
+        {
+          "label": "B",
+          "text": "The Dalai Lama"
+        },
+        {
+          "label": "C",
+          "text": "Siddhartha"
+        },
+        {
+          "label": "D",
+          "text": "Ashoka"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "The \"Flower Sermon\" is associated with which form of Buddhism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Theravada"
+        },
+        {
+          "label": "B",
+          "text": "Chan-Zen"
+        },
+        {
+          "label": "C",
+          "text": "Pure Land"
+        },
+        {
+          "label": "D",
+          "text": "Yogicara"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The Jataka tales are a collection of which genre of stories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Life stories"
+        },
+        {
+          "label": "B",
+          "text": "Warrior stories"
+        },
+        {
+          "label": "C",
+          "text": "Birth stories"
+        },
+        {
+          "label": "D",
+          "text": "Hero stories"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "The title Dalai Lama means which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ocean of Love"
+        },
+        {
+          "label": "B",
+          "text": "Lover of Wisdom"
+        },
+        {
+          "label": "C",
+          "text": "Ocean of Wisdom"
+        },
+        {
+          "label": "D",
+          "text": "Stillness of Love"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": " In the Japanese Zen tradition, what is zazen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A collection of statues"
+        },
+        {
+          "label": "B",
+          "text": "Veneration of ancestors"
+        },
+        {
+          "label": "C",
+          "text": "Seated meditation"
+        },
+        {
+          "label": "D",
+          "text": "Funeral rituals"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": " The term mappo is associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The dharma"
+        },
+        {
+          "label": "B",
+          "text": "An age of decline"
+        },
+        {
+          "label": "C",
+          "text": "The golden age"
+        },
+        {
+          "label": "D",
+          "text": "Samurai"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": " Which tradition is known to promote \"gradual enlightenment\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bushido"
+        },
+        {
+          "label": "B",
+          "text": "Shinto"
+        },
+        {
+          "label": "C",
+          "text": "Nichiren"
+        },
+        {
+          "label": "D",
+          "text": "Soto Zen"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "In Tendai Buddhism, what does the term honji mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Trace"
+        },
+        {
+          "label": "B",
+          "text": "Original ground"
+        },
+        {
+          "label": "C",
+          "text": "Manifestation"
+        },
+        {
+          "label": "D",
+          "text": "True sign"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "What does the term matsuri mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amulets"
+        },
+        {
+          "label": "B",
+          "text": "Meditation"
+        },
+        {
+          "label": "C",
+          "text": "Rituals"
+        },
+        {
+          "label": "D",
+          "text": "Grand festivals"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which monk developed Pure Land Buddhism as we know it today?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Genshin"
+        },
+        {
+          "label": "B",
+          "text": "Dogen"
+        },
+        {
+          "label": "C",
+          "text": "Honen"
+        },
+        {
+          "label": "D",
+          "text": "Shinran"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": " In the Zoroastrian tradition, the term Gathas refers to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hymns"
+        },
+        {
+          "label": "B",
+          "text": "Laws"
+        },
+        {
+          "label": "C",
+          "text": "Ethics"
+        },
+        {
+          "label": "D",
+          "text": "Myths"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": " Mani referred to God by which of the following names?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mother of Light"
+        },
+        {
+          "label": "B",
+          "text": "Father of Goodness"
+        },
+        {
+          "label": "C",
+          "text": "Ineffable Lover"
+        },
+        {
+          "label": "D",
+          "text": "Eternal Spirit"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": " The numen of Augustus referred to which of the following characteristics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Divine power"
+        },
+        {
+          "label": "B",
+          "text": "Sexual virility"
+        },
+        {
+          "label": "C",
+          "text": "Military acumen"
+        },
+        {
+          "label": "D",
+          "text": "Philosophical intellect"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Akitu"
+        },
+        {
+          "label": "B",
+          "text": "Wag and Thoth"
+        },
+        {
+          "label": "C",
+          "text": "Bast"
+        },
+        {
+          "label": "D",
+          "text": "Nehebkau"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": " What was the most important female-centered festival in cities throughout Greece?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thesmophoria"
+        },
+        {
+          "label": "B",
+          "text": "Oracle Days"
+        },
+        {
+          "label": "C",
+          "text": "Isthmian Games"
+        },
+        {
+          "label": "D",
+          "text": "Feast of Athrodite"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": " Where was the most famous site of the mystery cults in Greece?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ephesus"
+        },
+        {
+          "label": "B",
+          "text": "Corinth"
+        },
+        {
+          "label": "C",
+          "text": "Athens"
+        },
+        {
+          "label": "D",
+          "text": "Eleusis"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": " Which Egyptian gods did Akhenaten make a determined effort to eliminate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shu and Set"
+        },
+        {
+          "label": "B",
+          "text": "Horus and Isis"
+        },
+        {
+          "label": "C",
+          "text": "Amun and Mut"
+        },
+        {
+          "label": "D",
+          "text": "Khonsu and Nekhbet"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": " Which Roman statesman encouraged civic religion in his work The Laws?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Varro"
+        },
+        {
+          "label": "B",
+          "text": "Plato"
+        },
+        {
+          "label": "C",
+          "text": "Cicero"
+        },
+        {
+          "label": "D",
+          "text": "Augustus"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "The widely adored Egyptian goddess Hathor was depicted as which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Serpent"
+        },
+        {
+          "label": "B",
+          "text": "Eagle"
+        },
+        {
+          "label": "C",
+          "text": "Cheetah"
+        },
+        {
+          "label": "D",
+          "text": "Cow"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "What is another name for Enuma Elish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epic of Creation"
+        },
+        {
+          "label": "B",
+          "text": "Epic of Destruction"
+        },
+        {
+          "label": "C",
+          "text": "Epic of Egypt"
+        },
+        {
+          "label": "D",
+          "text": "Epic of Origins"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "When was the Old Babylonian version of Gilgamesh modified into the standard version?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toward the end of the first millennium BCE"
+        },
+        {
+          "label": "B",
+          "text": "Towards the middle of the first millennium BCE"
+        },
+        {
+          "label": "C",
+          "text": "Toward the end of the second millennium BCE"
+        },
+        {
+          "label": "D",
+          "text": "Toward the middle of the second millennium BCE"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Which deity is the Roman counterpart to the Greek god Zeus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jupiter"
+        },
+        {
+          "label": "B",
+          "text": "Juno"
+        },
+        {
+          "label": "C",
+          "text": "Dionysius"
+        },
+        {
+          "label": "D",
+          "text": "Neptune"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": " After what event did the Rabbinical period begin within Judaism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Construction of the Second Temple"
+        },
+        {
+          "label": "B",
+          "text": "Destruction of the Second Temple"
+        },
+        {
+          "label": "C",
+          "text": "The Christianization of the Roman Empire"
+        },
+        {
+          "label": "D",
+          "text": "The emergence of Islam"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": " In Yiddish, what is the word for covenant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haggadah"
+        },
+        {
+          "label": "B",
+          "text": "Halakhah"
+        },
+        {
+          "label": "C",
+          "text": "Brit"
+        },
+        {
+          "label": "D",
+          "text": "Bris"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The Oral Torah, in its written form, is known as what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mishnah"
+        },
+        {
+          "label": "B",
+          "text": "Midrash"
+        },
+        {
+          "label": "C",
+          "text": "Tanakh"
+        },
+        {
+          "label": "D",
+          "text": "Pentateuch"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "What does the Hebrew word mashiach mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anointed one"
+        },
+        {
+          "label": "B",
+          "text": "God"
+        },
+        {
+          "label": "C",
+          "text": "Prophet"
+        },
+        {
+          "label": "D",
+          "text": "The line of David"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "What is a mohel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A ritual circumciser"
+        },
+        {
+          "label": "B",
+          "text": "A type of oil lame"
+        },
+        {
+          "label": "C",
+          "text": "A teacher"
+        },
+        {
+          "label": "D",
+          "text": "A covenant"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "What is the most important prayer in Judaism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Shema"
+        },
+        {
+          "label": "B",
+          "text": "The Sefirot"
+        },
+        {
+          "label": "C",
+          "text": "Deuteronomy"
+        },
+        {
+          "label": "D",
+          "text": "The Decalogue"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "When did the Babylonian captivity of \"Exile\" begin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "515 BCE"
+        },
+        {
+          "label": "B",
+          "text": "535 BCE"
+        },
+        {
+          "label": "C",
+          "text": "586 BCE"
+        },
+        {
+          "label": "D",
+          "text": "70 CE"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": " The classic text Daodejing is known by what title in English?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Classic of Changes"
+        },
+        {
+          "label": "B",
+          "text": "Classic of the Way and Power"
+        },
+        {
+          "label": "C",
+          "text": "Classic of Women"
+        },
+        {
+          "label": "D",
+          "text": "Classic of Philosophy"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": " What genre of Sikh literature is denoted by the term janam-sakhis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spiritual narratives"
+        },
+        {
+          "label": "B",
+          "text": "Redemption narratives"
+        },
+        {
+          "label": "C",
+          "text": "Birth narratives"
+        },
+        {
+          "label": "D",
+          "text": "Theological narratives"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": " What interior discipline must be adopted to achieve spiritual liberation within Sikhism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Remembering the Divine Name"
+        },
+        {
+          "label": "B",
+          "text": "Meditating on the sacred hymns"
+        },
+        {
+          "label": "C",
+          "text": "Remembering that death is inevitable"
+        },
+        {
+          "label": "D",
+          "text": "Meditating on the goodness of the created world"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": " What is the purpose for hearing the Guru's Vak in the morning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prayers on behalf of people outside of the Sikh community"
+        },
+        {
+          "label": "B",
+          "text": "Communal confession to cleanse the community"
+        },
+        {
+          "label": "C",
+          "text": "Inspiration for personal meditation throughout the day"
+        },
+        {
+          "label": "D",
+          "text": "Doctrinal instruction for discussion in the community"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": " What is the term used to describe the \"pure\" as an order of loyal Sikhs bound together?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Khalsa"
+        },
+        {
+          "label": "B",
+          "text": "Rahit"
+        },
+        {
+          "label": "C",
+          "text": "Panj Kakke"
+        },
+        {
+          "label": "D",
+          "text": "Shabad"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": " What term refers the divine order as an ell-embracing higher principle in Sikhism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sansar"
+        },
+        {
+          "label": "B",
+          "text": "Hukam"
+        },
+        {
+          "label": "C",
+          "text": "Mantar"
+        },
+        {
+          "label": "D",
+          "text": "Karam"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": " Where is the key to liberation found within Sikhism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In the community"
+        },
+        {
+          "label": "B",
+          "text": "In faith in God"
+        },
+        {
+          "label": "C",
+          "text": "In ascetic renunciation"
+        },
+        {
+          "label": "D",
+          "text": "In the life of the householder"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": " Which Guru donned the two swords symbolling temporal and spiritual authority?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guru Nanak"
+        },
+        {
+          "label": "B",
+          "text": "Guru Arjan"
+        },
+        {
+          "label": "C",
+          "text": "Guru Hargobind"
+        },
+        {
+          "label": "D",
+          "text": "Guru Ram Das"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "According to the Sikh tradition, the Mul Mantar illuminates the nature of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ultimate Reality"
+        },
+        {
+          "label": "B",
+          "text": "The gurus"
+        },
+        {
+          "label": "C",
+          "text": "The community"
+        },
+        {
+          "label": "D",
+          "text": "Sikh worship"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "What does the phrase Guru-Panth mean within the Sikh traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Community"
+        },
+        {
+          "label": "B",
+          "text": "Scripture"
+        },
+        {
+          "label": "C",
+          "text": "Worship"
+        },
+        {
+          "label": "D",
+          "text": "Apprenticeship"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "What is the communal meal offered at the place of worship called in Sikhism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sangat"
+        },
+        {
+          "label": "B",
+          "text": "Langar"
+        },
+        {
+          "label": "C",
+          "text": "Gurdwara"
+        },
+        {
+          "label": "D",
+          "text": "Panth"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "What is the meaning of the Punjabi word \"Sikh\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disciple"
+        },
+        {
+          "label": "B",
+          "text": "Faithful"
+        },
+        {
+          "label": "C",
+          "text": "Devotee"
+        },
+        {
+          "label": "D",
+          "text": "Enlightened"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "What is the most important festival for Sikhs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Holi"
+        },
+        {
+          "label": "B",
+          "text": "Divali"
+        },
+        {
+          "label": "C",
+          "text": "Baisakhi Day"
+        },
+        {
+          "label": "D",
+          "text": "Hola Mahalla"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Which Guru was martyred when he refused to embrace Islam?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guru Ram Das"
+        },
+        {
+          "label": "B",
+          "text": "Guru Tegh Bahadur"
+        },
+        {
+          "label": "C",
+          "text": "Guru Gobind Singh"
+        },
+        {
+          "label": "D",
+          "text": "Guru Har Rai"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": " What is the meaning ofsamyak jnanawithin the Jaina traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Correct knowledge"
+        },
+        {
+          "label": "B",
+          "text": "Correct practice"
+        },
+        {
+          "label": "C",
+          "text": "Correct intiution"
+        },
+        {
+          "label": "D",
+          "text": "Correct belief"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "How many female renouncers were under the tutelage of Chandanbala?",
+      "options": [
+        {
+          "label": "A",
+          "text": "36,000"
+        },
+        {
+          "label": "B",
+          "text": "12,000"
+        },
+        {
+          "label": "C",
+          "text": "24,000"
+        },
+        {
+          "label": "D",
+          "text": "7,000"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "How many Jinas have appeared during our age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "42"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "13"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "In the Jaina traditions \"bad karma\" is known by which of the following terms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paap"
+        },
+        {
+          "label": "B",
+          "text": "Punya"
+        },
+        {
+          "label": "C",
+          "text": "Pudgala"
+        },
+        {
+          "label": "D",
+          "text": "Akash"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Sacred literature originated with which of the following jina?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sri Lakshmi"
+        },
+        {
+          "label": "B",
+          "text": "Mahavira"
+        },
+        {
+          "label": "C",
+          "text": "Rsabha"
+        },
+        {
+          "label": "D",
+          "text": "Nanak"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "The central prayer in Jainism is known by which of the following names?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Namokar Mantra"
+        },
+        {
+          "label": "B",
+          "text": "The Liberation Mantra"
+        },
+        {
+          "label": "C",
+          "text": "Ahimsa"
+        },
+        {
+          "label": "D",
+          "text": "Archaryas"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "When did the first Jaina temples appear?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Second century CE"
+        },
+        {
+          "label": "B",
+          "text": "Fifth century CE"
+        },
+        {
+          "label": "C",
+          "text": "Fifth century BCE"
+        },
+        {
+          "label": "D",
+          "text": "Eighteenth century CE"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Why is Mahavira a significant person in the Jaina traditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He is the last of the ascetic prophets."
+        },
+        {
+          "label": "B",
+          "text": "He is the first of the ascetic prophets"
+        },
+        {
+          "label": "C",
+          "text": "He is the most learned of the ascetic prophets"
+        },
+        {
+          "label": "D",
+          "text": "He is the most holy of the ascetic prophets"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Daoism"
+        },
+        {
+          "label": "B",
+          "text": "Yin-Yang School"
+        },
+        {
+          "label": "C",
+          "text": "Mengzi"
+        },
+        {
+          "label": "D",
+          "text": "Humanistic Buddhism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": " To whom did ordinary folk appeal during a drought in the time of the Han Dynasty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Buddha"
+        },
+        {
+          "label": "B",
+          "text": "Laozi"
+        },
+        {
+          "label": "C",
+          "text": "The Queen Mother of the West"
+        },
+        {
+          "label": "D",
+          "text": "Confucius"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": " What is the name of the bodhisattva in Japan known for a commitment to alleviating suffering?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amaterasu"
+        },
+        {
+          "label": "B",
+          "text": "Izanami"
+        },
+        {
+          "label": "C",
+          "text": "Kannon"
+        },
+        {
+          "label": "D",
+          "text": "Guanyin"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": " What was one of the distinctive beliefs or practices of the southerners (Digambara)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They worshipped exclusively outside of the temple"
+        },
+        {
+          "label": "B",
+          "text": "They believed that nakedness was an elemental expression of non-attachment"
+        },
+        {
+          "label": "C",
+          "text": "They included women within the ranks of the leadership"
+        },
+        {
+          "label": "D",
+          "text": "They believed that the omniscient Jina must eat and sleep"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": " Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dao"
+        },
+        {
+          "label": "B",
+          "text": "Xunzi"
+        },
+        {
+          "label": "C",
+          "text": "Mencius"
+        },
+        {
+          "label": "D",
+          "text": "Confucius"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": " Which goddess is worshipped during the festival of Divali?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Durga"
+        },
+        {
+          "label": "B",
+          "text": "Sri Lakshmi"
+        },
+        {
+          "label": "C",
+          "text": "Kali"
+        },
+        {
+          "label": "D",
+          "text": "Mahavira"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": " Which Jaina group only allows women to lead a life of semi-renunciation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Svetambara"
+        },
+        {
+          "label": "B",
+          "text": "Jina"
+        },
+        {
+          "label": "C",
+          "text": "Agama"
+        },
+        {
+          "label": "D",
+          "text": "Digambara"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": " Which of the following shuns politics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The sages of the Zhuangzi"
+        },
+        {
+          "label": "B",
+          "text": "The Songs of the South"
+        },
+        {
+          "label": "C",
+          "text": "The Duke of Zhou"
+        },
+        {
+          "label": "D",
+          "text": "The Confucian \"sage kings\""
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "The philosopher Laozi is associated with which tradition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jainism"
+        },
+        {
+          "label": "B",
+          "text": "Buddhism"
+        },
+        {
+          "label": "C",
+          "text": "Confucianism"
+        },
+        {
+          "label": "D",
+          "text": "Daoism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buddhism"
+        },
+        {
+          "label": "B",
+          "text": "Daoism"
+        },
+        {
+          "label": "C",
+          "text": "Confucianism"
+        },
+        {
+          "label": "D",
+          "text": "Shamanism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "What is the English title for the divination text also known as the Yijing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Classic of Documents"
+        },
+        {
+          "label": "B",
+          "text": "The Lotus Sutra"
+        },
+        {
+          "label": "C",
+          "text": "The Flower Garland Sutra"
+        },
+        {
+          "label": "D",
+          "text": "The Classic of Changes"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": " When was the first Buddhist temple constructed in Japan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "325 CE"
+        },
+        {
+          "label": "B",
+          "text": "119 CE"
+        },
+        {
+          "label": "C",
+          "text": "451 CE"
+        },
+        {
+          "label": "D",
+          "text": "596 CE"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which is one of the most fundamental themes of Japanese culture and civilization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "God is eternal and merciful to those who offer worship"
+        },
+        {
+          "label": "B",
+          "text": "Humans can align themselves with life energy through worship of kami"
+        },
+        {
+          "label": "C",
+          "text": "Justice will be the final outcome in the next world"
+        },
+        {
+          "label": "D",
+          "text": "Power and force are the most divine attributes"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following terms denote the Japanese art of flower arranging?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zazen"
+        },
+        {
+          "label": "B",
+          "text": "Tariki"
+        },
+        {
+          "label": "C",
+          "text": "Kami"
+        },
+        {
+          "label": "D",
+          "text": "Ikebana"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

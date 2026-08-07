@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_computer_science_validation",
+  "description": "MMLU-Pro benchmark items, category: computer science, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 30,
+      "text": "A certain pipelined RISC machine has 8 general-purpose registers R0, R1, . . . , R7 and supports the following operations:\nADD Rs1, Rs2, Rd (Add Rs1 to Rs2 and put the sum in Rd)\nMUL Rs1, Rs2, Rd (Multiply Rs1 by Rs2 and put the product in Rd)\nAn operation normally takes one cycle; however, an operation takes two cycles if it produces a result required by the immediately following operation in an operation sequence.\nConsider the expression AB + ABC + BC, where variables A, B, C are located in registers R0, R1, R2. If the contents of these three registers must not be modified, what is the minimum number of clock cycles required for an operation sequence that computes the value of AB + ABC + BC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        },
+        {
+          "label": "F",
+          "text": "4"
+        },
+        {
+          "label": "G",
+          "text": "7"
+        },
+        {
+          "label": "H",
+          "text": "8"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 31,
+      "text": "A compiler generates code for the following assignment statement.\nG := (A + B) * C - (D + E) * F\nThe target machine has a single accumulator and a single-address instruction set consisting of instructions load, store, add, subtract, and multiply. For the arithmetic operations, the left operand is taken from the accumulator and the result appears in the accumulator. The smallest possible number of instructions in the resulting code is",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        },
+        {
+          "label": "E",
+          "text": "11"
+        },
+        {
+          "label": "F",
+          "text": "6"
+        },
+        {
+          "label": "G",
+          "text": "8"
+        },
+        {
+          "label": "H",
+          "text": "10"
+        },
+        {
+          "label": "I",
+          "text": "9"
+        },
+        {
+          "label": "J",
+          "text": "3"
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 32,
+      "text": "SHA-1 has a message digest of",
+      "options": [
+        {
+          "label": "A",
+          "text": "628 bits"
+        },
+        {
+          "label": "B",
+          "text": "780 bits"
+        },
+        {
+          "label": "C",
+          "text": "160 bits"
+        },
+        {
+          "label": "D",
+          "text": "256 bits"
+        },
+        {
+          "label": "E",
+          "text": "2048 bits"
+        },
+        {
+          "label": "F",
+          "text": "820 bits"
+        },
+        {
+          "label": "G",
+          "text": "128 bits"
+        },
+        {
+          "label": "H",
+          "text": "512 bits"
+        },
+        {
+          "label": "I",
+          "text": "1024 bits"
+        },
+        {
+          "label": "J",
+          "text": "64 bits"
+        }
+      ],
+      "correct_label": "C",
+      "split": "validation"
+    },
+    {
+      "item_id": 33,
+      "text": "_____________ can modify data on your system – so that your system doesn’t run correctly or you can no longer access specific data, or it may even ask for ransom in order to give your access.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Email Trojans"
+        },
+        {
+          "label": "B",
+          "text": "Backdoor Trojans"
+        },
+        {
+          "label": "C",
+          "text": "Rootkit Trojans"
+        },
+        {
+          "label": "D",
+          "text": "Banking Trojans"
+        },
+        {
+          "label": "E",
+          "text": "Trojan-Downloader"
+        },
+        {
+          "label": "F",
+          "text": "Spyware Trojans"
+        },
+        {
+          "label": "G",
+          "text": "Network Trojans"
+        },
+        {
+          "label": "H",
+          "text": "Worm Trojans"
+        },
+        {
+          "label": "I",
+          "text": "Ransom Trojan"
+        },
+        {
+          "label": "J",
+          "text": "IM – Trojans"
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 34,
+      "text": "In the program below, the initial value of X is 5 and the initial value of Y is 10.\nIF (X < 0){\n DISPLAY (\"Foxtrot\")\n} ELSE {\n IF (X > Y){\n  DISPLAY (\"Hotel\")\n } ELSE {\n  IF (Y > 0){\n   DISPLAY (\"November\")\n  } ELSE {\n   DISPLAY (\"Yankee\")\n  }\n }\n}\nWhat is displayed as a result of running the program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "November"
+        },
+        {
+          "label": "B",
+          "text": "Foxtrot"
+        },
+        {
+          "label": "C",
+          "text": "Zulu"
+        },
+        {
+          "label": "D",
+          "text": "Alpha"
+        },
+        {
+          "label": "E",
+          "text": "Charlie"
+        },
+        {
+          "label": "F",
+          "text": "Bravo"
+        },
+        {
+          "label": "G",
+          "text": "Yankee"
+        },
+        {
+          "label": "H",
+          "text": "Echo"
+        },
+        {
+          "label": "I",
+          "text": "Hotel"
+        },
+        {
+          "label": "J",
+          "text": "Delta"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    }
+  ]
+}

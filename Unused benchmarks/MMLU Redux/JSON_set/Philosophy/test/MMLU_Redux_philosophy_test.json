@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_philosophy_test",
+  "description": "Philosophy multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — philosophy subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Traditionally art has been defined as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "wealth"
+        },
+        {
+          "label": "B",
+          "text": "utility"
+        },
+        {
+          "label": "C",
+          "text": "representation"
+        },
+        {
+          "label": "D",
+          "text": "well being"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Parfit claims that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is possible for an outcome to be worse for a particular person than some alternative."
+        },
+        {
+          "label": "B",
+          "text": "it is possible for an outcome to be worse than some alternative."
+        },
+        {
+          "label": "C",
+          "text": "both a and b."
+        },
+        {
+          "label": "D",
+          "text": "neither a. nor b."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Plato's view is that true beauty is _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "found in everyday objects"
+        },
+        {
+          "label": "B",
+          "text": "nonexistent"
+        },
+        {
+          "label": "C",
+          "text": "everywhere in the natural world"
+        },
+        {
+          "label": "D",
+          "text": "not of this world"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Concerning the relationship between morality and theology, Bentham claims that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "we must first know whether something is right before we can know whether it conforms to God’s will."
+        },
+        {
+          "label": "B",
+          "text": "we must first know whether something conforms to God’s will before we can know that it is right."
+        },
+        {
+          "label": "C",
+          "text": "God exists, but does not concern himself with matters of morality."
+        },
+        {
+          "label": "D",
+          "text": "God does not exist."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Moore defines the naturalistic fallacy as the view that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "everything that is natural is good."
+        },
+        {
+          "label": "B",
+          "text": "everything that is good is natural."
+        },
+        {
+          "label": "C",
+          "text": "good is identical to a natural property."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": " In his discussion of the Divided Line, Plato says that, in contrast to mere belief or opinion, knowledge is a belief for which we give reasons or justifications by appealing:",
+      "options": [
+        {
+          "label": "A",
+          "text": "to what our senses reveal to us about how things appear to us, not how they  really are."
+        },
+        {
+          "label": "B",
+          "text": "beyond the Forms to images of goodness, beauty, and truth obtained from particular objects."
+        },
+        {
+          "label": "C",
+          "text": "to what we sincerely believe is true about the Forms based on our experiences in the world."
+        },
+        {
+          "label": "D",
+          "text": "beyond sense experience to unchanging ideas (Forms) that are perceived as rationally ordered."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "How does Stevenson respond to the objection that his theory does not account for the kind of goodness that is objective and is known a priori?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He claims to have proven that such a property does not exist."
+        },
+        {
+          "label": "B",
+          "text": "He claims to have offered an account of just such a property."
+        },
+        {
+          "label": "C",
+          "text": "He claims he does not understand such a property."
+        },
+        {
+          "label": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "In Aquinas’s view, man’s ultimate happiness consists in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pleasure"
+        },
+        {
+          "label": "B",
+          "text": "acts of the moral virtues."
+        },
+        {
+          "label": "C",
+          "text": "loving God."
+        },
+        {
+          "label": "D",
+          "text": "contemplating God."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "The biblical account of the soul is at odds with _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a unitary concept of the soul"
+        },
+        {
+          "label": "B",
+          "text": "the identity theory"
+        },
+        {
+          "label": "C",
+          "text": "soul-body dualism"
+        },
+        {
+          "label": "D",
+          "text": "the idea of a monistic soul"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "The control condition claims:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is morally wrong to ever lose control of oneself."
+        },
+        {
+          "label": "B",
+          "text": "it is morally wrong to try to control the lives of (adult) others."
+        },
+        {
+          "label": "C",
+          "text": "one cannot be morally assessed for what is due to factors outside one’s control."
+        },
+        {
+          "label": "D",
+          "text": "one cannot be morally blamed for taking control of one’s own life."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "For Socrates, the soul is harmed by lack of _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "knowledge"
+        },
+        {
+          "label": "B",
+          "text": "wealth"
+        },
+        {
+          "label": "C",
+          "text": "community"
+        },
+        {
+          "label": "D",
+          "text": "courage"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Berkeley believes that sensible things cannot exist except in _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a mind"
+        },
+        {
+          "label": "B",
+          "text": "absolute existence"
+        },
+        {
+          "label": "C",
+          "text": "material substance"
+        },
+        {
+          "label": "D",
+          "text": "a material universe"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The theory that says mental states are nothing but brain states is known as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "brain theory"
+        },
+        {
+          "label": "B",
+          "text": "epiphenominalism"
+        },
+        {
+          "label": "C",
+          "text": "identity theory"
+        },
+        {
+          "label": "D",
+          "text": "logical behaviorism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "According to Socrates, just as there is a difference between what an ironic statement says and its true meaning, so also appearances differ from reality.  Even though societies or individuals appear to differ about what is required for the good life, that in no way contradicts the fact that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "what is right or wrong, true or false varies from one culture to another."
+        },
+        {
+          "label": "B",
+          "text": "appearances are the only real way we have for knowing reality."
+        },
+        {
+          "label": "C",
+          "text": "the distinction of appearance and reality is the basis for the dialectical discovery of truth."
+        },
+        {
+          "label": "D",
+          "text": "there are objective principles for thought and action that are required for the good life."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "The view that art is defined by its form is known as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "informalism"
+        },
+        {
+          "label": "B",
+          "text": "expressionism"
+        },
+        {
+          "label": "C",
+          "text": "formalism"
+        },
+        {
+          "label": "D",
+          "text": "structuralism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Moore defines good as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pleasure."
+        },
+        {
+          "label": "B",
+          "text": "that which we desire."
+        },
+        {
+          "label": "C",
+          "text": "that which we desire to desire."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "some things"
+        },
+        {
+          "label": "B",
+          "text": "lawful treatment"
+        },
+        {
+          "label": "C",
+          "text": "due process"
+        },
+        {
+          "label": "D",
+          "text": "everything"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": " For Socrates, the belief that \"virtue is knowledge\" is related to his claim that \"the unexamined life is not worth living,\" because he believes that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the unexamined life is one in which we live day to day without asking questions about who we are and why we are here in the first place."
+        },
+        {
+          "label": "B",
+          "text": "the Delphic oracle identified Socrates as the wisest person on earth because he claimed to know nothing."
+        },
+        {
+          "label": "C",
+          "text": "by questioning traditional beliefs, we learn to recognize how some answers seem to be more satisfactory than others."
+        },
+        {
+          "label": "D",
+          "text": "the only way to be a good or worthwhile person is to know how human beings should behave based on universal norms or values."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Aquinas claim that all human operations appear to serve:",
+      "options": [
+        {
+          "label": "A",
+          "text": "those in power."
+        },
+        {
+          "label": "B",
+          "text": "those of high status."
+        },
+        {
+          "label": "C",
+          "text": "those who contemplate the truth."
+        },
+        {
+          "label": "D",
+          "text": "those who act wickedly."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Hume defines virtue as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a tendency to maximize happiness."
+        },
+        {
+          "label": "B",
+          "text": "a tendency to pursue justice."
+        },
+        {
+          "label": "C",
+          "text": "whatever mental action or quality gives a spectator a sentiment of approbation."
+        },
+        {
+          "label": "D",
+          "text": "whatever mental action or quality brings about the best consequences for all."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "According to Singer, compliance with his principle requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "modest changes to our personal habits, but not to our society as a whole."
+        },
+        {
+          "label": "B",
+          "text": "modest changes to our personal habits, as well as to society."
+        },
+        {
+          "label": "C",
+          "text": "drastic changes to our personal habits, but not to our society."
+        },
+        {
+          "label": "D",
+          "text": "drastic changes to both our personal habits and to our society."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "In spite of the fact that Socrates claims to be ignorant of the essence or nature of certain things like justice, he is wise insofar as he recognizes that without such knowledge actions are rationally unjustified.  That is, his wisdom consists in his recognition not only that he is ignorant of such essences but also that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "justice, like knowledge, requires that we admit that we know nothing and never will."
+        },
+        {
+          "label": "B",
+          "text": "he knows what he is supposed to be looking for--knowledge of the essences of things."
+        },
+        {
+          "label": "C",
+          "text": "knowledge of the essences of things is impossible, because that would require that we know what we are looking for before we know what it is we are looking for."
+        },
+        {
+          "label": "D",
+          "text": "his method of asking questions about essences is itself unjustified because he does not know why he engages in such a practice."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Anscombe claims that on Sidgwick’s view, the badness of an action must be estimated in light of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "its actual consequences."
+        },
+        {
+          "label": "B",
+          "text": "its expected consequences."
+        },
+        {
+          "label": "C",
+          "text": "whether it violates any duties."
+        },
+        {
+          "label": "D",
+          "text": "whether it violates divine law."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Aristotle states that if we ask what the highest good of human action is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "there is no agreement about the answer."
+        },
+        {
+          "label": "B",
+          "text": "most people agree that it is pleasure."
+        },
+        {
+          "label": "C",
+          "text": "nearly everyone agrees that it is happiness."
+        },
+        {
+          "label": "D",
+          "text": "there is no objective answer to this question."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Epicurus claims that all other virtues spring from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "prudence."
+        },
+        {
+          "label": "B",
+          "text": "temperance."
+        },
+        {
+          "label": "C",
+          "text": "justice."
+        },
+        {
+          "label": "D",
+          "text": "courage."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "The view that we consist of two distinct substances (body and mind) and that these two interact is known as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "functionalism"
+        },
+        {
+          "label": "B",
+          "text": "identity theory"
+        },
+        {
+          "label": "C",
+          "text": "substance dualism"
+        },
+        {
+          "label": "D",
+          "text": "materialism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Feinberg claims that when people are hungry, they typically desire:",
+      "options": [
+        {
+          "label": "A",
+          "text": "to eat food."
+        },
+        {
+          "label": "B",
+          "text": "pleasant gustatory sensations."
+        },
+        {
+          "label": "C",
+          "text": "both a and b."
+        },
+        {
+          "label": "D",
+          "text": "neither a nor b."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the argumentative method"
+        },
+        {
+          "label": "B",
+          "text": "the philosophical method"
+        },
+        {
+          "label": "C",
+          "text": "propositional logic"
+        },
+        {
+          "label": "D",
+          "text": "syllogistic reasoning"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Paley maintains that the key difference between the “contrivance” of a watch and that of nature is that the latter is _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "simpler"
+        },
+        {
+          "label": "B",
+          "text": "more natural"
+        },
+        {
+          "label": "C",
+          "text": "older"
+        },
+        {
+          "label": "D",
+          "text": "greater and grander"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Logical behaviorism is at odds with our commonsense intuition that mental states _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "cause behavior"
+        },
+        {
+          "label": "B",
+          "text": "never cause behavior"
+        },
+        {
+          "label": "C",
+          "text": "exist"
+        },
+        {
+          "label": "D",
+          "text": "do not exist"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Philosophy is concerned primarily with identifying beliefs about human existence and evaluating arguments that support those beliefs.  These activities can be summarized in two questions that drive philosophical investigations:",
+      "options": [
+        {
+          "label": "A",
+          "text": "why should we bother? and what are the consequences of our believing one thing over another?"
+        },
+        {
+          "label": "B",
+          "text": "what do you mean? and how do you know?"
+        },
+        {
+          "label": "C",
+          "text": "who really believes X? and how can we explain differences in people's beliefs?"
+        },
+        {
+          "label": "D",
+          "text": "how do philosophers argue? and are their differences important?"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Hume claims that a person who is unaffected by images of human happiness or misery will also be indifferent to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "art and beauty."
+        },
+        {
+          "label": "B",
+          "text": "virtue and vice."
+        },
+        {
+          "label": "C",
+          "text": "his own well-being."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "According to Kant, the supreme principle of morality is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "analytic and a priori."
+        },
+        {
+          "label": "B",
+          "text": "analytic and a posteriori."
+        },
+        {
+          "label": "C",
+          "text": "synthetic and a priori."
+        },
+        {
+          "label": "D",
+          "text": "synthetic and a posteriori."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "In Hobbes’s view, to say something is good is to say that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is conducive to human happiness."
+        },
+        {
+          "label": "B",
+          "text": "you desire it."
+        },
+        {
+          "label": "C",
+          "text": "most people desire it."
+        },
+        {
+          "label": "D",
+          "text": "most people ought to desire it."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "logical nominalism"
+        },
+        {
+          "label": "B",
+          "text": "logical behaviorism"
+        },
+        {
+          "label": "C",
+          "text": "methodological behaviorism"
+        },
+        {
+          "label": "D",
+          "text": "eliminative materialism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "According to Craig, the kalam cosmological argument establishes that _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the God of Christianity exists"
+        },
+        {
+          "label": "B",
+          "text": "the universe has a cause"
+        },
+        {
+          "label": "C",
+          "text": "the Big Bang model is false"
+        },
+        {
+          "label": "D",
+          "text": "the universe is uncaused"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Descartes declares that he is _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a body"
+        },
+        {
+          "label": "B",
+          "text": "a dream"
+        },
+        {
+          "label": "C",
+          "text": "a thing that thinks"
+        },
+        {
+          "label": "D",
+          "text": "a thing that cannot exist"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "According to Brandt, John Stuart Mill’s view most closely resembles:",
+      "options": [
+        {
+          "label": "A",
+          "text": "act-utilitarianism."
+        },
+        {
+          "label": "B",
+          "text": "a rule-utilitarianism based on the actual rules of society."
+        },
+        {
+          "label": "C",
+          "text": "a rule-utilitarianism based on ideal moral rules."
+        },
+        {
+          "label": "D",
+          "text": "Kant’s ethics."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Hare asserts that ethics and science are similar in that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "both seek to provide us with true beliefs about the world."
+        },
+        {
+          "label": "B",
+          "text": "both are essential components of a worthwhile life."
+        },
+        {
+          "label": "C",
+          "text": "both involve testing general principles by examining their logical consequences."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "In Butler’s view, acting virtuously consists of acting in accordance with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "our strongest inward principle."
+        },
+        {
+          "label": "B",
+          "text": "our highest inward principle."
+        },
+        {
+          "label": "C",
+          "text": "all of our inward principles."
+        },
+        {
+          "label": "D",
+          "text": "the commands of God."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "According to Kant, morality requires us to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "perform the action that leads to the greatest total happiness."
+        },
+        {
+          "label": "B",
+          "text": "act only on maxims that we can will to become universal laws."
+        },
+        {
+          "label": "C",
+          "text": "behave only in such a way as a perfectly virtuous person would behave."
+        },
+        {
+          "label": "D",
+          "text": "place the interests of others above the interests of ourselves."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "According to Locke, a man in the state of nature will relinquish his absolute freedom to the state because _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "he will also enjoy absolute freedom when subject to the state"
+        },
+        {
+          "label": "B",
+          "text": "in the state of nature the enjoyment of his freedom is very uncertain and vulnerable"
+        },
+        {
+          "label": "C",
+          "text": "he wants to have absolute power over others"
+        },
+        {
+          "label": "D",
+          "text": "he rejects the laws of the state of nature"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "According to Mill, to determine whether one pleasure is more valuable than another, we must _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "determine which one is objectively most pleasurable"
+        },
+        {
+          "label": "B",
+          "text": "determine which pleasure most experienced people prefer"
+        },
+        {
+          "label": "C",
+          "text": "consult philosophers of the past"
+        },
+        {
+          "label": "D",
+          "text": "consult science"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "According to Kant, nothing can be called “good” without qualification except _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "right action"
+        },
+        {
+          "label": "B",
+          "text": "good consequences"
+        },
+        {
+          "label": "C",
+          "text": "happiness"
+        },
+        {
+          "label": "D",
+          "text": "a good will"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Of the ways of escaping moral arguments that he discusses, Hare claims:",
+      "options": [
+        {
+          "label": "A",
+          "text": "none of them are successful."
+        },
+        {
+          "label": "B",
+          "text": "some, but not all of them are successful."
+        },
+        {
+          "label": "C",
+          "text": "all are entirely successful."
+        },
+        {
+          "label": "D",
+          "text": "all might be successful, but at a price."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "According to Parfit, both Taurek and Lewis assume that for there to be a “sum of pain,” it must be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "all felt at a single time."
+        },
+        {
+          "label": "B",
+          "text": "all felt by a single person."
+        },
+        {
+          "label": "C",
+          "text": "all be caused by a single source."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Hobbes defines injustice as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "taking more than one’s share of a good."
+        },
+        {
+          "label": "B",
+          "text": "failure to perform one’s covenant."
+        },
+        {
+          "label": "C",
+          "text": "treating another person as a mere means."
+        },
+        {
+          "label": "D",
+          "text": "violating a law of nature."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Mill claims that the distinction between justice and other moral obligations corresponds perfectly to the distinction between:",
+      "options": [
+        {
+          "label": "A",
+          "text": "perfect and imperfect obligations."
+        },
+        {
+          "label": "B",
+          "text": "positive and negative duties."
+        },
+        {
+          "label": "C",
+          "text": "strong and weak duties."
+        },
+        {
+          "label": "D",
+          "text": "absolute and relative obligations."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "According to Kant, the moral worth of an action depends on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the moral character of the agent who performs it."
+        },
+        {
+          "label": "B",
+          "text": "the consequences of the action."
+        },
+        {
+          "label": "C",
+          "text": "the maxim that is acted on."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "According to Socrates, an unexamined life is not worth living; and it certainly could not be a virtuous life.  Why not?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because if someone did not know how to act virtuously, he or she would still be considered virtuous by others who also did not know the principles for good living."
+        },
+        {
+          "label": "B",
+          "text": "Because since Socrates was a philosopher, he of course thought that people who examined their lives philosophically were more virtuous than those who did not."
+        },
+        {
+          "label": "C",
+          "text": "Because without knowing the rationale for why one should act in a particular way, one does not know whether actions are justified and ought to be repeated."
+        },
+        {
+          "label": "D",
+          "text": "Because a virtuous life would be one in which someone does what the rest of the society says is right, and that means examining views other than one's own."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Hare claims that the two essential features of the logic of moral judgments are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "consequentialism and hedonism."
+        },
+        {
+          "label": "B",
+          "text": "universalizability and prescriptivity."
+        },
+        {
+          "label": "C",
+          "text": "contractualism and rule-following."
+        },
+        {
+          "label": "D",
+          "text": "consistency and coherence."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Anscombe claims that the notion of moral obligation is derived from the concept of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "preference."
+        },
+        {
+          "label": "B",
+          "text": "maximizing utility."
+        },
+        {
+          "label": "C",
+          "text": "positive law."
+        },
+        {
+          "label": "D",
+          "text": "divine law."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Which of the following concepts can be defined, according to Moore?",
+      "options": [
+        {
+          "label": "A",
+          "text": "good"
+        },
+        {
+          "label": "B",
+          "text": "yellow"
+        },
+        {
+          "label": "C",
+          "text": "horse"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Kant claims that the natural purpose of reason is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "produce happiness."
+        },
+        {
+          "label": "B",
+          "text": "produce pleasure."
+        },
+        {
+          "label": "C",
+          "text": "produce knowledge."
+        },
+        {
+          "label": "D",
+          "text": "produce a good will."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Hume thinks that each mind perceives _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "the same beauty"
+        },
+        {
+          "label": "B",
+          "text": "a different beauty"
+        },
+        {
+          "label": "C",
+          "text": "a warped sense of beauty"
+        },
+        {
+          "label": "D",
+          "text": "objective beauty"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Anscombe criticizes as absurd Kant’s idea of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the thing in itself."
+        },
+        {
+          "label": "B",
+          "text": "the categorical imperative."
+        },
+        {
+          "label": "C",
+          "text": "the phenomenal self."
+        },
+        {
+          "label": "D",
+          "text": "legislating for oneself."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Rawls conceives of the original contract as one to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "enter a particular society."
+        },
+        {
+          "label": "B",
+          "text": "set up a particular form of government."
+        },
+        {
+          "label": "C",
+          "text": "establish the principles of justice for the basic structure of society."
+        },
+        {
+          "label": "D",
+          "text": "establish the content of morality."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "According to Hobbes, the right of nature is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "an entitlement to the fruits of one’s labors."
+        },
+        {
+          "label": "B",
+          "text": "a claim not to be harmed by others."
+        },
+        {
+          "label": "C",
+          "text": "the right of the king to rule his subjects."
+        },
+        {
+          "label": "D",
+          "text": "the liberty to use one’s powers to preserve one’s life."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "To say that \"philosophy\" (like \"love\" or \"art\") is not a closed concept means that we cannot state the necessary and sufficient conditions by which it is defined.  Rather, philosophic issues are identifiable as having \"family resemblances\" with one another.  In other words:",
+      "options": [
+        {
+          "label": "A",
+          "text": "there is no one distinguishing feature that identifies an issue as philosophic, only an overlapping of issues roughly associated with one another."
+        },
+        {
+          "label": "B",
+          "text": "the way we come to think about philosophy, love, or art really depends on how we were raised by our families to identify things as resembling one another."
+        },
+        {
+          "label": "C",
+          "text": "the necessary and sufficient condition for something to be considered philosophic is that it answers either of these questions: What does it mean? and How do you know?"
+        },
+        {
+          "label": "D",
+          "text": "philosophy is not a closed discipline insofar as it is willing to accept any answer suggested by the \"human family\" as being true."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Augustine claims that to be happy, one must know:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the causes of natural occurrences."
+        },
+        {
+          "label": "B",
+          "text": "the causes of good and evil."
+        },
+        {
+          "label": "C",
+          "text": "both a and b."
+        },
+        {
+          "label": "D",
+          "text": "neither a nor b."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "\"There is no rationale for myth because it is through myth that reason itself is defined.\"  This means that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mythos is ultimately based on logos, just as myth is ultimately based on reasoning or thinking."
+        },
+        {
+          "label": "B",
+          "text": "myth does not \"explain\" how things are related as much as it simply reveals them as related."
+        },
+        {
+          "label": "C",
+          "text": "metaphysicians are justified in reasoning as they do because there is only one true answer about being."
+        },
+        {
+          "label": "D",
+          "text": "myth and reason are the same: \"myth\" defines \"reason,\" and \"reason\" defines \"myth.\""
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "According to Rawls, the two parts of his theory:",
+      "options": [
+        {
+          "label": "A",
+          "text": "are interdependent: You cannot accept one part without accepting the other."
+        },
+        {
+          "label": "B",
+          "text": "are independent: You can accept either part without accepting the other."
+        },
+        {
+          "label": "C",
+          "text": "are provable from self-evident premises."
+        },
+        {
+          "label": "D",
+          "text": "cannot be justified via rational means."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "For Plato, ordinary sensible objects exist and are knowable as examples or instances of Ideas or \"Forms\" that do not exist in our ordinary sensible world.  Forms do not exist in the sensible world because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the sensible world only mathematical objects (e.g., triangles) can be known using hypotheses which are recollected when we are asked the right kinds of questions."
+        },
+        {
+          "label": "B",
+          "text": "unlike everything in the sensible world, Forms are not individual things but rather the universal essences or natures by which individual things are what they are and are known."
+        },
+        {
+          "label": "C",
+          "text": "nothing in the sensible, experienced world could exist or be identified as one particular thing or another unless there were a \"Sensible World\" Form (like the Form of beauty or justice)."
+        },
+        {
+          "label": "D",
+          "text": "the sensible world consists of changing Forms that exist and are known in terms of other changing Forms, which in turn exist and are known in terms of yet others in an endless regress."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "A moral theory explains _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "why an action is right or wrong"
+        },
+        {
+          "label": "B",
+          "text": "why one moral event caused another"
+        },
+        {
+          "label": "C",
+          "text": "where a moral agent got her values"
+        },
+        {
+          "label": "D",
+          "text": "why people do what they do"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.",
+      "options": [
+        {
+          "label": "A",
+          "text": "secular"
+        },
+        {
+          "label": "B",
+          "text": "nonreligious"
+        },
+        {
+          "label": "C",
+          "text": "religious"
+        },
+        {
+          "label": "D",
+          "text": "pragmatic"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "According to Hume, justice:",
+      "options": [
+        {
+          "label": "A",
+          "text": "has no value."
+        },
+        {
+          "label": "B",
+          "text": "has value in part because it is useful to society."
+        },
+        {
+          "label": "C",
+          "text": "has value solely because it is useful to society."
+        },
+        {
+          "label": "D",
+          "text": "has value solely because it is useful to the agent."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Augustine claims that Academic skepticism:",
+      "options": [
+        {
+          "label": "A",
+          "text": "is true, and can be proven."
+        },
+        {
+          "label": "B",
+          "text": "is true, but cannot be proven"
+        },
+        {
+          "label": "C",
+          "text": "is false but cannot be refuted."
+        },
+        {
+          "label": "D",
+          "text": "is false and can be refuted."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "According to Gauthier, the basis of morality is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "maximizing the utility of all sentient beings."
+        },
+        {
+          "label": "B",
+          "text": "God’s commands."
+        },
+        {
+          "label": "C",
+          "text": "the agreement of rational persons choosing the terms of their interaction."
+        },
+        {
+          "label": "D",
+          "text": "the purposive order of nature."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Aquinas claims that the ultimate perfection of operation is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "delight."
+        },
+        {
+          "label": "B",
+          "text": "peace."
+        },
+        {
+          "label": "C",
+          "text": "pleasure."
+        },
+        {
+          "label": "D",
+          "text": "Godliness."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Critics of the divine command theory have argued that the theory implies that God's commands are _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "well supported"
+        },
+        {
+          "label": "B",
+          "text": "unclear"
+        },
+        {
+          "label": "C",
+          "text": "unknowable"
+        },
+        {
+          "label": "D",
+          "text": "arbitrary"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Nussbaum claims that recent anthropological work has shown that fear is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "partially learned and culturally variant."
+        },
+        {
+          "label": "B",
+          "text": "universally experienced in roughly the same way."
+        },
+        {
+          "label": "C",
+          "text": "not present in certain societies."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Gauthier claims that moral agreements that are equally favorable to all parties are desirable because they:",
+      "options": [
+        {
+          "label": "A",
+          "text": "satisfy our desire for fairness."
+        },
+        {
+          "label": "B",
+          "text": "satisfy the conceptual constraint against exploitation."
+        },
+        {
+          "label": "C",
+          "text": "maximize the productivity of society."
+        },
+        {
+          "label": "D",
+          "text": "invite the stable compliance of everyone."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "In Butler’s view, injustice is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "desires for external goods."
+        },
+        {
+          "label": "B",
+          "text": "love of injustice."
+        },
+        {
+          "label": "C",
+          "text": "ill-will toward others."
+        },
+        {
+          "label": "D",
+          "text": "self-hatred."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "In the Republic, Thrasymachus claims that justice is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "telling the truth and paying one’s debts."
+        },
+        {
+          "label": "B",
+          "text": "doing what pleases the gods."
+        },
+        {
+          "label": "C",
+          "text": "the advantage of the stronger."
+        },
+        {
+          "label": "D",
+          "text": "a harmony of the soul."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Descartes had been disillusioned by his discovery that many of the alleged truths learned in his youth were _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "contrary to his religion"
+        },
+        {
+          "label": "B",
+          "text": "TRUE"
+        },
+        {
+          "label": "C",
+          "text": "FALSE"
+        },
+        {
+          "label": "D",
+          "text": "beyond question"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Anscombe criticizes Butler on the grounds that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "our consciences are fallible."
+        },
+        {
+          "label": "B",
+          "text": "the notion of “legislating for oneself” is absurd."
+        },
+        {
+          "label": "C",
+          "text": "we really can derive an “ought” from an “is.”"
+        },
+        {
+          "label": "D",
+          "text": "the concept of “pleasure” is unclear."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "bioethics"
+        },
+        {
+          "label": "B",
+          "text": "logic"
+        },
+        {
+          "label": "C",
+          "text": "aesthetics"
+        },
+        {
+          "label": "D",
+          "text": "categorical logic"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "In Augustine’s view, lying is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "often permissible if done for the right reasons."
+        },
+        {
+          "label": "B",
+          "text": "not evil in itself, although it can have bad consequences."
+        },
+        {
+          "label": "C",
+          "text": "permissible only in very rare circumstances."
+        },
+        {
+          "label": "D",
+          "text": "never permissible."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "In Hobbes’s view, a law of nature is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a command of God."
+        },
+        {
+          "label": "B",
+          "text": "a principle of duty, known by intuition."
+        },
+        {
+          "label": "C",
+          "text": "a principle, known by reason, which forbids one from doing something destructive of one’s life."
+        },
+        {
+          "label": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "According to Socrates, justice is when a soul is ruled by its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "respect for the law."
+        },
+        {
+          "label": "B",
+          "text": "rational part."
+        },
+        {
+          "label": "C",
+          "text": "desire for honor."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Wolf claims that morality:",
+      "options": [
+        {
+          "label": "A",
+          "text": "is merely a cultural artifact."
+        },
+        {
+          "label": "B",
+          "text": "is not really relevant to our lives."
+        },
+        {
+          "label": "C",
+          "text": "provides a comprehensive guide to conduct."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Aristotle ends the Ethics with a segue to a discussion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "aesthetics."
+        },
+        {
+          "label": "B",
+          "text": "theology."
+        },
+        {
+          "label": "C",
+          "text": "politics."
+        },
+        {
+          "label": "D",
+          "text": "natural science."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "According to Sartre, the first principle of existentialism is that _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "God is dead"
+        },
+        {
+          "label": "B",
+          "text": "man is all-powerful"
+        },
+        {
+          "label": "C",
+          "text": "man is nothing else but what he makes of himself"
+        },
+        {
+          "label": "D",
+          "text": "man is nothing"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "Nagel claims that prior to reflection, it is plausible that people cannot be morally assessed for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "actions that affect only themselves."
+        },
+        {
+          "label": "B",
+          "text": "their character."
+        },
+        {
+          "label": "C",
+          "text": "what is due to factors beyond their control."
+        },
+        {
+          "label": "D",
+          "text": "actions that do not violate anyone’s rights."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Stevenson claims that the primary use of ethical judgments is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "state facts."
+        },
+        {
+          "label": "B",
+          "text": "influence the interests of others."
+        },
+        {
+          "label": "C",
+          "text": "describe one’s own approval of things."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "During his trial, Socrates argues that he would never intentionally corrupt others because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is his duty not to do so."
+        },
+        {
+          "label": "B",
+          "text": "this would make them vicious, and they would then harm him."
+        },
+        {
+          "label": "C",
+          "text": "he would be likely to get caught if he did so."
+        },
+        {
+          "label": "D",
+          "text": "he would not know how."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "According to Ross, we should construct a moral theory by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "constructing logical proofs for moral principles."
+        },
+        {
+          "label": "B",
+          "text": "consulting social conventions."
+        },
+        {
+          "label": "C",
+          "text": "reflecting on what we really think."
+        },
+        {
+          "label": "D",
+          "text": "consulting scripture."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Disagreements about the aesthetic value or social relevance of a piece of art are _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "uncommon"
+        },
+        {
+          "label": "B",
+          "text": "common"
+        },
+        {
+          "label": "C",
+          "text": "vacuous"
+        },
+        {
+          "label": "D",
+          "text": "never serious"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Nussbaum claims that our modern debates about homosexuality:",
+      "options": [
+        {
+          "label": "A",
+          "text": "are continuations of the very same debate about sexual activity that went on in the Greek world."
+        },
+        {
+          "label": "B",
+          "text": "are interminable because there is no objective answer as to whether homosexuality is immoral."
+        },
+        {
+          "label": "C",
+          "text": "are carried out in a manner that is not virtuous."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Before his conversion, what was Tolstoy surrounded by?",
+      "options": [
+        {
+          "label": "A",
+          "text": "what is considered complete happiness"
+        },
+        {
+          "label": "B",
+          "text": "things that no one would want"
+        },
+        {
+          "label": "C",
+          "text": "what is considered heavenly bliss"
+        },
+        {
+          "label": "D",
+          "text": "what is considered deep insight"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "According to Parfit, the obligation to give priority to the welfare of one’s children is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "agent-relative."
+        },
+        {
+          "label": "B",
+          "text": "agent-neutral."
+        },
+        {
+          "label": "C",
+          "text": "absolute."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Kant claims that the moral law is given to each person by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "society."
+        },
+        {
+          "label": "B",
+          "text": "one’s own will."
+        },
+        {
+          "label": "C",
+          "text": "God."
+        },
+        {
+          "label": "D",
+          "text": "Nature."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Butler claims that in the strictest and most proper sense, tofollow nature is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "act as one pleases."
+        },
+        {
+          "label": "B",
+          "text": "act on any of one’s passions."
+        },
+        {
+          "label": "C",
+          "text": "act on one’s strongest passion."
+        },
+        {
+          "label": "D",
+          "text": "act on one’s conscience."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Anscombe claims that it is not profitable to do moral philosophy until we have an adequate philosophy of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "religion."
+        },
+        {
+          "label": "B",
+          "text": "physics."
+        },
+        {
+          "label": "C",
+          "text": "psychology."
+        },
+        {
+          "label": "D",
+          "text": "art."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Singer claims that his conclusions are similar to those of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plato."
+        },
+        {
+          "label": "B",
+          "text": "Aristotle."
+        },
+        {
+          "label": "C",
+          "text": "Thomas Aquinas."
+        },
+        {
+          "label": "D",
+          "text": "Immanuel Kant."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Aesthetics addresses questions that interest _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "only philosophers"
+        },
+        {
+          "label": "B",
+          "text": "only critics"
+        },
+        {
+          "label": "C",
+          "text": "no one"
+        },
+        {
+          "label": "D",
+          "text": "philosophers and nonphilosophers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Philo says the analogy that Cleanthes uses to make his case is _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "too complicated"
+        },
+        {
+          "label": "B",
+          "text": "weak"
+        },
+        {
+          "label": "C",
+          "text": "strong"
+        },
+        {
+          "label": "D",
+          "text": "not based on a legitimate method of reasoning"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Rawls claims that a conception of justice should be justified by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "deducing it from self-evident premises."
+        },
+        {
+          "label": "B",
+          "text": "direct acquaintance via moral intuition."
+        },
+        {
+          "label": "C",
+          "text": "the mutual support of many considerations, which it fits into one coherent view."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Wolf claims that interpreting Kant’s ethics so that it consists of a finite set of constraints:",
+      "options": [
+        {
+          "label": "A",
+          "text": "yields an unattractive picture of moral sainthood."
+        },
+        {
+          "label": "B",
+          "text": "implausibly places an “upper bound” on moral worthiness."
+        },
+        {
+          "label": "C",
+          "text": "yields a theory that is too demanding."
+        },
+        {
+          "label": "D",
+          "text": "transforms the theory into a form of contractarianism."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "In Book II of the Republic, Glaucon claims that justice originates from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a social agreement."
+        },
+        {
+          "label": "B",
+          "text": "nature."
+        },
+        {
+          "label": "C",
+          "text": "the gods."
+        },
+        {
+          "label": "D",
+          "text": "the powerful."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

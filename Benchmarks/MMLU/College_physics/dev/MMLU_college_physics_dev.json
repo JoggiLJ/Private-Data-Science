@@ -1,0 +1,147 @@
+{
+  "version": "mmlu-college-physics-dev-v1",
+  "source": "MMLU (Measuring Massive Multitask Language Understanding), college_physics subject, dev split | dataset cais/mmlu on Hugging Face | exported 2026-07-01.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "correct_label": "A",
+      "split": "dev",
+      "question_word_count": 29,
+      "token_count": 37,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "For which of the following thermodynamic processes is the increase in the internal energy of an ideal gas equal to the heat added to the gas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constant temperature"
+        },
+        {
+          "label": "B",
+          "text": "Constant volume"
+        },
+        {
+          "label": "C",
+          "text": "Constant pressure"
+        },
+        {
+          "label": "D",
+          "text": "Adiabatic"
+        }
+      ],
+      "correct_label": "B",
+      "split": "dev",
+      "question_word_count": 26,
+      "token_count": 28,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "One end of a Nichrome wire of length 2L and cross-sectional area A is attached to an end of another Nichrome wire of length L and cross- sectional area 2A. If the free end of the longer wire is at an electric potential of 8.0 volts, and the free end of the shorter wire is at an electric potential of 1.0 volt, the potential at the junction of the two wires is most nearly equal to",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.4 V"
+        },
+        {
+          "label": "B",
+          "text": "3.3 V"
+        },
+        {
+          "label": "C",
+          "text": "4.5 V"
+        },
+        {
+          "label": "D",
+          "text": "5.7 V"
+        }
+      ],
+      "correct_label": "A",
+      "split": "dev",
+      "question_word_count": 76,
+      "token_count": 93,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        }
+      ],
+      "correct_label": "A",
+      "split": "dev",
+      "question_word_count": 29,
+      "token_count": 37,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "The muon decays with a characteristic lifetime of about 10^-6 second into an electron, a muon neutrino, and an electron antineutrino. The muon is forbidden from decaying into an electron and just a single neutrino by the law of conservation of",
+      "options": [
+        {
+          "label": "A",
+          "text": "charge"
+        },
+        {
+          "label": "B",
+          "text": "mass"
+        },
+        {
+          "label": "C",
+          "text": "energy and momentum"
+        },
+        {
+          "label": "D",
+          "text": "lepton number"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 41,
+      "token_count": 57,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 40.2,
+    "avg_token_count": 50.4,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.159866064786911
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "1": {
+    "Prompt": "\nA certain diet plan claims that subjects lose an average of 20 pounds in 6 months on their plan. A dietitian wishes to test this claim and recruits 15 people to participate in an experiment. Their weight is measured before and after the 6-month period. Which is the appropriate test statistic to test the diet company's claim?\n\na) two-sample Z test\nb) paired comparison t test\nc) two-sample t test\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "b",
+    "Correct label": "b",
+    "Result": "Correct",
+    "Words": 89,
+    "Tokens": 112,
+    "Entropy": "5.98 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "2": {
+    "Prompt": "\nWhich would be more likely to have 70% boys born on a given day: A small rural hospital or a large urban hospital?\n\na) Rural\nb) Urban\nc) Equally likely\nd) Both are extremely unlikely\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "a",
+    "Correct label": "a",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 71,
+    "Entropy": "5.76 [bits/token]",
+    "Topic area": "Probability"
+  },
+  "3": {
+    "Prompt": "\nA student scored in the 90th percentile in his Chemistry class. Which is always true?\n\na) His grade will be an A\nb) He earned at least 90% of the total possible points\nc) His grade is at least as high as 90% of his classmates\nd) None of these are always true\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "c",
+    "Result": "Correct",
+    "Words": 72,
+    "Tokens": 92,
+    "Entropy": "5.77 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "4": {
+    "Prompt": "\nThe following are temperatures for a week in August: 94, 93, 98, 101, 98, 96, and 93. By how much could the highest temperature increase without changing the median?\n\na) Increase by 8\u00b0\nb) Increase by 2\u00b0\nc) It can increase by any amount\nd) It cannot increase without changing the median.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "Answer: b) Increase by 2\u00b0\n\nExplanation:  \nThe temperatures are: 94, 93, 98, 101, 98, 96, 93.  \nFirst, sort them in ascending order: 93, 93, 94, 96, 98, 98, 101.  \nThe median is the 4th value (middle of 7 values), which is 96.\n\nTo keep the median unchanged, the 4th value must remain 96.  \nThe highest temperature is currently 101.  \nWe can increase it as long as the 4th value doesn't change.\n\nIf we increase the highest temperature, it won't affect the 4th value unless it causes a shift in the ordered list.  \nSince the 4th value is 96, and all values below it are \u2264 96,",
+    "Correct label": "c",
+    "Result": "Incorrect",
+    "Words": 71,
+    "Tokens": 103,
+    "Entropy": "5.65 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "5": {
+    "Prompt": "\nA bottling company believes a machine is under-filling 20-ounce bottles. What will be the alternate hypothesis to test this belief?\n\na) On average, the bottles are being filled to 20 ounces.\nb) On average, the bottles are not being filled to 20 ounces.\nc) On average, the bottles are being filled with more than 20 ounces.\nd) On average, the bottles are being filled with less than 20 ounces.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "d",
+    "Correct label": "d",
+    "Result": "Correct",
+    "Words": 88,
+    "Tokens": 116,
+    "Entropy": "5.61 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "6": {
+    "Prompt": "\nWhich of the following statistics is least impacted by extreme outliers?\n\na) Range\nb) 3rd quartile\nc) Mean\nd) Variance\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "d",
+    "Correct label": "b",
+    "Result": "Incorrect",
+    "Words": 39,
+    "Tokens": 56,
+    "Entropy": "5.33 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "7": {
+    "Prompt": "\nA student attended college A for two semesters and earned a 3.24 GPA (grade point average). The same student then attended college B for four semesters and earned a 3.80 GPA for his work there. How would you calculate the student's GPA for all of his college work? Assume that the student took the same number of hours each semester.\n\na) (3.24+3.80)/2\nb) (3.24*2+3.80*4)/2\nc) (3.24*2+3.80*4)/6\nd) It is not possible to claculate the students overall GPA without knowing his GPA for each individual semester.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "c",
+    "Result": "Correct",
+    "Words": 104,
+    "Tokens": 167,
+    "Entropy": "6.07 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "8": {
+    "Prompt": "\nFor the following set of numbers, which measure will most accurately describe the central tendency? 3, 4, 5, 5, 6, 8, 10, 12, 19, 36, 83\n\na) Mean\nb) Median\nc) Mode\nd) Standard deviation\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "b",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 90,
+    "Entropy": "5.27 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "9": {
+    "Prompt": "\nA researcher conducts an experiment and reports a 95% confidence interval for the mean. Which of the following must be true?\n\na) 95% of the measurements can be considered valid\nb) 95% of the measurements will be between the upper and lower limits of the confidence interval\nc) 95% of the time, the experiment will produce an interval that contains the population mean\nd) 5% of the measurements should be considered outliers\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "c",
+    "Result": "Correct",
+    "Words": 91,
+    "Tokens": 116,
+    "Entropy": "5.56 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "10": {
+    "Prompt": "\nThe mean height of American college men is 70 inches, with standard deviation 3 inches. The mean height of American college women is 65 inches, with standard deviation 4 inches. You conduct an experiment at your university measuring the height of 100 American men and 100 American women. Which result would most surprise you?\n\na) One man with height 79 inches\nb) One woman with height 74 inches\nc) The average height of women at your university is 68 inches\nd) The average height of men at your university is 73 inches\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "Answer: d",
+    "Correct label": "d",
+    "Result": "Incorrect",
+    "Words": 111,
+    "Tokens": 139,
+    "Entropy": "5.69 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "11": {
+    "Prompt": "\nA meteorologist predicts a 40% chance of rain in London and a 70% chance in Chicago. What is the most likely outcome?\n\na) It rains only in London\nb) It rains only in Chicago\nc) It rains in London and Chicago\nd) It rains in London or Chicago\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "d",
+    "Correct label": "d",
+    "Result": "Correct",
+    "Words": 67,
+    "Tokens": 86,
+    "Entropy": "5.37 [bits/token]",
+    "Topic area": "Probability"
+  },
+  "12": {
+    "Prompt": "\nYou perform the same two significance tests on large samples from the same population. The two samples have the same mean and the same standard deviation. The first test results in a p-value of 0.01; the second, a p-value of 0.02. The sample mean is equal for the 2 tests. Which test has a larger sample size?\n\na) First test\nb) Second test\nc) Sample sizes equal\nd) Sample sizes are not equal but there is not enough information to determine which sample is larger\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "a",
+    "Correct label": "a",
+    "Result": "Correct",
+    "Words": 104,
+    "Tokens": 132,
+    "Entropy": "6.01 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "13": {
+    "Prompt": "\nWhich statistic would you expect to have a normal distribution? I) Height of women II) Shoe size of men III) Age in years of college freshmen\n\na) I & II\nb) II & III\nc) I & III\nd) All 3\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "a",
+    "Correct label": "a",
+    "Result": "Correct",
+    "Words": 60,
+    "Tokens": 78,
+    "Entropy": "5.48 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "14": {
+    "Prompt": "\nYou have a set of 30 numbers. The standard deviation from these numbers is reported as zero. You can be certain that:\n\na) Half of the numbers are above the mean\nb) All of the numbers in the set are zero\nc) All of the numbers in the set are equal\nd) The numbers are evenly spaced on both sides of the mean\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "c",
+    "Result": "Correct",
+    "Words": 82,
+    "Tokens": 98,
+    "Entropy": "5.52 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "15": {
+    "Prompt": "\nIn order to determine the mean height of American college students, which sampling method would not introduce bias?\n\na) You randomly select from the university basketball team\nb) You use a random number table to select students based on their student ID\nc) You roll a pair of dice to select from among your friends\nd) None of the methods will have bias\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "b",
+    "Result": "Correct",
+    "Words": 82,
+    "Tokens": 96,
+    "Entropy": "5.94 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "16": {
+    "Prompt": "\nA scientist takes a set of 50 measurements. The standard deviation is reported as -2.30. Which of the following must be true?\n\na) Most of the measurements were negative\nb) All of the measurements are less than the mean\nc) All of the measurements were negative\nd) The standard deviation was calculated incorrectly\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "d",
+    "Result": "Correct",
+    "Words": 72,
+    "Tokens": 91,
+    "Entropy": "5.59 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "17": {
+    "Prompt": "\nIn a manufacturing process, the error rate is 1 in 1000. However, errors often occur in groups, that is, they are not independent. Given that the previous output contained an error, what is the probability that the next unit will also contain an error?\n\na) Less than 1 in 1000\nb) Greater than 1 in 1000\nc) Equal to 1 in 1000\nd) Insufficient information\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "b",
+    "Correct label": "b",
+    "Result": "Correct",
+    "Words": 84,
+    "Tokens": 117,
+    "Entropy": "5.76 [bits/token]",
+    "Topic area": "Probability"
+  },
+  "18": {
+    "Prompt": "\nFor the past 100 years, the average high temperature on October 1 is 78\u00b0 with a standard deviation of 5\u00b0. What is the probability that the high temperature on October 1 of next year will be between 73\u00b0 and 83\u00b0?\n\na) 0.68\nb) 0.95\nc) 0.997\nd) 1\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "Answer: a) 0.68",
+    "Correct label": "a",
+    "Result": "Incorrect",
+    "Words": 67,
+    "Tokens": 103,
+    "Entropy": "5.51 [bits/token]",
+    "Topic area": "Probability"
+  },
+  "19": {
+    "Prompt": "\nYou are rolling dice. You roll 2 dice and compute the mean of the numbers rolled, then 6 dice and compute the mean, then 10 dice and compute the mean. Under which scenario would you be most surprised to find a mean of at least 4.5?\n\na) Rolling 2 dice\nb) Rolling 6 dice\nc) Rolling 10 dice\nd) There is no way this can happen\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "Answer: a",
+    "Correct label": "c",
+    "Result": "Incorrect",
+    "Words": 85,
+    "Tokens": 111,
+    "Entropy": "5.67 [bits/token]",
+    "Topic area": "Probability"
+  },
+  "20": {
+    "Prompt": "\nTwo confidence intervals are calculated for two samples from a given population. Assume the two samples have the same standard deviation and that the confidence level is fixed. Compared to the smaller sample, the confidence interval for the larger sample will be:\n\na) Narrower\nb) Wider\nc) The same width\nd) It depends on the confidence level\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "a",
+    "Correct label": "a",
+    "Result": "Correct",
+    "Words": 76,
+    "Tokens": 94,
+    "Entropy": "5.75 [bits/token]",
+    "Topic area": "Inferential"
+  },
+  "21": {
+    "Prompt": "\nInformation about different car models is routinely printed in public sources such as Consumer Reports and new car buying guides. Data was obtained from these sources on 1993 models of cars. For each car, engine size in liters was compared to the number of engine revolutions per mile. The correlation between the two was found to be -0.824. Which of the following statements would you most agree with?\n\na) A car with a large engine size would be predicted to have a high number of engine revolutions per mile.\nb) A car with a large engine size would be predicted to have a low number of engine revolutions per mile.\nc) Engine size is a poor predictor of engine revolutions per mile.\nd) Engine size is independent of revolutions per mile.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "b",
+    "Result": "Correct",
+    "Words": 150,
+    "Tokens": 173,
+    "Entropy": "6.18 [bits/token]",
+    "Topic area": "Descriptive"
+  },
+  "Accuracy": "16/21, 76.19%"
+}

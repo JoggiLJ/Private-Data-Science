@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_physics_validation",
+  "description": "MMLU-Pro benchmark items, category: physics, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 10,
+      "text": "Say the pupil of your eye has a diameter of 5 mm and you have a telescope with an aperture of 50 cm. How much more light can the telescope gather than your eye?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1000 times more"
+        },
+        {
+          "label": "B",
+          "text": "50 times more"
+        },
+        {
+          "label": "C",
+          "text": "5000 times more"
+        },
+        {
+          "label": "D",
+          "text": "500 times more"
+        },
+        {
+          "label": "E",
+          "text": "10000 times more"
+        },
+        {
+          "label": "F",
+          "text": "20000 times more"
+        },
+        {
+          "label": "G",
+          "text": "2000 times more"
+        },
+        {
+          "label": "H",
+          "text": "100 times more"
+        },
+        {
+          "label": "I",
+          "text": "10 times more"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "E",
+      "split": "validation"
+    },
+    {
+      "item_id": 11,
+      "text": "Where do most short-period comets come from and how do we know?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Kuiper belt; short period comets tend to be in the plane of the solar system just like the Kuiper belt."
+        },
+        {
+          "label": "B",
+          "text": "The asteroid belt; short period comets tend to come from random directions indicating a spherical distribution of comets called the asteroid belt."
+        },
+        {
+          "label": "C",
+          "text": "The asteroid belt; short period comets tend to be in the plane of the solar system just like the asteroid belt."
+        },
+        {
+          "label": "D",
+          "text": "The Oort cloud; short period comets have orbital periods similar to asteroids like Vesta and are found in the plane of the solar system just like the Oort cloud."
+        },
+        {
+          "label": "E",
+          "text": "The Oort Cloud; short period comets tend to come from random directions indicating a spherical distribution of comets called the Oort Cloud."
+        },
+        {
+          "label": "F",
+          "text": "The Oort cloud; short period comets tend to be in the plane of the solar system just like the Oort cloud."
+        },
+        {
+          "label": "G",
+          "text": "The asteroid belt; short period comets have orbital periods similar to asteroids like Vesta and are found in the plane of the solar system just like the asteroid belt."
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 12,
+      "text": "A refracting telescope consists of two converging lenses separated by 100 cm. The eye-piece lens has a focal length of 20 cm. The angular magnification of the telescope is",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "40"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        },
+        {
+          "label": "E",
+          "text": "15"
+        },
+        {
+          "label": "F",
+          "text": "50"
+        },
+        {
+          "label": "G",
+          "text": "30"
+        },
+        {
+          "label": "H",
+          "text": "4"
+        },
+        {
+          "label": "I",
+          "text": "5"
+        },
+        {
+          "label": "J",
+          "text": "20"
+        }
+      ],
+      "correct_label": "H",
+      "split": "validation"
+    },
+    {
+      "item_id": 13,
+      "text": "Colors in a soap bubble result from light",
+      "options": [
+        {
+          "label": "A",
+          "text": "dispersion"
+        },
+        {
+          "label": "B",
+          "text": "deflection"
+        },
+        {
+          "label": "C",
+          "text": "refraction"
+        },
+        {
+          "label": "D",
+          "text": "reflection"
+        },
+        {
+          "label": "E",
+          "text": "interference"
+        },
+        {
+          "label": "F",
+          "text": "converted to a different frequency"
+        },
+        {
+          "label": "G",
+          "text": "polarization"
+        },
+        {
+          "label": "H",
+          "text": "absorption"
+        },
+        {
+          "label": "I",
+          "text": "diffraction"
+        },
+        {
+          "label": "J",
+          "text": "transmission"
+        }
+      ],
+      "correct_label": "E",
+      "split": "validation"
+    },
+    {
+      "item_id": 14,
+      "text": "A microwave oven is connected to an outlet, 120 V, and draws a current of 2 amps. At what rate is energy being used by the microwave oven?",
+      "options": [
+        {
+          "label": "A",
+          "text": "240 W"
+        },
+        {
+          "label": "B",
+          "text": "120 W"
+        },
+        {
+          "label": "C",
+          "text": "10 W"
+        },
+        {
+          "label": "D",
+          "text": "480 W"
+        },
+        {
+          "label": "E",
+          "text": "360 W"
+        },
+        {
+          "label": "F",
+          "text": "200 W"
+        },
+        {
+          "label": "G",
+          "text": "30 W"
+        },
+        {
+          "label": "H",
+          "text": "150 W"
+        },
+        {
+          "label": "I",
+          "text": "60 W"
+        },
+        {
+          "label": "J",
+          "text": "300 W"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    }
+  ]
+}

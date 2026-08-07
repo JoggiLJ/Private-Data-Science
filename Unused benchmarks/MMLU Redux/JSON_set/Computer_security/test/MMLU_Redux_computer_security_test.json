@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_computer_security_test",
+  "description": "Computer security multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — computer_security subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which of the following is an authentication method?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secret question"
+        },
+        {
+          "label": "B",
+          "text": "Biometric"
+        },
+        {
+          "label": "C",
+          "text": "SMS code"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Message authentication is a service beyond",
+      "options": [
+        {
+          "label": "A",
+          "text": "Message Condentiality"
+        },
+        {
+          "label": "B",
+          "text": "Message Integrity"
+        },
+        {
+          "label": "C",
+          "text": "Message Splashing"
+        },
+        {
+          "label": "D",
+          "text": "Message Sending"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "A sender must not be able to deny sending a message that was sent, is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Message Nonrepudiation"
+        },
+        {
+          "label": "B",
+          "text": "Message Integrity"
+        },
+        {
+          "label": "C",
+          "text": "Message Condentiality"
+        },
+        {
+          "label": "D",
+          "text": "Message Sending"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "When the data must arrive at the receiver exactly as they were sent, its called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Message Condentiality"
+        },
+        {
+          "label": "B",
+          "text": "Message Integrity"
+        },
+        {
+          "label": "C",
+          "text": "Message Splashing"
+        },
+        {
+          "label": "D",
+          "text": "Message Sending"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "The AH Protocol provides source authentication and data integrity, but not",
+      "options": [
+        {
+          "label": "A",
+          "text": "Integrity"
+        },
+        {
+          "label": "B",
+          "text": "Privacy"
+        },
+        {
+          "label": "C",
+          "text": "Nonrepudiation"
+        },
+        {
+          "label": "D",
+          "text": "Both A & C"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "___________________ is alike as that of Access Point (AP) from 802.11, & the mobile operators uses it for offering signal coverage.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Base Signal Station"
+        },
+        {
+          "label": "B",
+          "text": "Base Transmitter Station"
+        },
+        {
+          "label": "C",
+          "text": "Base Transceiver Station"
+        },
+        {
+          "label": "D",
+          "text": "Transceiver Station"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "___________________ began to show up few years back on wireless access points as a new way of adding or connecting new devices.",
+      "options": [
+        {
+          "label": "A",
+          "text": "WPA2"
+        },
+        {
+          "label": "B",
+          "text": "WPA"
+        },
+        {
+          "label": "C",
+          "text": "WPS"
+        },
+        {
+          "label": "D",
+          "text": "WEP"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Which of the following is not an example of presentation layer issues?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Poor handling of unexpected input can lead to the execution of arbitrary instructions"
+        },
+        {
+          "label": "B",
+          "text": "Unintentional or ill-directed use of superficially supplied input"
+        },
+        {
+          "label": "C",
+          "text": "Cryptographic flaws in the system may get exploited to evade privacy"
+        },
+        {
+          "label": "D",
+          "text": "Weak or non-existent authentication mechanisms"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Failed sessions allow brute-force attacks on access credentials. This type of attacks are done in which layer of the OSI model?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physical layer"
+        },
+        {
+          "label": "B",
+          "text": "Data-link Layer"
+        },
+        {
+          "label": "C",
+          "text": "Session layer"
+        },
+        {
+          "label": "D",
+          "text": "Presentation layer"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Let F: K \\times R \\to MF:K×R→M be a secure PRF. For m \\in Mm∈M define E(k,m) = \\big[ r \\gets R,\\ \\text{output } \\big(r,\\ F(k,r) \\oplus m\\big)\\ \\big]E(k,m)=[r←R, output (r, F(k,r)⊕m) ] Is EE symantically secure under CPA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, whenever F is a secure PRF"
+        },
+        {
+          "label": "B",
+          "text": "No, there is always a CPA attack on this system"
+        },
+        {
+          "label": "C",
+          "text": "Yes, but only if R is large enough so r never repeats (w.h.p)"
+        },
+        {
+          "label": "D",
+          "text": "It depends on what F is used"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "You are given a message (m) and its OTP encryption (c). Can you compute the OTP key from m and c ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No, I cannot compute the key."
+        },
+        {
+          "label": "B",
+          "text": "Yes, the key is k = m xor c."
+        },
+        {
+          "label": "C",
+          "text": "I can only compute half the bits of the key."
+        },
+        {
+          "label": "D",
+          "text": "Yes, the key is k = m xor m."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Let I = (S,V)I=(S,V) be a MAC. Suppose S(k,m)S(k,m) is always 5 bits long. Can this MAC be secure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No, an attacker can simply guess the tag for messages"
+        },
+        {
+          "label": "B",
+          "text": "It depends on the details of the MAC"
+        },
+        {
+          "label": "C",
+          "text": "Yes, the attacker cannot generate a valid tag for any message"
+        },
+        {
+          "label": "D",
+          "text": "Yes, the PRG is pseudorandom"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\r\n1. It would be impossible for services to get a TCP connection to the client web browser.\r\n2. It would be impossible for okd to run as a non-root user.",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Suppose Unix did not provide a way of passing file descriptors between processes, but still allowed inheriting file descriptors from a parent on fork and exec. What aspects of the OKWS design would break without file descriptor passing?\r\n1. It would be impossible for services to send messages to oklogd.\r\n2. It would be impossible for services to get a TCP connection to a database proxy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\r\n1. An attacker replacing bytes sent by a client with bytes of the attacker’s own choosing.\r\n2. An attacker reading the plaintext bytes sent by a client.",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\r\n1. RS and KM\r\n2. RS and MR",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Assume that a TLS connection has been established successfully between a client and a server. Establishing the session included checking the server certificate and executing a DiffieHelmann exchange, but the client did not provide a client certificate. Further, assume that the client and server are honest, that the client and server don’t leak their keys, and that the cryptography is good. Which of the following attacks does TLS protect against?\r\n1. An attacker replaying bytes that a client sent earlier.\r\n2. An attacker impersonating the server.",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "The openSSL implementation described in “Remote Timing Attacks are Practical” (by Brumley and Boneh) uses the following performance optimizations: Chinese Remainder (CR), Montgomery Representation (MR), Karatsuba Multiplication (KM), and Repeated squaring and Sliding windows (RS). Which of the following options would close the timing channel attack described in the paper if you turned the listed optimizations off?\r\n1. CR and MR\r\n2. CR",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Suppose that Alice and Bob sent confidential text messages to one another last month through an encrypted messaging system. Alice and Bob are worried that an adversary might compromise one of their computers today, while they are taking the 6.858 final exam, and would then be able to decrypt those messages. Which of the following security properties can address Alice and Bob’s concern?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Authentication."
+        },
+        {
+          "label": "B",
+          "text": "Deniability."
+        },
+        {
+          "label": "C",
+          "text": "Forward secrecy"
+        },
+        {
+          "label": "D",
+          "text": "Backward secrecy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "In Brumley and Boneh’s paper on side-channel attacks, why does blinding prevent the timing attack from working?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blinding prevents the server from using the CRT optimization, which is essential to the timing attack."
+        },
+        {
+          "label": "B",
+          "text": "Blinding changes the p and q primes that are used, so an adversary cannot learn the server’s true p and q values."
+        },
+        {
+          "label": "C",
+          "text": "Blinding randomizes the ciphertext being decrypted, thus obscuring the correlation between an adversary’s input and the timing differences."
+        },
+        {
+          "label": "D",
+          "text": "Blinding adds a random amount of time to the decryption due to the multiplication and division by the blinding random value r, which obscures the timing differences used in the attack."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "What does EXE do when the STP solver times out on a constraint query for a particular path?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assume that the query is satisfiable and continue executing the path."
+        },
+        {
+          "label": "B",
+          "text": "Assume that the query is not satisfiable and stop executing the path"
+        },
+        {
+          "label": "C",
+          "text": "Restart STP and retry the query, up to a limited number of retries."
+        },
+        {
+          "label": "D",
+          "text": "Remove a subset of the constraints and retry the query."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "MIT’s Kerberos KDC server has a maximum ticket lifetime of 24 hours (for most user principals). What ensures that an expired Kerberos ticket can no longer be used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Kerberos server (KDC) refuses to establish new connections between clients and servers for expired tickets."
+        },
+        {
+          "label": "B",
+          "text": "When a client connects to a server, the server sets a 24-hour timer to terminate the connection, which ensures a client cannot remain connected past the ticket’s maximum lifetime."
+        },
+        {
+          "label": "C",
+          "text": "When a client connects to a server, the server compares the ticket’s expiration time to the server’s current clock, and refuses to authenticate the user if the ticket expiration time is in the past."
+        },
+        {
+          "label": "D",
+          "text": "When a client connects to a server, the server sends a query to the KDC to check if the ticket is still valid with respect to the KDC’s clock, and refuses to authenticate the user if the KDC reports that the ticket is expired."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Statement 1| A U2F USB dongle prevents malware on the user’s computer from stealing the user’s second factor to authenticate as that user even when the user’s computer is turned off. Statement 2| A server using U2F can reliably determine that the user who is attempting to login is indeed behind the computer that sent the login request.",
+      "options": [
+        {
+          "label": "A",
+          "text": "True, True"
+        },
+        {
+          "label": "B",
+          "text": "False, False"
+        },
+        {
+          "label": "C",
+          "text": "True, False"
+        },
+        {
+          "label": "D",
+          "text": "False, True"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Based on the paper “Click Trajectories: End-to-End Analysis of the Spam Value Chain”, which of the following statements are true? “Spammers” here refer to operators of various parts of the “spam value chain.”",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spammers run their spam-advertised web sites on compromised user machines that are part of a botnet."
+        },
+        {
+          "label": "B",
+          "text": "Spammers need to register domain names in order for their spam-based advertisements to be effective."
+        },
+        {
+          "label": "C",
+          "text": "There is a high cost for spammers to switch acquiring banks."
+        },
+        {
+          "label": "D",
+          "text": "B and C"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Based on the paper “SoK: SSL and HTTPS: Revisiting past challenges and evaluating certificates trust model enhancements”, which of the following statements are false?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valid DV certificates provide more confidence to a user that she is connecting to the intended party than valid EV certificates."
+        },
+        {
+          "label": "B",
+          "text": "OCSP stapling allows a server to prove to a browser that its certificate hasn’t been revoked."
+        },
+        {
+          "label": "C",
+          "text": "DANE makes it difficult for an adversary to launch a SSL stripping attack."
+        },
+        {
+          "label": "D",
+          "text": "Server key-pinning makes it harder for an adversary to convince a CA to mint a certificate for a site and launch an MITM attack on that site."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Consider the paper Native Client: A Sandbox for Portable, Untrusted x86 Native Code by Yee et al. Ben Bitdiddle notes that NaCl uses Intel x86 segmentation to ensure that the sandboxed module does not read or write memory outside its own data area, and does not execute instructions outside its own code. Ben thinks that with these restrictions alone, executing the sandboxed module must be safe; that is, he thinks validation is not needed. Ben is wrong. Circle the types of x86 machine instructions that the validator always forbids in sandboxed code. Please ignore trampoline and springboard code.",
+      "options": [
+        {
+          "label": "A",
+          "text": "all instructions that modify segment state"
+        },
+        {
+          "label": "B",
+          "text": "all loads or stores to addresses that are not 0 mod 32"
+        },
+        {
+          "label": "C",
+          "text": "all indirect loads or stores (via an address in a register or variable)"
+        },
+        {
+          "label": "D",
+          "text": "all indirect jumps (via an address in a register or variable)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "What is Nmap?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a scanner which works by injecting packets to a range of addresses, and inferring what hosts and services might be at those addresses, based on the responses"
+        },
+        {
+          "label": "B",
+          "text": "It is a network fuzz testing tool"
+        },
+        {
+          "label": "C",
+          "text": "It is a map of the Internet"
+        },
+        {
+          "label": "D",
+          "text": "It is a suite of tools for scripting attacks: probe, construct, encode, inject, wait for response"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "What is a web proxy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A piece of software that intercepts and possibly modifies requests (and responses) between a web browser and web server"
+        },
+        {
+          "label": "B",
+          "text": "An agent that makes decisions on the client's behalf when interacting with web applications"
+        },
+        {
+          "label": "C",
+          "text": "A piece of software that makes a web application look like a standalone application, making it easier to test"
+        },
+        {
+          "label": "D",
+          "text": "A simulator for the web, for use when off-line"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Man in the middle attack can endanger the security of Diffie Hellman method if two parties are not",
+      "options": [
+        {
+          "label": "A",
+          "text": "Joined"
+        },
+        {
+          "label": "B",
+          "text": "Authenticated"
+        },
+        {
+          "label": "C",
+          "text": "Submitted"
+        },
+        {
+          "label": "D",
+          "text": "Shared"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Which of the following are benefits of penetration testing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Results are often reproducible"
+        },
+        {
+          "label": "B",
+          "text": "Full evidence of security: a clean test means a secure system"
+        },
+        {
+          "label": "C",
+          "text": "Compositionality of security properties means tested components are secure even if others change"
+        },
+        {
+          "label": "D",
+          "text": "Makes an adversarial neural network converge more quickly"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following is not a transport layer vulnerability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mishandling of undefined, poorly defined variables"
+        },
+        {
+          "label": "B",
+          "text": "The Vulnerability that allows “fingerprinting” & other enumeration of host information"
+        },
+        {
+          "label": "C",
+          "text": "Overloading of transport-layer mechanisms"
+        },
+        {
+          "label": "D",
+          "text": "Unauthorized network access"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Public key encryption is advantageous over Symmetric key Cryptography because of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed"
+        },
+        {
+          "label": "B",
+          "text": "Space"
+        },
+        {
+          "label": "C",
+          "text": "Key exchange"
+        },
+        {
+          "label": "D",
+          "text": "Key length"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "A digital signature needs a",
+      "options": [
+        {
+          "label": "A",
+          "text": "Private-key system"
+        },
+        {
+          "label": "B",
+          "text": "Shared-key system"
+        },
+        {
+          "label": "C",
+          "text": "Public-key system"
+        },
+        {
+          "label": "D",
+          "text": "All of them"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following does authorization aim to accomplish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Restrict what operations/data the user can access"
+        },
+        {
+          "label": "B",
+          "text": "Determine if the user is an attacker"
+        },
+        {
+          "label": "C",
+          "text": "Flag the user if he/she misbehaves"
+        },
+        {
+          "label": "D",
+          "text": "Determine who the user is"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of the following are most vulnerable to injection attacks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Session IDs"
+        },
+        {
+          "label": "B",
+          "text": "Registry keys"
+        },
+        {
+          "label": "C",
+          "text": "Network communications"
+        },
+        {
+          "label": "D",
+          "text": "SQL queries based on user input"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Which of the following is not a block cipher operating mode?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ECB"
+        },
+        {
+          "label": "B",
+          "text": "CFB"
+        },
+        {
+          "label": "C",
+          "text": "CBF"
+        },
+        {
+          "label": "D",
+          "text": "CBC"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "The four Primary Security Principles related to messages are",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confidentiality, Integrity, Non repudiation and Authentication"
+        },
+        {
+          "label": "B",
+          "text": "Confidentiality, Access Control, Integrity, Non repudiation"
+        },
+        {
+          "label": "C",
+          "text": "Authentication, Authorization, Availability, Integrity"
+        },
+        {
+          "label": "D",
+          "text": "Availability, Authorization, Confidentiality, Integrity"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Which of the following is not a security exploit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eavesdropping"
+        },
+        {
+          "label": "B",
+          "text": "Cross-site scripting"
+        },
+        {
+          "label": "C",
+          "text": "Authentication"
+        },
+        {
+          "label": "D",
+          "text": "SQL Injection"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Can a stream cipher have perfect secrecy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, if the PRG is really “secure”"
+        },
+        {
+          "label": "B",
+          "text": "No, there are no ciphers with perfect secrecy"
+        },
+        {
+          "label": "C",
+          "text": "Yes, every cipher has perfect secrecy"
+        },
+        {
+          "label": "D",
+          "text": "No, since the key is shorter than the message"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "What are the port states determined by Nmap?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Active, inactive, standby"
+        },
+        {
+          "label": "B",
+          "text": "Open, half-open, closed "
+        },
+        {
+          "label": "C",
+          "text": "Open, filtered, unfiltered"
+        },
+        {
+          "label": "D",
+          "text": "Active, closed, unused"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Why apps developed in languages like C, C++ is prone to Buffer-overflow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No string boundary checks in predefined functions"
+        },
+        {
+          "label": "B",
+          "text": "No storage check in the external memory"
+        },
+        {
+          "label": "C",
+          "text": "No processing power check"
+        },
+        {
+          "label": "D",
+          "text": "No database check"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "The stack is memory for storing",
+      "options": [
+        {
+          "label": "A",
+          "text": "Local variables"
+        },
+        {
+          "label": "B",
+          "text": "Program code"
+        },
+        {
+          "label": "C",
+          "text": "Dynamically linked libraries"
+        },
+        {
+          "label": "D",
+          "text": "Global variables"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "When does a buffer overflow occur, generally speaking?",
+      "options": [
+        {
+          "label": "A",
+          "text": "when writing to a pointer that has been freed"
+        },
+        {
+          "label": "B",
+          "text": "when copying a buffer from the stack to the heap"
+        },
+        {
+          "label": "C",
+          "text": "when a pointer is used to access memory not allocated to it"
+        },
+        {
+          "label": "D",
+          "text": "when the program notices a buffer has filled up, and so starts to reject requests"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "How does a buffer overflow on the stack facilitate running attacker-injected code?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By overwriting the return address to point to the location of that code"
+        },
+        {
+          "label": "B",
+          "text": "By writing directly to the instruction pointer register the address of the code"
+        },
+        {
+          "label": "C",
+          "text": "By writing directly to %eax the address of the code"
+        },
+        {
+          "label": "D",
+          "text": "By changing the name of the running executable, stored on the stack"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Why is it that the compiler does not know the absolute address of a local variable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Programs are not allowed to reference memory using absolute addresses"
+        },
+        {
+          "label": "B",
+          "text": "The size of the address depends on the architecture the program will run on"
+        },
+        {
+          "label": "C",
+          "text": "As a stack-allocated variable, it could have different addresses depending on when its containing function is called"
+        },
+        {
+          "label": "D",
+          "text": "Compiler writers are not very good at that sort of thing"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "What was the first buffer overflow attack?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Love Bug"
+        },
+        {
+          "label": "B",
+          "text": "SQL Slammer"
+        },
+        {
+          "label": "C",
+          "text": "Morris Worm"
+        },
+        {
+          "label": "D",
+          "text": "Code Red"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Three of the following are classic security properties; which one is not?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confidentiality"
+        },
+        {
+          "label": "B",
+          "text": "Availability"
+        },
+        {
+          "label": "C",
+          "text": "Correctness"
+        },
+        {
+          "label": "D",
+          "text": "Integrity"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "An integer overflow occurs when",
+      "options": [
+        {
+          "label": "A",
+          "text": "an integer expression's result \"wraps around\"; instead of creating a very large number, a very small (or negative) number ends up getting created"
+        },
+        {
+          "label": "B",
+          "text": "an integer is used as if it was a pointer"
+        },
+        {
+          "label": "C",
+          "text": "an integer is used to access a buffer outside of the buffer's bounds"
+        },
+        {
+          "label": "D",
+          "text": "there is no more space to hold integers in the program"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Which of the following is true of mutation-based fuzzing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It generates each different input by modifying a prior input"
+        },
+        {
+          "label": "B",
+          "text": "It works by making small mutations to the target program to induce faults"
+        },
+        {
+          "label": "C",
+          "text": "Each input is mutation that follows a given grammar"
+        },
+        {
+          "label": "D",
+          "text": "It only makes sense for file-based fuzzing, not network-based fuzzing"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "What does it mean to \"be stealthy\" during a penetration test?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Performing the tests from an undisclosed location"
+        },
+        {
+          "label": "B",
+          "text": "Using encryption during tests to make the source of attacks impossible to determine"
+        },
+        {
+          "label": "C",
+          "text": "Performing penetration testing without the target organization knowing"
+        },
+        {
+          "label": "D",
+          "text": "Taking care to avoid activities during a penetration test that might attract attention, e.g., by operators or IDS services"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Which of the following styles of fuzzer is more likely to explore paths covering every line of code in the following program?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Generational"
+        },
+        {
+          "label": "B",
+          "text": "Blackbox"
+        },
+        {
+          "label": "C",
+          "text": "Whitebox"
+        },
+        {
+          "label": "D",
+          "text": "Mutation-based"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Suppose you want to use fuzzing on a program to try to find memory errors; which of the following statements is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You should not use a grammar-based fuzzer, because its adherence to the grammar means it will not find memory errors"
+        },
+        {
+          "label": "B",
+          "text": "Compiling the program with address sanitizer (ASAN) will make errors harder to reproduce"
+        },
+        {
+          "label": "C",
+          "text": "Compiling the program with address sanitizer (ASAN) will make the source of a memory error easier to find"
+        },
+        {
+          "label": "D",
+          "text": "Fuzzing doesn't find memory errors, it finds crashes and hangs"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "1. _________ framework made cracking of vulnerabilities easy like point and click.",
+      "options": [
+        {
+          "label": "A",
+          "text": ".Net"
+        },
+        {
+          "label": "B",
+          "text": "Metasploit"
+        },
+        {
+          "label": "C",
+          "text": "Zeus"
+        },
+        {
+          "label": "D",
+          "text": "Ettercap"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "What is a nop sled",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an anonymous version of a mop sled"
+        },
+        {
+          "label": "B",
+          "text": "It is a sequence of nops preceding injected shellcode, useful when the return address is unknown"
+        },
+        {
+          "label": "C",
+          "text": "It is a method of removing zero bytes from shellcode"
+        },
+        {
+          "label": "D",
+          "text": "It is another name for a branch instruction at the end of sequence of nops"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The __________ was a huge marketplace of Dark Web specifically famous for selling of illegal drugs & narcotics as well as you can find a wide range of other goods for sale.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silk Road"
+        },
+        {
+          "label": "B",
+          "text": "Cotton Road"
+        },
+        {
+          "label": "C",
+          "text": "Dark Road"
+        },
+        {
+          "label": "D",
+          "text": "Drug Road"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "A session symmetric key between two parties is used",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only once"
+        },
+        {
+          "label": "B",
+          "text": "Twice"
+        },
+        {
+          "label": "C",
+          "text": "Multiple times"
+        },
+        {
+          "label": "D",
+          "text": "Conditions dependant"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Why would a ping sweep be used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To identify live systems"
+        },
+        {
+          "label": "B",
+          "text": "To locate live systems"
+        },
+        {
+          "label": "C",
+          "text": "To identify open ports"
+        },
+        {
+          "label": "D",
+          "text": "To locate firewalls"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "The Message condentiality or privacy means that the sender and the receiver expect",
+      "options": [
+        {
+          "label": "A",
+          "text": "Integrity"
+        },
+        {
+          "label": "B",
+          "text": "Condentiality"
+        },
+        {
+          "label": "C",
+          "text": "Authentication"
+        },
+        {
+          "label": "D",
+          "text": "Nonrepudiation"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "What are the types of scanning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Port, network, and services"
+        },
+        {
+          "label": "B",
+          "text": "Network, vulnerability, and port "
+        },
+        {
+          "label": "C",
+          "text": "Passive, active, and interactive"
+        },
+        {
+          "label": "D",
+          "text": "Server, client, and network"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Which Nmap scan is does not completely open a TCP connection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SYN stealth scan"
+        },
+        {
+          "label": "B",
+          "text": "TCP connect"
+        },
+        {
+          "label": "C",
+          "text": "XMAS tree scan"
+        },
+        {
+          "label": "D",
+          "text": "ACK scan"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "How do you prevent SQL injection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Escape queries"
+        },
+        {
+          "label": "B",
+          "text": "Interrupt requests"
+        },
+        {
+          "label": "C",
+          "text": "Merge tables"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "A proxy rewall lters at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physical layer"
+        },
+        {
+          "label": "B",
+          "text": "Application layer"
+        },
+        {
+          "label": "C",
+          "text": "Data link layer"
+        },
+        {
+          "label": "D",
+          "text": "Network layer"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "What tool can be used to perform SNMP enumeration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "DNSlookup"
+        },
+        {
+          "label": "B",
+          "text": "Whois"
+        },
+        {
+          "label": "C",
+          "text": "Nslookup"
+        },
+        {
+          "label": "D",
+          "text": "IP Network Browser"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Encryption and decryption provide secrecy, or condentiality, but not",
+      "options": [
+        {
+          "label": "A",
+          "text": "Authentication"
+        },
+        {
+          "label": "B",
+          "text": "Integrity"
+        },
+        {
+          "label": "C",
+          "text": "Privacy"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Which form of encryption does WPA use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shared key"
+        },
+        {
+          "label": "B",
+          "text": "LEAP"
+        },
+        {
+          "label": "C",
+          "text": "TKIP"
+        },
+        {
+          "label": "D",
+          "text": "AES"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Encapsulating Security Payload (ESP) belongs to which Internet Security Protocol?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secure Socket Layer Protocol"
+        },
+        {
+          "label": "B",
+          "text": "Secure IP Protocol"
+        },
+        {
+          "label": "C",
+          "text": "Secure Http Protocol"
+        },
+        {
+          "label": "D",
+          "text": "Transport Layer Security Protocol"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "What is a replay attack?",
+      "options": [
+        {
+          "label": "A",
+          "text": "When the attacker replies to a message sent to it by the system"
+        },
+        {
+          "label": "B",
+          "text": "An attack that continuously repeats, probing for a weakness"
+        },
+        {
+          "label": "C",
+          "text": "An attack that uses the system's own messages and so cannot be defended against"
+        },
+        {
+          "label": "D",
+          "text": "The attacker resends a captured message, and the site accept its and responds in the attacker's favor"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Let HH be a Merkle-Damgard hash function is H:X^{\\leq L} \\to TH:X^≤L  →T. Construct a MAC from this HH as follows: \\ \\ S(k,m) = H(k \\| m)  S(k,m)=H(k∥m). This mac is insecure because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Given H(k \\| m)H(k∥m) anyone can compute H(w \\| k \\| m \\| \\text{PB})H(w∥k∥m∥PB) for any ww"
+        },
+        {
+          "label": "B",
+          "text": "Given H(k \\| m)H(k∥m) anyone can compute H(k \\| m \\| w)H(k∥m∥w) for any ww"
+        },
+        {
+          "label": "C",
+          "text": "Given H(k \\| m)H(k∥m) anyone can compute H(k \\| m \\| \\text{PB} \\| w)H(k∥m∥PB∥w) for any ww"
+        },
+        {
+          "label": "D",
+          "text": "Anyone can compute H( k \\| m )H(k∥m) for any mm"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "To verify a digital signature we need the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sender’s Private key"
+        },
+        {
+          "label": "B",
+          "text": "Sender’s Public key"
+        },
+        {
+          "label": "C",
+          "text": "Receiver’s Private key"
+        },
+        {
+          "label": "D",
+          "text": "Receiver’s Public key"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "What is the difference between a direct leak and a side channel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A direct leak creates a denial of service by failing to free memory, while a channel frees memory as a side effect"
+        },
+        {
+          "label": "B",
+          "text": "A direct leak is one that is intentional, rather than by unintentional"
+        },
+        {
+          "label": "C",
+          "text": "A direct leak comes via the software system's intended interaction mechanism, where as a side channel leak comes from measurements of other system features, like timing, power usage, or space usage"
+        },
+        {
+          "label": "D",
+          "text": "There is no difference"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "A ___________ is a method in which a computer security mechanism is bypassed untraceable for accessing the computer or its information.",
+      "options": [
+        {
+          "label": "A",
+          "text": "front-door"
+        },
+        {
+          "label": "B",
+          "text": "backdoor"
+        },
+        {
+          "label": "C",
+          "text": "clickjacking"
+        },
+        {
+          "label": "D",
+          "text": "key-logging"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which of the following is a remote Trojan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Troya"
+        },
+        {
+          "label": "B",
+          "text": "DaCryptic"
+        },
+        {
+          "label": "C",
+          "text": "BankerA"
+        },
+        {
+          "label": "D",
+          "text": "Game-Troj"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "A/an ___________ is a program that steals your logins & passwords for instant messaging applications.",
+      "options": [
+        {
+          "label": "A",
+          "text": "IM – Trojans"
+        },
+        {
+          "label": "B",
+          "text": "Backdoor Trojans"
+        },
+        {
+          "label": "C",
+          "text": "Trojan-Downloader"
+        },
+        {
+          "label": "D",
+          "text": "Ransom Trojan"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "A __________ is a sequential segment of the memory location that is allocated for containing some data such as a character string or an array of integers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "stack"
+        },
+        {
+          "label": "B",
+          "text": "queue"
+        },
+        {
+          "label": "C",
+          "text": "external storage"
+        },
+        {
+          "label": "D",
+          "text": "buffer"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Applications developed by programming languages like ____ and ______ have this common buffer-overflow error.",
+      "options": [
+        {
+          "label": "A",
+          "text": "C, Ruby"
+        },
+        {
+          "label": "B",
+          "text": "Python, Ruby"
+        },
+        {
+          "label": "C",
+          "text": "C, C++"
+        },
+        {
+          "label": "D",
+          "text": "Tcl, C#"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "______________ is a widespread app’s coding mistake made by developers which could be exploited by an attacker for gaining access or malfunctioning your system.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Memory leakage"
+        },
+        {
+          "label": "B",
+          "text": "Buffer-overrun"
+        },
+        {
+          "label": "C",
+          "text": "Less processing power"
+        },
+        {
+          "label": "D",
+          "text": "Inefficient programming"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Old operating systems like _______ and NT-based systems have buffer-overflow attack a common vulnerability.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Windows 7"
+        },
+        {
+          "label": "B",
+          "text": "Chrome"
+        },
+        {
+          "label": "C",
+          "text": "IOS12"
+        },
+        {
+          "label": "D",
+          "text": "UNIX"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Buffer-overflow may remain as a bug in apps if __________ are not done fully.",
+      "options": [
+        {
+          "label": "A",
+          "text": "boundary hacks"
+        },
+        {
+          "label": "B",
+          "text": "memory checks"
+        },
+        {
+          "label": "C",
+          "text": "boundary checks"
+        },
+        {
+          "label": "D",
+          "text": "buffer checks"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Let suppose a search box of an application can take at most 200 words, and you’ve inserted more than that and pressed the search button; the system crashes. Usually this is because of limited __________",
+      "options": [
+        {
+          "label": "A",
+          "text": "buffer"
+        },
+        {
+          "label": "B",
+          "text": "external storage"
+        },
+        {
+          "label": "C",
+          "text": "processing power"
+        },
+        {
+          "label": "D",
+          "text": "local storage"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "The ______________ is categorized as an unknown segment of the Deep Web which has been purposely kept hidden & is inaccessible using standard web browsers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Haunted web"
+        },
+        {
+          "label": "B",
+          "text": "World Wide Web"
+        },
+        {
+          "label": "C",
+          "text": "Dark web"
+        },
+        {
+          "label": "D",
+          "text": "Surface web"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "____________ is also a part of darknet that is employed for transferring files anonymously.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Freenet"
+        },
+        {
+          "label": "B",
+          "text": "ARPANET"
+        },
+        {
+          "label": "C",
+          "text": "Stuxnet"
+        },
+        {
+          "label": "D",
+          "text": "Internet"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "_______________ is a popular tool used for network analysis in multiprotocol diverse network.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Snort"
+        },
+        {
+          "label": "B",
+          "text": "SuperScan"
+        },
+        {
+          "label": "C",
+          "text": "Burp Suit"
+        },
+        {
+          "label": "D",
+          "text": "EtterPeak"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following deals with network intrusion detection and real-time traffic analysis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John the Ripper"
+        },
+        {
+          "label": "B",
+          "text": "L0phtCrack"
+        },
+        {
+          "label": "C",
+          "text": "Snort"
+        },
+        {
+          "label": "D",
+          "text": "Nessus"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "_______________ is the central node of 802.11 wireless operations.",
+      "options": [
+        {
+          "label": "A",
+          "text": "WPA"
+        },
+        {
+          "label": "B",
+          "text": "Access Point"
+        },
+        {
+          "label": "C",
+          "text": "WAP"
+        },
+        {
+          "label": "D",
+          "text": "Access Port"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "When a wireless user authenticates to any AP, both of them go in the course of four-step authentication progression which is called _____________",
+      "options": [
+        {
+          "label": "A",
+          "text": "AP-handshaking"
+        },
+        {
+          "label": "B",
+          "text": "4-way handshake"
+        },
+        {
+          "label": "C",
+          "text": "4-way connection"
+        },
+        {
+          "label": "D",
+          "text": "wireless handshaking"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "____________________ is the anticipation of unauthorized access or break to computers or data by means of wireless networks.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wireless access"
+        },
+        {
+          "label": "B",
+          "text": "Wireless security"
+        },
+        {
+          "label": "C",
+          "text": "Wired Security"
+        },
+        {
+          "label": "D",
+          "text": "Wired device apps"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which among the following is the least strong security encryption standard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "WEP"
+        },
+        {
+          "label": "B",
+          "text": "WPA"
+        },
+        {
+          "label": "C",
+          "text": "WPA2"
+        },
+        {
+          "label": "D",
+          "text": "WPA3"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Which among them has the strongest wireless security?",
+      "options": [
+        {
+          "label": "A",
+          "text": "WEP"
+        },
+        {
+          "label": "B",
+          "text": "WPA"
+        },
+        {
+          "label": "C",
+          "text": "WPA2"
+        },
+        {
+          "label": "D",
+          "text": "WPA3"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Which of the following is a Wireless traffic Sniffing tool?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maltego"
+        },
+        {
+          "label": "B",
+          "text": "BurpSuit"
+        },
+        {
+          "label": "C",
+          "text": "Nessus"
+        },
+        {
+          "label": "D",
+          "text": "Wireshark"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "In a _____________ attack, the extra data that holds some specific instructions in the memory for actions is projected by a cyber-criminal or penetration tester to crack the system.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Phishing"
+        },
+        {
+          "label": "B",
+          "text": "MiTM"
+        },
+        {
+          "label": "C",
+          "text": "Buffer-overflow"
+        },
+        {
+          "label": "D",
+          "text": "Clickjacking"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The ______________ can cost you money, by sending text messages from your mobile phone numbers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "IM – Trojans"
+        },
+        {
+          "label": "B",
+          "text": "Backdoor Trojans"
+        },
+        {
+          "label": "C",
+          "text": "SMS Trojan"
+        },
+        {
+          "label": "D",
+          "text": "Ransom Trojan"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "A _________________ may be a hidden part of a program, a separate infected program a Trojan in disguise of an executable or code in the firmware of any system’s hardware.",
+      "options": [
+        {
+          "label": "A",
+          "text": "crypter"
+        },
+        {
+          "label": "B",
+          "text": "virus"
+        },
+        {
+          "label": "C",
+          "text": "backdoor"
+        },
+        {
+          "label": "D",
+          "text": "key-logger"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "A special tool is necessary for entering the network which is _______________ that helps the anonymous internet users to access into the Tor’s network and use various Tor services.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Opera browser"
+        },
+        {
+          "label": "B",
+          "text": "Firefox"
+        },
+        {
+          "label": "C",
+          "text": "Chrome"
+        },
+        {
+          "label": "D",
+          "text": "Tor browser"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "A packet filter firewall filters at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Application or transport"
+        },
+        {
+          "label": "B",
+          "text": "Data link layer"
+        },
+        {
+          "label": "C",
+          "text": "Physical Layer"
+        },
+        {
+          "label": "D",
+          "text": "Network or transport layer"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "The sub key length at each round of DES is__________",
+      "options": [
+        {
+          "label": "A",
+          "text": "32"
+        },
+        {
+          "label": "B",
+          "text": "56"
+        },
+        {
+          "label": "C",
+          "text": "48"
+        },
+        {
+          "label": "D",
+          "text": "64"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "How is IP address spoofing detected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Installing and configuring a IDS that can read the IP header"
+        },
+        {
+          "label": "B",
+          "text": "Comparing the TTL values of the actual and spoofed addresses"
+        },
+        {
+          "label": "C",
+          "text": "Implementing a firewall to the network"
+        },
+        {
+          "label": "D",
+          "text": "Identify all TCP sessions that are initiated but does not complete successfully"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "In MD-5 the length of the message digest is",
+      "options": [
+        {
+          "label": "A",
+          "text": "160"
+        },
+        {
+          "label": "B",
+          "text": "128"
+        },
+        {
+          "label": "C",
+          "text": "64"
+        },
+        {
+          "label": "D",
+          "text": "54"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The digest created by a hash function is normally called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "Modication detection code (MDC)"
+        },
+        {
+          "label": "B",
+          "text": "Modify authentication connection"
+        },
+        {
+          "label": "C",
+          "text": "Message authentication control"
+        },
+        {
+          "label": "D",
+          "text": "Message authentication cipher"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "In Message Condentiality, the transmitted message must make sense to only intended",
+      "options": [
+        {
+          "label": "A",
+          "text": "Receiver"
+        },
+        {
+          "label": "B",
+          "text": "Sender"
+        },
+        {
+          "label": "C",
+          "text": "Modulor"
+        },
+        {
+          "label": "D",
+          "text": "Translator"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "The message must be encrypted at the sender site and decrypted at the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sender Site"
+        },
+        {
+          "label": "B",
+          "text": "Site"
+        },
+        {
+          "label": "C",
+          "text": "Receiver site"
+        },
+        {
+          "label": "D",
+          "text": "Conferencing"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

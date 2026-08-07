@@ -1,0 +1,527 @@
+{
+ "version": "cins-v1",
+ "source": "Conceptual Inventory of Natural Selection (CINS), Anderson, D.L., Fisher, K.M., & Norman, G.J. (2002). Development and Evaluation of the Conceptual Inventory of Natural Selection. Journal of Research in Science Teaching, 39, 952-978. 20 multiple-choice items organized around three scenarios (Galapagos finches, Venezuelan guppies, Canary Island lizards). Transcribed 2026-07-06 from the local PDF.",
+ "correct_label_note": "The source PDF does not print an answer key. correct_label values were AI-generated on 2026-07-06 by reasoning through standard natural selection theory (biotic potential, limited resources/carrying capacity, heritable vs. acquired variation, differential reproductive success, speciation via isolation + random genetic change) rather than taken from the publisher's key. Treat as a best-effort key, not an authoritative source, and verify against the original instructor materials if available.",
+ "items": [
+  {
+   "item_id": 1,
+   "scenario": "Galapagos finches",
+   "text": "What would happen if a breeding pair of finches was placed on an island under ideal conditions with no predators and unlimited food so that all individuals survived? Given enough time,",
+   "options": [
+    {
+     "label": "A",
+     "text": "the finch population would stay small because birds only have enough babies to replace themselves."
+    },
+    {
+     "label": "B",
+     "text": "the finch population would double and then stay relatively stable."
+    },
+    {
+     "label": "C",
+     "text": "the finch population would increase dramatically."
+    },
+    {
+     "label": "D",
+     "text": "the finch population would grow slowly and then level off."
+    }
+   ],
+   "correct_label": "C",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 2,
+   "scenario": "Galapagos finches",
+   "text": "Finches on the Galapagos Islands require food to eat and water to drink.",
+   "options": [
+    {
+     "label": "A",
+     "text": "When food and water are scarce, some birds may be unable to obtain what they need to survive."
+    },
+    {
+     "label": "B",
+     "text": "When food and water are limited, the finches will find other food sources, so there is always enough."
+    },
+    {
+     "label": "C",
+     "text": "When food and water are scarce, the finches all eat and drink less so that all birds survive."
+    },
+    {
+     "label": "D",
+     "text": "There is always plenty of food and water on the Galapagos Islands to meet the finches’ needs."
+    }
+   ],
+   "correct_label": "A",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 3,
+   "scenario": "Galapagos finches",
+   "text": "Once a population of finches has lived on a particular island with an unvarying environment for many years,",
+   "options": [
+    {
+     "label": "A",
+     "text": "the population continues to grow rapidly."
+    },
+    {
+     "label": "B",
+     "text": "the population remains relatively stable, with some fluctuations."
+    },
+    {
+     "label": "C",
+     "text": "the population dramatically increases and decreases each year."
+    },
+    {
+     "label": "D",
+     "text": "the population will decrease steadily."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 4,
+   "scenario": "Galapagos finches",
+   "text": "In the finch population, what are the primary changes that occur gradually over time?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The traits of each finch within a population gradually change."
+    },
+    {
+     "label": "B",
+     "text": "The proportions of finches having different traits within a population change."
+    },
+    {
+     "label": "C",
+     "text": "Successful behaviors learned by finches are passed on to offspring."
+    },
+    {
+     "label": "D",
+     "text": "Mutations occur to meet the needs of the finches as the environment changes."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 5,
+   "scenario": "Galapagos finches",
+   "text": "Depending on their beak size and shape, some finches get nectar from flowers, some eat grubs from bark, some eat small seeds, and some eat large nuts. Which statement best describes the interactions among the finches and the food supply?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Most of the finches on an island cooperate to find food and share what they find."
+    },
+    {
+     "label": "B",
+     "text": "Many of the finches on an island fight with one another and the physically strongest ones win."
+    },
+    {
+     "label": "C",
+     "text": "There is more than enough food to meet all the finches’ needs so they don’t need to compete for food."
+    },
+    {
+     "label": "D",
+     "text": "Finches compete primarily with closely related finches that eat the same kinds of food, and some may die from lack of food."
+    }
+   ],
+   "correct_label": "D",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 6,
+   "scenario": "Galapagos finches",
+   "text": "How did the different beak types first arise in the Galapagos finches?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The changes in the finches’ beak size and shape occurred because of their need to be able to eat different kinds of food to survive."
+    },
+    {
+     "label": "B",
+     "text": "Changes in the finches’ beaks occurred by chance, and when there was a good match between beak structure and available food, those birds had more offspring."
+    },
+    {
+     "label": "C",
+     "text": "The changes in the finches’ beaks occurred because the environment induced the desired genetic changes."
+    },
+    {
+     "label": "D",
+     "text": "The finches’ beaks changed a little bit in size and shape with each successive generation, some getting larger and some getting smaller."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 7,
+   "scenario": "Galapagos finches",
+   "text": "What type of variation in finches is passed to the offspring?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Any behaviors that were learned during a finch’s lifetime."
+    },
+    {
+     "label": "B",
+     "text": "Only characteristics that were beneficial during a finch’s lifetime."
+    },
+    {
+     "label": "C",
+     "text": "All characteristics that were genetically determined."
+    },
+    {
+     "label": "D",
+     "text": "Any characteristics that were positively influenced by the environment during a finch’s lifetime."
+    }
+   ],
+   "correct_label": "C",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 8,
+   "scenario": "Galapagos finches",
+   "text": "What caused populations of birds having different beak shapes and sizes to become distinct species distributed on the various islands?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The finches were quite variable, and those whose features were best suited to the available food supply on each island reproduced most successfully."
+    },
+    {
+     "label": "B",
+     "text": "All finches are essentially alike and there are not really fourteen different species."
+    },
+    {
+     "label": "C",
+     "text": "Different foods are available on different islands and for that reason, individual finches on each island gradually developed the beaks they needed."
+    },
+    {
+     "label": "D",
+     "text": "Different lines of finches developed different beak types because they needed them in order to obtain the available food."
+    }
+   ],
+   "correct_label": "A",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 9,
+   "scenario": "Venezuelan guppies",
+   "text": "A typical natural population of guppies consists of hundreds of guppies. Which statement best describes the guppies of a single species in an isolated population?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The guppies share all of the same characteristics and are identical to each other."
+    },
+    {
+     "label": "B",
+     "text": "The guppies share all of the essential characteristics of the species; the minor variations they display don’t affect survival."
+    },
+    {
+     "label": "C",
+     "text": "The guppies are all identical on the inside, but have many differences in appearance."
+    },
+    {
+     "label": "D",
+     "text": "The guppies share many essential characteristics, but also vary in many features."
+    }
+   ],
+   "correct_label": "D",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 10,
+   "scenario": "Venezuelan guppies",
+   "text": "Fitness is a term often used by biologists to explain the evolutionary success of certain organisms. Which feature would a biologist consider to be most important in determining which guppies were the “most fit”?",
+   "options": [
+    {
+     "label": "A",
+     "text": "large body size and ability to swim quickly away from predators"
+    },
+    {
+     "label": "B",
+     "text": "excellent ability to compete for food"
+    },
+    {
+     "label": "C",
+     "text": "high number of offspring that survived to reproductive age"
+    },
+    {
+     "label": "D",
+     "text": "high number of matings with many different females."
+    }
+   ],
+   "correct_label": "C",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 11,
+   "scenario": "Venezuelan guppies",
+   "text": "Assuming ideal conditions with abundant food and space and no predators, what would happen if a mating pair of guppies were placed in a large pond?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The guppy population would grow slowly, as guppies would have only the number of babies that are needed to replenish the population."
+    },
+    {
+     "label": "B",
+     "text": "The guppy population would grow slowly at first, then would grow rapidly, and thousands of guppies would fill the pond."
+    },
+    {
+     "label": "C",
+     "text": "The guppy population would never become very large, because only organisms such as insects and bacteria reproduce in that manner."
+    },
+    {
+     "label": "D",
+     "text": "The guppy population would continue to grow slowly over time."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 12,
+   "scenario": "Venezuelan guppies",
+   "text": "Once a population of guppies has been established for a number of years in a real (not ideal) pond with other organisms including predators, what will likely happen to the population?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The guppy population will stay about the same size."
+    },
+    {
+     "label": "B",
+     "text": "The guppy population will continue to rapidly grow in size."
+    },
+    {
+     "label": "C",
+     "text": "The guppy population will gradually decrease until no more guppies are left."
+    },
+    {
+     "label": "D",
+     "text": "It is impossible to tell because populations do not follow patterns."
+    }
+   ],
+   "correct_label": "A",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 13,
+   "scenario": "Venezuelan guppies",
+   "text": "In guppy populations, what are the primary changes that occur gradually over time?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The traits of each individual guppy within a population gradually change."
+    },
+    {
+     "label": "B",
+     "text": "The proportions of guppies having different traits within a population change."
+    },
+    {
+     "label": "C",
+     "text": "Successful behaviors learned by certain guppies are passed on to offspring."
+    },
+    {
+     "label": "D",
+     "text": "Mutations occur to meet the needs of the guppies as the environment changes."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 14,
+   "scenario": "Canary Island lizards",
+   "text": "Lizards eat a variety of insects and plants. Which statement describes the availability of food for lizards on the Canary Islands?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Finding food is not a problem since food is always in abundant supply."
+    },
+    {
+     "label": "B",
+     "text": "Since lizards can eat a variety of foods, there is likely to be enough food for all of the lizards at all times."
+    },
+    {
+     "label": "C",
+     "text": "Lizards can get by on very little food, so the food supply does not matter."
+    },
+    {
+     "label": "D",
+     "text": "It is likely that sometimes there is enough food, but at other times there is not enough food for all of the lizards."
+    }
+   ],
+   "correct_label": "D",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 15,
+   "scenario": "Canary Island lizards",
+   "text": "What do you think happens among the lizards of a certain species when the food supply is limited?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The lizards cooperate to find food and share what they find."
+    },
+    {
+     "label": "B",
+     "text": "The lizards fight for the available food and the strongest lizards kill the weaker ones."
+    },
+    {
+     "label": "C",
+     "text": "Genetic changes that would allow lizards to eat new food sources are likely to be induced."
+    },
+    {
+     "label": "D",
+     "text": "The lizards least successful in the competition for food are likely to die of starvation and malnutrition."
+    }
+   ],
+   "correct_label": "D",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 16,
+   "scenario": "Canary Island lizards",
+   "text": "A well-established population of lizards is made up of hundreds of individual lizards. On an island, all lizards in a lizard population are likely to . . .",
+   "options": [
+    {
+     "label": "A",
+     "text": "be indistinguishable, since there is a lot of interbreeding in isolated populations."
+    },
+    {
+     "label": "B",
+     "text": "be the same on the inside but display differences in their external features."
+    },
+    {
+     "label": "C",
+     "text": "be similar, yet have some significant differences in their internal and external features."
+    },
+    {
+     "label": "D",
+     "text": "be the same on the outside but display differences in their internal features."
+    }
+   ],
+   "correct_label": "C",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 17,
+   "scenario": "Canary Island lizards",
+   "text": "Which statement best describes how traits in lizards will be inherited by offspring?",
+   "options": [
+    {
+     "label": "A",
+     "text": "When parent lizards learn to catch particular insects, their offspring can inherit their specific insect-catching-skills."
+    },
+    {
+     "label": "B",
+     "text": "When parent lizards develop stronger claws through repeated use in catching prey, their offspring can inherit their stronger-claw trait."
+    },
+    {
+     "label": "C",
+     "text": "When parent lizards’ claws are underdeveloped because easy food sources are available, their offspring can inherit their weakened claws."
+    },
+    {
+     "label": "D",
+     "text": "When a parent lizard is born with an extra finger on its claws, its offspring can inherit six-fingered claws."
+    }
+   ],
+   "correct_label": "D",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 18,
+   "scenario": "Canary Island lizards",
+   "text": "Fitness is a term often used by biologists to explain the evolutionary success of certain organisms. Below are descriptions of four fictional female lizards. Which lizard might a biologist consider to be the “most fit”?\n\n| | Lizard A | Lizard B | Lizard C | Lizard D |\n|---|---|---|---|---|\n| Body length | 20 cm | 12 cm | 10 cm | 15 cm |\n| Offspring surviving to adulthood | 19 | 28 | 22 | 26 |\n| Age at death | 4 years | 5 years | 4 years | 6 years |\n| Comments | Lizard A is very healthy, strong, and clever | Lizard B has mated with many lizards | Lizard C is dark-colored and very quick | Lizard D has the largest territory of all the lizards |",
+   "options": [
+    {
+     "label": "A",
+     "text": "Lizard A"
+    },
+    {
+     "label": "B",
+     "text": "Lizard B"
+    },
+    {
+     "label": "C",
+     "text": "Lizard C"
+    },
+    {
+     "label": "D",
+     "text": "Lizard D"
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 19,
+   "scenario": "Canary Island lizards",
+   "text": "According to the theory of natural selection, where did the variations in body size in the three species of lizards most likely come from?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The lizards needed to change in order to survive, so beneficial new traits developed."
+    },
+    {
+     "label": "B",
+     "text": "The lizards wanted to become different in size, so beneficial new traits gradually appeared in the population."
+    },
+    {
+     "label": "C",
+     "text": "Random genetic changes and sexual recombination both created new variations."
+    },
+    {
+     "label": "D",
+     "text": "The island environment caused genetic changes in the lizards."
+    }
+   ],
+   "correct_label": "C",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  },
+  {
+   "item_id": 20,
+   "scenario": "Canary Island lizards",
+   "text": "What could cause one species to change into three species over time?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Groups of lizards encountered different island environments so the lizards needed to become new species with different traits in order to survive."
+    },
+    {
+     "label": "B",
+     "text": "Groups of lizards must have been geographically isolated from other groups and random genetic changes must have accumulated in these lizard populations over time."
+    },
+    {
+     "label": "C",
+     "text": "There may be minor variations, but all lizards are essentially alike and all are members of a single species."
+    },
+    {
+     "label": "D",
+     "text": "In order to survive, different groups of lizards needed to adapt to the different islands, and so all organisms in each group gradually evolved to become a new lizard species."
+    }
+   ],
+   "correct_label": "B",
+   "correct_label_source": "ai_generated",
+   "split": "test"
+  }
+ ]
+}

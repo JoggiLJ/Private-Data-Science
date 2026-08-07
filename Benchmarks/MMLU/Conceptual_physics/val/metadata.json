@@ -1,0 +1,164 @@
+{
+ "source_file": "MMLU_conceptual_physics_val.json",
+ "num_questions": 26,
+ "file_avg_question_words": 11.19,
+ "file_avg_answer_words": 3.14,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 2,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 4.75
+  },
+  {
+   "item_id": 3,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 4,
+   "question_words": 18,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 5,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 6,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 7,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 3.75
+  },
+  {
+   "item_id": 8,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 9,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 1.5
+  },
+  {
+   "item_id": 10,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 4.5
+  },
+  {
+   "item_id": 11,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 5.5
+  },
+  {
+   "item_id": 12,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 1.5
+  },
+  {
+   "item_id": 13,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 5.25
+  },
+  {
+   "item_id": 14,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 15,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 3.25
+  },
+  {
+   "item_id": 16,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 1.5
+  },
+  {
+   "item_id": 17,
+   "question_words": 15,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 18,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 19,
+   "question_words": 23,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 20,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 3.0
+  },
+  {
+   "item_id": 21,
+   "question_words": 19,
+   "num_answers": 4,
+   "avg_answer_words": 1.25
+  },
+  {
+   "item_id": 22,
+   "question_words": 23,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 23,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 24,
+   "question_words": 15,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 25,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 1.25
+  },
+  {
+   "item_id": 26,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  }
+ ]
+}

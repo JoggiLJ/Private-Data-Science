@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_geography_test",
+  "description": "High school geography multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_geography subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which one of the following is NOT a centripetal force in a state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A high level of confidence in central government"
+        },
+        {
+          "label": "B",
+          "text": "The existence of strong separatist groups"
+        },
+        {
+          "label": "C",
+          "text": "The existence of national transportation networks"
+        },
+        {
+          "label": "D",
+          "text": "The national anthem"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "The tendency for migration to decrease with distance is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "push factors."
+        },
+        {
+          "label": "B",
+          "text": "pull factors."
+        },
+        {
+          "label": "C",
+          "text": "distance decay."
+        },
+        {
+          "label": "D",
+          "text": "migration selectivity."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the following countries is actively trying to preserve the purity of their native language from contamination by English or other languages?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Italy"
+        },
+        {
+          "label": "B",
+          "text": "Russia"
+        },
+        {
+          "label": "C",
+          "text": "Japan"
+        },
+        {
+          "label": "D",
+          "text": "Brazil"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Which of the following factors has little or no impact on mortality rates in the developing countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New medicines"
+        },
+        {
+          "label": "B",
+          "text": "Improved birth control methods"
+        },
+        {
+          "label": "C",
+          "text": "Pesticides"
+        },
+        {
+          "label": "D",
+          "text": "Famine relief"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Which of the following is a functional region?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dixie"
+        },
+        {
+          "label": "B",
+          "text": "Pennsylvania"
+        },
+        {
+          "label": "C",
+          "text": "The market area of Winn-Dixie"
+        },
+        {
+          "label": "D",
+          "text": "The Pacific Northwest"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Urban agriculture can benefit urban society in all of the following ways EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "create sustainable food systems in urban areas."
+        },
+        {
+          "label": "B",
+          "text": "provide jobs for women and children."
+        },
+        {
+          "label": "C",
+          "text": "turn urban waste into a resource when utilized in safe manner."
+        },
+        {
+          "label": "D",
+          "text": "replace agribusiness as the main focus of global food production."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "The most rapidly urbanizing area of the world is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe"
+        },
+        {
+          "label": "B",
+          "text": "East Asia"
+        },
+        {
+          "label": "C",
+          "text": "Sub-Saharan Africa"
+        },
+        {
+          "label": "D",
+          "text": "South Asia"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Which of the following U.S. main immigration flow associations is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pioneer settlement to 1870—Germans, British, Scotch-Irish, Africans"
+        },
+        {
+          "label": "B",
+          "text": "1870–1914—Asians"
+        },
+        {
+          "label": "C",
+          "text": "1870–1914—Eastern and southern Europeans"
+        },
+        {
+          "label": "D",
+          "text": "1965–present—Hispanics"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "An earlier boundary formed before meticulous geographic knowledge and mapping was available is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "an antecedent boundary."
+        },
+        {
+          "label": "B",
+          "text": "a geometric boundary."
+        },
+        {
+          "label": "C",
+          "text": "a relict boundary."
+        },
+        {
+          "label": "D",
+          "text": "a subsequent boundary."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "In which of the following Asian countries would one find special economic zones (SEZs)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Japan"
+        },
+        {
+          "label": "B",
+          "text": "South Korea"
+        },
+        {
+          "label": "C",
+          "text": "China"
+        },
+        {
+          "label": "D",
+          "text": "Vietnam"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which of the following is a centrifugal force in a country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Religious differences"
+        },
+        {
+          "label": "B",
+          "text": "A national holiday"
+        },
+        {
+          "label": "C",
+          "text": "An attack by another country"
+        },
+        {
+          "label": "D",
+          "text": "A charismatic national leader"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "The largest exporter of agricultural goods in the world is",
+      "options": [
+        {
+          "label": "A",
+          "text": "China."
+        },
+        {
+          "label": "B",
+          "text": "Mexico."
+        },
+        {
+          "label": "C",
+          "text": "Chile."
+        },
+        {
+          "label": "D",
+          "text": "the United States."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "You are planning to move from your hometown to Pittsburgh. Along the way, you stop in Columbus, Ohio to visit a relative and fall in love with the city! You decide to stay and make Columbus your new home. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "intervening opportunity."
+        },
+        {
+          "label": "B",
+          "text": "distance decay."
+        },
+        {
+          "label": "C",
+          "text": "involuntary migration."
+        },
+        {
+          "label": "D",
+          "text": "push-pull factors."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Which one of the following organizations is NOT a supranational organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "UN"
+        },
+        {
+          "label": "B",
+          "text": "NATO"
+        },
+        {
+          "label": "C",
+          "text": "ASEAN"
+        },
+        {
+          "label": "D",
+          "text": "PLO"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "The theory that cities grow outward from a core utilizing several nodes of growth was proposed by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rostow."
+        },
+        {
+          "label": "B",
+          "text": "Ravenstein."
+        },
+        {
+          "label": "C",
+          "text": "von Thünen."
+        },
+        {
+          "label": "D",
+          "text": "Harris and Ullmann."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which theorist(s) tried to explain the prices of farm products as they relate to patterns of land use?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rostow"
+        },
+        {
+          "label": "B",
+          "text": "Ravenstein"
+        },
+        {
+          "label": "C",
+          "text": "Von Thünen"
+        },
+        {
+          "label": "D",
+          "text": "Burgess"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which of the following statements is TRUE concerning women in the labor force?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Most women work in agriculture"
+        },
+        {
+          "label": "B",
+          "text": "The percentage of women economically active in the labor force declined worldwide"
+        },
+        {
+          "label": "C",
+          "text": "The percentage of women in the total labor force declined"
+        },
+        {
+          "label": "D",
+          "text": "Women spend more hours per day working than men in all regions except Anglo America and Australia"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "The use and spread of English in nineteenth-century India is an example of what type of diffusion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stimulus"
+        },
+        {
+          "label": "B",
+          "text": "Contagious"
+        },
+        {
+          "label": "C",
+          "text": "Hierarchal"
+        },
+        {
+          "label": "D",
+          "text": "Relocation"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The process whereby immigrants learn the values, language, and customs of their new country is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "assimilation."
+        },
+        {
+          "label": "B",
+          "text": "acculturation."
+        },
+        {
+          "label": "C",
+          "text": "adaptation."
+        },
+        {
+          "label": "D",
+          "text": "amalgamation."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "The European Union (EU) replaced which of the following organizations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NATO"
+        },
+        {
+          "label": "B",
+          "text": "EEC"
+        },
+        {
+          "label": "C",
+          "text": "UN"
+        },
+        {
+          "label": "D",
+          "text": "ASEAN"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Ralph purchases garden fertilizer at the nearby garden shop rather than drive 50 miles to the neighboring town for the same product. This reflects which type of spatial interaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transferability"
+        },
+        {
+          "label": "B",
+          "text": "Complementarity"
+        },
+        {
+          "label": "C",
+          "text": "Intervening opportunity"
+        },
+        {
+          "label": "D",
+          "text": "Territoriality"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "What do the terms apartheid, ethnic cleansing, and integration all have in common?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They all occurred in Nazi Germany during World War I."
+        },
+        {
+          "label": "B",
+          "text": "They are all forms of residential segregation."
+        },
+        {
+          "label": "C",
+          "text": "They are all ways to integrate different ethnic populations in neighborhoods."
+        },
+        {
+          "label": "D",
+          "text": "They are different expressions for the same concept."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "The \"melting pot\" theory of combining several immigrant groups into one mainstream culture is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "amalgamation theory."
+        },
+        {
+          "label": "B",
+          "text": "acculturation."
+        },
+        {
+          "label": "C",
+          "text": "ethnic islands."
+        },
+        {
+          "label": "D",
+          "text": "ethnic clustering."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Which of the following is a distinct characteristic of an East European city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A central park"
+        },
+        {
+          "label": "B",
+          "text": "Prominent religious buildings"
+        },
+        {
+          "label": "C",
+          "text": "A large central square surrounded by government and administrative buildings"
+        },
+        {
+          "label": "D",
+          "text": "Luxury apartment buildings"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "When a country combines its religion with its government, it is called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "dictatorship."
+        },
+        {
+          "label": "B",
+          "text": "theocracy."
+        },
+        {
+          "label": "C",
+          "text": "democracy."
+        },
+        {
+          "label": "D",
+          "text": "autocracy."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "The voluntary association of three or more countries willing to give up some measure of sovereignty is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "nationalism."
+        },
+        {
+          "label": "B",
+          "text": "devolution."
+        },
+        {
+          "label": "C",
+          "text": "supranationalism."
+        },
+        {
+          "label": "D",
+          "text": "complementarity."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Which one of the following is NOT an advantage of urban agriculture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helping to solve the problem of solid waste disposal"
+        },
+        {
+          "label": "B",
+          "text": "Fresh produce for sale to others"
+        },
+        {
+          "label": "C",
+          "text": "Beautification of a dingy urban area"
+        },
+        {
+          "label": "D",
+          "text": "Renewed or purified water supplies"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Which of the following is NOT a key milestone reached by the EU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The introduction of a common currency used by many EU countries"
+        },
+        {
+          "label": "B",
+          "text": "A customs union"
+        },
+        {
+          "label": "C",
+          "text": "A single market"
+        },
+        {
+          "label": "D",
+          "text": "A common European language"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "When a new fashion design is introduced globally, the information initially travels through a process known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "contagious diffusion"
+        },
+        {
+          "label": "B",
+          "text": "relocation diffusion"
+        },
+        {
+          "label": "C",
+          "text": "innovative diffusion"
+        },
+        {
+          "label": "D",
+          "text": "hierarchical diffusion"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "What family do most European languages belong to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ural-Altaic"
+        },
+        {
+          "label": "B",
+          "text": "Basque"
+        },
+        {
+          "label": "C",
+          "text": "Indo-European"
+        },
+        {
+          "label": "D",
+          "text": "Phoenician"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "China and Vietnam's dispute over the Spratley Islands is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a positional dispute."
+        },
+        {
+          "label": "B",
+          "text": "a territorial dispute."
+        },
+        {
+          "label": "C",
+          "text": "a resource dispute."
+        },
+        {
+          "label": "D",
+          "text": "a functional dispute."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "The process of devolution involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "the change of government from a democracy to a communist dictatorship."
+        },
+        {
+          "label": "B",
+          "text": "the movement of power from the central government to regional governments in the country."
+        },
+        {
+          "label": "C",
+          "text": "the movement of power from a monarchy to a military dictatorship."
+        },
+        {
+          "label": "D",
+          "text": "the movement of power from regional governments to central governments."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Early settlements and high population density along coastlines and rivers are best attributed to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mediterranean climate"
+        },
+        {
+          "label": "B",
+          "text": "Limited forest cover"
+        },
+        {
+          "label": "C",
+          "text": "Growth of manufacturing"
+        },
+        {
+          "label": "D",
+          "text": "Access to trade routes"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following capital cities is located OUTSIDE the central core area of the country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abuja, Nigeria"
+        },
+        {
+          "label": "B",
+          "text": "Paris, France"
+        },
+        {
+          "label": "C",
+          "text": "London, United Kingdom"
+        },
+        {
+          "label": "D",
+          "text": "Cairo, Egypt"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Shifting cultivation is most often practiced in",
+      "options": [
+        {
+          "label": "A",
+          "text": "alpine tundra."
+        },
+        {
+          "label": "B",
+          "text": "tropical forests."
+        },
+        {
+          "label": "C",
+          "text": "flood plains."
+        },
+        {
+          "label": "D",
+          "text": "deserts."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "The cities of Varanasi (Benares) in India and Mecca in Saudi Arabia are alike because both are",
+      "options": [
+        {
+          "label": "A",
+          "text": "capitals of countries formerly colonized by the English"
+        },
+        {
+          "label": "B",
+          "text": "destinations for vast numbers of pilgrims"
+        },
+        {
+          "label": "C",
+          "text": "financial centers for a large fraction of the world's economy"
+        },
+        {
+          "label": "D",
+          "text": "examples of modern urban planning"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Of these, the map using the smallest map scale would be the map of",
+      "options": [
+        {
+          "label": "A",
+          "text": "the world."
+        },
+        {
+          "label": "B",
+          "text": "Atlanta, Georgia."
+        },
+        {
+          "label": "C",
+          "text": "Main Street, Small Town, Ohio."
+        },
+        {
+          "label": "D",
+          "text": "Pennsylvania."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Which of the following is a major concern in countries with a large and rapidly aging population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immunization"
+        },
+        {
+          "label": "B",
+          "text": "Adequate schools"
+        },
+        {
+          "label": "C",
+          "text": "Daycare facilities"
+        },
+        {
+          "label": "D",
+          "text": "Health care"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "A population pyramid, or age-sex structure, displays all the following information about a country's population EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "future social spending needs of the population."
+        },
+        {
+          "label": "B",
+          "text": "the impact of \"baby booms\" on the population."
+        },
+        {
+          "label": "C",
+          "text": "the impact of wars on the population."
+        },
+        {
+          "label": "D",
+          "text": "a quick visual depiction of the country's demographics."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "The Basques, Bretons, Kashmiris, and Tamils are all examples of",
+      "options": [
+        {
+          "label": "A",
+          "text": "regionalist groups."
+        },
+        {
+          "label": "B",
+          "text": "separatist groups."
+        },
+        {
+          "label": "C",
+          "text": "terrorist groups."
+        },
+        {
+          "label": "D",
+          "text": "interventionist groups."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "If you wanted to find the global distribution of coal, you would use a",
+      "options": [
+        {
+          "label": "A",
+          "text": "reference map."
+        },
+        {
+          "label": "B",
+          "text": "topographic map."
+        },
+        {
+          "label": "C",
+          "text": "thematic map."
+        },
+        {
+          "label": "D",
+          "text": "location map."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Which type of city model contains a distinct residential spine proceeding outward from center city along the main boulevard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "European"
+        },
+        {
+          "label": "B",
+          "text": "Muslim"
+        },
+        {
+          "label": "C",
+          "text": "Sub-Saharan African"
+        },
+        {
+          "label": "D",
+          "text": "Latin American"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "The majority of Kurds are found in which country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iran"
+        },
+        {
+          "label": "B",
+          "text": "Iraq"
+        },
+        {
+          "label": "C",
+          "text": "Turkey"
+        },
+        {
+          "label": "D",
+          "text": "Egypt"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which one of the following statements does NOT correctly describe transnational companies (TNCs)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Many TNCs operate in areas of electronics, chemicals, pharmaceuticals and petroleum."
+        },
+        {
+          "label": "B",
+          "text": "Most TNCs produce and sell manufactured goods."
+        },
+        {
+          "label": "C",
+          "text": "Most TNCs are headquartered in the United States, Japan, and the European Union."
+        },
+        {
+          "label": "D",
+          "text": "TNCs are generally controlled by foreign governments."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which of the following is a characteristic of a developed country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Over 50% of workforce engaged in agriculture"
+        },
+        {
+          "label": "B",
+          "text": "Women held in inferior place in society"
+        },
+        {
+          "label": "C",
+          "text": "Main disease related to age and lifestyle"
+        },
+        {
+          "label": "D",
+          "text": "High birth and death rates"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Which of the following jobs is in the non-basic employment sector?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Software engineer"
+        },
+        {
+          "label": "B",
+          "text": "F-10 pickup truck assembly-line worker"
+        },
+        {
+          "label": "C",
+          "text": "Oil refinery worker"
+        },
+        {
+          "label": "D",
+          "text": "Parking lot attendant"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "What type of countries generally possesses a greater variety of climates and resources than other countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perforated states"
+        },
+        {
+          "label": "B",
+          "text": "Fragmented states"
+        },
+        {
+          "label": "C",
+          "text": "Elongated states"
+        },
+        {
+          "label": "D",
+          "text": "Prorupt states"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "What is the chief religion practiced in Europe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Christianity"
+        },
+        {
+          "label": "B",
+          "text": "Islam"
+        },
+        {
+          "label": "C",
+          "text": "Hinduism"
+        },
+        {
+          "label": "D",
+          "text": "Animism"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Which structure(s) traditionally occupies the center of a historic Asian city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A central market"
+        },
+        {
+          "label": "B",
+          "text": "High-density housing"
+        },
+        {
+          "label": "C",
+          "text": "A religious building"
+        },
+        {
+          "label": "D",
+          "text": "Government office buildings"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Which pair of religions are both universalizing religions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Islam and Judaism"
+        },
+        {
+          "label": "B",
+          "text": "Judaism and Buddhism"
+        },
+        {
+          "label": "C",
+          "text": "Hinduism and Buddhism"
+        },
+        {
+          "label": "D",
+          "text": "Christianity and Buddhism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Which factor in the last quarter century greatly destabilized Eastern Europe and led to ethnic conflict?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The introduction of new languages"
+        },
+        {
+          "label": "B",
+          "text": "The end of the Cold War"
+        },
+        {
+          "label": "C",
+          "text": "The invasion by the Soviets"
+        },
+        {
+          "label": "D",
+          "text": "The acceptance of many Eastern European countries into the EU"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Which one of the following statements is NOT true of the \"core\" countries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are technologically advanced."
+        },
+        {
+          "label": "B",
+          "text": "They are wealthy."
+        },
+        {
+          "label": "C",
+          "text": "They are powerful."
+        },
+        {
+          "label": "D",
+          "text": "They are less developed."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Transnational corporations distribute their operations",
+      "options": [
+        {
+          "label": "A",
+          "text": "manufacturing goods where production costs are the highest."
+        },
+        {
+          "label": "B",
+          "text": "conducting accounting and research services where economical."
+        },
+        {
+          "label": "C",
+          "text": "based on comparative advantage."
+        },
+        {
+          "label": "D",
+          "text": "with headquarters located in LDCs."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "In which urban US setting below would you expect to find planned communities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ghettos"
+        },
+        {
+          "label": "B",
+          "text": "Suburbs"
+        },
+        {
+          "label": "C",
+          "text": "CBDs"
+        },
+        {
+          "label": "D",
+          "text": "Transition zones"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The theory that the main purpose of a settlement or market town is to furnish goods and services to the surrounding market area is called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "urban hierarchy theory."
+        },
+        {
+          "label": "B",
+          "text": "central place theory."
+        },
+        {
+          "label": "C",
+          "text": "concentric zone model."
+        },
+        {
+          "label": "D",
+          "text": "multiplier effect."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "A primate city is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a large city located on the periphery of the country."
+        },
+        {
+          "label": "B",
+          "text": "the most important city in a country."
+        },
+        {
+          "label": "C",
+          "text": "when the largest city in a country is more than twice the size of the next largest city."
+        },
+        {
+          "label": "D",
+          "text": "the largest city in a country."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Ankara, Turkey and Islamabad, Pakistan are both examples of",
+      "options": [
+        {
+          "label": "A",
+          "text": "desert cities."
+        },
+        {
+          "label": "B",
+          "text": "forward-thrust capitals."
+        },
+        {
+          "label": "C",
+          "text": "old colonial capitals."
+        },
+        {
+          "label": "D",
+          "text": "rival cities."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "The latitude and longitude coordinates of a place are an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "a formal region."
+        },
+        {
+          "label": "B",
+          "text": "a functional region."
+        },
+        {
+          "label": "C",
+          "text": "an absolute location."
+        },
+        {
+          "label": "D",
+          "text": "a relative location."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Which one of the following is NOT a characteristic of world cities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "World cities contain the headquarters of many transnational corporations."
+        },
+        {
+          "label": "B",
+          "text": "World cities are well connected to secondary-level world cities."
+        },
+        {
+          "label": "C",
+          "text": "World cities contain many offices of multinational organizations."
+        },
+        {
+          "label": "D",
+          "text": "World cities are found only in the northern and western hemispheres."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Which one of the following North American associations is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Southeast—African Americans"
+        },
+        {
+          "label": "B",
+          "text": "Oklahoma and the Southwest—Native Americans"
+        },
+        {
+          "label": "C",
+          "text": "Quebec and northern Maine—French Americans and French Canadians"
+        },
+        {
+          "label": "D",
+          "text": "Southern prairie provinces—African Americans"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which pair of religions below share a long-held tradition of cremating their dead?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hindu and Buddhist"
+        },
+        {
+          "label": "B",
+          "text": "Hindu and Muslim"
+        },
+        {
+          "label": "C",
+          "text": "Muslim and Jewish"
+        },
+        {
+          "label": "D",
+          "text": "Christian and Buddhist"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Which of the following entities is a state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Antarctica"
+        },
+        {
+          "label": "B",
+          "text": "American Samoa"
+        },
+        {
+          "label": "C",
+          "text": "Egypt"
+        },
+        {
+          "label": "D",
+          "text": "Marshall Islands"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "A chief factor that contributed to the Second Agricultural Revolution was",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Industrial Revolution."
+        },
+        {
+          "label": "B",
+          "text": "World War I."
+        },
+        {
+          "label": "C",
+          "text": "World War II."
+        },
+        {
+          "label": "D",
+          "text": "the discovery of the plow."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "In which zone of Burgess's concentric zone model would one find better houses, single-family homes, and higher-rent apartments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Which theory below was used as justification for US involvement in Vietnam in the 1960s and 1970s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Devolution"
+        },
+        {
+          "label": "B",
+          "text": "Colonialism"
+        },
+        {
+          "label": "C",
+          "text": "Heartland theory"
+        },
+        {
+          "label": "D",
+          "text": "Containment theory"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "The migration streams into the United States between 1980 and the present have been primarily composed of emigrants from which of the following regions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe and North Africa"
+        },
+        {
+          "label": "B",
+          "text": "Asia and Latin America"
+        },
+        {
+          "label": "C",
+          "text": "Sub-Saharan Africa and Oceania"
+        },
+        {
+          "label": "D",
+          "text": "Central Europe and Australia"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "To get to school in the morning, we ALL use this as our guide:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rand-McNally Road Atlas."
+        },
+        {
+          "label": "B",
+          "text": "world globe."
+        },
+        {
+          "label": "C",
+          "text": "road map."
+        },
+        {
+          "label": "D",
+          "text": "mental map."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "The first stage of the demographic transition exhibits",
+      "options": [
+        {
+          "label": "A",
+          "text": "high birth rates with high but fluctuating death rates."
+        },
+        {
+          "label": "B",
+          "text": "declining birth rates with continuing high death rates."
+        },
+        {
+          "label": "C",
+          "text": "low birth rates with continuing high death rates."
+        },
+        {
+          "label": "D",
+          "text": "high birth rates with declining death rates."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Which of the following is NOT an example of syncretism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Halloween"
+        },
+        {
+          "label": "B",
+          "text": "Foreign cuisine changed to suit American tastes"
+        },
+        {
+          "label": "C",
+          "text": "Hasidic Judaism"
+        },
+        {
+          "label": "D",
+          "text": "Catholicism in Louisiana"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which of the following is NOT a spread effect in the core-periphery model of development?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congestion in the core"
+        },
+        {
+          "label": "B",
+          "text": "High cost of labor in the core"
+        },
+        {
+          "label": "C",
+          "text": "High density in the core"
+        },
+        {
+          "label": "D",
+          "text": "More infrastructure in the core"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which description best describes the urban hierarchy model in which the population of a city is inversely proportional to its rank in the hierarchy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multiplier effect"
+        },
+        {
+          "label": "B",
+          "text": "Rank-size rule"
+        },
+        {
+          "label": "C",
+          "text": "Central place theory"
+        },
+        {
+          "label": "D",
+          "text": "Burgess's sector model"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which of the following items is NOT a challenge to the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transnational corporations"
+        },
+        {
+          "label": "B",
+          "text": "EU"
+        },
+        {
+          "label": "C",
+          "text": "World Trade Organization"
+        },
+        {
+          "label": "D",
+          "text": "Good transportation network"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following statements is NOT part of Gunnar Myrdal's theory of cumulative causation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Developing and developed regions share similarly in wealth through trade."
+        },
+        {
+          "label": "B",
+          "text": "The core will always dominate the periphery."
+        },
+        {
+          "label": "C",
+          "text": "Growth and prosperity of the core exists at the expense of the periphery."
+        },
+        {
+          "label": "D",
+          "text": "Regions with initial advantage keep and expand it as they attract labor, capital, and trade."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "The language with the largest number of \"speakers\" is",
+      "options": [
+        {
+          "label": "A",
+          "text": "English."
+        },
+        {
+          "label": "B",
+          "text": "Russian."
+        },
+        {
+          "label": "C",
+          "text": "Spanish."
+        },
+        {
+          "label": "D",
+          "text": "Mandarin Chinese."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "A large node of office and commercial land use outside the central city with more jobs than residents is a(n)",
+      "options": [
+        {
+          "label": "A",
+          "text": "suburb."
+        },
+        {
+          "label": "B",
+          "text": "primate city."
+        },
+        {
+          "label": "C",
+          "text": "town."
+        },
+        {
+          "label": "D",
+          "text": "edge city."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Which of the following is NOT a characteristic of a city in the developing world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contains modern centers of commerce"
+        },
+        {
+          "label": "B",
+          "text": "Has a well-developed infrastructure"
+        },
+        {
+          "label": "C",
+          "text": "Experiences large in-migrations of rural people into the city"
+        },
+        {
+          "label": "D",
+          "text": "Produces a large share of its country's GDI"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which of the following factors does NOT play a role in gender relationships in a culture or society?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Biology"
+        },
+        {
+          "label": "B",
+          "text": "Advancements in technological development"
+        },
+        {
+          "label": "C",
+          "text": "Religion"
+        },
+        {
+          "label": "D",
+          "text": "Custom"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Which of the following items below is NOT considered a barrier to the diffusion of an innovation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Internet"
+        },
+        {
+          "label": "B",
+          "text": "Distance"
+        },
+        {
+          "label": "C",
+          "text": "Cultural obstacles"
+        },
+        {
+          "label": "D",
+          "text": "Government interference"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "If I wanted to ship a small piece of very valuable jewelry to my aunt who lives in Poughkeepsie, which mode of transportation makes the most sense?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Truck"
+        },
+        {
+          "label": "B",
+          "text": "Air"
+        },
+        {
+          "label": "C",
+          "text": "Ship"
+        },
+        {
+          "label": "D",
+          "text": "Railroad"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Which of the following could be considered a higher-order central place function?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Winn-Dixie grocery store"
+        },
+        {
+          "label": "B",
+          "text": "Mercedes-Benz dealership"
+        },
+        {
+          "label": "C",
+          "text": "Shoe store"
+        },
+        {
+          "label": "D",
+          "text": "Family doctor"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "The way of life based on breeding and herding of animals that are used as a source of food, shelter, and clothing is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "swidden."
+        },
+        {
+          "label": "B",
+          "text": "subsistence farming."
+        },
+        {
+          "label": "C",
+          "text": "pastorialism."
+        },
+        {
+          "label": "D",
+          "text": "hunting and gathering."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "The theory that whoever controlled the landmass of Europe would rule the world is called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "devolution theory."
+        },
+        {
+          "label": "B",
+          "text": "domino theory."
+        },
+        {
+          "label": "C",
+          "text": "heartland theory."
+        },
+        {
+          "label": "D",
+          "text": "rimland theory."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Olives, grapes, and chickpeas are staple crops of which type of farming?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pastoral nomadism"
+        },
+        {
+          "label": "B",
+          "text": "Subsistence"
+        },
+        {
+          "label": "C",
+          "text": "Plantation"
+        },
+        {
+          "label": "D",
+          "text": "Mediterranean"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "A city that is more than twice as large as the next largest city in a country is called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "global city."
+        },
+        {
+          "label": "B",
+          "text": "world leader city."
+        },
+        {
+          "label": "C",
+          "text": "megalopolis."
+        },
+        {
+          "label": "D",
+          "text": "primate city."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The official languages of Guyana, Suriname, and French Guiana are English, Dutch, and French, respectively. On what continent are those countries located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "North America"
+        },
+        {
+          "label": "B",
+          "text": "South America"
+        },
+        {
+          "label": "C",
+          "text": "Africa"
+        },
+        {
+          "label": "D",
+          "text": "Asia"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "What is the population statistic that tells us the level of fertility at which a population will have just enough births to replace parents and compensate for early deaths?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crude birth rate"
+        },
+        {
+          "label": "B",
+          "text": "Replacement level"
+        },
+        {
+          "label": "C",
+          "text": "Mortality rate"
+        },
+        {
+          "label": "D",
+          "text": "Total fertility rate"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which language family contains Italian, Spanish, Portuguese, and Romanian?",
+      "options": [
+        {
+          "label": "A",
+          "text": "European"
+        },
+        {
+          "label": "B",
+          "text": "Slavic"
+        },
+        {
+          "label": "C",
+          "text": "Germanic"
+        },
+        {
+          "label": "D",
+          "text": "Romance"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "When we talk about diffusion of a cultural trait, what do we mean by \"hearth\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Destination"
+        },
+        {
+          "label": "B",
+          "text": "Origin point"
+        },
+        {
+          "label": "C",
+          "text": "All locations along the diffusion path"
+        },
+        {
+          "label": "D",
+          "text": "Axis point"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "All of the following are non-basic jobs in the city EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "city firefighter."
+        },
+        {
+          "label": "B",
+          "text": "social worker."
+        },
+        {
+          "label": "C",
+          "text": "dry cleaner."
+        },
+        {
+          "label": "D",
+          "text": "garment factory worker."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "What is the most rapidly growing religion in the United States today?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Islam"
+        },
+        {
+          "label": "B",
+          "text": "Christianity"
+        },
+        {
+          "label": "C",
+          "text": "Hinduism"
+        },
+        {
+          "label": "D",
+          "text": "Buddhism"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The distance north and south of the equator is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "global grid system."
+        },
+        {
+          "label": "B",
+          "text": "Prime Meridian"
+        },
+        {
+          "label": "C",
+          "text": "latitude."
+        },
+        {
+          "label": "D",
+          "text": "longitude."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which one of the following statements best describes an application of the S-curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Graph of the Bantu migration"
+        },
+        {
+          "label": "B",
+          "text": "Graph of the growth of human populations since their first appearance on Earth"
+        },
+        {
+          "label": "C",
+          "text": "The chart showing how cities associate with one another based on their population sizes"
+        },
+        {
+          "label": "D",
+          "text": "A model showing the decrease in population growth for several countries after they industrialize"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "The influence of neo-Malthusianism can be seen in",
+      "options": [
+        {
+          "label": "A",
+          "text": "government programs for birth control and planning."
+        },
+        {
+          "label": "B",
+          "text": "famine relief."
+        },
+        {
+          "label": "C",
+          "text": "increased spending in social welfare programs."
+        },
+        {
+          "label": "D",
+          "text": "increased total fertility rates."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "The irregularity of the wet monsoon in South Asia in recent years may have a significant negative effect on which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Food production"
+        },
+        {
+          "label": "B",
+          "text": "Population patterns"
+        },
+        {
+          "label": "C",
+          "text": "Wildlife conservation efforts"
+        },
+        {
+          "label": "D",
+          "text": "Tourism"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Which of the following countries is situated in the region of tectonic activity known as the Pacific Ring of Fire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brazil"
+        },
+        {
+          "label": "B",
+          "text": "Australia"
+        },
+        {
+          "label": "C",
+          "text": "Chile"
+        },
+        {
+          "label": "D",
+          "text": "India"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Which zone contains low-income slums, ethnic ghettos, and general deterioration in Burgess's concentric zone model of urban form?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First"
+        },
+        {
+          "label": "B",
+          "text": "Second"
+        },
+        {
+          "label": "C",
+          "text": "Third"
+        },
+        {
+          "label": "D",
+          "text": "Fourth"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "The purpose for the creation of NATO was to",
+      "options": [
+        {
+          "label": "A",
+          "text": "defend North America and Western Europe against the threat of communism."
+        },
+        {
+          "label": "B",
+          "text": "form an economic alliance for trade between Europe and North America."
+        },
+        {
+          "label": "C",
+          "text": "defend Europe against a second Nazi invasion."
+        },
+        {
+          "label": "D",
+          "text": "defend northern Europe against Chinese missiles."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The multiplier effect is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the addition of non-basic workers to an urban economy that has added more basic workers."
+        },
+        {
+          "label": "B",
+          "text": "a ratio of urban to rural workers in an economy."
+        },
+        {
+          "label": "C",
+          "text": "the ratio of city workers to farm workers in an economy."
+        },
+        {
+          "label": "D",
+          "text": "the addition of rural jobs created by the urban economy."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "What monotheistic religion is based on the life and teachings of Jesus Christ of Nazareth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Islam"
+        },
+        {
+          "label": "B",
+          "text": "Christianity"
+        },
+        {
+          "label": "C",
+          "text": "Hinduism"
+        },
+        {
+          "label": "D",
+          "text": "Buddhism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which geographer viewed the US urban community of the 1920s as a set of concentric rings radiating outward from a central core?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rostow"
+        },
+        {
+          "label": "B",
+          "text": "Ravenstein"
+        },
+        {
+          "label": "C",
+          "text": "Von Thünen"
+        },
+        {
+          "label": "D",
+          "text": "Burgess"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

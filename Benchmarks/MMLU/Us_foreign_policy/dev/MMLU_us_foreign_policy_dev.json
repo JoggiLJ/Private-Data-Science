@@ -1,0 +1,148 @@
+{
+  "variant_id": "us_foreign_policy_dev",
+  "description": "Us foreign policy multiple-choice questions from the MMLU benchmark (dev split).",
+  "source": "MMLU (Hendrycks et al., 2021, arXiv:2009.03300) — us_foreign_policy subject, dev split.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "How did the 2008 financial crisis affect America's international reputation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It damaged support for the US model of political economy and capitalism"
+        },
+        {
+          "label": "B",
+          "text": "It created anger at the United States for exaggerating the crisis"
+        },
+        {
+          "label": "C",
+          "text": "It increased support for American global leadership under President Obama"
+        },
+        {
+          "label": "D",
+          "text": "It reduced global use of the US dollar"
+        }
+      ],
+      "correct_label": "A",
+      "split": "dev",
+      "question_word_count": 10,
+      "token_count": 14,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "How did NSC-68 change U.S. strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It globalized containment."
+        },
+        {
+          "label": "B",
+          "text": "It militarized containment."
+        },
+        {
+          "label": "C",
+          "text": "It called for the development of the hydrogen bomb."
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 6,
+      "token_count": 12,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "The realm of policy decisions concerned primarily with relations between the United States and the rest of the world is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "terrorism policy."
+        },
+        {
+          "label": "B",
+          "text": "economic policy."
+        },
+        {
+          "label": "C",
+          "text": "foreign policy."
+        },
+        {
+          "label": "D",
+          "text": "international policy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 22,
+      "token_count": 22,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "How do Defensive Realism and Offensive Realism differ in their explanation of state behaviour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Defensive realists place greater emphasis on the role of international institutions"
+        },
+        {
+          "label": "B",
+          "text": "Defensive realists place less emphasis on geographical factors"
+        },
+        {
+          "label": "C",
+          "text": "Offensive realists give more priority to the national interest than Defensive realists."
+        },
+        {
+          "label": "D",
+          "text": "Defensive realists believe states are security maximizers, while Offensive realists believe states to be power maximizers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 14,
+      "token_count": 17,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "How did Donald Trump attack globalization in the 2016 campaign?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Globalization had made men like him too rich"
+        },
+        {
+          "label": "B",
+          "text": "Globalization only benefited certain American states, such as New York"
+        },
+        {
+          "label": "C",
+          "text": "Liberal elites had encouraged globalization, while 'ordinary Americans' lost jobs because of it"
+        },
+        {
+          "label": "D",
+          "text": "Globalization encouraged damaging trade wars"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 10,
+      "token_count": 13,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 12.4,
+    "avg_token_count": 15.6,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.26471537351608276
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_law_validation",
+  "description": "MMLU-Pro benchmark items, category: law, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 65,
+      "text": "What is the judge ad hoc?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Judge ad hoc is the president of the ICJ"
+        },
+        {
+          "label": "B",
+          "text": "Judge ad hoc is a temporary judge appointed for a specific period of time"
+        },
+        {
+          "label": "C",
+          "text": "Judge ad hoc is the judge that each party will always nominate in every contentious case"
+        },
+        {
+          "label": "D",
+          "text": "Judge ad hoc is the member of the bench of the ICJ with a casting vote"
+        },
+        {
+          "label": "E",
+          "text": "Judge ad hoc is a judge who is nominated by the parties involved in a contentious case, irrespective of their nationality"
+        },
+        {
+          "label": "F",
+          "text": "Judge ad hoc is a judge who decides on the admissibility of cases before the ICJ"
+        },
+        {
+          "label": "G",
+          "text": "Judge ad hoc is a judge appointed by the Security Council of the United Nations"
+        },
+        {
+          "label": "H",
+          "text": "Judge ad hoc is a surrogate judge, in case a judge is disqualified or passes away"
+        },
+        {
+          "label": "I",
+          "text": "If a party to a contentious case before the ICJ does not have a national sitting as judge, it is entitled to nominate someone as a judge solely for that case, with the title of judge ad hoc"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 66,
+      "text": "Functions of the law include all but which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "defining the limits of government power"
+        },
+        {
+          "label": "B",
+          "text": "regulating the use of public spaces"
+        },
+        {
+          "label": "C",
+          "text": "keeping the peace"
+        },
+        {
+          "label": "D",
+          "text": "maximizing individual freedom"
+        },
+        {
+          "label": "E",
+          "text": "maintaining order and stability"
+        },
+        {
+          "label": "F",
+          "text": "preventing environmental degradation"
+        },
+        {
+          "label": "G",
+          "text": "providing a basis for compromise"
+        },
+        {
+          "label": "H",
+          "text": "promoting social justice"
+        },
+        {
+          "label": "I",
+          "text": "promoting the principles of the free enterprise system"
+        },
+        {
+          "label": "J",
+          "text": "encouraging economic growth"
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 67,
+      "text": "The ________ School of jurisprudence postulates that the law is based on what is \"correct.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Legal Pragmatism"
+        },
+        {
+          "label": "B",
+          "text": "Legal Formalism"
+        },
+        {
+          "label": "C",
+          "text": "Comparative"
+        },
+        {
+          "label": "D",
+          "text": "Analytical"
+        },
+        {
+          "label": "E",
+          "text": "Sociological"
+        },
+        {
+          "label": "F",
+          "text": "Historical"
+        },
+        {
+          "label": "G",
+          "text": "Critical Legal Studies"
+        },
+        {
+          "label": "H",
+          "text": "Realist"
+        },
+        {
+          "label": "I",
+          "text": "Positivist"
+        },
+        {
+          "label": "J",
+          "text": "Natural Law"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    },
+    {
+      "item_id": 68,
+      "text": "Which word best summarizes Weber's explanation of the development of formally rational law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Socialism."
+        },
+        {
+          "label": "B",
+          "text": "Legitimacy."
+        },
+        {
+          "label": "C",
+          "text": "Authority."
+        },
+        {
+          "label": "D",
+          "text": "Democracy."
+        },
+        {
+          "label": "E",
+          "text": "Bureaucracy."
+        },
+        {
+          "label": "F",
+          "text": "Conflict."
+        },
+        {
+          "label": "G",
+          "text": "Capitalism."
+        },
+        {
+          "label": "H",
+          "text": "Charisma."
+        },
+        {
+          "label": "I",
+          "text": "Co-operation."
+        },
+        {
+          "label": "J",
+          "text": "Tradition."
+        }
+      ],
+      "correct_label": "G",
+      "split": "validation"
+    },
+    {
+      "item_id": 69,
+      "text": "A state has recently enacted a statute prohibiting the disposal of any nuclear wastes within the state. This law does not contravene or conflict with any federal statutes. A man operates a company in the state that is engaged in the disposal of nuclear wastes. Subsequent to the passage of the state statute, the man, not yet aware of the new law, entered into contracts with many out-of-state firms to dispose of their nuclear wastes in the state. On account of this new law, however, the man will be unable to perform these contracts. Assume that the man has standing to challenge this state law. Which of the following presents his strongest constitutional grounds to challenge the state law prohibiting the disposal of nuclear wastes within the state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The second amendment - the right to bear arms."
+        },
+        {
+          "label": "B",
+          "text": "The due process clause of the Fourteenth Amendment."
+        },
+        {
+          "label": "C",
+          "text": "The tenth amendment - powers not delegated to the United States by the Constitution."
+        },
+        {
+          "label": "D",
+          "text": "The first amendment - freedom of speech."
+        },
+        {
+          "label": "E",
+          "text": "The privileges and immunities clause of Article IV, Section 2."
+        },
+        {
+          "label": "F",
+          "text": "The commerce clause."
+        },
+        {
+          "label": "G",
+          "text": "The sixth amendment - right to a fair trial."
+        },
+        {
+          "label": "H",
+          "text": "The eighth amendment - prohibition of cruel and unusual punishment."
+        },
+        {
+          "label": "I",
+          "text": "The equal protection clause of the Fourteenth Amendment."
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    }
+  ]
+}

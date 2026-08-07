@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_macroeconomics_test",
+  "description": "High school macroeconomics multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_macroeconomics subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Potential GDP will fall ceteris paribus if",
+      "options": [
+        {
+          "label": "A",
+          "text": "the unemployment rate rises."
+        },
+        {
+          "label": "B",
+          "text": "the retirement age is lowered."
+        },
+        {
+          "label": "C",
+          "text": "tariffs protecting domestic jobs are eliminated."
+        },
+        {
+          "label": "D",
+          "text": "more immigration is allowed."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "As the Japanese economy expands in what ways do U.S. net exports the values of the dollar and the yen change? U.S. NET EXPORTS     VALUE OF DOLLAR     VALUE OF YEN",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease     Increase     Increase"
+        },
+        {
+          "label": "B",
+          "text": "Increase     Decrease     Increase"
+        },
+        {
+          "label": "C",
+          "text": "Decrease     Decrease     Increase"
+        },
+        {
+          "label": "D",
+          "text": "Increase     Increase     Decrease"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Suppose taxes are cut in an economy that is in equilibrium at full employment. In the long run the tax cut will",
+      "options": [
+        {
+          "label": "A",
+          "text": "raise real output and raise the price level."
+        },
+        {
+          "label": "B",
+          "text": "lower real output and raise the price level."
+        },
+        {
+          "label": "C",
+          "text": "raise real output and lower the price level."
+        },
+        {
+          "label": "D",
+          "text": "raise the price level."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Corn is exchanged in a competitive market. Which of the following definitely increases the equilibrium price of corn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both supply and demand shift rightward."
+        },
+        {
+          "label": "B",
+          "text": "Both supply and demand shift leftward."
+        },
+        {
+          "label": "C",
+          "text": "Supply shifts to the right; demand shifts to the left."
+        },
+        {
+          "label": "D",
+          "text": "Supply shifts to the left; demand shifts to the right."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "If real GDP per capita grows at a rate of 10 percent a year then we can expect the standard of living to double in",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 years."
+        },
+        {
+          "label": "B",
+          "text": "9 years."
+        },
+        {
+          "label": "C",
+          "text": "8 years."
+        },
+        {
+          "label": "D",
+          "text": "7 years."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Which of the following is characteristic of a centrally planned economic system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resources are allocated based on relative prices."
+        },
+        {
+          "label": "B",
+          "text": "The circular flow of goods and services minimizes the role of the federal government."
+        },
+        {
+          "label": "C",
+          "text": "Private ownership of resources is fundamental to economic growth."
+        },
+        {
+          "label": "D",
+          "text": "Government planners decide how best to produce goods and services."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "If the economy were experiencing a recessionary gap choose the option below that would be an appropriate fiscal policy to eliminate the gap and the predicted impact of the policy on real GDP and unemployment. FISCAL POLICY     REAL GDP     UNEMPLOYMENT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase taxes.     Increase     Decrease"
+        },
+        {
+          "label": "B",
+          "text": "Decrease spending.     Decrease     Increase"
+        },
+        {
+          "label": "C",
+          "text": "Decrease taxes.     Increase     Increase"
+        },
+        {
+          "label": "D",
+          "text": "Decrease taxes.     Increase     Decrease"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "A budget deficit exists when",
+      "options": [
+        {
+          "label": "A",
+          "text": "the total amount that the government owes at a given time is positive"
+        },
+        {
+          "label": "B",
+          "text": "government spending exceeds tax collections for a given period"
+        },
+        {
+          "label": "C",
+          "text": "exports exceed imports in a given year"
+        },
+        {
+          "label": "D",
+          "text": "imports exceed exports in a given year"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Which of the following insures the value of the U.S. dollar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The euro and other foreign currencies held by the Federal Reserve"
+        },
+        {
+          "label": "B",
+          "text": "Gold bars in secure locations like Fort Knox"
+        },
+        {
+          "label": "C",
+          "text": "The promise of the U.S. government to maintain its value"
+        },
+        {
+          "label": "D",
+          "text": "The value of the actual paper on which it is printed."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "The United States produces rice in a competitive market. With free trade the world price is lower than the domestic price. What must be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The United States begins to import rice to make up for a domestic shortage."
+        },
+        {
+          "label": "B",
+          "text": "The United States begins to export rice to make up for a domestic shortage."
+        },
+        {
+          "label": "C",
+          "text": "The United States begins to import rice to eliminate a domestic surplus."
+        },
+        {
+          "label": "D",
+          "text": "The United States begins to export rice to eliminate a domestic surplus."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Suppose yesterday the euro was trading on the foreign exchange market at $1.36 U.S. and today it is trading at $1.40 U.S. Which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The U.S. dollar has appreciated."
+        },
+        {
+          "label": "B",
+          "text": "The euro has depreciated."
+        },
+        {
+          "label": "C",
+          "text": "Interest rates in the United States have decreased."
+        },
+        {
+          "label": "D",
+          "text": "The euro has appreciated."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Suppose that elected officials and the central bank agree to combine fiscal and monetary policies to lessen the threat of inflation. Which of the following combinations would likely accomplish this goal? FISCAL POLICY     MONETARY POLICY",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease taxes     Increase the reserve ratio"
+        },
+        {
+          "label": "B",
+          "text": "Decrease spending     Buy government securities"
+        },
+        {
+          "label": "C",
+          "text": "Decrease taxes     Sell government securities"
+        },
+        {
+          "label": "D",
+          "text": "Increase taxes     Increase the discount ratio"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Which of the following most likely increases aggregate demand in the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An American entrepreneur founds and locates a software company in London."
+        },
+        {
+          "label": "B",
+          "text": "The U.S. military closes a military base in California."
+        },
+        {
+          "label": "C",
+          "text": "The Chinese government makes it increasingly difficult for American firms to export goods to China."
+        },
+        {
+          "label": "D",
+          "text": "A Mexican entrepreneur founds and locates a software company in St. Louis."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "On a bank's balance sheet which of the following is considered a liability?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Required reserves"
+        },
+        {
+          "label": "B",
+          "text": "Excess reserves"
+        },
+        {
+          "label": "C",
+          "text": "Loans"
+        },
+        {
+          "label": "D",
+          "text": "Deposits"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Expansionary monetary policy is designed to",
+      "options": [
+        {
+          "label": "A",
+          "text": "decrease the interest rate increase private investment increase aggregate demand and increase domestic output."
+        },
+        {
+          "label": "B",
+          "text": "decrease the interest rate increase private investment increase aggregate demand and increase the unemployment rate."
+        },
+        {
+          "label": "C",
+          "text": "increase the interest rate increase private investment increase aggregate demand and increase domestic output."
+        },
+        {
+          "label": "D",
+          "text": "increase the interest rate decrease private investment increase aggregate demand and increase domestic output."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following is not an addition to national income?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wages"
+        },
+        {
+          "label": "B",
+          "text": "Salaries"
+        },
+        {
+          "label": "C",
+          "text": "Interest"
+        },
+        {
+          "label": "D",
+          "text": "Depreciation of physical capital"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "According to monetarist analysis a decrease in the money supply would",
+      "options": [
+        {
+          "label": "A",
+          "text": "raise the price level and output in the economy."
+        },
+        {
+          "label": "B",
+          "text": "lower the price level and output in the economy."
+        },
+        {
+          "label": "C",
+          "text": "raise the price level in the economy."
+        },
+        {
+          "label": "D",
+          "text": "lower the price level in the economy."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "If interest rates rise relatively more in country A than in country B then the value of country A's currency will",
+      "options": [
+        {
+          "label": "A",
+          "text": "appreciate."
+        },
+        {
+          "label": "B",
+          "text": "depreciate."
+        },
+        {
+          "label": "C",
+          "text": "remain unchanged."
+        },
+        {
+          "label": "D",
+          "text": "change indeterminately."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Which of the following best measures changes in the price level of national product?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The consumer price index"
+        },
+        {
+          "label": "B",
+          "text": "The real interest rate"
+        },
+        {
+          "label": "C",
+          "text": "The unemployment rate"
+        },
+        {
+          "label": "D",
+          "text": "The GDP deflator"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "You hear that the United States has a negative balance in the current account. With this information we conclude that",
+      "options": [
+        {
+          "label": "A",
+          "text": "there is a trade deficit."
+        },
+        {
+          "label": "B",
+          "text": "there is a capital account deficit."
+        },
+        {
+          "label": "C",
+          "text": "there is a capital account surplus."
+        },
+        {
+          "label": "D",
+          "text": "more U.S. dollars are being sent abroad than foreign currencies are being sent to the United States."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "According to Monetarist theory",
+      "options": [
+        {
+          "label": "A",
+          "text": "the FED should actively conduct monetary policy."
+        },
+        {
+          "label": "B",
+          "text": "changes in the money supply do not have significant effects."
+        },
+        {
+          "label": "C",
+          "text": "fiscal policy is the preferred way of shifting the aggregate demand curve."
+        },
+        {
+          "label": "D",
+          "text": "the FED should allow the money supply to grow at a constant rate."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "The GDP Deflator I. is used to calculate inflation rates. II. is an alternative to the CPI. III. is more accurate than the CPI.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only I is true."
+        },
+        {
+          "label": "B",
+          "text": "I and II are true."
+        },
+        {
+          "label": "C",
+          "text": "I and III are true."
+        },
+        {
+          "label": "D",
+          "text": "II and III are true."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "All else equal when the United States exports more goods and services",
+      "options": [
+        {
+          "label": "A",
+          "text": "the value of the dollar falls as the supply of dollars increases."
+        },
+        {
+          "label": "B",
+          "text": "the value of the dollar rises as demand for dollars increases."
+        },
+        {
+          "label": "C",
+          "text": "the value of the dollar falls as demand for dollars decreases."
+        },
+        {
+          "label": "D",
+          "text": "the value of the dollar rises as the supply of dollars increases."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Labor productivity and economic growth increase if",
+      "options": [
+        {
+          "label": "A",
+          "text": "a nation subsidizes education for all citizens."
+        },
+        {
+          "label": "B",
+          "text": "a nation imposes tariffs and quotas on imported goods."
+        },
+        {
+          "label": "C",
+          "text": "a nation removes penalties for firms that pollute natural resources."
+        },
+        {
+          "label": "D",
+          "text": "a nation ignores societal barriers like discrimination."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following is equal to one?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The elasticity of the long-run aggregate supply curve"
+        },
+        {
+          "label": "B",
+          "text": "The spending (or expenditure) multiplier"
+        },
+        {
+          "label": "C",
+          "text": "The money (or banking) multiplier"
+        },
+        {
+          "label": "D",
+          "text": "The balanced budget multiplier"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "A stronger stock market is likely to cause which of the following changes in the consumption function and aggregate demand? CONSUMPTION FUNCTION     AGGREGATE DEMAND",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase     Increase"
+        },
+        {
+          "label": "B",
+          "text": "No change     No change"
+        },
+        {
+          "label": "C",
+          "text": "Increase     No change"
+        },
+        {
+          "label": "D",
+          "text": "Increase     Increase"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "The crowding-out effect from government borrowing is best described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the rightward shift in AD in response to the decreasing interest rates from contractionary fiscal policy."
+        },
+        {
+          "label": "B",
+          "text": "the leftward shift in AD in response to the rising interest rates from expansionary fiscal policy."
+        },
+        {
+          "label": "C",
+          "text": "the effect of the President increasing the money supply which decreases real interest rates and increases AD."
+        },
+        {
+          "label": "D",
+          "text": "the effect on the economy of hearing the chairperson of the central bank say that he or she believes that the economy is in a recession."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Assuming there is no statistical discrepancy a trade surplus must be offset elsewhere in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "current-account balance only"
+        },
+        {
+          "label": "B",
+          "text": "financial-account balance only"
+        },
+        {
+          "label": "C",
+          "text": "merchandise balance of trade only"
+        },
+        {
+          "label": "D",
+          "text": "current-account or financial-account only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "When nominal GDP is rising we would expect money demand to",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase as consumers demand more money as a financial asset increasing the interest rate."
+        },
+        {
+          "label": "B",
+          "text": "increase as consumers demand more money for transactions increasing the interest rate."
+        },
+        {
+          "label": "C",
+          "text": "decrease as the purchasing power of the dollar is falling decreasing the interest rate."
+        },
+        {
+          "label": "D",
+          "text": "decrease as consumers demand more money for transactions increasing the interest rate."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "If real GDP per capita was $20000 in 1980 and $21000 in 1990 then we conclude that the standard of living has increased",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 percent."
+        },
+        {
+          "label": "B",
+          "text": "5.0 percent."
+        },
+        {
+          "label": "C",
+          "text": "50 percent."
+        },
+        {
+          "label": "D",
+          "text": "3.3 percent."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Fisher's Hypothesis states that",
+      "options": [
+        {
+          "label": "A",
+          "text": "the real interest equals the nominal interest rate plus the inflation rate."
+        },
+        {
+          "label": "B",
+          "text": "the nominal interest rate equals the real interest rate minus the inflation rate."
+        },
+        {
+          "label": "C",
+          "text": "the nominal interest rate equals the unemployment rate plus the real interest rate."
+        },
+        {
+          "label": "D",
+          "text": "the nominal interest rate equals the real interest rate plus the inflation rate."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Which of the following choices is most likely to create the greatest decrease in real GDP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The government decreases spending matched with a decrease in taxes."
+        },
+        {
+          "label": "B",
+          "text": "The government increases spending with no increase in taxes."
+        },
+        {
+          "label": "C",
+          "text": "The government decreases spending with no change in taxes."
+        },
+        {
+          "label": "D",
+          "text": "The government holds spending constant while increasing taxes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "What will happen to the equilibrium price and the equilibrium quantity of good A when producers of good A expect the price to be higher in the near future?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The equilibrium price will rise and the equilibrium quantity will fall."
+        },
+        {
+          "label": "B",
+          "text": "The equilibrium price will fall and the equilibrium quantity will rise."
+        },
+        {
+          "label": "C",
+          "text": "The equilibrium price and the equilibrium quantity will rise."
+        },
+        {
+          "label": "D",
+          "text": "The equilibrium price and the equilibrium quantity will fall."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which function of money best defines $1.25 as the price of a 20-ounce bottle of pop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Medium of exchange"
+        },
+        {
+          "label": "B",
+          "text": "Unit of account"
+        },
+        {
+          "label": "C",
+          "text": "Store of value"
+        },
+        {
+          "label": "D",
+          "text": "Transfer of ownership"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "In a command economy",
+      "options": [
+        {
+          "label": "A",
+          "text": "the market dictates the answers to the fundamental economic questions."
+        },
+        {
+          "label": "B",
+          "text": "competition helps answer the fundamental economic questions."
+        },
+        {
+          "label": "C",
+          "text": "state and local governments respond to the fundamental economic questions."
+        },
+        {
+          "label": "D",
+          "text": "the central government dictates the answers to the fundamental economic questions."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Business cycles",
+      "options": [
+        {
+          "label": "A",
+          "text": "occur infrequently in capitalist economies."
+        },
+        {
+          "label": "B",
+          "text": "refer to reusing resources in production."
+        },
+        {
+          "label": "C",
+          "text": "are predictable ups and downs in economic activity."
+        },
+        {
+          "label": "D",
+          "text": "are each comprised of a recession and an expansion."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "If the money supply increases what happens in the money market (assuming money demand is downward sloping)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The nominal interest rates rises."
+        },
+        {
+          "label": "B",
+          "text": "The nominal interest rates falls."
+        },
+        {
+          "label": "C",
+          "text": "The nominal interest rate does not change."
+        },
+        {
+          "label": "D",
+          "text": "Transaction demand for money falls."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Automatic stabilizers in the economy serve an important role in",
+      "options": [
+        {
+          "label": "A",
+          "text": "increasing the length of the business cycle."
+        },
+        {
+          "label": "B",
+          "text": "balancing the budget."
+        },
+        {
+          "label": "C",
+          "text": "increasing a budget surplus in a recession."
+        },
+        {
+          "label": "D",
+          "text": "lessening the impact of a recession."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "At the peak of a typical business cycle which of the following is likely the greatest threat to the macroeconomy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unemployment"
+        },
+        {
+          "label": "B",
+          "text": "Bankruptcy"
+        },
+        {
+          "label": "C",
+          "text": "Declining labor productivity"
+        },
+        {
+          "label": "D",
+          "text": "Inflation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Which of the following is likely to shift the long-run aggregate supply curve to the right?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A nation that devotes more resources to nondurable consumption goods rather than durable capital goods"
+        },
+        {
+          "label": "B",
+          "text": "Research that improves the productivity of labor and capital"
+        },
+        {
+          "label": "C",
+          "text": "More restrictive trade policies"
+        },
+        {
+          "label": "D",
+          "text": "Annual limits to immigration of foreign citizens"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Expansionary fiscal policy would best be prescribed to",
+      "options": [
+        {
+          "label": "A",
+          "text": "eliminate a recessionary gap"
+        },
+        {
+          "label": "B",
+          "text": "reduce inflation"
+        },
+        {
+          "label": "C",
+          "text": "reduce the interest rate"
+        },
+        {
+          "label": "D",
+          "text": "eliminate an inflationary gap"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "There is a strong demand for welders in California but Bill an unemployed welder lives in New York. Bill is",
+      "options": [
+        {
+          "label": "A",
+          "text": "frictionally unemployed."
+        },
+        {
+          "label": "B",
+          "text": "cyclically unemployed."
+        },
+        {
+          "label": "C",
+          "text": "structurally unemployed."
+        },
+        {
+          "label": "D",
+          "text": "considered to be a hidden worker."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "To close a recessionary gap",
+      "options": [
+        {
+          "label": "A",
+          "text": "the aggregate demand curve should be shifted to the right."
+        },
+        {
+          "label": "B",
+          "text": "the aggregate demand curve should be shifted to the left."
+        },
+        {
+          "label": "C",
+          "text": "the aggregate supply curve should be shifted to the right."
+        },
+        {
+          "label": "D",
+          "text": "the aggregate supply curve should be shifted to the left."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "A nation is producing at a point inside of its production possibility curve. Which of the following is a possible explanation for this outcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "This nation has experienced a permanent decrease in its production capacity."
+        },
+        {
+          "label": "B",
+          "text": "This nation has experienced slower than usual technological progress."
+        },
+        {
+          "label": "C",
+          "text": "This nation has avoided free trade between other nations."
+        },
+        {
+          "label": "D",
+          "text": "This nation is experiencing an economic recession."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "The reserve ratio is .10 and Mommy Morebucks withdraws $1 million from her checking account and keeps it as cash in her refrigerator. How does this withdrawal potentially impact money in circulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreases it by $9 million"
+        },
+        {
+          "label": "B",
+          "text": "Decreases it by $1 million"
+        },
+        {
+          "label": "C",
+          "text": "Decreases it by $100000"
+        },
+        {
+          "label": "D",
+          "text": "Increases it by $1 million"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Which of the following is true of automatic fiscal policy stabilizers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "For a given level of government spending they produce a deficit during a recession and a surplus during an expansion."
+        },
+        {
+          "label": "B",
+          "text": "They serve to prolong recessionary and inflationary periods."
+        },
+        {
+          "label": "C",
+          "text": "The regressive tax system is a fundamental component of automatic stabilizers."
+        },
+        {
+          "label": "D",
+          "text": "For a given level of government spending they produce a surplus during a recession and a surplus during an expansion."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following are harmed by unexpectedly high rates of inflation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Borrowers repaying a long-term loan at a fixed interest rate."
+        },
+        {
+          "label": "B",
+          "text": "Savers who have put their money in long-term assets that pay a fixed interest rate."
+        },
+        {
+          "label": "C",
+          "text": "Workers who have negotiated cost-of-living raises into their contracts."
+        },
+        {
+          "label": "D",
+          "text": "Renters of apartments who have signed a lease that holds rent constant for two years."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "In the short run contractionary monetary policy causes aggregate demand to output to  and the price level to Aggregate demand      Output      Price Level",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases            Increases      Increases"
+        },
+        {
+          "label": "B",
+          "text": "Increases            Increases      Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Decreases            Decreases      Increases"
+        },
+        {
+          "label": "D",
+          "text": "Decreases            Decreases      Decreases"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "The aggregate demand curve has a negative slope in part because when the price level increases",
+      "options": [
+        {
+          "label": "A",
+          "text": "the value of cash increases"
+        },
+        {
+          "label": "B",
+          "text": "imports become relatively more expensive"
+        },
+        {
+          "label": "C",
+          "text": "the real quantity of money increases"
+        },
+        {
+          "label": "D",
+          "text": "the interest rate increases"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Suppose the Japanese economy is suffering a prolonged recession. Lower Japanese household incomes will affect U.S. exports to Japan demand for the dollar and the value of the dollar relative to the yen in which of the following ways? EXPORTS TO JAPAN     DEMAND FOR $     VALUE OF $",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease     Decrease     Decrease"
+        },
+        {
+          "label": "B",
+          "text": "Decrease     Decrease     Increase"
+        },
+        {
+          "label": "C",
+          "text": "Decrease     Increase     Decrease"
+        },
+        {
+          "label": "D",
+          "text": "Increase     Decrease     Decrease"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "The effect of the spending multiplier is lessened if",
+      "options": [
+        {
+          "label": "A",
+          "text": "the price level is constant with an increase in aggregate demand."
+        },
+        {
+          "label": "B",
+          "text": "the price level falls with an increase in aggregate supply."
+        },
+        {
+          "label": "C",
+          "text": "the price level is constant with an increase in long-run aggregate supply."
+        },
+        {
+          "label": "D",
+          "text": "the price level rises with an increase in aggregate demand."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Suppose you observe an economy where prices are falling and real GDP is rising. This may have been caused by",
+      "options": [
+        {
+          "label": "A",
+          "text": "stagflation."
+        },
+        {
+          "label": "B",
+          "text": "an advance in technology."
+        },
+        {
+          "label": "C",
+          "text": "an increase in government spending."
+        },
+        {
+          "label": "D",
+          "text": "a decrease in government spending."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "An American buys an entertainment system that was manufactured in China. How does the U.S. national income accounts treat this transaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Net exports and GDP both rise."
+        },
+        {
+          "label": "B",
+          "text": "Net exports and GDP both fall."
+        },
+        {
+          "label": "C",
+          "text": "Net exports and GDP go in opposite directions."
+        },
+        {
+          "label": "D",
+          "text": "Net exports fall and there is no change in GDP."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following will cause the aggregate demand curve to shift to the left?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Expectations of surpluses of goods in the future"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in income taxes"
+        },
+        {
+          "label": "C",
+          "text": "An increase in government spending"
+        },
+        {
+          "label": "D",
+          "text": "An increase in foreign income"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Investment demand most likely increases when",
+      "options": [
+        {
+          "label": "A",
+          "text": "real GDP decreases."
+        },
+        {
+          "label": "B",
+          "text": "the cost of acquiring and maintaining capital equipment rises."
+        },
+        {
+          "label": "C",
+          "text": "investor optimism improves."
+        },
+        {
+          "label": "D",
+          "text": "the real rate of interest rises."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "If the Japanese economy suffers a deep prolonged recession in what ways would U.S. net exports and the values of the dollar and yen change? U.S. NET EXPORTS     VALUE OF DOLLAR     VALUE OF YEN",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreases     Increases     Increases"
+        },
+        {
+          "label": "B",
+          "text": "Decreases     Decreases     Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Decreases     Decreases     Increases"
+        },
+        {
+          "label": "D",
+          "text": "Increases     Decreases     Increases"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Which of the following is NOT a major cost of inflation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resources will be misallocated."
+        },
+        {
+          "label": "B",
+          "text": "Wealth will be redistributed."
+        },
+        {
+          "label": "C",
+          "text": "Savings will be discouraged."
+        },
+        {
+          "label": "D",
+          "text": "Real incomes will fall."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Suppose real GDP increases. We can conclude without a doubt that",
+      "options": [
+        {
+          "label": "A",
+          "text": "prices are higher."
+        },
+        {
+          "label": "B",
+          "text": "employment is higher."
+        },
+        {
+          "label": "C",
+          "text": "production is higher."
+        },
+        {
+          "label": "D",
+          "text": "prices and/or output is higher."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "According to Keynesian analysis a decrease in the money supply would",
+      "options": [
+        {
+          "label": "A",
+          "text": "raise the price level and output in the economy."
+        },
+        {
+          "label": "B",
+          "text": "lower the price level and output in the economy."
+        },
+        {
+          "label": "C",
+          "text": "raise the price level in the economy."
+        },
+        {
+          "label": "D",
+          "text": "lower the price level in the economy."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "A change in government spending will have a greater short run impact on real output when",
+      "options": [
+        {
+          "label": "A",
+          "text": "the marginal propensity to consume is lower."
+        },
+        {
+          "label": "B",
+          "text": "the velocity of money is lower."
+        },
+        {
+          "label": "C",
+          "text": "the velocity of money is higher."
+        },
+        {
+          "label": "D",
+          "text": "the marginal propensity to consume is larger."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "If the world price of copper exceeds the domestic (U.S.) price of copper we would expect",
+      "options": [
+        {
+          "label": "A",
+          "text": "the United States to be a net exporter of copper."
+        },
+        {
+          "label": "B",
+          "text": "the United States to impose a tariff on imported copper to protect domestic producers."
+        },
+        {
+          "label": "C",
+          "text": "the demand for U.S. copper to fall."
+        },
+        {
+          "label": "D",
+          "text": "a growing trade deficit in the United States in goods and services."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The FED's Board of Governors has members each serving -year terms.",
+      "options": [
+        {
+          "label": "A",
+          "text": "14 7"
+        },
+        {
+          "label": "B",
+          "text": "7 14"
+        },
+        {
+          "label": "C",
+          "text": "8 8"
+        },
+        {
+          "label": "D",
+          "text": "50 2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Inflation",
+      "options": [
+        {
+          "label": "A",
+          "text": "encourages households to save more."
+        },
+        {
+          "label": "B",
+          "text": "does not affect savings in the economy."
+        },
+        {
+          "label": "C",
+          "text": "forces households to save more."
+        },
+        {
+          "label": "D",
+          "text": "discourages savings."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "GDP is calculated for each by",
+      "options": [
+        {
+          "label": "A",
+          "text": "quarter; The Bureau of Economic Analysis"
+        },
+        {
+          "label": "B",
+          "text": "week; The Bureau of Economic Analysis"
+        },
+        {
+          "label": "C",
+          "text": "month; The Bureau of Economic Analysis"
+        },
+        {
+          "label": "D",
+          "text": "month; The Bureau of Labor Statistics"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Which of the following is a component of the M 1 measure of money supply?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Savings deposits"
+        },
+        {
+          "label": "B",
+          "text": "Gold bullion"
+        },
+        {
+          "label": "C",
+          "text": "Cash and coins"
+        },
+        {
+          "label": "D",
+          "text": "30-year Treasury certificates"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "If prices rise in the United States relative to other countries then",
+      "options": [
+        {
+          "label": "A",
+          "text": "the value of the dollar will tend to appreciate."
+        },
+        {
+          "label": "B",
+          "text": "the value of the dollar will tend to depreciate."
+        },
+        {
+          "label": "C",
+          "text": "exchange rates will be affected but not the value of the dollar."
+        },
+        {
+          "label": "D",
+          "text": "the exchange rate will not be affected."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which of the following would be an example of fiat money?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cigarettes used as money in prisons"
+        },
+        {
+          "label": "B",
+          "text": "Dollar bills"
+        },
+        {
+          "label": "C",
+          "text": "Gold coins"
+        },
+        {
+          "label": "D",
+          "text": "Arrowheads used as a medium of exchange"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Contractionary monetary policy implies which of the following about the discount rate the nominal interest rate and aggregate demand? Discount rate      Nominal interest rate      Aggregate demand",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreases            Increases      Decreases"
+        },
+        {
+          "label": "B",
+          "text": "Increases            Increases      Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Decreases            Decreases      Decreases"
+        },
+        {
+          "label": "D",
+          "text": "Increases            Increases      Increases"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "U.S. dollars and the European Union's (EU's) euro are exchanged in global currency markets. Which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If inflation is high in the EU and the price level in the United States is stable the value of the dollar appreciates."
+        },
+        {
+          "label": "B",
+          "text": "If the Fed decreases the money supply the value of the dollar depreciates."
+        },
+        {
+          "label": "C",
+          "text": "If EU consumers are less inclined to purchase American goods the dollar appreciates."
+        },
+        {
+          "label": "D",
+          "text": "If U.S. income levels are rising relative to incomes in the EU the euro depreciates."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Suppose that Tiger Woods buys a golf ball in England for $1 and the marginal propensity to consume in England is 0.75. What is the total increase in England's real GDP resulting from Mr. Woods' purchase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$1 "
+        },
+        {
+          "label": "B",
+          "text": "$1.25 "
+        },
+        {
+          "label": "C",
+          "text": "$1.75 "
+        },
+        {
+          "label": "D",
+          "text": "$4 "
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "The CPI is calculated for each by",
+      "options": [
+        {
+          "label": "A",
+          "text": "week; The Bureau of Economic Analysis"
+        },
+        {
+          "label": "B",
+          "text": "month; The Bureau of Economic Analysis"
+        },
+        {
+          "label": "C",
+          "text": "month; The Bureau of Labor Statistics"
+        },
+        {
+          "label": "D",
+          "text": "quarter; The Bureau of Economic Analysis"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "GDP measures a country's level of I. production. II. stability. III. income.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only."
+        },
+        {
+          "label": "B",
+          "text": "II only."
+        },
+        {
+          "label": "C",
+          "text": "III only."
+        },
+        {
+          "label": "D",
+          "text": "I and III."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following would likely slow a nation's economic growth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guaranteed low-interest loans for college students"
+        },
+        {
+          "label": "B",
+          "text": "Removal of a tax on income earned on saving"
+        },
+        {
+          "label": "C",
+          "text": "Removal of the investment tax credit"
+        },
+        {
+          "label": "D",
+          "text": "More research grants given to medical schools"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Which of the following will have an effect on GDP?",
+      "options": [
+        {
+          "label": "A",
+          "text": "You lose $50 betting with a friend."
+        },
+        {
+          "label": "B",
+          "text": "You fix your brother's car without buying any new parts."
+        },
+        {
+          "label": "C",
+          "text": "Your father's firm makes computers and exports them to China."
+        },
+        {
+          "label": "D",
+          "text": "You buy 1000 shares of stock in a corporation."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "In order to go from national income to GDP one must",
+      "options": [
+        {
+          "label": "A",
+          "text": "add depreciation expenses"
+        },
+        {
+          "label": "B",
+          "text": "add indirect taxes"
+        },
+        {
+          "label": "C",
+          "text": "subtract subsidies"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "An increase in the price of forklifts imported into the United States from Belgium will",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase the consumer price index and the GDP deflator."
+        },
+        {
+          "label": "B",
+          "text": "increase the consumer price index but not the GDP deflator."
+        },
+        {
+          "label": "C",
+          "text": "increase the GDP deflator but not the consumer price index."
+        },
+        {
+          "label": "D",
+          "text": "have no effect on the consumer price index or the GDP deflator."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which of the following is not included in M2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Currency."
+        },
+        {
+          "label": "B",
+          "text": "Travelers' checks."
+        },
+        {
+          "label": "C",
+          "text": "Certificates of deposit."
+        },
+        {
+          "label": "D",
+          "text": "Credit cards."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Output in country X is 30000 units and there are 3000 persons working while country Z has an output of 40000 units and 8000 workers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The productivity of labor in country Z is 33 percent higher than in country X."
+        },
+        {
+          "label": "B",
+          "text": "The productivity of labor in country Z is 25 percent higher than in country X."
+        },
+        {
+          "label": "C",
+          "text": "The productivity of labor in country X is 33 percent higher than in country Z."
+        },
+        {
+          "label": "D",
+          "text": "The productivity of labor in country X is twice as much as country Z."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Private industry can promote economic growth by",
+      "options": [
+        {
+          "label": "A",
+          "text": "implementing innovative production techniques."
+        },
+        {
+          "label": "B",
+          "text": "offering products at artificially low prices."
+        },
+        {
+          "label": "C",
+          "text": "giving a significant amount of profits to charity."
+        },
+        {
+          "label": "D",
+          "text": "hiring workers who are not really needed."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Suppose the economy is in long-run equilibrium when a temporary expansionary supply shock is felt in the economy. This changes the short-run Phillips curve the short-run unemployment rate and the long-run unemployment rate in which of the following ways? SHORT-RUN PHILLIPS CURVE     SHORT-RUN UNEMPLOYMENT     LONG-RUN UNEMPLOYMENT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shifts down     Falls     Rises"
+        },
+        {
+          "label": "B",
+          "text": "Shifts up     Rises     Falls"
+        },
+        {
+          "label": "C",
+          "text": "Shifts down     Falls     Falls"
+        },
+        {
+          "label": "D",
+          "text": "Shifts up     Rises     Rises"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following would be included in U.S. GDP calculations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An auto mechanic fixing his dentist’s car for a filling"
+        },
+        {
+          "label": "B",
+          "text": "A stay-at-home dad providing childcare for his children"
+        },
+        {
+          "label": "C",
+          "text": "A worker donating $200 to the Red Cross"
+        },
+        {
+          "label": "D",
+          "text": "High school students spending their Saturdays building homes for the homeless"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "The appropriate fiscal policy to remedy a recession is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase government spending and taxes."
+        },
+        {
+          "label": "B",
+          "text": "reduce government spending and taxes."
+        },
+        {
+          "label": "C",
+          "text": "increase government spending and reduce taxes."
+        },
+        {
+          "label": "D",
+          "text": "decrease government spending and increase taxes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "The GDP Deflator differs from the CPI in that the GDP Deflator",
+      "options": [
+        {
+          "label": "A",
+          "text": "is thought to slightly overestimate the inflation rate"
+        },
+        {
+          "label": "B",
+          "text": "uses base year quantities in its calculations"
+        },
+        {
+          "label": "C",
+          "text": "incorporates both current year prices and base year prices"
+        },
+        {
+          "label": "D",
+          "text": "incorporates current year quantities in its calculations"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "In the last 20 years firms that produce cameras have begun to produce fewer 35-mm cameras and more digital cameras. This trend is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "how central planners dictate which cameras are produced."
+        },
+        {
+          "label": "B",
+          "text": "the market system answering the question of \"how\" cameras should be produced."
+        },
+        {
+          "label": "C",
+          "text": "the market system answering the question of \"what\" cameras should be produced."
+        },
+        {
+          "label": "D",
+          "text": "the market system answering the question of \"who\" should consume the cameras that are produced."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "If a bank has $1000 in checking deposits and the bank is required to reserve $250 what is the reserve ratio? How much does the bank have in excess reserves? What is the size of the money multiplier?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25% $750 M = ¼"
+        },
+        {
+          "label": "B",
+          "text": "75% $250 M = 4"
+        },
+        {
+          "label": "C",
+          "text": "25% $750 M = 4"
+        },
+        {
+          "label": "D",
+          "text": "75% $750 M = ¼"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Which of the following is a predictable consequence of import quotas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased competition and lower consumer prices"
+        },
+        {
+          "label": "B",
+          "text": "Increased government tax revenue from imported goods"
+        },
+        {
+          "label": "C",
+          "text": "Rising net exports and a rightward shift in aggregate supply"
+        },
+        {
+          "label": "D",
+          "text": "Higher consumer prices and a misallocation of resources away from efficient producers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Among those hurt by inflation are I.   borrowers at fixed interest rates II.   individuals on fixed incomes III.   those with savings earning fixed interest rates IV.   restaurant owners",
+      "options": [
+        {
+          "label": "A",
+          "text": "I and II only"
+        },
+        {
+          "label": "B",
+          "text": "II and III only"
+        },
+        {
+          "label": "C",
+          "text": "II and IV only"
+        },
+        {
+          "label": "D",
+          "text": "II III and IV only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "To move the economy closer to full employment the central bank decides that the federal funds rate must be increased. The appropriate open market operation is to ______ which ______ the money supply ______ aggregate demand and fights ______. OMO     MONEY SUPPLY     AD     TO FIGHT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buy bonds     Increases     Increases     Unemployment"
+        },
+        {
+          "label": "B",
+          "text": "Buy bonds     Increases     Increases     Inflation"
+        },
+        {
+          "label": "C",
+          "text": "Sell bonds     Decreases     Decreases     Unemployment"
+        },
+        {
+          "label": "D",
+          "text": "Sell bonds     Decreases     Decreases     Inflation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "If nominal GDP equals $6000 and the GDP deflator equals 200 then real GDP equals",
+      "options": [
+        {
+          "label": "A",
+          "text": "$30 "
+        },
+        {
+          "label": "B",
+          "text": "$3,000 "
+        },
+        {
+          "label": "C",
+          "text": "$12,000 "
+        },
+        {
+          "label": "D",
+          "text": "$1,200 "
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "If the demand for our exports rises while our tastes for foreign goods falls off then",
+      "options": [
+        {
+          "label": "A",
+          "text": "the value of the dollar will tend to appreciate."
+        },
+        {
+          "label": "B",
+          "text": "the value of the dollar will tend to depreciate."
+        },
+        {
+          "label": "C",
+          "text": "exchange rates will be affected but not the value of the dollar."
+        },
+        {
+          "label": "D",
+          "text": "the exchange rate will not be affected."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Which of the following is an example of contractionary monetary policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Fed lowers the reserve ratio."
+        },
+        {
+          "label": "B",
+          "text": "The Fed lowers the discount rate."
+        },
+        {
+          "label": "C",
+          "text": "The Fed increases taxes on household income."
+        },
+        {
+          "label": "D",
+          "text": "The Fed sells Treasury securities to commercial banks."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "What will happen to the equilibrium price and the equilibrium quantity of good Z when the price of good X which is a close substitute for Z rises?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The equilibrium price will rise and the equilibrium quantity will fall."
+        },
+        {
+          "label": "B",
+          "text": "The equilibrium price will fall and the equilibrium quantity will rise."
+        },
+        {
+          "label": "C",
+          "text": "The equilibrium price and the equilibrium quantity will both rise."
+        },
+        {
+          "label": "D",
+          "text": "The equilibrium price and the equilibrium quantity will both fall."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "In what ways is contractionary fiscal policy in the United States likely to affect domestic interest rates and the international value of the dollar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interest rates increase and the dollar depreciates."
+        },
+        {
+          "label": "B",
+          "text": "Interest rates decrease and the dollar appreciates."
+        },
+        {
+          "label": "C",
+          "text": "Interest rates increase and the dollar appreciates."
+        },
+        {
+          "label": "D",
+          "text": "Interest rates decrease and the dollar depreciates."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which of the following is true of money and financial markets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As the demand for bonds increases the interest rate increases."
+        },
+        {
+          "label": "B",
+          "text": "For a given money supply if nominal GDP increases the velocity of money decreases."
+        },
+        {
+          "label": "C",
+          "text": "When demand for stocks and bonds increases the asset demand for money falls."
+        },
+        {
+          "label": "D",
+          "text": "A macroeconomic recession increases the demand for loanable funds."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Required reserves",
+      "options": [
+        {
+          "label": "A",
+          "text": "can be used by banks to make loans or buy investments."
+        },
+        {
+          "label": "B",
+          "text": "can be held in a bank's vault or its account at the FED."
+        },
+        {
+          "label": "C",
+          "text": "must be kept in a bank's vault."
+        },
+        {
+          "label": "D",
+          "text": "must be used to make loans."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Stagflation most likely results from",
+      "options": [
+        {
+          "label": "A",
+          "text": "increasing AD with constant SRAS."
+        },
+        {
+          "label": "B",
+          "text": "decreasing SRAS with constant AD."
+        },
+        {
+          "label": "C",
+          "text": "decreasing AD with constant SRAS."
+        },
+        {
+          "label": "D",
+          "text": "a decrease in both AD and SRAS."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "The appropriate fiscal policy to remedy inflation calls for",
+      "options": [
+        {
+          "label": "A",
+          "text": "the federal government to run a deficit."
+        },
+        {
+          "label": "B",
+          "text": "the federal government to run a surplus."
+        },
+        {
+          "label": "C",
+          "text": "increased taxes and government spending."
+        },
+        {
+          "label": "D",
+          "text": "decreased government spending and taxes."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Which of the following is an example of an expansionary supply shock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rapid increasing wages"
+        },
+        {
+          "label": "B",
+          "text": "A greatly depreciated currency"
+        },
+        {
+          "label": "C",
+          "text": "Declining labor productivity"
+        },
+        {
+          "label": "D",
+          "text": "Lower factor prices in major industries"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "According to Keynesian theory a decrease in the money supply would",
+      "options": [
+        {
+          "label": "A",
+          "text": "lower interest rates which would encourage borrowing and therefore increase spending."
+        },
+        {
+          "label": "B",
+          "text": "raise interest rates which would discourage borrowing and therefore increase spending."
+        },
+        {
+          "label": "C",
+          "text": "raise interest rates which would discourage borrowing and therefore reduce spending."
+        },
+        {
+          "label": "D",
+          "text": "lower interest rates which would discourage borrowing and therefore reduce spending."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following is an example of expansionary monetary policy for the Federal Reserve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the discount rate"
+        },
+        {
+          "label": "B",
+          "text": "Increasing the reserve ratio"
+        },
+        {
+          "label": "C",
+          "text": "Buying Treasury securities from commercial banks"
+        },
+        {
+          "label": "D",
+          "text": "Lowering income taxes"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

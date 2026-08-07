@@ -1,0 +1,4089 @@
+{
+  "version": "mmlu-hs-physics-v1",
+  "source": "MMLU (Measuring Massive Multitask Language Understanding), high_school_physics subject, test split | dataset cais/mmlu on Hugging Face | exported 2026-06-30 via MMLU_export.py.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "The plates of a capacitor are charged to a potential difference of 5 V. If the capacitance is 2 mF, what is the charge on the positive plate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.005 C"
+        },
+        {
+          "label": "B",
+          "text": "0.01 C"
+        },
+        {
+          "label": "C",
+          "text": "0.02 C"
+        },
+        {
+          "label": "D",
+          "text": "0.5 C"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 35,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "Which of these quantities decreases as the inverse square of distance for distances far from the objects producing the fields?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the electric field produced by a finite-length charged rod"
+        },
+        {
+          "label": "B",
+          "text": "the electric field produced by an infinitely long charged cylinder"
+        },
+        {
+          "label": "C",
+          "text": "the electric field produced by an infinite plane of charge"
+        },
+        {
+          "label": "D",
+          "text": "the magnetic field produced by an infinitely long, straight current-carrying wire"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 20,
+      "token_count": 21,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "A solid, metal object is isolated from other charges and has charge distributed on its surface. The charge distribution is not uniform. It may be correctly concluded that the",
+      "options": [
+        {
+          "label": "A",
+          "text": "electric field outside the object is zero"
+        },
+        {
+          "label": "B",
+          "text": "the electric field outside the object is equal to the electric field inside the object"
+        },
+        {
+          "label": "C",
+          "text": "the electric field outside the object is directly proportional to the distance away from the center of mass of the object"
+        },
+        {
+          "label": "D",
+          "text": "the electric field outside the object, but very close to the surface, is equal to the surface charge density at any location divided by the permittivity of free space"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 29,
+      "token_count": 32,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Standing waves are produced by a 100-Hz generator in a string of fixed length. The tension in the string is increased until a new set of standing waves is produced. Will the wavelength of the new standing waves be greater than or less than the wavelength of the original standing waves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength."
+        },
+        {
+          "label": "B",
+          "text": "Greater, because the tension in the string varies directly with the wave speed, which varies inversely with the wavelength."
+        },
+        {
+          "label": "C",
+          "text": "Greater, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength."
+        },
+        {
+          "label": "D",
+          "text": "Less, because the tension in the string varies directly with the wave speed, which varies directly with the wavelength."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 51,
+      "token_count": 57,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "Two identical capacitors are hooked in parallel to an external circuit. Which of the following quantities must be the same for both capacitors? I. the charge stored on the capacitor II.  the voltage across the capacitor III. the capacitance of the capacitor",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "(E) I, II, and III"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 42,
+      "token_count": 51,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 6,
+      "text": "A 1-kg object is released from rest at the top of a rough-surfaced incline. The object slides without rotating to the bottom of the incline. The object’s kinetic energy at the bottom must be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equal to the block’s gravitational potential energy when it was released, because total mechanical energy must be conserved."
+        },
+        {
+          "label": "B",
+          "text": "Equal to the block’s gravitational potential energy when it was released, because the gain in kinetic energy compensates for the mechanical energy lost to thermal energy on the rough incline."
+        },
+        {
+          "label": "C",
+          "text": "Less than the block’s gravitational potential energy when it was released, because the gravitational potential energy was converted both to thermal energy and to kinetic energy."
+        },
+        {
+          "label": "D",
+          "text": "Less than the block’s gravitational potential energy when it was released, because the work done by the friction force must be greater than the block’s gain in kinetic energy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 34,
+      "token_count": 45,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 7,
+      "text": "A student is experimenting with a simple spring-block oscillator of spring constant k and amplitude A. The block attached to the spring has a mass of m. If the student places a small block of mass m on top of the original block, which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g]."
+        },
+        {
+          "label": "B",
+          "text": "The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than kA/[(M+m)g]."
+        },
+        {
+          "label": "C",
+          "text": "The small block is most likely to slide off when the original block is at maximum displacement from the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA)."
+        },
+        {
+          "label": "D",
+          "text": "The small block is most likely to slide off when the original block is at the equilibrium position, but will not slide off as long as the coefficient of static friction between the blocks is greater than (M+m)g/(kA)."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 49,
+      "token_count": 54,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 8,
+      "text": "How much work is required to charge a 10 µF capacitor to a potential difference of 100 V ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.005 J"
+        },
+        {
+          "label": "B",
+          "text": "0.01 J"
+        },
+        {
+          "label": "C",
+          "text": "0.05 J"
+        },
+        {
+          "label": "D",
+          "text": "0.1 J"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 19,
+      "token_count": 22,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 9,
+      "text": "A box of mass m slides on a horizontal surface with initial speed v0. It feels no forces other than gravity and the force from the surface. If the coefficient of kinetic friction between the box and the surface is μ, how far does the box slide before coming to rest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "v0^2/(2μg)"
+        },
+        {
+          "label": "B",
+          "text": "v0^2/(μg)"
+        },
+        {
+          "label": "C",
+          "text": "2v0^2/(μg)"
+        },
+        {
+          "label": "D",
+          "text": "mv0^2/(μg)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 51,
+      "token_count": 56,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 10,
+      "text": "A soccer ball, at rest on the ground, is kicked with an initial velocity of 10 m/s at a launch angle of 30°. Calculate its total flight time, assuming that air resistance is negligible.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 s"
+        },
+        {
+          "label": "B",
+          "text": "1 s"
+        },
+        {
+          "label": "C",
+          "text": "2 s"
+        },
+        {
+          "label": "D",
+          "text": "4 s"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 34,
+      "token_count": 43,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 11,
+      "text": "Two identical containers are filled with different gases. Container 1 is filled with hydrogen and container 2 is filled with nitrogen. Each container is set on a lab table and allowed to come to thermal equilibrium with the room. Which of the following correctly compares the properties of the two gases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The average kinetic energy of the hydrogen gas is greater than the nitrogen gas."
+        },
+        {
+          "label": "B",
+          "text": "The average force exerted on the container by the hydrogen gas is greater than the nitrogen gas."
+        },
+        {
+          "label": "C",
+          "text": "The density of the hydrogen gas is less than the nitrogen gas."
+        },
+        {
+          "label": "D",
+          "text": "The pressures of the gases cannot be compared without knowing the number of molecules in each container."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 51,
+      "token_count": 57,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 12,
+      "text": "A girl of mass m and a boy of mass 2m are sitting on opposite sides of a see-saw with its fulcrum in the center. Right now, the boy and girl are equally far from the fulcrum, and it tilts in favor of the boy. Which of the following would NOT be a possible method to balance the see-saw?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Move the boy to half his original distance from the fulcrum."
+        },
+        {
+          "label": "B",
+          "text": "Move the girl to double her original distance from the fulcrum."
+        },
+        {
+          "label": "C",
+          "text": "Allow a second girl of mass m to join the first."
+        },
+        {
+          "label": "D",
+          "text": "Move the fulcrum to half its original distance from the boy."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 59,
+      "token_count": 75,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 13,
+      "text": "When hot water is poured into a beaker containing cold alcohol, the temperature of the mixture will eventually reach the same temperature. Considering the scale of the size of the molecules of the fluids, which of the following is the primary reason for this phenomenon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The high temperature water will rise to the top of the container until it has cooled and then mixes with the alcohol."
+        },
+        {
+          "label": "B",
+          "text": "The molecules of the water continue to have a higher kinetic energy than the molecules of the alcohol, but the two liquids mix until the energy is spread evenly throughout the container."
+        },
+        {
+          "label": "C",
+          "text": "The hot water produces thermal radiation that is absorbed by the cold alcohol until the kinetic energy of all the molecules is the same."
+        },
+        {
+          "label": "D",
+          "text": "The water molecules collide with the alcohol molecules, transferring energy until the average kinetic energy of both the water and alcohol molecules are the same."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 45,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 14,
+      "text": "A solid sphere (I = 0.06 kg·m^2) spins freely around an axis through its center at an angular speed of 20 rad/s. It is desired to bring the sphere to rest by applying a friction force of magnitude 2.0 N to the sphere’s outer surface, a distance of 0.30 m from the sphere’s center. How much time will it take the sphere to come to rest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 s"
+        },
+        {
+          "label": "B",
+          "text": "2 s"
+        },
+        {
+          "label": "C",
+          "text": "0.06 s"
+        },
+        {
+          "label": "D",
+          "text": "0.03 s"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 66,
+      "token_count": 89,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 15,
+      "text": "The radius of Mars is about half that of Earth; the mass of Mars is about one-tenth that of Earth. Which of the following is closest to the gravitational field at the surface of Mars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 N/kg"
+        },
+        {
+          "label": "B",
+          "text": "4 N/kg"
+        },
+        {
+          "label": "C",
+          "text": "2 N/kg"
+        },
+        {
+          "label": "D",
+          "text": "0.5 N/kg"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 40,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 16,
+      "text": "Above an infinitely large plane carrying charge density σ, the electric field points up and is equal to σ/2εo. What is the magnitude and direction of the electric field below the plane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "σ/2εo, down"
+        },
+        {
+          "label": "B",
+          "text": "σ/2εo, up"
+        },
+        {
+          "label": "C",
+          "text": "σ/εo, down"
+        },
+        {
+          "label": "D",
+          "text": "σ/εo, up"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 32,
+      "token_count": 39,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 17,
+      "text": "A beam of electrons has speed 10^7 m/s. It is desired to use the magnetic field of the Earth, 5 × 10−5 T, to bend the electron beam into a circle. What will be the radius of this circle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 nm"
+        },
+        {
+          "label": "B",
+          "text": "1 μm"
+        },
+        {
+          "label": "C",
+          "text": "1 mm"
+        },
+        {
+          "label": "D",
+          "text": "1 m"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 39,
+      "token_count": 52,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 18,
+      "text": "An object is placed 100 cm from a plane mirror. How far is the image from the object?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 cm"
+        },
+        {
+          "label": "B",
+          "text": "100 cm"
+        },
+        {
+          "label": "C",
+          "text": "200 cm"
+        },
+        {
+          "label": "D",
+          "text": "300 cm"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 18,
+      "token_count": 21,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 19,
+      "text": "A horse is attached to a cart that is at rest behind it. Which force, or combination of forces, explains how the horse-cart system can accelerate from rest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The forward static friction force of the ground on the horse is greater than any friction forces acting backward on the cart, providing a forward acceleration."
+        },
+        {
+          "label": "B",
+          "text": "The forward force of the horse on the cart is greater than the backward force of the cart on the horse, providing a forward acceleration."
+        },
+        {
+          "label": "C",
+          "text": "The force of the horse’s muscles on the rest of the horse-cart system provides the necessary acceleration."
+        },
+        {
+          "label": "D",
+          "text": "The upward normal force of the ground on the horse is greater than the horse’s weight, providing an upward acceleration."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 33,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 20,
+      "text": "In a certain region, the electric field varies with the radius away from origin by the equation Er = –6r^2 + 4r + 3, where r is given in meters and E in N/C. The potential difference between the origin and the point (3, 4) is",
+      "options": [
+        {
+          "label": "A",
+          "text": "–165 V"
+        },
+        {
+          "label": "B",
+          "text": "–120 V"
+        },
+        {
+          "label": "C",
+          "text": "64 V"
+        },
+        {
+          "label": "D",
+          "text": "185 V"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 46,
+      "token_count": 61,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 21,
+      "text": "A gas undergoes an expansion-compression cycle. If, plotted on a P-V diagram, the cycle is counterclockwise and the work is 300 J in magnitude, what was the heat transfer during this cycle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300 J into the system"
+        },
+        {
+          "label": "B",
+          "text": "300 J out of the system"
+        },
+        {
+          "label": "C",
+          "text": "600 J into the system"
+        },
+        {
+          "label": "D",
+          "text": "600 J out of the system"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 32,
+      "token_count": 45,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 22,
+      "text": "An ideal battery of constant voltage V supplies current to a circuit that has total resistance R. If R is doubled, what will happen to the total power dissipated by the circuit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will double."
+        },
+        {
+          "label": "B",
+          "text": "It will quadruple."
+        },
+        {
+          "label": "C",
+          "text": "It will be halved."
+        },
+        {
+          "label": "D",
+          "text": "It will remain the same."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 32,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 23,
+      "text": "Ultraviolet light has a wavelength of about 6 × 10^-8 m. What is the frequency of this light?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 × 10^15 Hz"
+        },
+        {
+          "label": "B",
+          "text": "0.5 Hz"
+        },
+        {
+          "label": "C",
+          "text": "2 Hz"
+        },
+        {
+          "label": "D",
+          "text": "20 Hz"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 18,
+      "token_count": 26,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 24,
+      "text": "Each of the following ionized isotopes is projected with the same speed into a uniform magnetic field B such that the isotope's initial velocity is perpendicular to B. Which combination of mass and charge would result in a circular path with the largest radius?",
+      "options": [
+        {
+          "label": "A",
+          "text": "m = 16 u, q = –5 e"
+        },
+        {
+          "label": "B",
+          "text": "m = 17 u, q = –4 e"
+        },
+        {
+          "label": "C",
+          "text": "m = 18 u, q = –3 e"
+        },
+        {
+          "label": "D",
+          "text": "m = 20 u, q = –1 e"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 44,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 25,
+      "text": "An electric dipole consists of a pair of equal but opposite point charges of magnitude 4.0 nC separated by a distance of 2.0 cm. What is the electric field strength at the point midway between the charges?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "9.0 × 10^4 N/C"
+        },
+        {
+          "label": "C",
+          "text": "1.8 × 10^5 N/C"
+        },
+        {
+          "label": "D",
+          "text": "7.2 × 10^5 N/C"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 37,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 26,
+      "text": "A person can stand outside on a cold day for hours without ill effect, but falling into a cold lake can kill a person in a matter of minutes. Which of the following is the primary reason for this phenomenon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The molecules of the person are, on average, moving faster than those of the surroundings."
+        },
+        {
+          "label": "B",
+          "text": "Thermal energy moves from high concentration areas (hot) to low concentration areas (cold)."
+        },
+        {
+          "label": "C",
+          "text": "As heat flows out of the person and warms the fluid surrounding the person, the warmer fluid rises, allowing fresh cool fluid to come in contact with the person and increasing the rate of heat transfer."
+        },
+        {
+          "label": "D",
+          "text": "Water has more molecules per volume than air, increasing molecular contact with the person."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 40,
+      "token_count": 43,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 27,
+      "text": "A liquid flows at a constant flow rate through a pipe with circular cross-sections of varying diameters. At one point in the pipe, the diameter is 2 cm and the flow speed is 18 m/s. What is the flow speed at another point in this pipe, where the diameter is 3 cm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 m/s"
+        },
+        {
+          "label": "B",
+          "text": "6 m/s"
+        },
+        {
+          "label": "C",
+          "text": "8 m/s"
+        },
+        {
+          "label": "D",
+          "text": "12 m/s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 52,
+      "token_count": 64,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 28,
+      "text": "An ideal fluid flows through a pipe with radius Q and flow speed V. If the pipe splits up into three separate paths, each with radius (Q/2), what is the flow speed through each of the paths?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/3 V"
+        },
+        {
+          "label": "B",
+          "text": "2/3 V"
+        },
+        {
+          "label": "C",
+          "text": "4/3 V"
+        },
+        {
+          "label": "D",
+          "text": "4V"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 37,
+      "token_count": 44,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 29,
+      "text": "A very slow-moving positron interacts with a stationary electron. Which of the following statements correctly describes a possible outcome of this reaction and why it would occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conservation of mass indicates that if a single new particle were created in the reaction, it must have a total mass equal to the combined masses of the electron and positron."
+        },
+        {
+          "label": "B",
+          "text": "Conservation of charge indicates that all new particles created in the reaction would have no electric charge."
+        },
+        {
+          "label": "C",
+          "text": "Conservation of momentum indicates that two identical gamma rays moving off in opposite directions could be created."
+        },
+        {
+          "label": "D",
+          "text": "Conservation of energy indicates that the antimatter positron could annihilate into energy, leaving the stationary electron behind."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 27,
+      "token_count": 31,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 30,
+      "text": "A box sits on an inclined plane without sliding. As the angle of the plane (measured from the horizontal) increases, the normal force",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases linearly"
+        },
+        {
+          "label": "B",
+          "text": "decreases linearly"
+        },
+        {
+          "label": "C",
+          "text": "does not change"
+        },
+        {
+          "label": "D",
+          "text": "decreases nonlinearly"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 23,
+      "token_count": 28,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 31,
+      "text": "A small cart of mass m is initially at rest. It collides elastically with a large cart of mass 4m and velocity v. The large cart loses half its kinetic energy to the little cart. The little cart now has a velocity of",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.41v"
+        },
+        {
+          "label": "B",
+          "text": "v"
+        },
+        {
+          "label": "C",
+          "text": "2v"
+        },
+        {
+          "label": "D",
+          "text": "4v"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 43,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 32,
+      "text": "A circuit consists of a battery and a light bulb. At first, the circuit is disconnected. Then, the circuit is connected, and the light bulb lights. After the light bulb has been lit for a few moments, how has the net charge residing on the circuit elements changed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The net charge has become more positive."
+        },
+        {
+          "label": "B",
+          "text": "The net charge has become more negative."
+        },
+        {
+          "label": "C",
+          "text": "The net charge has not changed."
+        },
+        {
+          "label": "D",
+          "text": "Whether the net charge becomes more positive or more negative depends on the initial net charge residing on the circuit elements before the bulb was lit."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 48,
+      "token_count": 56,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 33,
+      "text": "If the force of gravity between the Moon and the Earth were to stop, which statement best describes the resulting motion of the moon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It would continue rotating on its axis, and it would revolve around the Earth as usual."
+        },
+        {
+          "label": "B",
+          "text": "It would continue rotating on its axis, but it would stop revolving around the Earth."
+        },
+        {
+          "label": "C",
+          "text": "It would stop rotating on its axis, but it would revolve around the Earth as usual."
+        },
+        {
+          "label": "D",
+          "text": "It would stop rotating on its axis, and it would stop revolving around the Earth."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 24,
+      "token_count": 26,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 34,
+      "text": "A person stands on a scale in an elevator. He notices that the scale reading is less than his usual weight. Which of the following could possibly describe the motion of the elevator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is moving downward and slowing down."
+        },
+        {
+          "label": "B",
+          "text": "It is moving upward and slowing down."
+        },
+        {
+          "label": "C",
+          "text": "It is moving upward at a constant speed."
+        },
+        {
+          "label": "D",
+          "text": "It is moving downward at a constant speed."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 33,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 35,
+      "text": "A whiffle ball is tossed straight up, reaches a highest point, and falls back down. Air resistance is not negligible. Which of the following statements are true?\nI. The ball’s speed is zero at the highest point.\nII. The ball’s acceleration is zero at the highest point.\nIII. The ball takes a longer time to travel up to the highest point than to fall back down.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "I & II only"
+        },
+        {
+          "label": "D",
+          "text": "I & III only"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 66,
+      "token_count": 81,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 36,
+      "text": "If L, M, and T denote the dimensions of length, mass, and time, respectively, what are the dimensions of impulse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LM/T^3"
+        },
+        {
+          "label": "B",
+          "text": "LM/T^2"
+        },
+        {
+          "label": "C",
+          "text": "LM/T"
+        },
+        {
+          "label": "D",
+          "text": "L^2M/T^2"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 20,
+      "token_count": 27,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 37,
+      "text": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field of magnitude 1.5 T. If the proton's initial velocity vector makes an angle of 30° with the magnetic field, compute the proton's speed 4 s after entering the magnetic field.",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.0 × 10^6 m/s"
+        },
+        {
+          "label": "B",
+          "text": "7.5 × 10^6 m/s"
+        },
+        {
+          "label": "C",
+          "text": "1.5 × 10^6 m/s"
+        },
+        {
+          "label": "D",
+          "text": "3.0 × 10^6 m/s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 49,
+      "token_count": 69,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 38,
+      "text": "A man stands on a platform scale in an elevator. The elevator moves upward, speeding up. What is the action-reaction force pair to the man’s weight?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The force of the elevator cable on the man"
+        },
+        {
+          "label": "B",
+          "text": "The force of the man on the scale"
+        },
+        {
+          "label": "C",
+          "text": "The force of the elevator cable on the elevator"
+        },
+        {
+          "label": "D",
+          "text": "The force of the man on the Earth"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 26,
+      "token_count": 33,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 39,
+      "text": "During an isothermal expansion, a confined ideal gas does 150 J of work against its surroundings. Which of the following describes the heat transfer during this process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "150 J of heat was added to the gas."
+        },
+        {
+          "label": "B",
+          "text": "150 J of heat was removed from the gas."
+        },
+        {
+          "label": "C",
+          "text": "300 J of heat was added to the gas."
+        },
+        {
+          "label": "D",
+          "text": "300 J of heat was removed from the gas."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 27,
+      "token_count": 32,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 40,
+      "text": "An object carries a charge of –1 C. How many excess electrons does it contain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.25 × 10^18"
+        },
+        {
+          "label": "B",
+          "text": "8.00 × 10^18"
+        },
+        {
+          "label": "C",
+          "text": "1.60 × 10^19"
+        },
+        {
+          "label": "D",
+          "text": "3.20 × 10^19"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 15,
+      "token_count": 18,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 41,
+      "text": "A guitar string creates a sound wave of known frequency. Which of the following describes a correct and practical method of measuring the wavelength of the sound wave with a meterstick?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lightly touch the guitar string in the middle such that a single node is created. Measure the length of the string; this is the wavelength."
+        },
+        {
+          "label": "B",
+          "text": "Measure the length of the guitar string; this is half the wavelength."
+        },
+        {
+          "label": "C",
+          "text": "Adjust the length of a pipe placed near the string so that resonances are heard. Measure the difference between the pipe lengths for consecutive resonances; this is half the wavelength."
+        },
+        {
+          "label": "D",
+          "text": "Measure the peak-to-peak distance of the wave as it passes; this is the wavelength."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 42,
+      "text": "Which of the following statements about images is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Images produced by concave lenses are always real."
+        },
+        {
+          "label": "B",
+          "text": "Images produced by concave mirros are always real."
+        },
+        {
+          "label": "C",
+          "text": "Images produced by convex lenses can be both real and virtual."
+        },
+        {
+          "label": "D",
+          "text": "Images produced by convex mirrors can be both real and virtual."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 9,
+      "token_count": 10,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 43,
+      "text": "Pretend someone actually managed to dig a hole straight through the center of the Earth all the way to the other side. If an object were dropped down that hole, which of the following would best describe its motion? Assume ideal conditions and that the object cannot be destroyed.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It would fall to the center of the Earth and stop there."
+        },
+        {
+          "label": "B",
+          "text": "It would fall through the hole to the other side, continue past the opposite side’s opening, and fly into space."
+        },
+        {
+          "label": "C",
+          "text": "It would oscillate back and forth from one opening to the other indefinitely."
+        },
+        {
+          "label": "D",
+          "text": "It would fall to the other side and stop there."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 49,
+      "token_count": 55,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 44,
+      "text": "A horizontal spring-block oscillator is in motion when a second block of equal mass falls on top of the oscillating block. If the two blocks stick together, what effect will this have on the amplitude of the oscillations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will increase the amplitude."
+        },
+        {
+          "label": "B",
+          "text": "It will decrease the amplitude."
+        },
+        {
+          "label": "C",
+          "text": "It will have no effect."
+        },
+        {
+          "label": "D",
+          "text": "It would depend on where the original block was in its cycle when the second block fell."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 38,
+      "token_count": 44,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 45,
+      "text": "In which of the following situations involving a source of sound and a detector of the sound is it possible that there is NO perceived Doppler shift?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The source travels toward the stationary detector."
+        },
+        {
+          "label": "B",
+          "text": "The detector travels toward the stationary source."
+        },
+        {
+          "label": "C",
+          "text": "Both the source and detector travel in the same direction."
+        },
+        {
+          "label": "D",
+          "text": "Both the source and detector travel in opposite directions, with the source and detector moving away from each other."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 27,
+      "token_count": 29,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 46,
+      "text": "A solid plastic cube with uniform density (side length = 0.5 m) of mass 100 kg is placed in a vat of fluid whose density is 1200 kg/m^3. What fraction of the cube's volume floats above the surface of the fluid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.0/9"
+        },
+        {
+          "label": "B",
+          "text": "1.0/3"
+        },
+        {
+          "label": "C",
+          "text": "2.0/3"
+        },
+        {
+          "label": "D",
+          "text": "4.0/5"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 41,
+      "token_count": 55,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 47,
+      "text": "A person standing on a horizontal floor is acted upon by two forces: the downward pull of gravity and the upward normal force of the floor. These two forces",
+      "options": [
+        {
+          "label": "A",
+          "text": "have equal magnitudes and form an action-reaction pair"
+        },
+        {
+          "label": "B",
+          "text": "have equal magnitudes and do not form an action-reaction pair"
+        },
+        {
+          "label": "C",
+          "text": "have unequal magnitudes and form an action-reaction pair"
+        },
+        {
+          "label": "D",
+          "text": "have unequal magnitudes and do not form an action-reaction pair"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 29,
+      "token_count": 31,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 48,
+      "text": "A particle of mass m and charge Q and velocity V is directed toward a uniform electric field of strength E and travels a distance d. How far does the particle travel if the original velocity is doubled and the mass is cut in half?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4d"
+        },
+        {
+          "label": "B",
+          "text": "2d"
+        },
+        {
+          "label": "C",
+          "text": "d"
+        },
+        {
+          "label": "D",
+          "text": "1/2d"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 45,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 49,
+      "text": "An object of mass m1 experiences a linear, elastic collision with a stationary object of unknown mass. In addition to m1, what is the minimum necessary information that would allow you to determine the mass of the second object?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The final speed of object 1"
+        },
+        {
+          "label": "B",
+          "text": "The initial speed of object 1"
+        },
+        {
+          "label": "C",
+          "text": "The final speed of object 2"
+        },
+        {
+          "label": "D",
+          "text": "Any 2 of the above values"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 39,
+      "token_count": 45,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 50,
+      "text": "In an experiment designed to study the photoelectric effect, it is observed that low-intensity visible light of wavelength 550 nm produced no photoelectrons. Which of the following best describes what would occur if the intensity of this light were increased dramatically?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons."
+        },
+        {
+          "label": "B",
+          "text": "Almost immediately, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal."
+        },
+        {
+          "label": "C",
+          "text": "After several seconds, necessary for the electrons to absorb sufficient energy from the incident light, photoelectrons would be produced with a kinetic energy equal to the energy of the incident photons minus the work function of the metal."
+        },
+        {
+          "label": "D",
+          "text": "Nothing would happen."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 41,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 51,
+      "text": "Two traveling waves of equal frequency, one of amplitude 4 cm and the other of amplitude 6 cm, superimpose in a single medium. Which of the following best describes the displacement, D, of the resultant wave?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 cm ≤ D ≤ 10 cm"
+        },
+        {
+          "label": "B",
+          "text": "D = 5 cm"
+        },
+        {
+          "label": "C",
+          "text": "D = 10 cm"
+        },
+        {
+          "label": "D",
+          "text": "10 cm ≤ D ≤ 12 cm"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 36,
+      "token_count": 46,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 52,
+      "text": "In Collision A, two carts collide and bounce off each other. In Collision B, a ball sticks to a rigid rod, which begins to rotate about the combined center of mass. Which of the following statements about quantities in each collision is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collision A: each cart experiences the same force, time of collision, and change in kinetic energy. Collision B: the ball and the rod each experience the same torque, time of collision, and change in rotational kinetic energy."
+        },
+        {
+          "label": "B",
+          "text": "Collision A: each cart experiences the same force, time of collision, and change in linear momentum. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular momentum."
+        },
+        {
+          "label": "C",
+          "text": "Collision A: each cart experiences the same force, time of collision, and change in kinetic energy. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular momentum."
+        },
+        {
+          "label": "D",
+          "text": "Collision A: each cart experiences the same force, time of collision, and change in velocity. Collision B: the ball and the rod each experience the same torque, time of collision, and change in angular velocity"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 43,
+      "token_count": 49,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 53,
+      "text": "An object of mass 2 kg is acted upon by three external forces, each of magnitude 4 N. Which of the following could NOT be the resulting acceleration of the object?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0 m/s^2"
+        },
+        {
+          "label": "B",
+          "text": "2 m/s^2"
+        },
+        {
+          "label": "C",
+          "text": "4 m/s^2"
+        },
+        {
+          "label": "D",
+          "text": "8 m/s^2"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 54,
+      "text": "Spring scales are used to measure the net force applied to an object; a sonic motion detector is used to measure the object’s resulting acceleration. A graph is constructed with the net force on the vertical axis and the acceleration on the horizontal axis. Which of the following quantities is directly measured using the slope of this graph?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gravitational mass"
+        },
+        {
+          "label": "B",
+          "text": "Weight"
+        },
+        {
+          "label": "C",
+          "text": "Velocity"
+        },
+        {
+          "label": "D",
+          "text": "Inertial mass"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 58,
+      "token_count": 63,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 55,
+      "text": "A wooden block experiences a frictional force, f, as it slides across a table. If a block of the same material with half the height and twice the length were to slide across the table, what would be the frictional force it experienced?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1/2)f"
+        },
+        {
+          "label": "B",
+          "text": "f"
+        },
+        {
+          "label": "C",
+          "text": "2f"
+        },
+        {
+          "label": "D",
+          "text": "4f"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 43,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 56,
+      "text": "An object is placed 10 cm in front of a diverging mirror. What is the focal length of the mirror if the image appears 2 cm behind the mirror?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-3/5 cm"
+        },
+        {
+          "label": "B",
+          "text": "-5/3 cm"
+        },
+        {
+          "label": "C",
+          "text": "-2/5 cm"
+        },
+        {
+          "label": "D",
+          "text": "-5/2 cm"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 29,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 57,
+      "text": "A body moving in the positive x direction passes the origin at time t = 0. Between t = 0 and t = 1 second, the body has a constant speed of 24 meters per second. At t = 1 second, the body is given a constant acceleration of 6 meters per second squared in the negative x direction. The position x of the body at t = 11 seconds is",
+      "options": [
+        {
+          "label": "A",
+          "text": "99m"
+        },
+        {
+          "label": "B",
+          "text": "36m"
+        },
+        {
+          "label": "C",
+          "text": "-36m"
+        },
+        {
+          "label": "D",
+          "text": "-99m"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 71,
+      "token_count": 83,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 58,
+      "text": "A fluid of density ρ flows through a horizontal pipe with negligible viscosity. The flow is streamlined with constant flow rate. The diameter of the pipe at Point 1 is d and the flow speed is V. If the diameter of the pipe at Point 2 is d/3, then the pressure at Point 2 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "less than the pressure at Point 1 by 4 ρv^2"
+        },
+        {
+          "label": "B",
+          "text": "less than the pressure at Point 1 by 40 ρv^2"
+        },
+        {
+          "label": "C",
+          "text": "more than the pressure at Point 1 by 4 ρv^2"
+        },
+        {
+          "label": "D",
+          "text": "more than the pressure at Point 1 by 40 ρv^2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 55,
+      "token_count": 65,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 59,
+      "text": "In a spring-block oscillator, the maximum speed of the block is",
+      "options": [
+        {
+          "label": "A",
+          "text": "proportional to amplitude"
+        },
+        {
+          "label": "B",
+          "text": "proportional to the square of amplitude"
+        },
+        {
+          "label": "C",
+          "text": "proportional to the square root of amplitude"
+        },
+        {
+          "label": "D",
+          "text": "inversely proportional to the square root of amplitude"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 11,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 60,
+      "text": "The weight of a box on the Earth is 80 N. What is the weight of the box on the moon if the moon has 1/80th the mass and 1/4th the radius of the Earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 N"
+        },
+        {
+          "label": "B",
+          "text": "10 N"
+        },
+        {
+          "label": "C",
+          "text": "16 N"
+        },
+        {
+          "label": "D",
+          "text": "20 N"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 46,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 61,
+      "text": "A textbook weighs 30 N at sea level. Earth’s radius is 6,400 km. Which of the following is the best estimate of the textbook’s weight on a mountain peak located 6,000 m above sea level?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 N"
+        },
+        {
+          "label": "B",
+          "text": "15 N"
+        },
+        {
+          "label": "C",
+          "text": "30 N"
+        },
+        {
+          "label": "D",
+          "text": "7.5 N"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 62,
+      "text": "Which of the following correctly describes the motion of a real object in free fall? Assume that the object experiences drag force proportional to speed and that it strikes the ground before reaching terminal sped.",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will fall with increasing speed and increasing acceleration."
+        },
+        {
+          "label": "B",
+          "text": "It will fall with increasing speed and decreasing acceleration."
+        },
+        {
+          "label": "C",
+          "text": "It will fall with decreasing speed and increasing acceleration."
+        },
+        {
+          "label": "D",
+          "text": "It will fall with decreasing speed and decreasing acceleration."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 37,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 63,
+      "text": "A bi-convex lens has a radius of curvature of magnitude 20 cm. Which of the following best describes the image formed of an object of height 2 cm placed 30 cm from the lens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Real, inverted, height = 1 cm"
+        },
+        {
+          "label": "B",
+          "text": "Virtual, upright, height = 0.25 cm"
+        },
+        {
+          "label": "C",
+          "text": "Real, upright, height = 1 cm"
+        },
+        {
+          "label": "D",
+          "text": "Virtual, inverted, height = 0.25 cm"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 34,
+      "token_count": 42,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 64,
+      "text": "Two spheres of net charge +5e and -6e briefly come into contact. Afterward, which of the following is a possible combination of net charges for the two spheres?",
+      "options": [
+        {
+          "label": "A",
+          "text": "+3e and -4e"
+        },
+        {
+          "label": "B",
+          "text": "+1.5e and -2.5e"
+        },
+        {
+          "label": "C",
+          "text": "Both of the above"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 65,
+      "text": "The circumference of a helium-filled balloon is measured for three different conditions: at room temperature, after being in a warm oven for 30 minutes, and after being in a freezer for 30 minutes. A student plotting the circumference cubed C^3 as a function of temperature T, should expect to find which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a cubic relationship between C^3 and T"
+        },
+        {
+          "label": "B",
+          "text": "an indirect relationship between C^3 and T"
+        },
+        {
+          "label": "C",
+          "text": "an extrapolated temperature T where C^3 reaches zero"
+        },
+        {
+          "label": "D",
+          "text": "a maximum C^3 as the temperature T increases"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 54,
+      "token_count": 66,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 66,
+      "text": "The charge on an oil drop is measured in the laboratory. Which of the following measurements should be rejected as highly unlikely to be correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.4 × 10^-19 C"
+        },
+        {
+          "label": "B",
+          "text": "8.0 × 10^-19 C"
+        },
+        {
+          "label": "C",
+          "text": "4.8 × 10^-19 C"
+        },
+        {
+          "label": "D",
+          "text": "2.4 × 10^-19 C"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 25,
+      "token_count": 27,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 67,
+      "text": "Traveling at an initial speed of 1.5 × 10^6 m/s, a proton enters a region of constant magnetic field, B, of magnitude 1.0 T. If the proton's initial velocity vector makes an angle of 30° with the direction of B, compute the proton's speed 4 s after entering the magnetic field.",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.0 × 10^5 m/s"
+        },
+        {
+          "label": "B",
+          "text": "7.5 × 10^5 m/s"
+        },
+        {
+          "label": "C",
+          "text": "1.5 × 10^6 m/s"
+        },
+        {
+          "label": "D",
+          "text": "3.0 × 10^6 m/s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 51,
+      "token_count": 73,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 68,
+      "text": "Which of the following changes to a circuit will always bring about an increase in the current?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased voltage and increased resistance"
+        },
+        {
+          "label": "B",
+          "text": "Decreased voltage and decreased resistance"
+        },
+        {
+          "label": "C",
+          "text": "Increased voltage and decreased resistance"
+        },
+        {
+          "label": "D",
+          "text": "Decreased voltage and increased resistance"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 17,
+      "token_count": 18,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 69,
+      "text": "Which of the following concerning uniform circular motion is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The centrifugal force is the action-reaction pair of the centripetal force."
+        },
+        {
+          "label": "B",
+          "text": "The centripetal acceleration and velocity point in the same direction."
+        },
+        {
+          "label": "C",
+          "text": "The velocity of the object in motion changes whereas the acceleration of the object is constant."
+        },
+        {
+          "label": "D",
+          "text": "A satellite undergoing uniform circular motion is falling toward the center in a circular path."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 10,
+      "token_count": 11,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 70,
+      "text": "It is known that a lab cart is moving east at 25 cm/s at time t1 = 0.10 s, and then moving east at 15 cm/s at t2 = 0.20 s. Is this enough information to determine the direction of the net force acting on the cart between t1 and t2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, since we know the cart is slowing down, its momentum change is opposite the direction of movement, and the net force is in the direction of momentum change."
+        },
+        {
+          "label": "B",
+          "text": "No, because we don’t know whether forces such as friction or air resistance might be acting on the cart."
+        },
+        {
+          "label": "C",
+          "text": "No, because we don’t know the mass of the cart."
+        },
+        {
+          "label": "D",
+          "text": "Yes, since we know the cart keeps moving to the east, the net force must be in the direction of motion."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 51,
+      "token_count": 68,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 71,
+      "text": "An elevator is rising. In order to determine the tension in the cables pulling it, which values (for the elevator) would you need to know?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mass, velocity, height, and acceleration"
+        },
+        {
+          "label": "B",
+          "text": "Mass, velocity, and acceleration"
+        },
+        {
+          "label": "C",
+          "text": "Mass and velocity"
+        },
+        {
+          "label": "D",
+          "text": "Mass and acceleration"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 25,
+      "token_count": 30,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 72,
+      "text": "If two non-zero vectors are added together, and the resultant vector is zero, what must be true of the two vectors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They have equal magnitude and are pointed in the same direction."
+        },
+        {
+          "label": "B",
+          "text": "They have equal magnitude and are pointed in opposite directions."
+        },
+        {
+          "label": "C",
+          "text": "They have different magnitudes and are pointed in opposite directions."
+        },
+        {
+          "label": "D",
+          "text": "It is not possible for the sum of two non-zero vectors to be zero."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 21,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 73,
+      "text": "A proton enters a solenoid. Upon entry, the proton is moving in a straight line along the axis of the solenoid. Which of the following is a correct description of the proton’s motion within the solenoid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The proton will be bent in a parabolic path."
+        },
+        {
+          "label": "B",
+          "text": "The proton will be bent in a circular path."
+        },
+        {
+          "label": "C",
+          "text": "The proton will continue in its straight path at constant velocity."
+        },
+        {
+          "label": "D",
+          "text": "The proton will continue in its straight path and slow down."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 36,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 74,
+      "text": "A sound wave with frequency f travels through air at speed v. With what speed will a sound wave with frequency 4f travel through the air?",
+      "options": [
+        {
+          "label": "A",
+          "text": "v/4"
+        },
+        {
+          "label": "B",
+          "text": "v"
+        },
+        {
+          "label": "C",
+          "text": "2v"
+        },
+        {
+          "label": "D",
+          "text": "4v"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 26,
+      "token_count": 30,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 75,
+      "text": "Under what conditions is the net electric flux through a closed surface proportional to the enclosed charge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "under any conditions"
+        },
+        {
+          "label": "B",
+          "text": "only when the enclosed charge is symmetrically distributed"
+        },
+        {
+          "label": "C",
+          "text": "only when all nearby charges are symmetrically distributed"
+        },
+        {
+          "label": "D",
+          "text": "only when there are no charges outside the surface"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 17,
+      "token_count": 18,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 76,
+      "text": "A beam of monochromatic light entering a glass window pane from the air will experience a change in",
+      "options": [
+        {
+          "label": "A",
+          "text": "frequency and wavelength"
+        },
+        {
+          "label": "B",
+          "text": "speed and wavelength"
+        },
+        {
+          "label": "C",
+          "text": "speed only"
+        },
+        {
+          "label": "D",
+          "text": "wavelength only"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 18,
+      "token_count": 20,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 77,
+      "text": "Data is collected in an experiment preformed on an ideal gas. In the experiment, temperature (in K) is the independent variable and volume (in m^3) is the dependent variable. If a plot is produced where the dependent variable is on the vertical axis, which of the following is true about the slope and y-intercept of the graph?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The slope will be linearly proportional to the pressure of the gas and the intercept will be 0 m^3."
+        },
+        {
+          "label": "B",
+          "text": "The slope will be inversely proportional to the pressure of the gas and the intercept will be 0 m^3."
+        },
+        {
+          "label": "C",
+          "text": "The slope will be linearly proportional to the pressure of the gas and the intercept will not be 0 m^3."
+        },
+        {
+          "label": "D",
+          "text": "The slope will be inversely proportional to the pressure of the gas and the intercept will not be 0 m^3."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 57,
+      "token_count": 71,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 78,
+      "text": "A toy car and a toy truck collide. If the toy truck’s mass is double the toy car’s mass, then, compared to the acceleration of the truck, the acceleration of the car during the collision will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "double the magnitude and in the same direction"
+        },
+        {
+          "label": "B",
+          "text": "double the magnitude and in the opposite direction"
+        },
+        {
+          "label": "C",
+          "text": "half the magnitude and in the same direction"
+        },
+        {
+          "label": "D",
+          "text": "half the magnitude and in the opposite direction"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 37,
+      "token_count": 43,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 79,
+      "text": "A sphere, a cube, and a cylinder, all of equal mass, are released from rest from the top of a short incline. The surface of the incline is extremely slick, so much so that the objects do not rotate when released, but rather slide with negligible friction. Which reaches the base of the incline first?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the sphere"
+        },
+        {
+          "label": "B",
+          "text": "the cube"
+        },
+        {
+          "label": "C",
+          "text": "the cylinder"
+        },
+        {
+          "label": "D",
+          "text": "All reach the base at the same time."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 55,
+      "token_count": 67,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 80,
+      "text": "A car starts from rest and uniformly accelerates to a final speed of 20.0 m/s in a time of 15.0 s. How far does the car travel during this time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "150 m "
+        },
+        {
+          "label": "B",
+          "text": "300 m"
+        },
+        {
+          "label": "C",
+          "text": "450 m"
+        },
+        {
+          "label": "D",
+          "text": "600 m"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 30,
+      "token_count": 40,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 81,
+      "text": "At what angle to the horizontal should an ideal projectile be launched so that its horizontal displacement (the range) is equal to its maximum vertical displacement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sin–1 (1/g)"
+        },
+        {
+          "label": "B",
+          "text": "cos–1 (1/g)"
+        },
+        {
+          "label": "C",
+          "text": "45°"
+        },
+        {
+          "label": "D",
+          "text": "tan–1 4"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 26,
+      "token_count": 29,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 82,
+      "text": "A cannon is mounted on a truck that moves forward at a speed of 5 m/s. The operator wants to launch a ball from a cannon so the ball goes as far as possible before hitting the level surface. The muzzle velocity of the cannon is 50 m/s. At what angle from the horizontal should the operator point the cannon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5°"
+        },
+        {
+          "label": "B",
+          "text": "41°"
+        },
+        {
+          "label": "C",
+          "text": "45°"
+        },
+        {
+          "label": "D",
+          "text": "49°"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 60,
+      "token_count": 68,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 83,
+      "text": "Two charged, massive particles are isolated from all influence except those between the particles. They have charge and mass such that the net force between them is 0 N. Which of the following is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The particles must have the same sign of charge."
+        },
+        {
+          "label": "B",
+          "text": "If the distance between the particles changes, the force will no longer be 0 N."
+        },
+        {
+          "label": "C",
+          "text": "The particles must have the same mass."
+        },
+        {
+          "label": "D",
+          "text": "Such a situation is impossible as the net force between the two particles cannot be 0."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 36,
+      "token_count": 41,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 84,
+      "text": "Which one of the following statements is true concerning the motion of an ideal projectile launched at an angle of 45° to the horizontal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The acceleration vector points opposite to the velocity vector on the way up and in the same direction as the velocity vector on the way down."
+        },
+        {
+          "label": "B",
+          "text": "The speed at the top of the trajectory is zero."
+        },
+        {
+          "label": "C",
+          "text": "The object's total speed remains constant during the entire flight."
+        },
+        {
+          "label": "D",
+          "text": "The vertical speed decreases on the way up and increases on the way down."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 24,
+      "token_count": 27,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 85,
+      "text": "Two electrically charged balls are separated by a short distance, producing a force of 50 μN between them. Keeping the charge of each ball the same, the mass of one of the balls but not the other is doubled. What is the new electric force between the balls?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 μN"
+        },
+        {
+          "label": "B",
+          "text": "100 μN"
+        },
+        {
+          "label": "C",
+          "text": "200 μN"
+        },
+        {
+          "label": "D",
+          "text": "400 μN"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 48,
+      "token_count": 56,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 86,
+      "text": "A moving 1.5-kg cart collides with and sticks to a 0.5-kg cart which was initially at rest. Immediately after the collision, the carts each have the same ______ as each other.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Velocity"
+        },
+        {
+          "label": "B",
+          "text": "Kinetic energy"
+        },
+        {
+          "label": "C",
+          "text": "Mass"
+        },
+        {
+          "label": "D",
+          "text": "Linear momentum"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 45,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 87,
+      "text": "A rock is dropped off a cliff and strikes the ground with an impact velocity of 30 m/s. How high was the cliff?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 m"
+        },
+        {
+          "label": "B",
+          "text": "30 m"
+        },
+        {
+          "label": "C",
+          "text": "45 m"
+        },
+        {
+          "label": "D",
+          "text": "60 m"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 23,
+      "token_count": 27,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 88,
+      "text": "A car moving with speed v reaches the foot of an incline of angle θ. The car coasts up the incline without using the engine. Neglecting friction and air resistance, which of the following is correct about the magnitude of the car’s horizontal acceleration ax and vertical acceleration ay?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ax = 0; ay < g"
+        },
+        {
+          "label": "B",
+          "text": "ax = 0; ay = g"
+        },
+        {
+          "label": "C",
+          "text": "ax < g; ay < g"
+        },
+        {
+          "label": "D",
+          "text": "ax < g; ay = g"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 49,
+      "token_count": 60,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 89,
+      "text": "Which of the following would increase the capacitance of a parallel-plate capacitor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using smaller plates"
+        },
+        {
+          "label": "B",
+          "text": "Replacing the dielectric material between the plates with one that has a smaller dielectric constant"
+        },
+        {
+          "label": "C",
+          "text": "Decreasing the voltage between the plates"
+        },
+        {
+          "label": "D",
+          "text": "Moving the plates closer together"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 12,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 90,
+      "text": "A man stands with his hands to his sides on a frictionless platform that is rotating. Which of the following could change the angular momentum of the man-platform system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The man catches a baseball thrown to him by a friend."
+        },
+        {
+          "label": "B",
+          "text": "The man thrusts his arms out away from his body"
+        },
+        {
+          "label": "C",
+          "text": "The man thrusts his arms out away from his body, and then quickly brings his arms back to his side again."
+        },
+        {
+          "label": "D",
+          "text": "The man jumps straight up in the air and lands back on the platform."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 29,
+      "token_count": 33,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 91,
+      "text": "A cylinder with a movable piston contains a gas at pressure P = 1 × 10^5 Pa, volume V = 20 cm^3, and temperature T = 273 K. The piston is moved downward in a slow steady fashion allowing heat to escape the gas and the temperature to remain constant. If the final volume of the gas is 5 cm^3, what will be the resulting pressure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.25 × 10^5 Pa"
+        },
+        {
+          "label": "B",
+          "text": "2 × 10^5 Pa"
+        },
+        {
+          "label": "C",
+          "text": "4 × 10^5 Pa"
+        },
+        {
+          "label": "D",
+          "text": "8 × 10^5 Pa"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 66,
+      "token_count": 83,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following types of electromagnetic radiation has the longest wavelength?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gamma rays"
+        },
+        {
+          "label": "B",
+          "text": "Ultraviolet"
+        },
+        {
+          "label": "C",
+          "text": "Blue light"
+        },
+        {
+          "label": "D",
+          "text": "Orange light"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 12,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 93,
+      "text": "An electric motor has a label on it that reads: Input: 120V AC, 1.0 Amps, 60 Hz - Efficiency - 75%. At what constant speed can the motor lift up a 6 kg mass?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 m/s"
+        },
+        {
+          "label": "B",
+          "text": "1.0 m/s"
+        },
+        {
+          "label": "C",
+          "text": "1.5 m/s"
+        },
+        {
+          "label": "D",
+          "text": "2.0 m/s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 34,
+      "token_count": 49,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 94,
+      "text": "A convex lens of focal length f = 0.2 m is used to examine a small coin lying on a table. During the examination, the lens is held a distance 0.3 m above the coin and is moved slowly to a distance of 0.1 m above the coin. During this process, what happens to the image of the coin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The image continually increases in size."
+        },
+        {
+          "label": "B",
+          "text": "The image continually decreases in size."
+        },
+        {
+          "label": "C",
+          "text": "The image gets smaller at first and then bigger in size."
+        },
+        {
+          "label": "D",
+          "text": "The image flips over."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 59,
+      "token_count": 73,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 95,
+      "text": "The Space Shuttle orbits 300 km above Earth’s surface; Earth’s radius is 6,400 km. What is the gravitational acceleration experienced by the Space Shuttle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero"
+        },
+        {
+          "label": "B",
+          "text": "4.9 m/s^2"
+        },
+        {
+          "label": "C",
+          "text": "9.8 m/s^2"
+        },
+        {
+          "label": "D",
+          "text": "8.9 m/s^2"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 24,
+      "token_count": 33,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 96,
+      "text": "An astronaut lands on a planet whose mass and radius are each twice that of Earth. If the astronaut weighs 800 N on Earth, how much will he weigh on this planet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "200 N"
+        },
+        {
+          "label": "B",
+          "text": "400 N"
+        },
+        {
+          "label": "C",
+          "text": "800 N"
+        },
+        {
+          "label": "D",
+          "text": "1600 N"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 32,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 97,
+      "text": "Two people, one of mass 100 kg and the other of mass 50 kg, stand facing each other on an ice-covered (essentially frictionless) pond. If the heavier person pushes on the lighter one with a force F, then",
+      "options": [
+        {
+          "label": "A",
+          "text": "the force felt by the heavier person is (-1/2)F"
+        },
+        {
+          "label": "B",
+          "text": "the force felt by the person is -2F"
+        },
+        {
+          "label": "C",
+          "text": "the magnitude of the acceleration of the lighter person will be half of the magnitude of the acceleration of the heavier person"
+        },
+        {
+          "label": "D",
+          "text": "the magnitude of the acceleration of the lighter person will be twice the magnitude of the acceleration of the heavier person"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 38,
+      "token_count": 49,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 98,
+      "text": "A 30 mF capacitor has 6 millicoulombs of charge on each plate. The energy stored in the capacitor is most nearly",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.4 × 10–10 J"
+        },
+        {
+          "label": "B",
+          "text": "9.0 × 10–8 J"
+        },
+        {
+          "label": "C",
+          "text": "0.6 J"
+        },
+        {
+          "label": "D",
+          "text": "12.5 J"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 21,
+      "token_count": 28,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 99,
+      "text": "Which configuration of battery and resistors will create a circuit with the greatest current?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A high voltage battery with resistors arranged in series"
+        },
+        {
+          "label": "B",
+          "text": "A high voltage battery with resistors arranged in parallel"
+        },
+        {
+          "label": "C",
+          "text": "A low voltage battery with resistors arranged in series"
+        },
+        {
+          "label": "D",
+          "text": "A low voltage battery with resistors arranged in parallel"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 14,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 100,
+      "text": "A rubber ball (mass = 0.08 kg) is dropped from a height of 3.2 m, and after bouncing off the floor, rises almost to its original height. If the impact time with the floor is measured to be 0.04 s, what average force did the floor exert on the ball?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.16 N"
+        },
+        {
+          "label": "B",
+          "text": "0.16 N"
+        },
+        {
+          "label": "C",
+          "text": "0.32 N"
+        },
+        {
+          "label": "D",
+          "text": "0.36 N"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 50,
+      "token_count": 66,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 101,
+      "text": "Two objects, a sphere and a block of the same mass, are released from rest at the top of an inclined plane. The sphere rolls down the inclined plane without slipping. The block slides down the plane without friction. Which object reaches the bottom of the ramp first?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The sphere, because it gains rotational kinetic energy, but the block does not"
+        },
+        {
+          "label": "B",
+          "text": "The sphere, because it gains mechanical energy due to the torque exerted on it, but the block does not"
+        },
+        {
+          "label": "C",
+          "text": "The block, because it does not lose mechanical energy due to friction, but the sphere does"
+        },
+        {
+          "label": "D",
+          "text": "The block, because it does not gain rotational kinetic energy, but the sphere does"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 48,
+      "token_count": 54,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 102,
+      "text": "Which of the following changes to a double-slit interference experiment would increase the widths of the fringes in the interference pattern that appears on the screen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use light of a shorter wavelength."
+        },
+        {
+          "label": "B",
+          "text": "Move the screen closer to the slits."
+        },
+        {
+          "label": "C",
+          "text": "Move the slits closer together."
+        },
+        {
+          "label": "D",
+          "text": "Use light with a lower wave speed."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 26,
+      "token_count": 30,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 103,
+      "text": "A stone is thrown vertically upward with an initial speed of 5 m/s. What is the velocity of the stone 3 seconds later?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 m/s, upward"
+        },
+        {
+          "label": "B",
+          "text": "25 m/s, downward"
+        },
+        {
+          "label": "C",
+          "text": "35 m/s, upward"
+        },
+        {
+          "label": "D",
+          "text": "35 m/s, downward"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 23,
+      "token_count": 28,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 104,
+      "text": "A particle is subjected to a conservative force whose potential energy function is U(x) = (x – 2)3 – 12x where U is given in joules when x is measured in meters. Which of the following represents a position of stable equilibrium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "x = –4"
+        },
+        {
+          "label": "B",
+          "text": "x = –2"
+        },
+        {
+          "label": "C",
+          "text": "x = 0"
+        },
+        {
+          "label": "D",
+          "text": "x = 4"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 42,
+      "token_count": 53,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 105,
+      "text": "An electron (mass = m, charge = -E) is rotated with speed V upwards, in the plane of the page, into a region containing a uniform magnetic field B, that is directed into the plane of the page. Describe the electron's subsequent circular motion.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clockwise rotation; radius of path = mv/(eB)"
+        },
+        {
+          "label": "B",
+          "text": "Counterclockwise rotation; radius of path = mv/(eB)"
+        },
+        {
+          "label": "C",
+          "text": "Clockwise rotation; radius of path = eB/(mv)"
+        },
+        {
+          "label": "D",
+          "text": "Counterclockwise rotation; radius of path = eB/(mv)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 44,
+      "token_count": 54,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 106,
+      "text": "A ball of mass is attached to a string connected to the ceiling, forming a pendulum. When the string is raised to an angle of 50 degrees below the horizontal (the ceiling) and released, the ball swings back and forth with a period of 0.4 s. Which of the following changes to the pendulum would decrease the period of the pendulum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the mass of the ball"
+        },
+        {
+          "label": "B",
+          "text": "Decreasing the length of the string"
+        },
+        {
+          "label": "C",
+          "text": "Decreasing the angle of the string from the horizontal when released"
+        },
+        {
+          "label": "D",
+          "text": "Decreasing the mass of the ball"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 61,
+      "token_count": 75,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 107,
+      "text": "What happens to the image formed by a concave mirror as the object is moved from far away to near the focal point?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The image moves away from the mirror and gets shorter."
+        },
+        {
+          "label": "B",
+          "text": "The image moves away from the mirror and gets taller."
+        },
+        {
+          "label": "C",
+          "text": "The image moves toward the mirror and gets shorter."
+        },
+        {
+          "label": "D",
+          "text": "The image moves toward the mirror and gets taller."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 23,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 108,
+      "text": "A disk of radius 0.1 m initially at rest undergoes an angular acceleration of 2.0 rad/s^2. If the disk only rotates, find the total distance traveled by a point on the rim of the disk in 4.0 s.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.4 m"
+        },
+        {
+          "label": "B",
+          "text": "0.8 m"
+        },
+        {
+          "label": "C",
+          "text": "1.2 m"
+        },
+        {
+          "label": "D",
+          "text": "1.6 m"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 38,
+      "token_count": 54,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 109,
+      "text": "A stone is thrown horizontally with an initial speed of 10 m/s from a bridge. Assuming that air resistance is negligible, how long would it take the stone to strike the water 80 m below the bridge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 s"
+        },
+        {
+          "label": "B",
+          "text": "2 s"
+        },
+        {
+          "label": "C",
+          "text": "4 s"
+        },
+        {
+          "label": "D",
+          "text": "8 s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 37,
+      "token_count": 43,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 110,
+      "text": "Which of the following statements about electric and magnetic fields is FALSE:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A charge moving along the direction of an electric field will experience a force, but a charge moving along the direction of a magnetic field will not experience a force."
+        },
+        {
+          "label": "B",
+          "text": "All charges experience a force in an electric field, but only moving charges can experience a force in a magnetic field."
+        },
+        {
+          "label": "C",
+          "text": "A positive charge moves in the direction of an electric field; a positive charge moves perpendicular to a magnetic field."
+        },
+        {
+          "label": "D",
+          "text": "All moving charges experience a force parallel to an electric field and perpendicular to a magnetic field."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 12,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 111,
+      "text": "The Space Shuttle orbits 300 km above the Earth’s surface; the Earth’s radius is 6400 km. What is the acceleration due to Earth’s gravity experienced by the Space Shuttle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4.9 m/s^2"
+        },
+        {
+          "label": "B",
+          "text": "8.9 m/s^2"
+        },
+        {
+          "label": "C",
+          "text": "9.8 m/s^2"
+        },
+        {
+          "label": "D",
+          "text": "10.8 m/s^2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 29,
+      "token_count": 38,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 112,
+      "text": "A confined ideal gas undergoes a cyclical process in three steps—an isobaric step, followed by an isochoric step, followed by an isothermal step. Which of the following must be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The change in internal energy of the gas is equal to the work done during the isobaric step."
+        },
+        {
+          "label": "B",
+          "text": "The change in internal energy of the gas is equal to the work done during the isobaric step minus the work done during the isothermal step."
+        },
+        {
+          "label": "C",
+          "text": "The total work done during the cycle is positive."
+        },
+        {
+          "label": "D",
+          "text": "The total work done during the cycle is equal but opposite to the net amount of heat transferred."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 30,
+      "token_count": 42,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 113,
+      "text": "A sphere starts from rest atop a hill with a constant angle of inclination and is allowed to roll without slipping down the hill. What force provides the torque that causes the sphere to rotate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Static friction"
+        },
+        {
+          "label": "B",
+          "text": "Kinetic friction"
+        },
+        {
+          "label": "C",
+          "text": "The normal force of the hill on the sphere"
+        },
+        {
+          "label": "D",
+          "text": "Gravity"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 37,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 114,
+      "text": "A block is dragged along a table and experiences a frictional force, f, that opposes its movement. The force exerted on the block by the table is",
+      "options": [
+        {
+          "label": "A",
+          "text": "zero"
+        },
+        {
+          "label": "B",
+          "text": "parallel to the table"
+        },
+        {
+          "label": "C",
+          "text": "perpendicular to the table"
+        },
+        {
+          "label": "D",
+          "text": "neither parallel nor perpendicular to the table"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 27,
+      "token_count": 32,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 115,
+      "text": "A table supports a wooden block placed on the tabletop. Which fundamental force of nature is responsible for this interaction, and why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The electric force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood."
+        },
+        {
+          "label": "B",
+          "text": "The gravitational force, because by F = GMm/r^2, the force of the table on the wood at that close range is sufficient to balance the force of the Earth on the wood."
+        },
+        {
+          "label": "C",
+          "text": "The electric force, because the outer electrons in the top atomic layer of the table repel the outer electrons in the bottom atomic layer of the wood."
+        },
+        {
+          "label": "D",
+          "text": "The strong nuclear force, because the protons in the nuclei of the top atomic layer of the table repel the nuclei in the bottom atomic layer of the wood."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 22,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 116,
+      "text": "Which of the following is NOT equal to one tesla?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 J/(A*m^2)"
+        },
+        {
+          "label": "B",
+          "text": "1 kg/(C*s)"
+        },
+        {
+          "label": "C",
+          "text": "1 N/(A*m)"
+        },
+        {
+          "label": "D",
+          "text": "1 A*N/V"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 10,
+      "token_count": 12,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 117,
+      "text": "A children’s toy consists of a cart whose very light wheels are attached to a rubber band. This rubber band can wind and unwind around the axle supporting the wheels. This toy is given a shove, after which the toy rolls across a flat surface and up a ramp. It is observed that the toy does not go a consistent distance up the ramp—in some trials it ends up higher than in other trials, even though the shove imparts the same kinetic energy to the cart each time. Which of the following is a reasonable explanation for this phenomenon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depending on how the rubber band is initially wound, more or less potential energy can be transferred from the rubber band to the kinetic energy of the car’s motion."
+        },
+        {
+          "label": "B",
+          "text": "The normal force on the cart’s wheels will be different depending on how much the rubber band winds or unwinds."
+        },
+        {
+          "label": "C",
+          "text": "How much energy is transferred from kinetic energy to gravitational potential energy depends on the vertical height at which the cart ends up."
+        },
+        {
+          "label": "D",
+          "text": "Some of the cart’s initial kinetic energy will be dissipated due to work done by friction."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 99,
+      "token_count": 109,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 118,
+      "text": "An object is released from rest and falls a distance h during the first second of time. How far will it fall during the next second of time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "h"
+        },
+        {
+          "label": "B",
+          "text": "2h"
+        },
+        {
+          "label": "C",
+          "text": "3h"
+        },
+        {
+          "label": "D",
+          "text": "4h"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 30,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 119,
+      "text": "Two ice skaters are moving on frictionless ice and are about to collide. The 50-kg skater is moving directly west at 4 m/s. The 75-kg skater is moving directly north at 2 m/s. After the collision they stick together. For this scenario, which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The linear momentum of the system is conserved because the net force on the system is nonzero during the collision."
+        },
+        {
+          "label": "B",
+          "text": "Only the kinetic energy of the system is conserved because it is an inelastic collision."
+        },
+        {
+          "label": "C",
+          "text": "Only the kinetic energy of the system is conserved because it is an elastic collision."
+        },
+        {
+          "label": "D",
+          "text": "The linear momentum of the system is conserved because the net force on the system is zero."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 48,
+      "token_count": 68,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 120,
+      "text": "The mass of the Earth is 5.97 × 10^24 kg. The Moon, whose center is 3.84 × 10^8 m from the Earth’s center, has mass 7.35 × 10^22 kg. Which of the following is the best estimate of the gravitational force of the Earth on the Moon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10^39 N"
+        },
+        {
+          "label": "B",
+          "text": "10^29 N"
+        },
+        {
+          "label": "C",
+          "text": "10^19 N"
+        },
+        {
+          "label": "D",
+          "text": "10^9 N"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 47,
+      "token_count": 71,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 121,
+      "text": "An object of volume 2 × 10^-3 m^3 and weight 6 N is placed into a tank of water, where it floats. What percentage of the object's volume is above the surface of the water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12%"
+        },
+        {
+          "label": "B",
+          "text": "30%"
+        },
+        {
+          "label": "C",
+          "text": "60%"
+        },
+        {
+          "label": "D",
+          "text": "70%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 46,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 122,
+      "text": "The position of an object is given by the equations x = 2.0t^3 + 4.0t + 6.25, where x is in meters and t is in seconds. What is the acceleration of the object at t = 1.50 s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 m/s^2"
+        },
+        {
+          "label": "B",
+          "text": "12 m/s^2"
+        },
+        {
+          "label": "C",
+          "text": "18 m/s^2"
+        },
+        {
+          "label": "D",
+          "text": "24 m/s^2"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 39,
+      "token_count": 58,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 123,
+      "text": "A man stands in an elevator as it begins to ascend. Does the normal force from the floor do work on the man?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, and the work done will be positive."
+        },
+        {
+          "label": "B",
+          "text": "Yes, and the work done will be negative."
+        },
+        {
+          "label": "C",
+          "text": "Yes, but the sign can’t be determined."
+        },
+        {
+          "label": "D",
+          "text": "No."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 23,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 124,
+      "text": "How long would it take a car, starting from rest and accelerating uniformly in a straight line at 5 m/s^2, to cover a distance of 200 m ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9.0 s"
+        },
+        {
+          "label": "B",
+          "text": "10.5 s"
+        },
+        {
+          "label": "C",
+          "text": "12.0 s"
+        },
+        {
+          "label": "D",
+          "text": "15.5 s"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 35,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 125,
+      "text": "Which of the following conditions are necessary for an object to be in static equilibrium? I. The vector sum of all torques on the object must equal zero. II. The vector sum of all forces on the object must equal zero. III. The sum of the object’s potential and kinetic energies must be zero.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "II only"
+        },
+        {
+          "label": "C",
+          "text": "III only"
+        },
+        {
+          "label": "D",
+          "text": "I and II only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 54,
+      "token_count": 63,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 126,
+      "text": "A student pushes a puck across a table, moving it from position x = 0 to position x = 0.2 m. After he lets go, the puck continues to travel across the table, coming to rest at position x = 1.2 m. When the puck is at position x = 1.0 m, which of the following is a correct assertion about the net force on the puck?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The net force is in the negative direction, because the puck is moving in the positive direction but slowing down."
+        },
+        {
+          "label": "B",
+          "text": "The net force is down, because the puck is near the Earth, where gravitational acceleration is 10 m/s^2 downward."
+        },
+        {
+          "label": "C",
+          "text": "The net force is in the positive direction, because the student’s push caused the puck to speed up in the positive direction."
+        },
+        {
+          "label": "D",
+          "text": "The net force is zero, because the student’s push in the positive direction must equal the force of friction in the negative direction."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 67,
+      "token_count": 84,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 127,
+      "text": "Experimenter A uses a very small test charge qo, and experimenter B uses a test charge 2qo to measure an electric field produced by two parallel plates. A finds a field that is",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater than the field found by B"
+        },
+        {
+          "label": "B",
+          "text": "the same as the field found by B"
+        },
+        {
+          "label": "C",
+          "text": "less than the field found by B"
+        },
+        {
+          "label": "D",
+          "text": "either greater or less than the field found by B, depending on the accelerations of the test charges"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 33,
+      "token_count": 44,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 128,
+      "text": "Two objects, A and B, have equal charge and equal mass. Neither body is in motion because the gravitational and electrostatic forces between them are equal. If the mass of Object A is halved, equilibrium will be maintained if",
+      "options": [
+        {
+          "label": "A",
+          "text": "the charge on Object A were doubled"
+        },
+        {
+          "label": "B",
+          "text": "the charge on Object B were halved"
+        },
+        {
+          "label": "C",
+          "text": "the charge on Object B were doubled"
+        },
+        {
+          "label": "D",
+          "text": "the mass on Object B were halved"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 39,
+      "token_count": 46,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 129,
+      "text": "A 2 μF capacitor is connected directly to a battery. When the capacitor is fully charged, it stores 600 μC of charge. An experimenter replaces the 2 μF capacitor with three 18 μF capacitors in series connected to the same battery. Once the capacitors are fully charged, what charge is stored on each capacitor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100 μC"
+        },
+        {
+          "label": "B",
+          "text": "200 μC"
+        },
+        {
+          "label": "C",
+          "text": "600 μC"
+        },
+        {
+          "label": "D",
+          "text": "1800 μC"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 54,
+      "token_count": 72,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 130,
+      "text": "A particle's kinetic energy is changing at a rate of –6.0 J/s when its speed is 3.0 m/s. What is the magnitude of the force on the particle at this moment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5 N"
+        },
+        {
+          "label": "B",
+          "text": "2.0 N"
+        },
+        {
+          "label": "C",
+          "text": "4.5 N"
+        },
+        {
+          "label": "D",
+          "text": "9.0 N"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 42,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 131,
+      "text": "A car rounds a banked curve of uniform radius. Three forces act on the car: a friction force between the tires and the road, the normal force from the road, and the weight of the car. Which provides the centripetal force which keeps the car in circular motion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the friction force alone"
+        },
+        {
+          "label": "B",
+          "text": "the normal force alone"
+        },
+        {
+          "label": "C",
+          "text": "the weight alone"
+        },
+        {
+          "label": "D",
+          "text": "a combination of the normal force and the friction force"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 48,
+      "token_count": 57,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 132,
+      "text": "A stone is thrown horizontally with an initial speed of 30 m/s from a bridge. Find the stone's total speed when it enters the water 4 seconds later, assuming that air resistance is negligible.",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 m/s"
+        },
+        {
+          "label": "B",
+          "text": "40 m/s"
+        },
+        {
+          "label": "C",
+          "text": "50 m/s"
+        },
+        {
+          "label": "D",
+          "text": "60 m/s"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 34,
+      "token_count": 41,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 133,
+      "text": "What happens to the force of gravitational attraction between two small objects if the mass of each object is doubled and the distance between their centers is doubled?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is doubled."
+        },
+        {
+          "label": "B",
+          "text": "It is quadrupled."
+        },
+        {
+          "label": "C",
+          "text": "It is halved."
+        },
+        {
+          "label": "D",
+          "text": "It remains the same."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 28,
+      "token_count": 29,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 134,
+      "text": "How much current does a 60 W light bulb draw if it operates at a voltage of 120 V ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.25 A"
+        },
+        {
+          "label": "B",
+          "text": "0.5 A"
+        },
+        {
+          "label": "C",
+          "text": "2:00 AM"
+        },
+        {
+          "label": "D",
+          "text": "4:00 AM"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 20,
+      "token_count": 22,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 135,
+      "text": "What happens to the pressure, P, of an ideal gas if the temperature is increased by a factor of 2 and the volume is increased by a factor of 8 ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P decreases by a factor of 16."
+        },
+        {
+          "label": "B",
+          "text": "P decreases by a factor of 4."
+        },
+        {
+          "label": "C",
+          "text": "P decreases by a factor of 2."
+        },
+        {
+          "label": "D",
+          "text": "P increases by a factor of 4."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 35,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 136,
+      "text": "A beam of monochromatic light entering a glass window pane from the air will experience a change in",
+      "options": [
+        {
+          "label": "A",
+          "text": "frequency and wavelength"
+        },
+        {
+          "label": "B",
+          "text": "frequency and speed"
+        },
+        {
+          "label": "C",
+          "text": "speed and wavelength"
+        },
+        {
+          "label": "D",
+          "text": "speed only"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 18,
+      "token_count": 20,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 137,
+      "text": "A rigid, solid container of constant volume holds an ideal gas of volume v1 and temperature T1 and pressure P1. The temperature is increased in an isochoric process. Which of the following is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The average speed of the molecules increases."
+        },
+        {
+          "label": "B",
+          "text": "The pressure increases."
+        },
+        {
+          "label": "C",
+          "text": "The kinetic energy of the system increases."
+        },
+        {
+          "label": "D",
+          "text": "The volume increases."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 44,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 138,
+      "text": "A string of fixed tension and linear mass density is attached to a vibrating speaker. It is observed that a speaker frequency of 60 Hz does not produce standing waves in the string. Which explanation for this phenomenon is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The string length is not a multiple of half the wavelength of the wave."
+        },
+        {
+          "label": "B",
+          "text": "The wave speed on the string is fixed."
+        },
+        {
+          "label": "C",
+          "text": "60 Hz is in the lowest range of audible sound."
+        },
+        {
+          "label": "D",
+          "text": "The wavelength of the wave produced by the speaker is equal to the speed of waves on the string divided by 60 Hz."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 40,
+      "token_count": 44,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 139,
+      "text": "A spherical charge distribution varies with the radius r by the equation ρ = ar, where ρ is the volume charge density and a is a positive constant. The distribution goes out to a radius R. Which of the following is true of the electric field strength due to this charge distribution at a distance r from the center?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It increases as r approaches infinity."
+        },
+        {
+          "label": "B",
+          "text": "It decreases linearly for r > R."
+        },
+        {
+          "label": "C",
+          "text": "It increases linearly for r > R."
+        },
+        {
+          "label": "D",
+          "text": "It increases non-linearly for r < R."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 59,
+      "token_count": 65,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 140,
+      "text": "An alarm whose frequency is 400 Hz is dropped out of a third-floor window. The student who drops it measures the frequency with a very sensitive oscilloscope. The measured frequency",
+      "options": [
+        {
+          "label": "A",
+          "text": "appears higher than 400 Hz and the frequency increase as it falls"
+        },
+        {
+          "label": "B",
+          "text": "appears higher than 400 Hz and the frequency decreases as it falls"
+        },
+        {
+          "label": "C",
+          "text": "appears lower than 400 Hz and the frequency decreases as it falls"
+        },
+        {
+          "label": "D",
+          "text": "appears lower than 400 Hz and the frequency increases as it falls"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 30,
+      "token_count": 36,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 141,
+      "text": "Heat is added to a cylindrical aluminum rod of radius Q and length ℓ. The temperature difference between the two ends of the rod varies from 10°C to 20°C. What geometric factors will influence the rate heat is transferred along the rod?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the length"
+        },
+        {
+          "label": "B",
+          "text": "Only the area of the rod"
+        },
+        {
+          "label": "C",
+          "text": "Both the length and area"
+        },
+        {
+          "label": "D",
+          "text": "Neither the length nor area"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 42,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 142,
+      "text": "Optometrists use a linear scale of lens power, measured in diopters, to prescribe corrective lenses. Sufferers of myopia, or nearsightedness, have difficulty resolving distant objects because the lenses in their eyes are too strong. If a myopic person has a prescription of -5 diopters, what image do her corrective lenses create for distant objects?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An upright, real image about 20 cm in front of her eyes"
+        },
+        {
+          "label": "B",
+          "text": "An upright, virtual image about 20 cm in front of her eyes"
+        },
+        {
+          "label": "C",
+          "text": "An inverted, real image about 20 cm behind her eyes"
+        },
+        {
+          "label": "D",
+          "text": "An inverted, virtual image 5 cm behind her eyes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 54,
+      "token_count": 76,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 143,
+      "text": "A nonconducting sphere is given a nonzero net electric charge, +Q, and then brought close to a neutral conducting sphere of the same radius. Which of the following will be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An electric field will be induced within the conducting sphere."
+        },
+        {
+          "label": "B",
+          "text": "The conducting sphere will develop a net electric charge of –Q."
+        },
+        {
+          "label": "C",
+          "text": "The spheres will experience an electrostatic attraction."
+        },
+        {
+          "label": "D",
+          "text": "The spheres will experience an electrostatic repulsion."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 31,
+      "token_count": 38,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 144,
+      "text": "A charged particle moves through a magnetic field and experiences a force f. New particles are sent into the same magnetic field. If the new particles have twice the charge, twice the mass, and twice the velocity, the new force would be",
+      "options": [
+        {
+          "label": "A",
+          "text": "4F"
+        },
+        {
+          "label": "B",
+          "text": "2F"
+        },
+        {
+          "label": "C",
+          "text": "F"
+        },
+        {
+          "label": "D",
+          "text": "1/2 F"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test",
+      "question_word_count": 42,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 145,
+      "text": "An electric dipole consists of a pair of equal but opposite point charges of magnitude 4.0 nC separated by a distance of 2.0 cm. What is the electric field strength at the point midway between the charges?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "9.0 × 10^4 V/m"
+        },
+        {
+          "label": "C",
+          "text": "1.8 × 10^5 V/m"
+        },
+        {
+          "label": "D",
+          "text": "7.2 × 10^5 V/m"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 37,
+      "token_count": 47,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 146,
+      "text": "Two isolated particles, A and B, are 4 m apart. Particle A has a net charge of 2Q, and B has a net charge of Q. The ratio of the magnitude of the electric force on A to that on B is",
+      "options": [
+        {
+          "label": "A",
+          "text": "4:01"
+        },
+        {
+          "label": "B",
+          "text": "2:01"
+        },
+        {
+          "label": "C",
+          "text": "1:01"
+        },
+        {
+          "label": "D",
+          "text": "1:02"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test",
+      "question_word_count": 42,
+      "token_count": 50,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 147,
+      "text": "A rock drops onto a pond with a smooth surface. A few moments later, the wave produced by the rock’s impact arrives at the shore, touching the ankles of a wading child. Which of the following observations provides evidence that the portion of the wave hitting the child’s ankles carries less energy than the wave did when it was first created by the rock’s impact?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The wave is moving more slowly."
+        },
+        {
+          "label": "B",
+          "text": "The wave pulse’s width has become greater."
+        },
+        {
+          "label": "C",
+          "text": "The wave pulse’s width has become smaller."
+        },
+        {
+          "label": "D",
+          "text": "The wave’s height has become smaller."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 65,
+      "token_count": 74,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 148,
+      "text": "Physics students are checking the constant acceleration equations of kinematics by measuring the velocity of a tennis ball that is dropped and falls 6 meters and then passes through a photogate. The predicted velocity is 20% above the velocity measured by the photogate. Which of the following best describes the cause of the large percent difference?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ball changes its shape while falling."
+        },
+        {
+          "label": "B",
+          "text": "The acceleration of gravity varies as the ball is falling."
+        },
+        {
+          "label": "C",
+          "text": "Air resistance increases the acceleration of the ball."
+        },
+        {
+          "label": "D",
+          "text": "The acceleration of the balls varies with the velocity."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 56,
+      "token_count": 67,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 149,
+      "text": "Mercury orbits the sun in about one-fifth of an Earth year. If 1 AU is defined as the distance from the Earth to the sun, what is the approximate distance between Mercury and the sun?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(1/25) AU"
+        },
+        {
+          "label": "B",
+          "text": "(1/9) AU"
+        },
+        {
+          "label": "C",
+          "text": "(1/5) AU"
+        },
+        {
+          "label": "D",
+          "text": "(1/3) AU"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 35,
+      "token_count": 42,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 150,
+      "text": "The Gravitron is a carnival ride that looks like a large cylinder. People stand inside the cylinder against the wall as it begins to spin. Eventually, it is rotating fast enough that the floor can be removed without anyone falling. Given then the coefficient of friction between a person’s clothing and the wall is μ, the tangential speed is v, and the radius of the ride is R, what is greatest mass that a person can be to safely go on this ride?",
+      "options": [
+        {
+          "label": "A",
+          "text": "μv^2/(rg)"
+        },
+        {
+          "label": "B",
+          "text": "r^2v^2/(μg)"
+        },
+        {
+          "label": "C",
+          "text": "rg/(μv^2)"
+        },
+        {
+          "label": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test",
+      "question_word_count": 83,
+      "token_count": 95,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 151,
+      "text": "An artificial satellite orbits Earth just above the atmosphere in a circle with constant speed. A small meteor collides with the satellite at point P in its orbit, increasing its speed by 1%, but not changing the instantaneous direction of the satellite’s velocity. Which of the following describes the satellite’s new orbit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The satellite now orbits in an ellipse, with P as the farthest approach to Earth."
+        },
+        {
+          "label": "B",
+          "text": "The satellite now orbits in an ellipse, with P as the closest approach to Earth."
+        },
+        {
+          "label": "C",
+          "text": "The satellite now orbits in a circle of larger radius."
+        },
+        {
+          "label": "D",
+          "text": "The satellite now orbits in a circle of smaller radius."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test",
+      "question_word_count": 52,
+      "token_count": 61,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 37.04635761589404,
+    "avg_token_count": 44.847682119205295,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.19497835636138916
+  }
+}

@@ -1,0 +1,2003 @@
+{
+  "164": {
+    "Prompt": "\nThe phenomenon of beats is the result of sound\n\nA) destruction\nB) interference\nC) resonance\nD) amplification\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 36,
+    "Tokens": 50,
+    "Entropy": "5.01 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "29": {
+    "Prompt": "\nRelativity equations for time, length, and momentum hold true for\n\nA) everyday low speeds.\nB) relativistic speeds.\nC) Both of these.\nD) Neither of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 44,
+    "Tokens": 61,
+    "Entropy": "5.35 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "7": {
+    "Prompt": "\nAccording to general relativity,\n\nA) mass distorts spacetime.\nB) gravity affects clocks.\nC) light can\u2019t escape from a black hole.\nD) All of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 60,
+    "Entropy": "5.53 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "190": {
+    "Prompt": "\nAt very high speeds, an object appears to an observer at rest to be\n\nA) shorter in the direction of travel.\nB) shrunken in all directions.\nC) shorter in the direction perpendicular to travel.\nD) longer in all directions.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 58,
+    "Tokens": 74,
+    "Entropy": "5.49 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "71": {
+    "Prompt": "\nA magnetic force acting on a beam of electrons can change its\n\nA) direction\nB) energy\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 56,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "63": {
+    "Prompt": "\nThe Doppler effect occurs when a source of sound moves\n\nA) toward you\nB) away from you\nC) Both of these\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 58,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "58": {
+    "Prompt": "\nIf the frequency of one source of sound is 500 Hz and a second sound source is 504 Hz, then when the two waves interfere with each other, the beat frequency will be\n\nA) 2 Hz\nB) 4 Hz\nC) 8 Hz\nD) 16 Hz\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 64,
+    "Tokens": 85,
+    "Entropy": "5.43 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "36": {
+    "Prompt": "\nWhen an element ejects an alpha particle, the atomic number of the resulting element\n\nA) reduces by 2\nB) reduces by 4\nC) increases by 2\nD) increases by 4\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 68,
+    "Entropy": "5.21 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "189": {
+    "Prompt": "\nThe red glow in the neon tube of an advertising sign is a result of\n\nA) fluorescence\nB) incandescence\nC) de-excitation\nD) polarization\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 42,
+    "Tokens": 60,
+    "Entropy": "5.38 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "27": {
+    "Prompt": "\nSuppose the number of neutrons in a reactor that is starting up doubles each minute reaching one billion neutrons in 10 minutes. When did the number of neutrons reach half a billion?\n\nA) 1 minute.\nB) 2 minutes.\nC) 5 minutes.\nD) 9 minutes.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 63,
+    "Tokens": 86,
+    "Entropy": "5.58 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "174": {
+    "Prompt": "\nCompared with a sound of 60 decibels, a sound of 80 decibels has an intensity\n\nA) 10 times greater\nB) 100 times greater\nC) 1000 times greater\nD) more than 1000 times greater\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 79,
+    "Entropy": "5.30 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "232": {
+    "Prompt": "\nA radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?\n\nA) 0.50 g\nB) 0.25 g\nC) 0.125 g\nD) 0.0625 g\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 56,
+    "Tokens": 92,
+    "Entropy": "5.54 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "140": {
+    "Prompt": "\nWhen the shadow of the Moon falls on Earth, we have a\n\nA) lunar eclipse.\nB) solar eclipse.\nC) solar eclipse if it\u2019s daytime and lunar eclipse if it\u2019s nighttime.\nD) very dangerous event.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 53,
+    "Tokens": 69,
+    "Entropy": "5.40 [bits/token]",
+    "Topic": "Astrophysics & Cosmology"
+  },
+  "23": {
+    "Prompt": "\nIn a hydraulic press operation, the output piston cannot\n\nA) move farther than the input piston\nB) exceed the force input\nC) exceed the input piston\u2019s speed\nD) produce increased energy\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 65,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "152": {
+    "Prompt": "\nWhen the temperature of a strip of iron is increased, the length of the strip\n\nA) also increases.\nB) actually decreases.\nC) may increase and may decrease.\nD) decreases in width as it gets longer.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 68,
+    "Entropy": "5.41 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "109": {
+    "Prompt": "\nThe surface of Planet Earth loses energy to outer space due mostly to\n\nA) conduction.\nB) convection.\nC) radiation.\nD) radioactivity.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 40,
+    "Tokens": 56,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "9": {
+    "Prompt": "\nSpectral lines of the elements are\n\nA) chaotic\nB) ordered\nC) positioned by amplitude\nD) in phase\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 36,
+    "Tokens": 50,
+    "Entropy": "5.07 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "8": {
+    "Prompt": "\nA step-up transformer in an electric circuit can step up\n\nA) voltage\nB) energy\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 55,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "24": {
+    "Prompt": "\nWhen a spinning system contracts in the absence of an external torque its rotational speed increases and its angular momentum\n\nA) decreases\nB) increases\nC) remains unchanged\nD) may increase or decrease\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 51,
+    "Tokens": 64,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "56": {
+    "Prompt": "\nIn a circuit of two lamps in parallel, if the current in one lamp is 2 A, the current in the other lamp is\n\nA) about 1 A\nB) 2 A\nC) Depends on which lamp is closer to the battery\nD) Not enough information to say\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 66,
+    "Tokens": 84,
+    "Entropy": "5.54 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "60": {
+    "Prompt": "\nThe electric field inside the dome of a Van de Graaff generator is zero when the dome is\n\nA) charged\nB) uncharged\nC) Either of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 49,
+    "Tokens": 64,
+    "Entropy": "5.31 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "130": {
+    "Prompt": "\nThe lowest possible temperature is absolute zero, at\n\nA) 0 kelvin\nB) \u2212273\u00b0C\nC) Both are the same\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 59,
+    "Entropy": "5.40 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "155": {
+    "Prompt": "\nWhich of these does NOT belong in the family of electromagnetic waves?\n\nA) Light\nB) Sound\nC) Radio waves\nD) X-rays\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 40,
+    "Tokens": 54,
+    "Entropy": "5.17 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "233": {
+    "Prompt": "\nBoiling and freezing occur when water is subjected to\n\nA) decreased temperatures\nB) decreased atmospheric pressure\nC) increased temperatures\nD) increased atmospheric pressure\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 42,
+    "Tokens": 56,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "144": {
+    "Prompt": "\nThe pressure at the bottom of a pond does NOT depend on the\n\nA) acceleration due to gravity.\nB) water density.\nC) depth of the pond.\nD) surface area of the pond.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 51,
+    "Tokens": 64,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "51": {
+    "Prompt": "\nA step-up transformer in an electrical circuit can step up\n\nA) voltage\nB) energy\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 55,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "184": {
+    "Prompt": "\nAs more lamps are connected to a series circuit, the current in the power source\n\nA) increases\nB) decreases\nC) remains the same\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 60,
+    "Entropy": "5.31 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "167": {
+    "Prompt": "\nThe magnetic force on a moving charged particle can change the particle's\n\nA) speed\nB) direction\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 57,
+    "Entropy": "5.21 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "180": {
+    "Prompt": "\nA capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?\n\nA) 4q.\nB) 8q.\nC) 16q.\nD) 32q.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 49,
+    "Tokens": 71,
+    "Entropy": "5.44 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "223": {
+    "Prompt": "\nThe rotational inertia of an object is greater when most of the mass is located\n\nA) near the rotational axis\nB) away from the axis\nC) on the rotational axis\nD) off center\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 65,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "108": {
+    "Prompt": "\nIf an iron nucleus split in two, its fission fragments would have\n\nA) less mass per nucleon\nB) more mass per nucleon\nC) the same mass per nucleon\nD) either more or less mass per nucleon\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 74,
+    "Entropy": "5.36 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "57": {
+    "Prompt": "\nWhich of these changes when light refracts in passing from one medium to another?\n\nA) Speed only\nB) Wavelength only\nC) Both speed and wavelength\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 63,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Optics"
+  },
+  "115": {
+    "Prompt": "\nAs entropy in a system increases, energy in the system\n\nA) becomes more ordered\nB) becomes less ordered\nC) reaches equilibrium\nD) moves toward destruction\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 58,
+    "Entropy": "5.26 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "151": {
+    "Prompt": "\nHuygens\u2019 principle for light is primarily described by\n\nA) waves\nB) rays\nC) particles\nD) photons\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 35,
+    "Tokens": 51,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Optics"
+  },
+  "72": {
+    "Prompt": "\nMicroscopic slush in water tends to make the water\n\nA) more dense\nB) less dense\nC) more slippery\nD) warmer\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 39,
+    "Tokens": 54,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "2": {
+    "Prompt": "\nA completely submerged object always displaces its own\n\nA) weight of fluid.\nB) volume of fluid.\nC) density of fluid.\nD) All of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 57,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "195": {
+    "Prompt": "\nSatellites in circular Earth orbit maintain a constant speed because gravitational force on them is\n\nA) zero\nB) practically zero\nC) appreciably weaker than at Earth\u2019s surface\nD) without a component of force along their circular path\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 56,
+    "Tokens": 73,
+    "Entropy": "5.70 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "41": {
+    "Prompt": "\nCompared with the current in an LED lamp the current in the connecting wire is\n\nA) less.\nB) more.\nC) the same.\nD) Need more information.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 45,
+    "Tokens": 59,
+    "Entropy": "5.17 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "179": {
+    "Prompt": "\nThe work done on a 100-kg crate that is hoisted 2 m in a time of 4 s is\n\nA) 200 J\nB) 500 J\nC) 800 J\nD) 2000 J\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 74,
+    "Entropy": "5.40 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "220": {
+    "Prompt": "\nLight reflecting from a smooth surface undergoes a change in\n\nA) frequency.\nB) wavelength.\nC) All of these.\nD) None of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 55,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Optics"
+  },
+  "88": {
+    "Prompt": "\nThe discrete orbits of electrons are best understood when modeled by\n\nA) high-speed particles\nB) particles on springs\nC) waves\nD) photons\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 55,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "201": {
+    "Prompt": "\nThe magnitude of the gravitational force on a satellite is constant if the orbit is\n\nA) parabolic\nB) circular\nC) elliptical\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 59,
+    "Entropy": "5.26 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "40": {
+    "Prompt": "\nThermal conduction involves mainly\n\nA) electrons\nB) protons\nC) neutrons\nD) ions\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 31,
+    "Tokens": 48,
+    "Entropy": "5.08 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "216": {
+    "Prompt": "\nIn his special theory of relativity, Einstein stated that the laws of physics are\n\nA) different in different situations.\nB) common sense applied to microscopic and macroscopic things.\nC) the same in all frames of reference.\nD) the same in all uniformly moving frames of reference.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 65,
+    "Tokens": 81,
+    "Entropy": "5.61 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "87": {
+    "Prompt": "\nThe distance of your image behind a plane mirror is equal to\n\nA) half your height\nB) half your distance from the mirror\nC) your distance in front of the mirror\nD) more than your distance in front of the mirror\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 60,
+    "Tokens": 73,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Optics"
+  },
+  "226": {
+    "Prompt": "\nIn the atomic nucleus, electrical forces tend to\n\nA) hold particles together\nB) push particles apart\nC) produce orbital motion\nD) charge particles\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 42,
+    "Tokens": 56,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "217": {
+    "Prompt": "\nWhen an element ejects a beta particle, the atomic number of that element\n\nA) reduces by 1\nB) increases by 1\nC) reduces by 2\nD) increases by 2\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 67,
+    "Entropy": "5.25 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "98": {
+    "Prompt": "\nThe highest ocean tides occur when Earth and the Moon are\n\nA) lined up with the Sun\nB) at right angles to the Sun\nC) at any angle to the Sun\nD) lined up during spring\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 69,
+    "Entropy": "5.32 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "25": {
+    "Prompt": "\nAccording to Hooke\u2019s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces\n\nA) half the bend.\nB) the same bend if the branch doesn\u2019t break.\nC) twice the bend.\nD) 4 times the bend.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 65,
+    "Tokens": 84,
+    "Entropy": "5.65 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "92": {
+    "Prompt": "\nWhen you buy a pipe in a hardware store, the water isn\u2019t included. When you buy copper wire, electrons\n\nA) must be supplied by you\nB) are included in the wire\nC) may fall out\u2014hence insulation\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 59,
+    "Tokens": 79,
+    "Entropy": "5.66 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "89": {
+    "Prompt": "\nHeat engines, such as a jet engine, are more efficient when run at\n\nA) high temperatures\nB) constant temperatures\nC) low temperatures\nD) a constant rate\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 45,
+    "Tokens": 60,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "213": {
+    "Prompt": "\nWhen you brush your hair and scrape electrons from your hair, the charge of your hair becomes\n\nA) positive\nB) negative\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 62,
+    "Entropy": "5.18 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "68": {
+    "Prompt": "\nThe red glow in the neon tube of an advertising sign is a result of\n\nA) fluorescence.\nB) coherence.\nC) polarization.\nD) de-excitation.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 42,
+    "Tokens": 57,
+    "Entropy": "5.34 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "12": {
+    "Prompt": "\nThe surface of planet Earth loses energy to outer space due mostly to\n\nA) conduction\nB) convection\nC) radiation\nD) radioactivity\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 40,
+    "Tokens": 56,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "118": {
+    "Prompt": "\nThe factors, both of which will increase the magnetic field strength of an electromagnet, are\n\nA) increased electrical current and fewer coils of wire\nB) increased diameter of coil and an increase in the number of coils\nC) an increase in the electrical current and using a strong ferromagnetic material like iron\nD) using an air core instead of iron and increasing the diameter of the coil\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 86,
+    "Tokens": 104,
+    "Entropy": "5.64 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "138": {
+    "Prompt": "\nTwo vectors, one 3 N and the other 4 N, can have a resultant of\n\nA) 0 N\nB) 5 N\nC) 8 N\nD) Any of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 47,
+    "Tokens": 67,
+    "Entropy": "5.19 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "32": {
+    "Prompt": "\nA heavy rock and a light rock in free fall (zero air resistance) have the same acceleration. The heavy rock doesn't have a greater acceleration because the\n\nA) force due to gravity is the same on each.\nB) air resistance is always zero in free fall.\nC) inertia of both rocks is the same.\nD) ratio of force to mass is the same.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 82,
+    "Tokens": 99,
+    "Entropy": "5.66 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "97": {
+    "Prompt": "\nWhen a tin can is whirled in a horizontal circle, the net force on the can acts\n\nA) inward\nB) outward\nC) upward\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 62,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "21": {
+    "Prompt": "\nIn a vacuum, an object has no\n\nA) buoyant force\nB) mass\nC) weight\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 52,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "142": {
+    "Prompt": "\nWhen relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to\n\nA) remain unchanged\nB) decrease\nC) increase\nD) spread out uniformly\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 46,
+    "Tokens": 62,
+    "Entropy": "5.35 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "76": {
+    "Prompt": "\nAll of the following are electromagnetic waves EXCEPT\n\nA) microwaves\nB) light waves\nC) X-rays\nD) None is outside the family; all are electromagnetic waves\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 62,
+    "Entropy": "5.30 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "161": {
+    "Prompt": "\nConsider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball\n\nA) is mg\nB) is greater than mg always\nC) may be greater or less than mg\nD) is less than mg always\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 64,
+    "Tokens": 78,
+    "Entropy": "5.44 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "159": {
+    "Prompt": "\nNewton\u2019s law of cooling applies to objects that\n\nA) cool\nB) warm up\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 36,
+    "Tokens": 50,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "93": {
+    "Prompt": "\nWhen a uranium nucleus undergoes fission the energy released is primarily in the form of\n\nA) gamma radiation.\nB) kinetic energy of fission fragments.\nC) kinetic energy of ejected neutrons.\nD) All of these about equally.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 72,
+    "Entropy": "5.49 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "148": {
+    "Prompt": "\nTo view your full-face image in a steamy mirror compared with the height of your face the minimum height of the patch to wipe away is\n\nA) one-quarter.\nB) one-half.\nC) the same.\nD) dependent on your distance from the mirror.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 60,
+    "Tokens": 77,
+    "Entropy": "5.54 [bits/token]",
+    "Topic": "Optics"
+  },
+  "50": {
+    "Prompt": "\nThe potential energy of a compressed spring and the potential energy of a charged object both depend on\n\nA) the work done on them\nB) motion\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 53,
+    "Tokens": 66,
+    "Entropy": "5.23 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "18": {
+    "Prompt": "\nCompared with the sound you hear from the siren of a stationary fire engine the sound you hear when it approaches you has an increased\n\nA) speed\nB) frequency\nC) wavelength\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 69,
+    "Entropy": "5.40 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "182": {
+    "Prompt": "\nThe definition of magnetic inclination is the angle between\n\nA) magnetic north and geographic north\nB) magnetic north and geographic south\nC) the earth\u2019s magnetic field at any point and the vertical\nD) the earth\u2019s magnetic field at any point and the horizontal\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 62,
+    "Tokens": 77,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "59": {
+    "Prompt": "\nThe loudness of a sound is most closely related to its\n\nA) frequency\nB) period\nC) wavelength\nD) amplitude\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 52,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "75": {
+    "Prompt": "\nA torque is a force\n\nA) like any other force\nB) multiplied by a lever arm\nC) that is fictitious\nD) that accelerates things\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 58,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "177": {
+    "Prompt": "\nShock waves are produced by waves of sound\n\nA) overlapping one another\nB) constructively interfering\nC) moving slower than the source producing them\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 46,
+    "Tokens": 60,
+    "Entropy": "5.35 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "215": {
+    "Prompt": "\nRelativistic equations for time dilation length contraction and relativistic momentum and energy hold true\n\nA) at speeds near that of light.\nB) at everyday low speeds.\nC) at all speeds.\nD) only approximately.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 52,
+    "Tokens": 68,
+    "Entropy": "5.51 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "26": {
+    "Prompt": "\nWhen an increase in speed doubles the kinetic energy of a moving body its momentum\n\nA) increases but less than doubles\nB) doubles\nC) more than doubles\nD) depends on factors not stated\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 52,
+    "Tokens": 65,
+    "Entropy": "5.43 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "188": {
+    "Prompt": "\nWhen an object is set vibrating by a wave that has a matching frequency, what occurs is\n\nA) forced vibration\nB) resonance\nC) refraction\nD) amplitude reduction\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 61,
+    "Entropy": "5.47 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "194": {
+    "Prompt": "\nChain reactions in a fission reactor are caused by\n\nA) kinetic energy\nB) energy conversion\nC) mass conversion\nD) ejected neutrons\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 40,
+    "Tokens": 55,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "117": {
+    "Prompt": "\nAccording to Coulomb, a pair of charged particles placed twice as close to each other experience a force\n\nA) twice as strong\nB) four times as strong\nC) half as strong\nD) one-fourth as strong\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 71,
+    "Entropy": "5.42 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "94": {
+    "Prompt": "\nMost of the radiation in Earth\u2019s biosphere is\n\nA) natural background radiation\nB) the result of military activities\nC) from nuclear power plants\nD) in the form of cosmic rays\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 64,
+    "Entropy": "5.29 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "42": {
+    "Prompt": "\nBow waves are produced by waves of water\n\nA) overlapping one another\nB) constructively interfering\nC) moving slower than the source producing them\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 46,
+    "Tokens": 60,
+    "Entropy": "5.35 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "95": {
+    "Prompt": "\nWhen white light enters a prism green light is bent more than\n\nA) blue light.\nB) violet light.\nC) red light.\nD) None of these choices is correct.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 60,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Optics"
+  },
+  "91": {
+    "Prompt": "\nAs more lamps are connected in a series circuit the current in the power source\n\nA) increases.\nB) decreases.\nC) remains much the same.\nD) Need more information.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 60,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "54": {
+    "Prompt": "\nNoise-canceling devices make use of sound\n\nA) destruction\nB) interference\nC) resonance\nD) amplification\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 33,
+    "Tokens": 49,
+    "Entropy": "5.08 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "69": {
+    "Prompt": "\nLight that is not transmitted by opaque materials is\n\nA) reflected or converted to internal energy in the material.\nB) mainly reflected.\nC) mainly refracted.\nD) transmitted at a lower frequency.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 64,
+    "Entropy": "5.51 [bits/token]",
+    "Topic": "Optics"
+  },
+  "19": {
+    "Prompt": "\nWhen you squeeze an air-filled party balloon, you increase its\n\nA) volume\nB) mass\nC) weight\nD) density\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 52,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "44": {
+    "Prompt": "\nConsider two mercury barometers, one having a cross-sectional area of 1 cm2 and the other 2 cm2. The height of mercury in the narrower tube is\n\nA) half\nB) twice\nC) the same\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 56,
+    "Tokens": 77,
+    "Entropy": "5.53 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "137": {
+    "Prompt": "\nThe crystals that make up minerals are composed of\n\nA) atoms with a definite geometrical arrangement.\nB) molecules that perpetually move.\nC) X-ray patterns.\nD) 3-dimensional chessboards.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 65,
+    "Entropy": "5.61 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "230": {
+    "Prompt": "\nThe magnetic field lines about a current-carrying wire form\n\nA) circles\nB) radial lines\nC) eddy currents\nD) energy loops\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 56,
+    "Entropy": "5.34 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "158": {
+    "Prompt": "\nAs more lamps are connected in parallel in a circuit the current in the power source\n\nA) increases.\nB) decreases.\nC) remains much the same.\nD) Need more information.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 61,
+    "Entropy": "5.32 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "119": {
+    "Prompt": "\nThe team that wins in a tug-of-war is the team that\n\nA) produces more tension in the rope than the opponent\nB) pushes hardest on the ground\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 50,
+    "Tokens": 65,
+    "Entropy": "5.35 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "162": {
+    "Prompt": "\nThe compressions and rarefactions in sound normally travel\n\nA) in the same direction\nB) in opposite directions\nC) at right angles to each other\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 47,
+    "Tokens": 63,
+    "Entropy": "5.41 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "70": {
+    "Prompt": "\nImagine you're standing on the surface of a shrinking planet. If it shrinks to one-tenth its original diameter with no change in mass on the shrunken surface you'd weigh\n\nA) 1/100 as much\nB) 10 times as much\nC) 100 times as much\nD) 1000 times as much\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 67,
+    "Tokens": 95,
+    "Entropy": "5.78 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "143": {
+    "Prompt": "\nIf the volume of an object were to double, with no change in mass, its density would\n\nA) halve.\nB) double.\nC) be the same.\nD) None of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 48,
+    "Tokens": 64,
+    "Entropy": "5.41 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "204": {
+    "Prompt": "\nThe process of boiling water tends to\n\nA) warm the water\nB) cool the water\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 38,
+    "Tokens": 51,
+    "Entropy": "4.95 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "84": {
+    "Prompt": "\nIf the Sun collapsed to become a black hole Planet Earth would\n\nA) continue in its present orbit.\nB) likely be sucked into the black hole.\nC) be pulled apart by tidal forces.\nD) Both C and D.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 57,
+    "Tokens": 70,
+    "Entropy": "5.63 [bits/token]",
+    "Topic": "Astrophysics & Cosmology"
+  },
+  "15": {
+    "Prompt": "\nIn the absence of air resistance a ball of mass m is tossed upward to reach a height of 20 m. At the 10-m position half way up the net force on the ball is\n\nA) 2mg\nB) mg\nC) mg/2\nD) mg/4\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 62,
+    "Tokens": 85,
+    "Entropy": "5.60 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "208": {
+    "Prompt": "\nThe model of light most supported by the photoelectric effect is the\n\nA) wave model\nB) particle model\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 45,
+    "Tokens": 59,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "219": {
+    "Prompt": "\nCompared with the sound you hear from the siren of a stationary fire engine, its sound when it approaches you has an increased\n\nA) speed\nB) frequency\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 54,
+    "Tokens": 70,
+    "Entropy": "5.47 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "81": {
+    "Prompt": "\nA capacitor can store\n\nA) charge\nB) energy\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 35,
+    "Tokens": 48,
+    "Entropy": "4.90 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "103": {
+    "Prompt": "\nIf two protons and two neutrons are removed from the nucleus of neon-20, a nucleus of which element remains?\n\nA) Magnesium-22\nB) Magnesium-20\nC) Oxygen-18\nD) Oxygen-16\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 74,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "154": {
+    "Prompt": "\nWhen the color yellow is seen on your TV screen the phosphors being activated on the screen are\n\nA) mainly yellow.\nB) blue and red.\nC) green and yellow.\nD) red and green.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 66,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Optics"
+  },
+  "17": {
+    "Prompt": "\nWhen you look at the red petals of a rose the color light you're seeing is\n\nA) red.\nB) green.\nC) white minus red.\nD) a mixture of green and yellow.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 50,
+    "Tokens": 64,
+    "Entropy": "5.31 [bits/token]",
+    "Topic": "Optics"
+  },
+  "55": {
+    "Prompt": "\nBlack is the combination of\n\nA) all the colors together\nB) two or more appropriate colors\nC) light when a prism is held upside down\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 48,
+    "Tokens": 61,
+    "Entropy": "5.30 [bits/token]",
+    "Topic": "Optics"
+  },
+  "139": {
+    "Prompt": "\nRadioactivity has been around on Earth since the\n\nA) middle of the 1900s\nB) Industrial Revolution\nC) advent of medical technology\nD) Earth formed\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 60,
+    "Entropy": "5.29 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "135": {
+    "Prompt": "\nIf you travel at high speed, then compared with your friends who \u201cstay at home,\u201d you are\n\nA) older.\nB) younger.\nC) neither younger nor older.\nD) longer.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 63,
+    "Entropy": "5.49 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "128": {
+    "Prompt": "\nPolarization is a property of\n\nA) transverse waves.\nB) longitudinal waves.\nC) all waves.\nD) None of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 53,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "102": {
+    "Prompt": "\nIf the current in the filament of a lamp is 3 A, the current in the connecting wire is\n\nA) less than 3 A\nB) 3 A\nC) more than 3 A\nD) Not enough information to say\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 57,
+    "Tokens": 75,
+    "Entropy": "5.28 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "181": {
+    "Prompt": "\nThe mass of an atom comes mostly from its _ ; and its volume from its _.\n\nA) nucleons; nucleons.\nB) electrons; electrons.\nC) electrons; nucleons.\nD) nucleons; electrons.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 69,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "37": {
+    "Prompt": "\nAs more lamps are connected in parallel in a circuit, the current in the power source\n\nA) increases\nB) decreases\nC) remains the same\nD) Not enough information to say\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 63,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "183": {
+    "Prompt": "\nThe pitch of a sound is mostly related to its\n\nA) intensity\nB) frequency\nC) amplitude\nD) speed\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 50,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "169": {
+    "Prompt": "\nElectricity and magnetism connect to form\n\nA) mass\nB) energy\nC) ultrahigh-frequency sound\nD) light\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 34,
+    "Tokens": 52,
+    "Entropy": "5.20 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "197": {
+    "Prompt": "\nThe difference between dc and ac in electric circuits is that in dc, charges flow\n\nA) steadily in one direction\nB) in one direction\nC) to and fro\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 51,
+    "Tokens": 65,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "96": {
+    "Prompt": "\nWhen a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension\n\nA) is mg\nB) is greater than mg always\nC) is less than mg always\nD) may be greater or less than mg depending on the speed of the ball\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 85,
+    "Tokens": 100,
+    "Entropy": "5.61 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "225": {
+    "Prompt": "\nA rainbow is the result of light in raindrops that undergoes\n\nA) internal reflection\nB) dispersion\nC) refraction\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 57,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Optics"
+  },
+  "202": {
+    "Prompt": "\nThe impulse\u2013momentum relationship is a direct result of Newton\u2019s\n\nA) first law\nB) second law\nC) third law\nD) law of gravity\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 58,
+    "Entropy": "5.22 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "34": {
+    "Prompt": "\nThe equation E = mc^2 indicates that energy\n\nA) equals mass moving at the speed of light squared.\nB) equals moving mass.\nC) is fundamentally different than mass.\nD) and mass are closely related.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 53,
+    "Tokens": 68,
+    "Entropy": "5.51 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "125": {
+    "Prompt": "\nThe metal detectors people walk through at airports operate via\n\nA) Ohm\u2019s law\nB) Faraday\u2019s law\nC) Coulomb\u2019s law\nD) Newton\u2019s laws\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 61,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "166": {
+    "Prompt": "\nIn either a fission event or a fusion event, a quantity that remains unchanged is the\n\nA) kinetic energy\nB) mass\nC) number of nucleons\nD) binding of nucleons\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 65,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "133": {
+    "Prompt": "\nWhen wind speeds up as it blows over the top of a hill, atmospheric pressure there\n\nA) increases\nB) decreases\nC) isn\u2019t affected\nD) reduces to zero\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 61,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "203": {
+    "Prompt": "\nA common nuclear fission reactor\n\nA) heats water\nB) generates electricity directly\nC) gets energy from nothing\nD) is a major polluter of the atmosphere\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 59,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "120": {
+    "Prompt": "\nWhich type of radiation from cosmic sources predominates on the inside of high-flying commercial airplanes?\n\nA) Alpha\nB) Beta\nC) Gamma\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 60,
+    "Entropy": "5.36 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "52": {
+    "Prompt": "\nThe neutrons in an atom are normally found\n\nA) inside the nucleus\nB) outside the nucleus\nC) Either of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 57,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "47": {
+    "Prompt": "\nCompared with the power input, the power output of an ideal transformer is\n\nA) greater\nB) less\nC) the same\nD) Any of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 58,
+    "Entropy": "5.13 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "234": {
+    "Prompt": "\nWhen you bend the branch of a tree by hanging on its end, the top side of the branch is under\n\nA) tension.\nB) compression.\nC) Both.\nD) Neither.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 48,
+    "Tokens": 62,
+    "Entropy": "5.36 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "127": {
+    "Prompt": "\nWhen a fusion reaction converts a pair of hydrogen isotopes to an alpha particle and a neutron most of the energy released is in the form of\n\nA) gamma radiation.\nB) kinetic energy of the alpha particle.\nC) kinetic energy of the neutron.\nD) All of these about equally.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 68,
+    "Tokens": 82,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "66": {
+    "Prompt": "\nDuring the time an aircraft produces a sonic boom the aircraft is\n\nA) breaking the sound barrier\nB) pulling out of a subsonic dive\nC) flying faster than sound\nD) Each of these produces a sonic boom\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 56,
+    "Tokens": 71,
+    "Entropy": "5.40 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "64": {
+    "Prompt": "\nWhen a proton is plucked from an atomic nucleus, the atom has a decrease in\n\nA) charge\nB) energy\nC) mass\nD) all of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 44,
+    "Tokens": 59,
+    "Entropy": "5.36 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "168": {
+    "Prompt": "\nIf you were to travel at a speed close to the speed of light, you could notice that your own\n\nA) mass changes.\nB) pulse decreases.\nC) Both of these.\nD) Neither of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 53,
+    "Tokens": 67,
+    "Entropy": "5.48 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "178": {
+    "Prompt": "\nA rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?\n\nA) 3 N\nB) 5 N\nC) 8 N\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 60,
+    "Tokens": 80,
+    "Entropy": "5.45 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "212": {
+    "Prompt": "\nThe principal source of Earth\u2019s internal energy is\n\nA) tidal friction\nB) gravitational pressure\nC) radioactivity\nD) geothermal heat\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 54,
+    "Entropy": "5.27 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "176": {
+    "Prompt": "\nWhen 100 J are put into a device that puts out 40 J of useful work, the efficiency of the device is\n\nA) 40%\nB) 50%\nC) 60%\nD) 140%\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 49,
+    "Tokens": 69,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "20": {
+    "Prompt": "\nPolarization is a property of\n\nA) transverse waves\nB) longitudinal waves\nC) all waves\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 53,
+    "Entropy": "5.10 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "134": {
+    "Prompt": "\nWhen white light passes through a prism, the light that bends more than green is\n\nA) red\nB) yellow\nC) blue\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 58,
+    "Entropy": "5.33 [bits/token]",
+    "Topic": "Optics"
+  },
+  "165": {
+    "Prompt": "\nInterference is characteristic of\n\nA) sound waves\nB) light waves\nC) water waves\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 36,
+    "Tokens": 50,
+    "Entropy": "4.97 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "131": {
+    "Prompt": "\nRefraction occurs when a wave crosses a boundary and changes\n\nA) speed and direction\nB) intensity\nC) frequency\nD) amplitude\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 53,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Optics"
+  },
+  "199": {
+    "Prompt": "\nA karate chop delivers a force of 3000 N to a board that breaks. The force that the board exerts on the hand during this event is\n\nA) less than 3000 N\nB) 3000 N\nC) greater than 3000 N\nD) Need more information\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 63,
+    "Tokens": 87,
+    "Entropy": "5.52 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "171": {
+    "Prompt": "\nWhen a cannonball is fired from a cannon, both the cannonball and the cannon experience equal\n\nA) amounts of force\nB) accelerations\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 45,
+    "Tokens": 62,
+    "Entropy": "5.21 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "77": {
+    "Prompt": "\nBig brother and little sister can balance on a seesaw because of balanced\n\nA) forces\nB) torques\nC) energies\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 42,
+    "Tokens": 57,
+    "Entropy": "5.29 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "206": {
+    "Prompt": "\nIf you change the magnetic field in a closed loop of wire, what is created in the loop is a(n)\n\nA) current\nB) voltage\nC) electric field\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 65,
+    "Entropy": "5.36 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "170": {
+    "Prompt": "\nSound travels in air by a series of\n\nA) compressions\nB) rarefactions\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 55,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "49": {
+    "Prompt": "\nThe vibrations in a longitudinal wave move in a direction\n\nA) along and parallel to the wave\nB) perpendicular to the wave\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 62,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "100": {
+    "Prompt": "\nHot sand cools off faster at night than does vegetation. Compared with vegetation, sand\u2019s specific heat capacity is\n\nA) lower\nB) higher\nC) about the same\nD) Can\u2019t say\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 66,
+    "Entropy": "5.52 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "235": {
+    "Prompt": "\nA simple and correct way to comprehend satellites orbiting Earth is to view them as\n\nA) balanced between gravitational and centripetal forces.\nB) beyond the main pull of Earth gravity.\nC) in mechanical equilibrium with a net force of zero.\nD) having sufficient tangential velocities to fall around rather than into Earth.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 71,
+    "Tokens": 88,
+    "Entropy": "5.91 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "132": {
+    "Prompt": "\nWhen you tap a piece of wood, it will produce a characteristic sound related to its\n\nA) wavelength\nB) amplitude\nC) period\nD) natural frequency\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 58,
+    "Entropy": "5.38 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "33": {
+    "Prompt": "\nWhen an increase in speed doubles the momentum of a moving body its kinetic energy\n\nA) increases but less than doubles\nB) doubles\nC) more than doubles\nD) depends on factors not stated\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 65,
+    "Entropy": "5.43 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "231": {
+    "Prompt": "\nAn inflated balloon with a heavy rock tied to it is dropped into a deep lake. As the balloon sinks deeper and deeper the buoyant force acting on it\n\nA) increases.\nB) decreases.\nC) remains largely unchanged.\nD) Need more information.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 60,
+    "Tokens": 75,
+    "Entropy": "5.69 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "200": {
+    "Prompt": "\nFind the speed of a wave by multiplying its frequency by its\n\nA) period\nB) wavelength\nC) amplitude\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 54,
+    "Entropy": "5.10 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "207": {
+    "Prompt": "\nClocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from\n\nA) inside the spaceship.\nB) Earth.\nC) Both of these.\nD) Neither of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 48,
+    "Tokens": 65,
+    "Entropy": "5.50 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "107": {
+    "Prompt": "\nWhen a model car speeds up to three times its original speed, its kinetic energy is\n\nA) the same\nB) twice as great\nC) three times greater\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 50,
+    "Tokens": 64,
+    "Entropy": "5.46 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "90": {
+    "Prompt": "\nThe phenomenon of interference occurs for\n\nA) sound waves\nB) light waves\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 52,
+    "Entropy": "5.01 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "123": {
+    "Prompt": "\nA cannonball is fired horizontally at 10 m/s from a cliff. Its speed one second after being fired is about\n\nA) 10 m/s\nB) 14 m/s\nC) 16 m/s\nD) 20 m/s\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 51,
+    "Tokens": 76,
+    "Entropy": "5.34 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "35": {
+    "Prompt": "\nGeneral relativity predicts that\n\nA) light leaving the Sun is slowed by gravity.\nB) light passing the Sun is deflected.\nC) a clock on the Sun\u2019s surface runs faster than on Earth.\nD) All of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 55,
+    "Tokens": 71,
+    "Entropy": "5.54 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "83": {
+    "Prompt": "\nThe period of a 10-Hz wave is\n\nA) 1/10 s\nB) 1.0 s\nC) 10 s\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 62,
+    "Entropy": "5.14 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "221": {
+    "Prompt": "\nWhat Einstein discovered about space and time is that they\n\nA) are separate entities.\nB) are parts of one whole.\nC) follow an inverse-square law.\nD) are special to space travelers.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 64,
+    "Entropy": "5.51 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "185": {
+    "Prompt": "\nWhen an element ejects an alpha particle, the mass number of the resulting element\n\nA) reduces by 2\nB) reduces by 4\nC) increases by 2\nD) increases by 4\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 68,
+    "Entropy": "5.21 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "38": {
+    "Prompt": "\nAn airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of\n\nA) 30 km/h\nB) 40 km/h\nC) 50 km/h\nD) 60 km/h\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 87,
+    "Entropy": "5.43 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "192": {
+    "Prompt": "\nWhen you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is\n\nA) 9.8 m/s2\nB) more than 9.8 m/s2\nC) less than 9.8 m/s2\nD) Cannot say unless the speed of throw is given.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 73,
+    "Tokens": 109,
+    "Entropy": "5.81 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "104": {
+    "Prompt": "\nIf a star that is 20 light-years from Earth explodes, gravitational waves from the explosion would reach Earth in\n\nA) less than 20 years.\nB) 20 years.\nC) more than 20 years.\nD) None of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 74,
+    "Entropy": "5.50 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "141": {
+    "Prompt": "\nIn both fission and fusion, energy is released while mass\n\nA) decreases\nB) remains unchanged; is conserved\nC) increases\nD) may decrease or increase\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 60,
+    "Entropy": "5.44 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "1": {
+    "Prompt": "\nA 10-N force at an angle 45\u00b0 above the horizontal has a horizontal component of about\n\nA) 7 N\nB) 5 N\nC) 10 N\nD) 12 N\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 68,
+    "Entropy": "5.23 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "122": {
+    "Prompt": "\nA 10-\u03a9 resistor carries 10 A. The voltage across the resistor is\n\nA) 0\nB) more than 0 but less than 10 V\nC) 10 V\nD) more than 10 V\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 50,
+    "Tokens": 74,
+    "Entropy": "5.16 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "65": {
+    "Prompt": "\nIf the Sun were twice as massive, its pull on Mars would be\n\nA) unchanged\nB) twice as much\nC) half as much\nD) four times as much\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 61,
+    "Entropy": "5.25 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "222": {
+    "Prompt": "\nAll parts of a laser beam have the same\n\nA) frequency\nB) phase\nC) speed\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 51,
+    "Entropy": "5.05 [bits/token]",
+    "Topic": "Optics"
+  },
+  "175": {
+    "Prompt": "\nWhen red and blue light are overlapped, the color produced is\n\nA) magenta\nB) yellow\nC) cyan\nD) white\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 54,
+    "Entropy": "5.22 [bits/token]",
+    "Topic": "Optics"
+  },
+  "14": {
+    "Prompt": "\nAs a blinking light source approaching you gains speed, you see the frequency of flashes\n\nA) increase.\nB) decrease.\nC) remain unchanged.\nD) None of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 45,
+    "Tokens": 59,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "39": {
+    "Prompt": "\nThe energy of an emitted photon is related to its\n\nA) amplitude\nB) polarization\nC) momentum\nD) frequency\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 37,
+    "Tokens": 50,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "74": {
+    "Prompt": "\nHeat comes from the Sun to Earth by the process of\n\nA) conduction\nB) convection\nC) radiation\nD) All of these, although radiation is greatest\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 60,
+    "Entropy": "5.26 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "163": {
+    "Prompt": "\nThe power required to raise a 100-kg crate a vertical distance of 2 m in a time of 4 s is\n\nA) 200 W\nB) 500 W\nC) 800 W\nD) 2000 W\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 75,
+    "Entropy": "5.39 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "106": {
+    "Prompt": "\nThe mutual induction of electric and magnetic fields can produce\n\nA) light\nB) energy\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 41,
+    "Tokens": 54,
+    "Entropy": "5.09 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "48": {
+    "Prompt": "\nThe amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is\n\nA) less than 0.8 N\nB) 0.8 N\nC) greater than 0.8 N\nD) dependent on the orientation of its body\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 56,
+    "Tokens": 82,
+    "Entropy": "5.43 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "80": {
+    "Prompt": "\nA big fish swims upon and swallows a small fish that is at rest. Right after lunch, the fattened big fish has a change in\n\nA) speed\nB) momentum\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 52,
+    "Tokens": 69,
+    "Entropy": "5.51 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "78": {
+    "Prompt": "\nAny atom that emits an alpha particle or beta particle\n\nA) becomes an atom of a different element always.\nB) may become an atom of a different element.\nC) becomes a different isotope of the same element.\nD) increases its mass.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 60,
+    "Tokens": 74,
+    "Entropy": "5.41 [bits/token]",
+    "Topic": "Nuclear & Particle Physics"
+  },
+  "149": {
+    "Prompt": "\nThe vibrations in a transverse wave move in a direction\n\nA) along the wave\nB) perpendicular to the wave\nC) Both of these\nD) Neither of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 60,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "150": {
+    "Prompt": "\nA 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is\n\nA) 1131 Hz\nB) 1134 Hz\nC) 1137 Hz\nD) More information is needed\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 61,
+    "Tokens": 86,
+    "Entropy": "5.59 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "156": {
+    "Prompt": "\nA math book and a physics book sitting on a table are tied together with a length of string. With the string taut one book is pushed off the edge of the table. As it falls the other book is dragged horizontally across the table surface. With no friction acceleration of the books is\n\nA) zero\nB) g/2\nC) g\nD) a value between zero and g\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 86,
+    "Tokens": 105,
+    "Entropy": "5.70 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "218": {
+    "Prompt": "\nThe amount of heat transferred to a system can be measured in\n\nA) calories\nB) joules\nC) Either\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 53,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "157": {
+    "Prompt": "\nA motor and a generator are\n\nA) similar devices\nB) very different devices\nC) forms of transformers\nD) energy sources\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 52,
+    "Entropy": "5.09 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "227": {
+    "Prompt": "\nThe fact that the acceleration of free fall is the same for all masses is explained by Newton\u2019s\n\nA) first law\nB) second law\nC) third law\nD) law of action\u2013reaction\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 50,
+    "Tokens": 66,
+    "Entropy": "5.37 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "211": {
+    "Prompt": "\nDuring the time an aircraft produces a sonic boom, the aircraft is\n\nA) breaking the sound barrier\nB) pulling out of a subsonic dive\nC) flying faster than sound\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 52,
+    "Tokens": 68,
+    "Entropy": "5.44 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "209": {
+    "Prompt": "\nCompared with a fundamental tone, the frequency of its second harmonic is\n\nA) half as much\nB) twice as much\nC) the same\nD) four times as much\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 47,
+    "Tokens": 62,
+    "Entropy": "5.25 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "116": {
+    "Prompt": "\nWhen water changes to steam, energy is\n\nA) absorbed by the water\nB) released by the water\nC) conserved as the phase change occurs\nD) changed to a different form\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 64,
+    "Entropy": "5.34 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "191": {
+    "Prompt": "\nWhen a wave moves from shallow water to deep water, the\n\nA) frequency decreases, the wavelength increases, and the speed increases\nB) frequency does not change, the wavelength increases, and the speed increases\nC) frequency does not change, the wavelength decreases, and the speed decreases\nD) frequency does not change, the wavelength increases, and the speed decreases\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 76,
+    "Tokens": 98,
+    "Entropy": "4.98 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "16": {
+    "Prompt": "\nPumice is a volcanic rock that floats in water. The density of pumice compared with that of water is\n\nA) less.\nB) equal.\nC) greater.\nD) none because it sinks.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 49,
+    "Tokens": 67,
+    "Entropy": "5.48 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "4": {
+    "Prompt": "\nAccording to four-dimensional geometry, the angles of a triangle add to 180\u00b0\n\nA) always.\nB) sometimes.\nC) never.\nD) on planet Earth only.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 42,
+    "Tokens": 59,
+    "Entropy": "5.42 [bits/token]",
+    "Topic": "Relativity"
+  },
+  "101": {
+    "Prompt": "\nThe color of light most intense in the solar radiation curve is\n\nA) infrared\nB) red\nC) yellow-green\nD) violet\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 53,
+    "Entropy": "5.19 [bits/token]",
+    "Topic": "Optics"
+  },
+  "129": {
+    "Prompt": "\nThe phenomenon of beats results from sound\n\nA) reflection.\nB) refraction.\nC) interference.\nD) All of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 36,
+    "Tokens": 50,
+    "Entropy": "5.13 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "6": {
+    "Prompt": "\nAmong these colors, the one that has the most energy per photon is\n\nA) red\nB) yellow-green\nC) blue\nD) violet\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 40,
+    "Tokens": 55,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Quantum & Atomic Physics"
+  },
+  "210": {
+    "Prompt": "\nA string is plucked producing four loops (antinodes). The length of the string is 12.00 m. The wavelength of the wave must be\n\nA) 48.0 m\nB) 24.0 m\nC) 6.00 m\nD) 3.00 m\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 54,
+    "Tokens": 88,
+    "Entropy": "5.41 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "214": {
+    "Prompt": "\nAstrophysicists are able to identify the elements in the outer layers of a star by studying its\n\nA) Doppler effect.\nB) molecular structure.\nC) temperature.\nD) spectrum.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 46,
+    "Tokens": 64,
+    "Entropy": "5.55 [bits/token]",
+    "Topic": "Astrophysics & Cosmology"
+  },
+  "126": {
+    "Prompt": "\nSound travels in\n\nA) solids\nB) liquids\nC) gases\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 32,
+    "Tokens": 45,
+    "Entropy": "4.91 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "5": {
+    "Prompt": "\nA voltage will be induced in a wire loop when the magnetic field within that loop\n\nA) changes\nB) aligns with the electric field\nC) is at right angles to the electric field\nD) converts to magnetic energy\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 57,
+    "Tokens": 71,
+    "Entropy": "5.44 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "86": {
+    "Prompt": "\nThe flight of a blimp best illustrates\n\nA) Archimedes\u2019 principle\nB) Pascal\u2019s principle\nC) Bernoulli\u2019s principle\nD) Boyle\u2019s law\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 60,
+    "Entropy": "5.32 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "99": {
+    "Prompt": "\nLift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises\n\nA) 25 cm\nB) 25 m\nC) 50 cm\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 62,
+    "Tokens": 87,
+    "Entropy": "5.64 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "45": {
+    "Prompt": "\nThe second law of thermodynamics tells us that heat doesn\u2019t flow from\n\nA) hot to cold ever\nB) cold to hot ever\nC) hot to cold without external energy\nD) cold to hot without external energy\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 55,
+    "Tokens": 70,
+    "Entropy": "5.30 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "43": {
+    "Prompt": "\nThe speed of sound is slightly greater on a\n\nA) cold day\nB) hot day\nC) day with steady temperature\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 43,
+    "Tokens": 56,
+    "Entropy": "5.17 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "31": {
+    "Prompt": "\nA barometer that uses water instead of mercury will be\n\nA) shorter\nB) taller\nC) equal in height\nD) inoperable\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 39,
+    "Tokens": 55,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "228": {
+    "Prompt": "\nCompared with radiation from the Sun, terrestrial radiation has a lower\n\nA) wavelength\nB) frequency\nC) Both\nD) Neither\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 53,
+    "Entropy": "5.15 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "11": {
+    "Prompt": "\nImmediately after two separated charged particles are released from rest, both increase in acceleration. The sign of charge of the particles is therefore\n\nA) the same\nB) opposite\nC) Either of these\nD) Need more information\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 55,
+    "Tokens": 70,
+    "Entropy": "5.53 [bits/token]",
+    "Topic": "Electricity & Magnetism"
+  },
+  "136": {
+    "Prompt": "\nThe component of velocity that can remain constant for a tossed baseball is\n\nA) horizontal\nB) vertical\nC) Either of these\nD) None of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 44,
+    "Tokens": 57,
+    "Entropy": "5.24 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "121": {
+    "Prompt": "\nThermal convection involves mainly\n\nA) radiant energy\nB) fluids\nC) insulators\nD) All of these\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 34,
+    "Tokens": 50,
+    "Entropy": "5.12 [bits/token]",
+    "Topic": "Thermodynamics & Fluids"
+  },
+  "28": {
+    "Prompt": "\nIf an object is already moving and the sum of all the vector forces on a mass is zero, then the object will\n\nA) move at a constant speed in a straight line\nB) accelerate at a constant rate in a straight line\nC) come to rest\nD) increase its amount of inertia\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 72,
+    "Tokens": 86,
+    "Entropy": "5.66 [bits/token]",
+    "Topic": "Mechanics"
+  },
+  "73": {
+    "Prompt": "\nThe speed of sound in air depends on\n\nA) frequency.\nB) wavelength.\nC) air temperature.\nD) All of these.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 38,
+    "Tokens": 51,
+    "Entropy": "5.13 [bits/token]",
+    "Topic": "Waves, Sound & Oscillations"
+  },
+  "Accuracy": "162/200, 81.00%"
+}

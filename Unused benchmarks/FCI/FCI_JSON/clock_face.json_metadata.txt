@@ -1,0 +1,47 @@
+Question: 5, Word Count: 116, Token Count: 156, Number of Alternatives: 5
+Question: 6, Word Count: 100, Token Count: 129, Number of Alternatives: 5
+Question: 7, Word Count: 124, Token Count: 159, Number of Alternatives: 5
+Question: 8, Word Count: 129, Token Count: 173, Number of Alternatives: 5
+Question: 12, Word Count: 130, Token Count: 163, Number of Alternatives: 5
+Question: 14, Word Count: 101, Token Count: 131, Number of Alternatives: 5
+Question: 18, Word Count: 106, Token Count: 148, Number of Alternatives: 5
+Question: 19, Word Count: 121, Token Count: 242, Number of Alternatives: 5
+Question: 21, Word Count: 184, Token Count: 246, Number of Alternatives: 5
+
+Avg word count: 123.44444444444444
+Avg token count: 171.88888888888889
+Avg alternatives count: 5.0
+
+Average similarity (excluding self-similarity): 0.5068536400794983
+--- Benchmark Results ---
+Question: 1, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/1 (0.00%)
+
+Question: 2, qwen3:14b answer: B, Result: Correct
+Running accuracy: 1/2 (50.00%)
+
+Question: 3, qwen3:14b answer: B, Result: Correct
+Running accuracy: 2/3 (66.67%)
+
+Question: 4, qwen3:14b answer: B, Result: Correct
+Running accuracy: 3/4 (75.00%)
+
+Question: 5, qwen3:14b answer: B, Result: Correct
+Running accuracy: 4/5 (80.00%)
+
+Question: 6, qwen3:14b answer: D, Result: Correct
+Running accuracy: 5/6 (83.33%)
+
+Warning: Model returned unexpected answer 'A) 1 only' for question 7
+
+Question: 7, qwen3:14b answer: A) 1 only, Result: Incorrect
+Running accuracy: 5/7 (71.43%)
+
+Question: 8, qwen3:14b answer: E, Result: Correct
+Running accuracy: 6/8 (75.00%)
+
+Question: 9, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 6/9 (66.67%)
+
+Final Score: 6/9
+Final Accuracy: 66.67%

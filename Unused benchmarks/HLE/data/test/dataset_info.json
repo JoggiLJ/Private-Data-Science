@@ -1,0 +1,74 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "hle",
+  "dataset_size": 284227282,
+  "description": "",
+  "download_size": 274276147,
+  "features": {
+    "id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "image_preview": {
+      "_type": "Image"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "author_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rationale": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "rationale_image": {
+      "_type": "Image"
+    },
+    "raw_subject": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "category": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "canary": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 558503429,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 284227282,
+      "num_examples": 2500,
+      "dataset_name": "hle"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

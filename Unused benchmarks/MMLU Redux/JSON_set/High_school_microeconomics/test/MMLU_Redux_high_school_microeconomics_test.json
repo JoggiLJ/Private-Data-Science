@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_microeconomics_test",
+  "description": "High school microeconomics multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_microeconomics subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Economics is a social science that",
+      "options": [
+        {
+          "label": "A",
+          "text": "is primarily concerned with money."
+        },
+        {
+          "label": "B",
+          "text": "is primarily concerned with how resources are used."
+        },
+        {
+          "label": "C",
+          "text": "relies solely on the scientific method for analysis."
+        },
+        {
+          "label": "D",
+          "text": "is primarily concerned with maximizing spiritual well-being."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Which of the following statements is most consistent with a capitalist market economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economic resources are allocated according to the decisions of the central bank."
+        },
+        {
+          "label": "B",
+          "text": "Private property is fundamental to innovation, growth, and trade."
+        },
+        {
+          "label": "C",
+          "text": "A central government plans the production and distribution of goods."
+        },
+        {
+          "label": "D",
+          "text": "Most wages and prices are legally controlled."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Marginal cost always intersects average variable cost at",
+      "options": [
+        {
+          "label": "A",
+          "text": "the profit-maximizing quantity"
+        },
+        {
+          "label": "B",
+          "text": "the minimum of marginal cost"
+        },
+        {
+          "label": "C",
+          "text": "the maximum of average variable cost"
+        },
+        {
+          "label": "D",
+          "text": "the minimum of average variable cost"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Which of the following is the best example of a negative externality and the appropriate plan for eliminating it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Air pollution from a factory blows downwind and harms children in a small community. Tax the citizens of the community."
+        },
+        {
+          "label": "B",
+          "text": "Your neighbor plants a fragrant blooming cherry tree in her front yard. Give a tree subsidy to your neighbor."
+        },
+        {
+          "label": "C",
+          "text": "The waste from a hog farm pollutes a neighbor's drinking water. Give a subsidy to the hog farmer."
+        },
+        {
+          "label": "D",
+          "text": "Air pollution from a power plant is blowing downwind and harming the trees in your community. Tax the production of electricity."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "An effective price ceiling in the market for good X likely results in",
+      "options": [
+        {
+          "label": "A",
+          "text": "a persistent surplus of good X."
+        },
+        {
+          "label": "B",
+          "text": "a persistent shortage of good X."
+        },
+        {
+          "label": "C",
+          "text": "an increase in the demand for good Y, a substitute for good X."
+        },
+        {
+          "label": "D",
+          "text": "a decrease in the demand for good Z, a complement with good X."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "When the production or consumption of a good creates a positive externality, it is deemed a market failure because at the market quantity",
+      "options": [
+        {
+          "label": "A",
+          "text": "the marginal social benefit exceeds the marginal social cost."
+        },
+        {
+          "label": "B",
+          "text": "the marginal social cost exceeds the marginal social benefit."
+        },
+        {
+          "label": "C",
+          "text": "society produces too much of the good."
+        },
+        {
+          "label": "D",
+          "text": "the private benefits from consuming the good exceed the social benefits."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Firms maximize their profits by producing a level of output at which",
+      "options": [
+        {
+          "label": "A",
+          "text": "MC = AFC."
+        },
+        {
+          "label": "B",
+          "text": "MC = MR."
+        },
+        {
+          "label": "C",
+          "text": "P = ATC."
+        },
+        {
+          "label": "D",
+          "text": "MR= AVC."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The total utility from sardines is maximized when they are purchased until",
+      "options": [
+        {
+          "label": "A",
+          "text": "marginal utility is zero"
+        },
+        {
+          "label": "B",
+          "text": "marginal benefit equals marginal cost"
+        },
+        {
+          "label": "C",
+          "text": "consumer surplus is zero"
+        },
+        {
+          "label": "D",
+          "text": "distributive efficiency is achieved"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "If the government subsidizes the production of halogen headlights,",
+      "options": [
+        {
+          "label": "A",
+          "text": "the demand curve will shift to the left."
+        },
+        {
+          "label": "B",
+          "text": "the demand curve will shift to the right."
+        },
+        {
+          "label": "C",
+          "text": "the supply curve will shift to the left."
+        },
+        {
+          "label": "D",
+          "text": "the supply curve will shift to the right."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which of the following is not a characteristic of oligopoly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = MC."
+        },
+        {
+          "label": "B",
+          "text": "Price-maker."
+        },
+        {
+          "label": "C",
+          "text": "Strong barriers to entry."
+        },
+        {
+          "label": "D",
+          "text": "Few firms."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which of the following is an example of a transfer earning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A superstar basketball player's $40 million earnings."
+        },
+        {
+          "label": "B",
+          "text": "A social security retirement income."
+        },
+        {
+          "label": "C",
+          "text": "A welfare payment from social services."
+        },
+        {
+          "label": "D",
+          "text": "A cashier at a restaurant receiving the same $8 an hour that other cashiers receive."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "When price elasticity of demand is greater than 1, demand is",
+      "options": [
+        {
+          "label": "A",
+          "text": "perfectly inelastic."
+        },
+        {
+          "label": "B",
+          "text": "elastic."
+        },
+        {
+          "label": "C",
+          "text": "inelastic."
+        },
+        {
+          "label": "D",
+          "text": "unit elastic."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Which of the following is not correct about economies of scale?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economies of scale are associated with increases in production of output."
+        },
+        {
+          "label": "B",
+          "text": "Economies of scale are associated with the rising or increasing portion of an average total cost (ATC) curve."
+        },
+        {
+          "label": "C",
+          "text": "Economies of scale are associated with the declining or decreasing portions of the ATC curve."
+        },
+        {
+          "label": "D",
+          "text": "Economies of scale result in decreases in per unit average cost."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "If the price of one good (A) increases and the quantity demanded of another good (B) increases, the two goods are",
+      "options": [
+        {
+          "label": "A",
+          "text": "substitute goods."
+        },
+        {
+          "label": "B",
+          "text": "complement goods."
+        },
+        {
+          "label": "C",
+          "text": "inferior goods."
+        },
+        {
+          "label": "D",
+          "text": "normal goods."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "A competitive market for coffee, a normal good, is currently in equilibrium. Which of the following would most likely result in an increase in the demand for coffee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consumer income falls."
+        },
+        {
+          "label": "B",
+          "text": "The price of tea rises."
+        },
+        {
+          "label": "C",
+          "text": "The wage of coffee plantation workers falls."
+        },
+        {
+          "label": "D",
+          "text": "Technology in the harvesting of coffee beans improves."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following is correct about the demand for labor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The demand for labor is independent of the demand for other inputs or resources."
+        },
+        {
+          "label": "B",
+          "text": "The demand for labor is independent of the demand for the products produced by labor."
+        },
+        {
+          "label": "C",
+          "text": "The demand for labor is independent of the availability of other inputs or resources."
+        },
+        {
+          "label": "D",
+          "text": "The demand for labor is derived from the demand for the products produced by labor."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "In the design of a competitive market system, which of the following does NOT describe how resources are allocated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Price signals that guide producers on what, when, how, and for whom to produce goods and services."
+        },
+        {
+          "label": "B",
+          "text": "Active government ownership and direction of production."
+        },
+        {
+          "label": "C",
+          "text": "Voluntary market exchange between buyers and sellers."
+        },
+        {
+          "label": "D",
+          "text": "Distribution of income and goods on the basis of contribution or productivity."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Every day Melanie spends her lunch money consuming apples, at $1 each, and oranges, at $2 each. At her current level of consumption, Melanie's marginal utility of apples is 12 and her marginal utility of oranges is 18. If she has already spent all of her lunch money, how should Melanie change her consumption decision to maximize utility?",
+      "options": [
+        {
+          "label": "A",
+          "text": "She should make no changes; she is consuming the utility maximizing combination of apples and oranges."
+        },
+        {
+          "label": "B",
+          "text": "She should increase her apple consumption and decrease her orange consumption until the marginal utility per dollar is equal for both."
+        },
+        {
+          "label": "C",
+          "text": "She should decrease her apple consumption and increase her orange consumption until the marginal utility per dollar is equal for both."
+        },
+        {
+          "label": "D",
+          "text": "She should increase her apple consumption and decrease her orange consumption until the marginal utility is equal for both."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Which of the following is not the basis for a wage differential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher risk job."
+        },
+        {
+          "label": "B",
+          "text": "Investment in human capital."
+        },
+        {
+          "label": "C",
+          "text": "Increase in production of SUVs."
+        },
+        {
+          "label": "D",
+          "text": "Racial discrimination."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Which of the following was not a landmark antitrust act?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Wagner Act"
+        },
+        {
+          "label": "B",
+          "text": "The Sherman Act"
+        },
+        {
+          "label": "C",
+          "text": "The Clayton Act"
+        },
+        {
+          "label": "D",
+          "text": "The Robinson-Patman Act"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Which of the following is most likely an example of production inputs that can be adjusted in the long run, but not in the short run?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amount of wood used to make a desk."
+        },
+        {
+          "label": "B",
+          "text": "Number of pickles put on a sandwich."
+        },
+        {
+          "label": "C",
+          "text": "The size of a McDonald’s kitchen."
+        },
+        {
+          "label": "D",
+          "text": "Number of teacher’s assistants in local high schools."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Which of the following is most likely to result in a shift to the right in the demand curve for orange juice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A bumper crop of oranges in Florida"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in the price of Tang"
+        },
+        {
+          "label": "C",
+          "text": "Expectations of lower future prices for orange juice"
+        },
+        {
+          "label": "D",
+          "text": "Expectations of higher future income among juice drinkers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Which of the following is most likely to be true in the long run for a monopoly firm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = MR = MC = ATC"
+        },
+        {
+          "label": "B",
+          "text": "P = MR = MC > ATC"
+        },
+        {
+          "label": "C",
+          "text": "P > MR = MC = ATC"
+        },
+        {
+          "label": "D",
+          "text": "P > ATC > MR = MC"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Which of the following is a characteristic of monopolistic competition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economically efficient in the long run."
+        },
+        {
+          "label": "B",
+          "text": "Pricing at minimum ATC in long run."
+        },
+        {
+          "label": "C",
+          "text": "Excess capacity."
+        },
+        {
+          "label": "D",
+          "text": "Very few competitors."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following is an example of a long-run adjustment for the owners of a small café?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The owners switch from whole wheat to sourdough bread."
+        },
+        {
+          "label": "B",
+          "text": "The owners hire several part-time workers to cover the dinner shifts."
+        },
+        {
+          "label": "C",
+          "text": "The owners work overtime on a busy weekend."
+        },
+        {
+          "label": "D",
+          "text": "The owners buy the office next door, and this doubles the customer seating."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "A bilateral monopoly exists when",
+      "options": [
+        {
+          "label": "A",
+          "text": "a monopsony buys from a monopoly"
+        },
+        {
+          "label": "B",
+          "text": "a monopoly sells to two different types of consumers"
+        },
+        {
+          "label": "C",
+          "text": "a monopoly buys from a monopsony"
+        },
+        {
+          "label": "D",
+          "text": "a monopolist sells two different types of goods"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Which of the following is NOT a characteristic of perfectly competitive industry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free entry into the industry."
+        },
+        {
+          "label": "B",
+          "text": "Product differentiation."
+        },
+        {
+          "label": "C",
+          "text": "Perfectly elastic demand curve."
+        },
+        {
+          "label": "D",
+          "text": "Homogeneous products."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Which of the following statements accurately describes the relationship between average product (AP) and marginal product (MP) of labor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AP rises when MP is above it and falls when MP is below it."
+        },
+        {
+          "label": "B",
+          "text": "MP intersects AP at the maximum of MP."
+        },
+        {
+          "label": "C",
+          "text": "AP and MP are always parallel to each other."
+        },
+        {
+          "label": "D",
+          "text": "AP and MP are either both rising or both falling at all levels of labor."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Which of the following statements is true for a firm in a perfectly competitive industry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Total revenue increases and then decreases."
+        },
+        {
+          "label": "B",
+          "text": "Marginal revenue is decreasing."
+        },
+        {
+          "label": "C",
+          "text": "Average revenue is initially negative and then becomes positive."
+        },
+        {
+          "label": "D",
+          "text": "Average revenue equals marginal revenue."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Your aunt runs a small firm from her home making apple pies. She hires some friends to help her. Which of the following situations would most likely increase her demand for labor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The price of apple peelers/corers rises."
+        },
+        {
+          "label": "B",
+          "text": "Your aunt’s friends gossip all day, slowing their dough-making process."
+        },
+        {
+          "label": "C",
+          "text": "There is a sale on ovens."
+        },
+        {
+          "label": "D",
+          "text": "A new study reveals that apples increase your risk of cancer."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "A perfectly competitive employer hires labor up to the point where",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wage = Marginal factor cost."
+        },
+        {
+          "label": "B",
+          "text": "Wage = Marginal product of labor."
+        },
+        {
+          "label": "C",
+          "text": "Wage = Marginal revenue."
+        },
+        {
+          "label": "D",
+          "text": "Wage = Marginal revenue product of labor."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Which of the following goods is likely to have the most elastic demand curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demand for white Ford minivans"
+        },
+        {
+          "label": "B",
+          "text": "Demand for automobiles"
+        },
+        {
+          "label": "C",
+          "text": "Demand for Ford automobiles"
+        },
+        {
+          "label": "D",
+          "text": "Demand for American-made automobiles"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which of the following is a characteristic of monopolistic competition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P > MC."
+        },
+        {
+          "label": "B",
+          "text": "Efficiency."
+        },
+        {
+          "label": "C",
+          "text": "Mostly price competition."
+        },
+        {
+          "label": "D",
+          "text": "P =MR."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "A monopsonist is identified by one of the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A wage payment lower than the marginal revenue product of labor."
+        },
+        {
+          "label": "B",
+          "text": "Employment level greater than that of a competitive labor market."
+        },
+        {
+          "label": "C",
+          "text": "A wage payment higher than that of a competitive labor market."
+        },
+        {
+          "label": "D",
+          "text": "A single seller of labor services."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "A student decides that, having already spent three hours studying for an exam, she should spend one more hour studying for the same exam. Which of the following is most likely true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The marginal benefit of the fourth hour is certainly less than the marginal cost of the fourth hour."
+        },
+        {
+          "label": "B",
+          "text": "The marginal benefit of the fourth hour is at least as great as the marginal cost of the fourth hour."
+        },
+        {
+          "label": "C",
+          "text": "Without knowing the student’s opportunity cost of studying, we have no way of knowing whether or not her marginal benefits outweigh her marginal costs."
+        },
+        {
+          "label": "D",
+          "text": "The marginal cost of the third hour was likely greater than the marginal cost of the fourth hour."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "An industry described as an oligopoly would most likely have",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal profits in the long run."
+        },
+        {
+          "label": "B",
+          "text": "no opportunities for collusive behavior."
+        },
+        {
+          "label": "C",
+          "text": "significant barriers to entry."
+        },
+        {
+          "label": "D",
+          "text": "price-taking behavior."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Which of the following is true in the long run in perfect competition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P = MR = MC = ATC"
+        },
+        {
+          "label": "B",
+          "text": "P = MR = MC > ATC"
+        },
+        {
+          "label": "C",
+          "text": "P > MR = MC = ATC"
+        },
+        {
+          "label": "D",
+          "text": "P = MR > MC = ATC"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "At a Nash equilibrium,",
+      "options": [
+        {
+          "label": "A",
+          "text": "the supply curve intersects the demand curve"
+        },
+        {
+          "label": "B",
+          "text": "neither party has an incentive to deviate from his or her strategy"
+        },
+        {
+          "label": "C",
+          "text": "the marginal revenue curve intersects the marginal cost curve"
+        },
+        {
+          "label": "D",
+          "text": "the equilibrium is unstable and each party would like to switch strategies"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Which of the following describes the theory behind the demand curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing marginal utility as consumption rises."
+        },
+        {
+          "label": "B",
+          "text": "Increasing marginal cost as consumption rises."
+        },
+        {
+          "label": "C",
+          "text": "Decreasing marginal cost as consumption rises."
+        },
+        {
+          "label": "D",
+          "text": "Increasing total utility at an increasing rate as consumption rises."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "If there is a positive externality associated with the production of a private good, which of the following is an action of government that would most likely move the market to an efficient outcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Close the firm producing the good."
+        },
+        {
+          "label": "B",
+          "text": "Subsidize the firm or its customers."
+        },
+        {
+          "label": "C",
+          "text": "Tax the firm."
+        },
+        {
+          "label": "D",
+          "text": "Appoint a commission."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Suppose that there are only two goods: x and y. Which of the following is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One can have comparative advantage in producing both goods."
+        },
+        {
+          "label": "B",
+          "text": "One can have both an absolute advantage and a comparative advantage in producing x."
+        },
+        {
+          "label": "C",
+          "text": "One can have absolute advantage and no comparative advantage in producing x."
+        },
+        {
+          "label": "D",
+          "text": "One can have comparative advantage and no absolute advantage in producing x."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "With the presence of a positive externality, which of the following would correct the externality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A government subsidy."
+        },
+        {
+          "label": "B",
+          "text": "A government tax."
+        },
+        {
+          "label": "C",
+          "text": "A higher price."
+        },
+        {
+          "label": "D",
+          "text": "A lower level of output."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "After Julia received a raise in her income, she began purchasing more ice cream cones and fewer popsicles. For Julia, popsicles",
+      "options": [
+        {
+          "label": "A",
+          "text": "disobey the law of demand"
+        },
+        {
+          "label": "B",
+          "text": "are a joint product"
+        },
+        {
+          "label": "C",
+          "text": "are a complementary good with ice cream"
+        },
+        {
+          "label": "D",
+          "text": "are an inferior good"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "The owner of a competitive firm making zero economic profit",
+      "options": [
+        {
+          "label": "A",
+          "text": "should consider shutting down because she could make more elsewhere"
+        },
+        {
+          "label": "B",
+          "text": "is making less than normal profits"
+        },
+        {
+          "label": "C",
+          "text": "is making exactly what she would make in her next best alternative job"
+        },
+        {
+          "label": "D",
+          "text": "will most likely make more profits in the long run"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Ray and Dorothy can both cook and can both pull weeds in the garden on a Saturday afternoon. For every hour of cooking, Ray can pull 50 weeds and Dorothy can pull 100 weeds. Based on this information,",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ray pulls weeds, since he has absolute advantage in cooking."
+        },
+        {
+          "label": "B",
+          "text": "Dorothy pulls weeds, since she has absolute advantage in cooking."
+        },
+        {
+          "label": "C",
+          "text": "Dorothy cooks, since she has comparative advantage in cooking."
+        },
+        {
+          "label": "D",
+          "text": "Ray cooks, since he has comparative advantage in cooking."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "A typical characteristic of capitalist market economies is",
+      "options": [
+        {
+          "label": "A",
+          "text": "government ownership of land and capital."
+        },
+        {
+          "label": "B",
+          "text": "extensive price controls."
+        },
+        {
+          "label": "C",
+          "text": "centralized government decision making to determine production limits."
+        },
+        {
+          "label": "D",
+          "text": "private ownership of economic resources."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following will increase wages for tuba makers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An increase in the number of graduates at tuba maker training school"
+        },
+        {
+          "label": "B",
+          "text": "An increase in the price of tubas"
+        },
+        {
+          "label": "C",
+          "text": "An increase in the price of tuba lessons"
+        },
+        {
+          "label": "D",
+          "text": "An increase in the tax on tubas"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "The basis for the answer in number 1 is",
+      "options": [
+        {
+          "label": "A",
+          "text": "P or wage rate of labor > MRP of labor and with one additional unit of labor, wage rate < MRP."
+        },
+        {
+          "label": "B",
+          "text": "P or wage rate of labor < MRP of labor and with one additional unit of labor WI, > MRP."
+        },
+        {
+          "label": "C",
+          "text": "total revenue is at a maximum."
+        },
+        {
+          "label": "D",
+          "text": "total output is at a maximum."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Economists use the term \"capital\" to mean",
+      "options": [
+        {
+          "label": "A",
+          "text": "money."
+        },
+        {
+          "label": "B",
+          "text": "plant and equipment."
+        },
+        {
+          "label": "C",
+          "text": "where the central government is located."
+        },
+        {
+          "label": "D",
+          "text": "the center of the economy."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Land refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "all productive resources."
+        },
+        {
+          "label": "B",
+          "text": "all natural resources."
+        },
+        {
+          "label": "C",
+          "text": "farmland only."
+        },
+        {
+          "label": "D",
+          "text": "real estate."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Which of the following is an example of an economic rent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A superstar basketball player's $50 million earnings."
+        },
+        {
+          "label": "B",
+          "text": "A social security retirement income."
+        },
+        {
+          "label": "C",
+          "text": "A welfare payment from social services."
+        },
+        {
+          "label": "D",
+          "text": "A check to a college student from a parent or guardian."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Which is true of monopolistic competition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Firms earn long-run economic profits."
+        },
+        {
+          "label": "B",
+          "text": "P = MR = MC = ATC."
+        },
+        {
+          "label": "C",
+          "text": "Firms spend money to differentiate and advertise their products."
+        },
+        {
+          "label": "D",
+          "text": "In the long run the market is allocatively efficient."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Marginal cost (MC) is equal to average variable cost (AVC) and average total cost (ATC) when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "marginal cost (MC) intersects AVC and ATC at their maximum points."
+        },
+        {
+          "label": "B",
+          "text": "AVC and ATC intersect MC at its maximum point."
+        },
+        {
+          "label": "C",
+          "text": "MC intersects AVC and ATC at their minimum points."
+        },
+        {
+          "label": "D",
+          "text": "AVC and ATC intersect MC at its minimum point."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following would best complete a short definition of economics? \"Economics is the study of . . .\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "how unlimited resources are allocated between scarce wants."
+        },
+        {
+          "label": "B",
+          "text": "how money is circulated through the economy."
+        },
+        {
+          "label": "C",
+          "text": "how corporations maximize the share price of their stock."
+        },
+        {
+          "label": "D",
+          "text": "how scarce resources are allocated to satisfy unlimited wants."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "With respect to the kinked demand curve, which of the following is NOT correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no price leader."
+        },
+        {
+          "label": "B",
+          "text": "There are relatively equal shares of the market."
+        },
+        {
+          "label": "C",
+          "text": "Price is greater than marginal costs."
+        },
+        {
+          "label": "D",
+          "text": "The demand curve is of one continuous function."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Unlike a perfectly competitive firm, a monopoly",
+      "options": [
+        {
+          "label": "A",
+          "text": "will charge the highest price it can on the demand curve"
+        },
+        {
+          "label": "B",
+          "text": "has a horizontal marginal revenue curve"
+        },
+        {
+          "label": "C",
+          "text": "has an upward sloping total revenue curve"
+        },
+        {
+          "label": "D",
+          "text": "faces a downward sloping demand curve"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The market structures of perfect competition and monopolistic competition share which of the following characteristics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ease of entry and exit in the long run"
+        },
+        {
+          "label": "B",
+          "text": "Homogenous products"
+        },
+        {
+          "label": "C",
+          "text": "Perfectly elastic demand for the firm's product"
+        },
+        {
+          "label": "D",
+          "text": "Long-run positive profits"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "What you give up to pursue another alternative is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "capital."
+        },
+        {
+          "label": "B",
+          "text": "land."
+        },
+        {
+          "label": "C",
+          "text": "money cost."
+        },
+        {
+          "label": "D",
+          "text": "opportunity cost."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Average total cost = total fixed costs divided by the number of units produced."
+        },
+        {
+          "label": "B",
+          "text": "Average total cost = average variable costs divided by the total number of units produced."
+        },
+        {
+          "label": "C",
+          "text": "Average total cost = average variable cost plus marginal cost."
+        },
+        {
+          "label": "D",
+          "text": "Average total cost = average variable cost plus average fixed cost."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Labor, human capital, entrepreneurship, natural resources, and physical capital are all examples of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Public goods"
+        },
+        {
+          "label": "B",
+          "text": "Inferior goods"
+        },
+        {
+          "label": "C",
+          "text": "Factors of production"
+        },
+        {
+          "label": "D",
+          "text": "Outputs"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of the following is the best example of a public good?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Private violin lessons"
+        },
+        {
+          "label": "B",
+          "text": "The volunteer fire department in your community"
+        },
+        {
+          "label": "C",
+          "text": "A $1 ticket for admission to a museum"
+        },
+        {
+          "label": "D",
+          "text": "A bag of potato chips"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "When the price of pears increases, we expect the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Quantity demanded of pears rises."
+        },
+        {
+          "label": "B",
+          "text": "Quantity supplied of pears falls."
+        },
+        {
+          "label": "C",
+          "text": "Quantity demanded of pears falls."
+        },
+        {
+          "label": "D",
+          "text": "Demand for pears falls."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Which of the following could have caused an increase in the demand for ice cream cones?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A decrease in the price of ice cream cones"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in the price of ice cream, a complimentary good to ice cream cones"
+        },
+        {
+          "label": "C",
+          "text": "An increase in the price of ice cream, a complimentary good to ice cream cones"
+        },
+        {
+          "label": "D",
+          "text": "A decrease in the price of lollipops, a close substitute for ice cream"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Which of the following tax systems is designed to redistribute income from the wealthy to the poor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A progressive tax system"
+        },
+        {
+          "label": "B",
+          "text": "A regressive tax system"
+        },
+        {
+          "label": "C",
+          "text": "A proportional tax system"
+        },
+        {
+          "label": "D",
+          "text": "An excise tax system"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "If a market is organized by a cartel, we can expect",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal profits for all cartel firms."
+        },
+        {
+          "label": "B",
+          "text": "an incentive for cartel firms to cheat on the cartel agreement."
+        },
+        {
+          "label": "C",
+          "text": "profit maximization by individual firms in the cartel."
+        },
+        {
+          "label": "D",
+          "text": "allocative efficiency."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "An externality",
+      "options": [
+        {
+          "label": "A",
+          "text": "causes the equilibrium price to be artificially high"
+        },
+        {
+          "label": "B",
+          "text": "causes the equilibrium price to be artificially low"
+        },
+        {
+          "label": "C",
+          "text": "exists when markets cannot reach equilibrium"
+        },
+        {
+          "label": "D",
+          "text": "results in an equilibrium that does not maximize the total benefit to society"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which of the following statements is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economic Profits = Accounting Profits."
+        },
+        {
+          "label": "B",
+          "text": "Economic Costs = Explicit Costs plus Implicit Costs."
+        },
+        {
+          "label": "C",
+          "text": "Economic Costs = Explicit Costs minus Implicit Costs."
+        },
+        {
+          "label": "D",
+          "text": "Opportunity Costs = Economic Profits."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "The market demand curve for labor would shift to the left as the result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "an increase in the price of the good which the labor is producing"
+        },
+        {
+          "label": "B",
+          "text": "an increase in demand for the good which the labor is producing"
+        },
+        {
+          "label": "C",
+          "text": "an increase in the wage rate paid to workers"
+        },
+        {
+          "label": "D",
+          "text": "a decrease in the marginal product of labor"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "If corn is produced in a perfectly competitive market and the government placed a price ceiling above equilibrium, which of the following would be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There would be no change in the amount of corn demanded or supplied."
+        },
+        {
+          "label": "B",
+          "text": "There would be a shortage created of corn."
+        },
+        {
+          "label": "C",
+          "text": "There would be a surplus created of corn."
+        },
+        {
+          "label": "D",
+          "text": "The producers of corn would lose revenue due to the decreased price."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which of the following are associated with public goods? I. Free riders II. Adding demand curves vertically to find the demand curve for society III. Nonrivalry in consumption IV. Nonexcludability",
+      "options": [
+        {
+          "label": "A",
+          "text": "I and II only"
+        },
+        {
+          "label": "B",
+          "text": "I and IV only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I, II, III, and IV"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "With the presence of a negative externality, which of the following would internalize (or correct) the externality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A government subsidy."
+        },
+        {
+          "label": "B",
+          "text": "A government tax."
+        },
+        {
+          "label": "C",
+          "text": "A lower price."
+        },
+        {
+          "label": "D",
+          "text": "A higher level of output."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Normal goods always have a/an",
+      "options": [
+        {
+          "label": "A",
+          "text": "elastic demand curve"
+        },
+        {
+          "label": "B",
+          "text": "inelastic demand curve"
+        },
+        {
+          "label": "C",
+          "text": "elastic supply curve"
+        },
+        {
+          "label": "D",
+          "text": "positive income elasticity"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Economics is best described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the study of how scarce material wants are allocated between unlimited resources."
+        },
+        {
+          "label": "B",
+          "text": "the study of how scarce labor can be replaced by unlimited capital."
+        },
+        {
+          "label": "C",
+          "text": "the study of how decision makers choose the best way to satisfy their unlimited material wants with a scarce supply of resources."
+        },
+        {
+          "label": "D",
+          "text": "the study of how unlimited material wants can best be satisfied by allocating limitless amounts of productive resources."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "You are told that the cross-price elasticity between goods X and Y is +2.0. This means that",
+      "options": [
+        {
+          "label": "A",
+          "text": "goods X and Y are normal goods."
+        },
+        {
+          "label": "B",
+          "text": "goods X and Y are inferior goods."
+        },
+        {
+          "label": "C",
+          "text": "goods X and Y are complementary goods."
+        },
+        {
+          "label": "D",
+          "text": "goods X and Y are substitute goods."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "With capital fixed at one unit with 1, 2, 3 units of labor added in equal successive units, production of the output increases from 300 (1 unit of labor), to 350 (2 units of labor) to 375 (3 units of labor). Which of the following is a correct interpretation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "This is long run increasing returns to scale."
+        },
+        {
+          "label": "B",
+          "text": "This is long run decreasing returns to scale."
+        },
+        {
+          "label": "C",
+          "text": "This is long run constant returns to scale."
+        },
+        {
+          "label": "D",
+          "text": "This is short run diminishing marginal productivity."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "For a competitive firm, what is the most important thing to consider in deciding whether to shut down in the short run?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Compare AVC to MR."
+        },
+        {
+          "label": "B",
+          "text": "Compare TR to TC."
+        },
+        {
+          "label": "C",
+          "text": "Do not produce if the TFC is not covered by revenue."
+        },
+        {
+          "label": "D",
+          "text": "Produce the highest quantity demanded regardless of price."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Jason cleans swimming pools in a perfectly competitive local market. A profit maximizer, he can charge $10 per pool to clean 9 pools per day, incurring total variable costs of $80 and total fixed costs of $20. Which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jason should shut down in the short run, with economic losses of $20."
+        },
+        {
+          "label": "B",
+          "text": "Jason should shut down in the short run, with economic losses of $10."
+        },
+        {
+          "label": "C",
+          "text": "Jason should clean 9 pools per day, with economic losses of $20."
+        },
+        {
+          "label": "D",
+          "text": "Jason should clean 9 pools per day, with economic losses of $10."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "The elasticity of supply is typically greater when",
+      "options": [
+        {
+          "label": "A",
+          "text": "producers have fewer alternative goods to produce."
+        },
+        {
+          "label": "B",
+          "text": "producers have less time to respond to price changes."
+        },
+        {
+          "label": "C",
+          "text": "producers are operating near the limits of their production."
+        },
+        {
+          "label": "D",
+          "text": "producers have more time to respond to price changes."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Suppose the price of beef rises by 10 percent and the quantity of beef demanded falls by 20 percent. We can conclude that",
+      "options": [
+        {
+          "label": "A",
+          "text": "demand for beef is price elastic and consumer spending on beef is falling."
+        },
+        {
+          "label": "B",
+          "text": "demand for beef is price elastic and consumer spending on beef is rising."
+        },
+        {
+          "label": "C",
+          "text": "demand for beef is price inelastic and consumer spending on beef is falling."
+        },
+        {
+          "label": "D",
+          "text": "demand for beef is price inelastic and consumer spending on beef is rising."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Suppose the market for roses is currently in equilibrium. If the supply of roses falls, while at the same time the demand for roses rises, what can you say about the price and quantity of roses in the market?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Price and quantity both rise."
+        },
+        {
+          "label": "B",
+          "text": "Price rises, but the change in quantity is ambiguous."
+        },
+        {
+          "label": "C",
+          "text": "Price and quantity both fall."
+        },
+        {
+          "label": "D",
+          "text": "Quantity rises, but the change in price is ambiguous."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following statements is accurate in regard to a perfectly competitive firm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demand is downward-sloping."
+        },
+        {
+          "label": "B",
+          "text": "The demand curve lies above the marginal revenue curve."
+        },
+        {
+          "label": "C",
+          "text": "Price is determined by the equilibrium in the entire market."
+        },
+        {
+          "label": "D",
+          "text": "Average revenue differs from price."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "The long-run average cost curve",
+      "options": [
+        {
+          "label": "A",
+          "text": "is always below the short-run average cost curve"
+        },
+        {
+          "label": "B",
+          "text": "is always above the short-run average cost curve"
+        },
+        {
+          "label": "C",
+          "text": "always intersects the short-run average cost curve at the minimum of short-run average cost"
+        },
+        {
+          "label": "D",
+          "text": "is below the short-run average cost except at one point"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Monopoly deadweight loss is the result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "setting the price above marginal cost."
+        },
+        {
+          "label": "B",
+          "text": "setting the price above average total cost."
+        },
+        {
+          "label": "C",
+          "text": "monopoly output being greater than the competitive output."
+        },
+        {
+          "label": "D",
+          "text": "long-run normal profits."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "If the price of firm A's cell phone service rises by 5 percent and the quantity demanded for firm B's cell phone service increases by 10 percent, we can say that",
+      "options": [
+        {
+          "label": "A",
+          "text": "demand for firm B is price elastic."
+        },
+        {
+          "label": "B",
+          "text": "supply for firm B is price elastic."
+        },
+        {
+          "label": "C",
+          "text": "firms A and B are substitutes because the cross-price elasticity is greater than zero."
+        },
+        {
+          "label": "D",
+          "text": "firms A and B are complements because the cross-price elasticity is less than zero."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Monopolistic competition is said to be productively inefficient because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the long-run price is above minimum average total cost."
+        },
+        {
+          "label": "B",
+          "text": "long-run profits are positive."
+        },
+        {
+          "label": "C",
+          "text": "firms engage in collusive behavior."
+        },
+        {
+          "label": "D",
+          "text": "there exist no barriers to entry."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Monopolistic competition is often characterized by",
+      "options": [
+        {
+          "label": "A",
+          "text": "strong barriers to entry."
+        },
+        {
+          "label": "B",
+          "text": "a long-run price that exceeds average total cost."
+        },
+        {
+          "label": "C",
+          "text": "a price that exceeds average variable cost, causing excess capacity."
+        },
+        {
+          "label": "D",
+          "text": "many resources devoted to advertising."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which of the following is NOT a source of wage differentials?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Differences in human capital stock."
+        },
+        {
+          "label": "B",
+          "text": "Racial or gender discrimination."
+        },
+        {
+          "label": "C",
+          "text": "Immobility of workers."
+        },
+        {
+          "label": "D",
+          "text": "Decrease in the birth rate."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "In order to hire the least-cost combination of labor and capital, the firm must do which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Find the combination of labor and capital where the marginal product of labor is equal to the marginal product of capital."
+        },
+        {
+          "label": "B",
+          "text": "Find the combination of labor and capital where the ratio of the marginal product of labor to the marginal product of capital is equal to one."
+        },
+        {
+          "label": "C",
+          "text": "Find the combination of labor and capital where the marginal product of labor divided by the price of labor is equal to the marginal product of capital divided by the price of capital."
+        },
+        {
+          "label": "D",
+          "text": "Find the combination of labor and capital where the price of labor is equal to the price of capital."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Assume a firm hires labor for $15 each and sells its products for $3 each. If the MP of the 3rd worker is 10, which of the following statements would be the most true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The firm should hire more labor so that the MRPL will increase."
+        },
+        {
+          "label": "B",
+          "text": "The firm should hire more labor so that the MRPL will decrease."
+        },
+        {
+          "label": "C",
+          "text": "The firm should hire less labor so that the MRPL will increase."
+        },
+        {
+          "label": "D",
+          "text": "The firm should hire less labor so that the MRPL will decrease."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Which of the following is most likely to decrease the demand for kindergarten teachers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An increase in funding for education"
+        },
+        {
+          "label": "B",
+          "text": "Increased immigration of foreign citizens and their families"
+        },
+        {
+          "label": "C",
+          "text": "A decrease in the average number of children per household"
+        },
+        {
+          "label": "D",
+          "text": "Subsidies given to college students who major in elementary education"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Which of the following is characteristic of oligopoly? I. Formidable barriers to entry. II. Price (P) = Marginal Revenue (MR). III. Relatively few sellers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only."
+        },
+        {
+          "label": "B",
+          "text": "II only."
+        },
+        {
+          "label": "C",
+          "text": "III only."
+        },
+        {
+          "label": "D",
+          "text": "I and III only."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Firms with the following market structure(s) maximize profits by producing where marginal cost equals marginal revenue, if at all. I. Perfect competition II. Oligopoly III. Monopoly IV. Monopolistic competition",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "I and III only"
+        },
+        {
+          "label": "D",
+          "text": "I, II, III, and IV"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Which of the following is not a characteristic of a kinked demand curve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A range of marginal costs over which MR = MC."
+        },
+        {
+          "label": "B",
+          "text": "P < MC."
+        },
+        {
+          "label": "C",
+          "text": "Interdependence of rivals."
+        },
+        {
+          "label": "D",
+          "text": "Pricing at the kink."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "In order to find the market supply curve for a particular good, one would",
+      "options": [
+        {
+          "label": "A",
+          "text": "aggregate the firm marginal revenue curves horizontally"
+        },
+        {
+          "label": "B",
+          "text": "aggregate the firm supply curves vertically"
+        },
+        {
+          "label": "C",
+          "text": "aggregate the firm marginal cost curves vertically"
+        },
+        {
+          "label": "D",
+          "text": "aggregate the firm supply curves horizontally"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "When the cross-price elasticity of demand is negative, the goods in question are necessarily",
+      "options": [
+        {
+          "label": "A",
+          "text": "normal"
+        },
+        {
+          "label": "B",
+          "text": "inferior"
+        },
+        {
+          "label": "C",
+          "text": "complements"
+        },
+        {
+          "label": "D",
+          "text": "substitutes"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "The backward bending supply curve is characterized by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As wage rates rise, the quantity of labor supplied continues to rise at every wage rate increase."
+        },
+        {
+          "label": "B",
+          "text": "The labor-leisure trade-off continues to favor the supply of more jobs, or the substitution effect."
+        },
+        {
+          "label": "C",
+          "text": "The labor-leisure trade-off favors the income effect or more leisure at higher wage rates."
+        },
+        {
+          "label": "D",
+          "text": "inexperienced, low-income, younger workers at the backward bending portion."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "A consequence of a price floor is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a persistent shortage of the good."
+        },
+        {
+          "label": "B",
+          "text": "an increase in total welfare."
+        },
+        {
+          "label": "C",
+          "text": "a persistent surplus of the good."
+        },
+        {
+          "label": "D",
+          "text": "elimination of deadweight loss."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "A tax imposed on a supplier will more likely be passed on to the consumer in the form of price increase if",
+      "options": [
+        {
+          "label": "A",
+          "text": "price elasticity of demand is highly elastic."
+        },
+        {
+          "label": "B",
+          "text": "price elasticity of demand is highly inelastic."
+        },
+        {
+          "label": "C",
+          "text": "price elasticity of demand is unit elastic."
+        },
+        {
+          "label": "D",
+          "text": "wage elasticity of demand is highly elastic."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Opportunity costs or implicit costs of a \"Mom & Pop\"-owned business are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "equal to accounting costs."
+        },
+        {
+          "label": "B",
+          "text": "equal to accounting profits."
+        },
+        {
+          "label": "C",
+          "text": "equal to earnings or profits that could have occurred using resources elsewhere."
+        },
+        {
+          "label": "D",
+          "text": "equal to earnings or profits that occurred for Mom & Pop's business."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "https://www.crackap.com/ap/microeconomics/question-21-answer-and-explanation.html",
+      "options": [
+        {
+          "label": "A",
+          "text": "cannot earn economic profits"
+        },
+        {
+          "label": "B",
+          "text": "are interdependent"
+        },
+        {
+          "label": "C",
+          "text": "are not subject to antitrust legislation"
+        },
+        {
+          "label": "D",
+          "text": "are large in number"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    }
+  ]
+}

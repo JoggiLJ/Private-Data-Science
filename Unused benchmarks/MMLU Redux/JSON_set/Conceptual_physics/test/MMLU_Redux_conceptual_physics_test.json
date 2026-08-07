@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_conceptual_physics_test",
+  "description": "Conceptual physics multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — conceptual_physics subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Sound travels in air by a series of",
+      "options": [
+        {
+          "label": "A",
+          "text": "compressions"
+        },
+        {
+          "label": "B",
+          "text": "rarefactions"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Consider a ball rolling in a horizontal circular path on the inside surface of a cone. The normal force on the ball",
+      "options": [
+        {
+          "label": "A",
+          "text": "is mg"
+        },
+        {
+          "label": "B",
+          "text": "is greater than mg always"
+        },
+        {
+          "label": "C",
+          "text": "may be greater or less than mg"
+        },
+        {
+          "label": "D",
+          "text": "is less than mg always"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "When the shadow of the Moon falls on Earth, we have a",
+      "options": [
+        {
+          "label": "A",
+          "text": "lunar eclipse."
+        },
+        {
+          "label": "B",
+          "text": "solar eclipse."
+        },
+        {
+          "label": "C",
+          "text": "solar eclipse if it’s daytime and lunar eclipse if it’s nighttime."
+        },
+        {
+          "label": "D",
+          "text": "very dangerous event."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Find the speed of a wave by multiplying its frequency by its",
+      "options": [
+        {
+          "label": "A",
+          "text": "period"
+        },
+        {
+          "label": "B",
+          "text": "wavelength"
+        },
+        {
+          "label": "C",
+          "text": "amplitude"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "In a mixture of hydrogen oxygen and nitrogen gases at a given temperature the molecules having the greatest average speed are those of",
+      "options": [
+        {
+          "label": "A",
+          "text": "hydrogen."
+        },
+        {
+          "label": "B",
+          "text": "oxygen."
+        },
+        {
+          "label": "C",
+          "text": "nitrogen."
+        },
+        {
+          "label": "D",
+          "text": "But all have the same speed on average."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "The speed of sound is slightly greater on a",
+      "options": [
+        {
+          "label": "A",
+          "text": "cold day"
+        },
+        {
+          "label": "B",
+          "text": "hot day"
+        },
+        {
+          "label": "C",
+          "text": "day with steady temperature"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Heat engines, such as a jet engine, are more efficient when run at",
+      "options": [
+        {
+          "label": "A",
+          "text": "high temperatures"
+        },
+        {
+          "label": "B",
+          "text": "constant temperatures"
+        },
+        {
+          "label": "C",
+          "text": "low temperatures"
+        },
+        {
+          "label": "D",
+          "text": "a constant rate"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The distance of your image behind a plane mirror is equal to",
+      "options": [
+        {
+          "label": "A",
+          "text": "half your height"
+        },
+        {
+          "label": "B",
+          "text": "half your distance from the mirror"
+        },
+        {
+          "label": "C",
+          "text": "your distance in front of the mirror"
+        },
+        {
+          "label": "D",
+          "text": "more than your distance in front of the mirror"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "To say that a rose petal is red is to say that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "absorbs red"
+        },
+        {
+          "label": "B",
+          "text": "reflects red"
+        },
+        {
+          "label": "C",
+          "text": "emits red"
+        },
+        {
+          "label": "D",
+          "text": "transmits red"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "A radioactive sample has a half-life of 1 hour. If we start with 1.000 gram of it at noon, how much remains at 3:00 pm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.50 g"
+        },
+        {
+          "label": "B",
+          "text": "0.25 g"
+        },
+        {
+          "label": "C",
+          "text": "0.125 g"
+        },
+        {
+          "label": "D",
+          "text": "0.0625 g"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "When an element ejects a beta particle, the atomic number of that element",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduces by 1"
+        },
+        {
+          "label": "B",
+          "text": "increases by 1"
+        },
+        {
+          "label": "C",
+          "text": "reduces by 2"
+        },
+        {
+          "label": "D",
+          "text": "increases by 2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "The fact that the Moon always shows its same face to Earth is evidence that the Moon rotates about its axis about once per",
+      "options": [
+        {
+          "label": "A",
+          "text": "day"
+        },
+        {
+          "label": "B",
+          "text": "month"
+        },
+        {
+          "label": "C",
+          "text": "year"
+        },
+        {
+          "label": "D",
+          "text": "None of these for the moon does not rotate about an axis"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "When the color yellow is seen on your TV screen the phosphors being activated on the screen are",
+      "options": [
+        {
+          "label": "A",
+          "text": "mainly yellow."
+        },
+        {
+          "label": "B",
+          "text": "blue and red."
+        },
+        {
+          "label": "C",
+          "text": "green and yellow."
+        },
+        {
+          "label": "D",
+          "text": "red and green."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "To receive an electric shock there must be a",
+      "options": [
+        {
+          "label": "A",
+          "text": "current in one direction."
+        },
+        {
+          "label": "B",
+          "text": "presence of moisture."
+        },
+        {
+          "label": "C",
+          "text": "high voltage and low body resistance."
+        },
+        {
+          "label": "D",
+          "text": "voltage difference across part or all of your body."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "A diffraction grating relies on light",
+      "options": [
+        {
+          "label": "A",
+          "text": "interference"
+        },
+        {
+          "label": "B",
+          "text": "amplitudes"
+        },
+        {
+          "label": "C",
+          "text": "variations in brightness"
+        },
+        {
+          "label": "D",
+          "text": "being composed of photons"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "In the atomic nucleus, electrical forces tend to",
+      "options": [
+        {
+          "label": "A",
+          "text": "hold particles together"
+        },
+        {
+          "label": "B",
+          "text": "push particles apart"
+        },
+        {
+          "label": "C",
+          "text": "produce orbital motion"
+        },
+        {
+          "label": "D",
+          "text": "charge particles"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "When an increase in speed doubles the kinetic energy of a moving body its momentum",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases but less than doubles"
+        },
+        {
+          "label": "B",
+          "text": "doubles"
+        },
+        {
+          "label": "C",
+          "text": "more than doubles"
+        },
+        {
+          "label": "D",
+          "text": "depends on factors not stated"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "When you look at the red petals of a rose the color light you're seeing is",
+      "options": [
+        {
+          "label": "A",
+          "text": "red."
+        },
+        {
+          "label": "B",
+          "text": "green."
+        },
+        {
+          "label": "C",
+          "text": "white minus red."
+        },
+        {
+          "label": "D",
+          "text": "a mixture of green and yellow."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "When you bend the branch of a tree by hanging on its end, the top side of the branch is under",
+      "options": [
+        {
+          "label": "A",
+          "text": "tension."
+        },
+        {
+          "label": "B",
+          "text": "compression."
+        },
+        {
+          "label": "C",
+          "text": "Both."
+        },
+        {
+          "label": "D",
+          "text": "Neither."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Electricity and magnetism connect to form",
+      "options": [
+        {
+          "label": "A",
+          "text": "mass"
+        },
+        {
+          "label": "B",
+          "text": "energy"
+        },
+        {
+          "label": "C",
+          "text": "ultrahigh-frequency sound"
+        },
+        {
+          "label": "D",
+          "text": "light"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "A step-up transformer in an electric circuit can step up",
+      "options": [
+        {
+          "label": "A",
+          "text": "voltage"
+        },
+        {
+          "label": "B",
+          "text": "energy"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "During the time an aircraft produces a sonic boom, the aircraft is",
+      "options": [
+        {
+          "label": "A",
+          "text": "breaking the sound barrier"
+        },
+        {
+          "label": "B",
+          "text": "pulling out of a subsonic dive"
+        },
+        {
+          "label": "C",
+          "text": "flying faster than sound"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "The magnitude of the gravitational force on a satellite is constant if the orbit is",
+      "options": [
+        {
+          "label": "A",
+          "text": "parabolic"
+        },
+        {
+          "label": "B",
+          "text": "circular"
+        },
+        {
+          "label": "C",
+          "text": "elliptical"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Big brother and little sister can balance on a seesaw because of balanced",
+      "options": [
+        {
+          "label": "A",
+          "text": "forces"
+        },
+        {
+          "label": "B",
+          "text": "torques"
+        },
+        {
+          "label": "C",
+          "text": "energies"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "The Doppler effect occurs when a source of sound moves",
+      "options": [
+        {
+          "label": "A",
+          "text": "toward you"
+        },
+        {
+          "label": "B",
+          "text": "away from you"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Thermal conduction involves mainly",
+      "options": [
+        {
+          "label": "A",
+          "text": "electrons"
+        },
+        {
+          "label": "B",
+          "text": "protons"
+        },
+        {
+          "label": "C",
+          "text": "neutrons"
+        },
+        {
+          "label": "D",
+          "text": "ions"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "An airplane with its nose pointing north with an airspeed of 40 km/h in a 30-km/h crosswind (at right angles) has a groundspeed of",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 km/h"
+        },
+        {
+          "label": "B",
+          "text": "40 km/h"
+        },
+        {
+          "label": "C",
+          "text": "50 km/h"
+        },
+        {
+          "label": "D",
+          "text": "60 km/h"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The mass of an atom comes mostly from its _ ; and its volume from its _.",
+      "options": [
+        {
+          "label": "A",
+          "text": "nucleons; nucleons."
+        },
+        {
+          "label": "B",
+          "text": "electrons; electrons."
+        },
+        {
+          "label": "C",
+          "text": "electrons; nucleons."
+        },
+        {
+          "label": "D",
+          "text": "nucleons; electrons."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "If the Sun collapsed to become a black hole Planet Earth would",
+      "options": [
+        {
+          "label": "A",
+          "text": "continue in its present orbit."
+        },
+        {
+          "label": "B",
+          "text": "likely be sucked into the black hole."
+        },
+        {
+          "label": "C",
+          "text": "be pulled apart by tidal forces."
+        },
+        {
+          "label": "D",
+          "text": "Both C and D."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "In both fission and fusion, energy is released while mass",
+      "options": [
+        {
+          "label": "A",
+          "text": "decreases"
+        },
+        {
+          "label": "B",
+          "text": "remains unchanged; is conserved"
+        },
+        {
+          "label": "C",
+          "text": "increases"
+        },
+        {
+          "label": "D",
+          "text": "may decrease or increase"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "The vibrations in a longitudinal wave move in a direction",
+      "options": [
+        {
+          "label": "A",
+          "text": "along and parallel to the wave"
+        },
+        {
+          "label": "B",
+          "text": "perpendicular to the wave"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Most of the radiation in Earth’s biosphere is",
+      "options": [
+        {
+          "label": "A",
+          "text": "natural background radiation"
+        },
+        {
+          "label": "B",
+          "text": "the result of military activities"
+        },
+        {
+          "label": "C",
+          "text": "from nuclear power plants"
+        },
+        {
+          "label": "D",
+          "text": "in the form of cosmic rays"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "When an element ejects an alpha particle, the atomic number of the resulting element",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduces by 2"
+        },
+        {
+          "label": "B",
+          "text": "reduces by 4"
+        },
+        {
+          "label": "C",
+          "text": "increases by 2"
+        },
+        {
+          "label": "D",
+          "text": "increases by 4"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "When a ball at rest hangs by a single vertical string tension in the string is mg. If the ball is made to move in amhorizontal circle so that the string describes a cone string tension",
+      "options": [
+        {
+          "label": "A",
+          "text": "is mg"
+        },
+        {
+          "label": "B",
+          "text": "is greater than mg always"
+        },
+        {
+          "label": "C",
+          "text": "is less than mg always"
+        },
+        {
+          "label": "D",
+          "text": "may be greater or less than mg depending on the speed of the ball"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "When you drop a ball from rest it accelerates downward at 9.8 m/s^2. If you instead throw it downward assuming no air resistance its acceleration immediately after leaving your hand is",
+      "options": [
+        {
+          "label": "A",
+          "text": "9.8 m/s2"
+        },
+        {
+          "label": "B",
+          "text": "more than 9.8 m/s2"
+        },
+        {
+          "label": "C",
+          "text": "less than 9.8 m/s2"
+        },
+        {
+          "label": "D",
+          "text": "Cannot say unless the speed of throw is given."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Noise-canceling devices make use of sound",
+      "options": [
+        {
+          "label": "A",
+          "text": "destruction"
+        },
+        {
+          "label": "B",
+          "text": "interference"
+        },
+        {
+          "label": "C",
+          "text": "resonance"
+        },
+        {
+          "label": "D",
+          "text": "amplification"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "A capacitor can store",
+      "options": [
+        {
+          "label": "A",
+          "text": "charge"
+        },
+        {
+          "label": "B",
+          "text": "energy"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The difference between dc and ac in electric circuits is that in dc, charges flow",
+      "options": [
+        {
+          "label": "A",
+          "text": "steadily in one direction"
+        },
+        {
+          "label": "B",
+          "text": "in one direction"
+        },
+        {
+          "label": "C",
+          "text": "to and fro"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "When relatively slow-moving molecules condense from the air, the temperature of the remaining air tends to",
+      "options": [
+        {
+          "label": "A",
+          "text": "remain unchanged"
+        },
+        {
+          "label": "B",
+          "text": "decrease"
+        },
+        {
+          "label": "C",
+          "text": "increase"
+        },
+        {
+          "label": "D",
+          "text": "spread out uniformly"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "When an element ejects an alpha particle, the mass number of the resulting element",
+      "options": [
+        {
+          "label": "A",
+          "text": "reduces by 2"
+        },
+        {
+          "label": "B",
+          "text": "reduces by 4"
+        },
+        {
+          "label": "C",
+          "text": "increases by 2"
+        },
+        {
+          "label": "D",
+          "text": "increases by 4"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "As more lamps are connected in a series circuit the current in the power source",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases."
+        },
+        {
+          "label": "B",
+          "text": "decreases."
+        },
+        {
+          "label": "C",
+          "text": "remains much the same."
+        },
+        {
+          "label": "D",
+          "text": "Need more information."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "If the volume of an object were to double, with no change in mass, its density would",
+      "options": [
+        {
+          "label": "A",
+          "text": "halve."
+        },
+        {
+          "label": "B",
+          "text": "double."
+        },
+        {
+          "label": "C",
+          "text": "be the same."
+        },
+        {
+          "label": "D",
+          "text": "None of these."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Boiling and freezing occur when water is subjected to",
+      "options": [
+        {
+          "label": "A",
+          "text": "decreased temperatures"
+        },
+        {
+          "label": "B",
+          "text": "decreased atmospheric pressure"
+        },
+        {
+          "label": "C",
+          "text": "increased temperatures"
+        },
+        {
+          "label": "D",
+          "text": "increased atmospheric pressure"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Sound travels in",
+      "options": [
+        {
+          "label": "A",
+          "text": "solids"
+        },
+        {
+          "label": "B",
+          "text": "liquids"
+        },
+        {
+          "label": "C",
+          "text": "gases"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "When you brush your hair and scrape electrons from your hair, the charge of your hair becomes",
+      "options": [
+        {
+          "label": "A",
+          "text": "positive"
+        },
+        {
+          "label": "B",
+          "text": "negative"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "The electric field inside the dome of a Van de Graaff generator is zero when the dome is",
+      "options": [
+        {
+          "label": "A",
+          "text": "charged"
+        },
+        {
+          "label": "B",
+          "text": "uncharged"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Two vectors, one 3 N and the other 4 N, can have a resultant of",
+      "options": [
+        {
+          "label": "A",
+          "text": "0 N"
+        },
+        {
+          "label": "B",
+          "text": "5 N"
+        },
+        {
+          "label": "C",
+          "text": "8 N"
+        },
+        {
+          "label": "D",
+          "text": "Any of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Heat comes from the Sun to Earth by the process of",
+      "options": [
+        {
+          "label": "A",
+          "text": "conduction"
+        },
+        {
+          "label": "B",
+          "text": "convection"
+        },
+        {
+          "label": "C",
+          "text": "radiation"
+        },
+        {
+          "label": "D",
+          "text": "All of these, although radiation is greatest"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "The phenomenon of interference occurs for",
+      "options": [
+        {
+          "label": "A",
+          "text": "sound waves"
+        },
+        {
+          "label": "B",
+          "text": "light waves"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "The neutrons in an atom are normally found",
+      "options": [
+        {
+          "label": "A",
+          "text": "inside the nucleus"
+        },
+        {
+          "label": "B",
+          "text": "outside the nucleus"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "According to Coulomb, a pair of charged particles placed twice as close to each other experience a force",
+      "options": [
+        {
+          "label": "A",
+          "text": "twice as strong"
+        },
+        {
+          "label": "B",
+          "text": "four times as strong"
+        },
+        {
+          "label": "C",
+          "text": "half as strong"
+        },
+        {
+          "label": "D",
+          "text": "one-fourth as strong"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Which of these does NOT belong in the family of electromagnetic waves?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Light"
+        },
+        {
+          "label": "B",
+          "text": "Sound"
+        },
+        {
+          "label": "C",
+          "text": "Radio waves"
+        },
+        {
+          "label": "D",
+          "text": "X-rays"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Clocks on a fast-moving spaceship whizzing past Earth appear to run slow when viewed from",
+      "options": [
+        {
+          "label": "A",
+          "text": "inside the spaceship."
+        },
+        {
+          "label": "B",
+          "text": "Earth."
+        },
+        {
+          "label": "C",
+          "text": "Both of these."
+        },
+        {
+          "label": "D",
+          "text": "Neither of these."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "A 10-Ω resistor carries 10 A. The voltage across the resistor is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "more than 0 but less than 10 V"
+        },
+        {
+          "label": "C",
+          "text": "10 V"
+        },
+        {
+          "label": "D",
+          "text": "more than 10 V"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The color of light most intense in the solar radiation curve is",
+      "options": [
+        {
+          "label": "A",
+          "text": "infrared"
+        },
+        {
+          "label": "B",
+          "text": "red"
+        },
+        {
+          "label": "C",
+          "text": "yellow-green"
+        },
+        {
+          "label": "D",
+          "text": "violet"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Which of these changes when light refracts in passing from one medium to another?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed only"
+        },
+        {
+          "label": "B",
+          "text": "Wavelength only"
+        },
+        {
+          "label": "C",
+          "text": "Both speed and wavelength"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The electric field between a pair of oppositely charged parallel plates",
+      "options": [
+        {
+          "label": "A",
+          "text": "gets weaker with distance inside the plates"
+        },
+        {
+          "label": "B",
+          "text": "follows the inverse-square law"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "The amount of air drag on an 0.8-N flying squirrel dropping vertically at terminal velocity is",
+      "options": [
+        {
+          "label": "A",
+          "text": "less than 0.8 N"
+        },
+        {
+          "label": "B",
+          "text": "0.8 N"
+        },
+        {
+          "label": "C",
+          "text": "greater than 0.8 N"
+        },
+        {
+          "label": "D",
+          "text": "dependent on the orientation of its body"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The rotational inertia of an object is greater when most of the mass is located",
+      "options": [
+        {
+          "label": "A",
+          "text": "near the rotational axis"
+        },
+        {
+          "label": "B",
+          "text": "away from the axis"
+        },
+        {
+          "label": "C",
+          "text": "on the rotational axis"
+        },
+        {
+          "label": "D",
+          "text": "off center"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "A voltage will be induced in a wire loop when the magnetic field within that loop",
+      "options": [
+        {
+          "label": "A",
+          "text": "changes"
+        },
+        {
+          "label": "B",
+          "text": "aligns with the electric field"
+        },
+        {
+          "label": "C",
+          "text": "is at right angles to the electric field"
+        },
+        {
+          "label": "D",
+          "text": "converts to magnetic energy"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "The magnetic field lines about a current-carrying wire form",
+      "options": [
+        {
+          "label": "A",
+          "text": "circles"
+        },
+        {
+          "label": "B",
+          "text": "radial lines"
+        },
+        {
+          "label": "C",
+          "text": "eddy currents"
+        },
+        {
+          "label": "D",
+          "text": "energy loops"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Chain reactions in a fission reactor are caused by",
+      "options": [
+        {
+          "label": "A",
+          "text": "kinetic energy"
+        },
+        {
+          "label": "B",
+          "text": "energy conversion"
+        },
+        {
+          "label": "C",
+          "text": "mass conversion"
+        },
+        {
+          "label": "D",
+          "text": "ejected neutrons"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Polarization is a property of",
+      "options": [
+        {
+          "label": "A",
+          "text": "transverse waves"
+        },
+        {
+          "label": "B",
+          "text": "longitudinal waves"
+        },
+        {
+          "label": "C",
+          "text": "all waves"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "When you scale up an object to 3 times its linear size, the surface area increases by",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 and the volume by 9."
+        },
+        {
+          "label": "B",
+          "text": "3 and the volume by 27."
+        },
+        {
+          "label": "C",
+          "text": "9 and the volume by 27."
+        },
+        {
+          "label": "D",
+          "text": "4 and the volume by 8."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "When a nucleus of uranium-238 emits an alpha particle, left behind is",
+      "options": [
+        {
+          "label": "A",
+          "text": "thorium-242"
+        },
+        {
+          "label": "B",
+          "text": "thorium-238"
+        },
+        {
+          "label": "C",
+          "text": "thorium-234"
+        },
+        {
+          "label": "D",
+          "text": "radium-214"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "The phenomenon of beats is the result of sound",
+      "options": [
+        {
+          "label": "A",
+          "text": "destruction"
+        },
+        {
+          "label": "B",
+          "text": "interference"
+        },
+        {
+          "label": "C",
+          "text": "resonance"
+        },
+        {
+          "label": "D",
+          "text": "amplification"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Compared with radiation from the Sun, terrestrial radiation has a lower",
+      "options": [
+        {
+          "label": "A",
+          "text": "wavelength"
+        },
+        {
+          "label": "B",
+          "text": "frequency"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "Neither"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "A rock suspended by a weighing scale weighs 5 N out of water and 3 N when submerged in water. What is the buoyant force on the rock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 N"
+        },
+        {
+          "label": "B",
+          "text": "5 N"
+        },
+        {
+          "label": "C",
+          "text": "8 N"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "A 1134-Hz tuning fork is sounded at the same time a piano note is struck. You hear three beats per second. The frequency of the piano string is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1131 Hz"
+        },
+        {
+          "label": "B",
+          "text": "1134 Hz"
+        },
+        {
+          "label": "C",
+          "text": "1137 Hz"
+        },
+        {
+          "label": "D",
+          "text": "More information is needed"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "The red glow in the neon tube of an advertising sign is a result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "fluorescence."
+        },
+        {
+          "label": "B",
+          "text": "coherence."
+        },
+        {
+          "label": "C",
+          "text": "polarization."
+        },
+        {
+          "label": "D",
+          "text": "de-excitation."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "According to Hooke’s law, if you hang by a tree branch and note how much it bends, then hanging with twice the weight produces",
+      "options": [
+        {
+          "label": "A",
+          "text": "half the bend."
+        },
+        {
+          "label": "B",
+          "text": "the same bend if the branch doesn’t break."
+        },
+        {
+          "label": "C",
+          "text": "twice the bend."
+        },
+        {
+          "label": "D",
+          "text": "4 times the bend."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "The model of light most supported by the photoelectric effect is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "wave model"
+        },
+        {
+          "label": "B",
+          "text": "particle model"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "When an increase in speed doubles the momentum of a moving body its kinetic energy",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases but less than doubles"
+        },
+        {
+          "label": "B",
+          "text": "doubles"
+        },
+        {
+          "label": "C",
+          "text": "more than doubles"
+        },
+        {
+          "label": "D",
+          "text": "depends on factors not stated"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "When light undergoes interference, it can sometimes",
+      "options": [
+        {
+          "label": "A",
+          "text": "build up to more than the sum of amplitudes"
+        },
+        {
+          "label": "B",
+          "text": "cancel completely"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "The team that wins in a tug-of-war is the team that",
+      "options": [
+        {
+          "label": "A",
+          "text": "produces more tension in the rope than the opponent"
+        },
+        {
+          "label": "B",
+          "text": "pushes hardest on the ground"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "Neither"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "In a vacuum, an object has no",
+      "options": [
+        {
+          "label": "A",
+          "text": "buoyant force"
+        },
+        {
+          "label": "B",
+          "text": "mass"
+        },
+        {
+          "label": "C",
+          "text": "weight"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "A torque is a force",
+      "options": [
+        {
+          "label": "A",
+          "text": "like any other force"
+        },
+        {
+          "label": "B",
+          "text": "multiplied by a lever arm"
+        },
+        {
+          "label": "C",
+          "text": "that is fictitious"
+        },
+        {
+          "label": "D",
+          "text": "that accelerates things"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "An electron can be speeded up by",
+      "options": [
+        {
+          "label": "A",
+          "text": "an electric field"
+        },
+        {
+          "label": "B",
+          "text": "a magnetic field"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Hot sand cools off faster at night than does vegetation. Compared with vegetation, sand’s specific heat capacity is",
+      "options": [
+        {
+          "label": "A",
+          "text": "lower"
+        },
+        {
+          "label": "B",
+          "text": "higher"
+        },
+        {
+          "label": "C",
+          "text": "about the same"
+        },
+        {
+          "label": "D",
+          "text": "Can’t say"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "A galvanometer can be calibrated to read electric",
+      "options": [
+        {
+          "label": "A",
+          "text": "current"
+        },
+        {
+          "label": "B",
+          "text": "voltage"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "According to four-dimensional geometry, the angles of a triangle add to 180°",
+      "options": [
+        {
+          "label": "A",
+          "text": "always."
+        },
+        {
+          "label": "B",
+          "text": "sometimes."
+        },
+        {
+          "label": "C",
+          "text": "never."
+        },
+        {
+          "label": "D",
+          "text": "on planet Earth only."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "The pitch of a sound is mostly related to its",
+      "options": [
+        {
+          "label": "A",
+          "text": "intensity"
+        },
+        {
+          "label": "B",
+          "text": "frequency"
+        },
+        {
+          "label": "C",
+          "text": "amplitude"
+        },
+        {
+          "label": "D",
+          "text": "speed"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "A capacitor loses half its remaining charge every second. If after five seconds its charge is q what was its initial charge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4q."
+        },
+        {
+          "label": "B",
+          "text": "8q."
+        },
+        {
+          "label": "C",
+          "text": "16q."
+        },
+        {
+          "label": "D",
+          "text": "32q."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "Compared with the current in an LED lamp the current in the connecting wire is",
+      "options": [
+        {
+          "label": "A",
+          "text": "less."
+        },
+        {
+          "label": "B",
+          "text": "more."
+        },
+        {
+          "label": "C",
+          "text": "the same."
+        },
+        {
+          "label": "D",
+          "text": "Need more information."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The component of velocity that can remain constant for a tossed baseball is",
+      "options": [
+        {
+          "label": "A",
+          "text": "horizontal"
+        },
+        {
+          "label": "B",
+          "text": "vertical"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Any atom that emits an alpha particle or beta particle",
+      "options": [
+        {
+          "label": "A",
+          "text": "becomes an atom of a different element always."
+        },
+        {
+          "label": "B",
+          "text": "may become an atom of a different element."
+        },
+        {
+          "label": "C",
+          "text": "becomes a different isotope of the same element."
+        },
+        {
+          "label": "D",
+          "text": "increases its mass."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "The phenomenon of beats results from sound",
+      "options": [
+        {
+          "label": "A",
+          "text": "reflection."
+        },
+        {
+          "label": "B",
+          "text": "refraction."
+        },
+        {
+          "label": "C",
+          "text": "interference."
+        },
+        {
+          "label": "D",
+          "text": "All of these."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "The blueness of the daytime sky is due mostly to light",
+      "options": [
+        {
+          "label": "A",
+          "text": "absorption"
+        },
+        {
+          "label": "B",
+          "text": "transmission"
+        },
+        {
+          "label": "C",
+          "text": "reflection"
+        },
+        {
+          "label": "D",
+          "text": "scattering"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "General relativity predicts that",
+      "options": [
+        {
+          "label": "A",
+          "text": "light leaving the Sun is slowed by gravity."
+        },
+        {
+          "label": "B",
+          "text": "light passing the Sun is deflected."
+        },
+        {
+          "label": "C",
+          "text": "a clock on the Sun’s surface runs faster than on Earth."
+        },
+        {
+          "label": "D",
+          "text": "All of these."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "When a model car speeds up to three times its original speed, its kinetic energy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the same"
+        },
+        {
+          "label": "B",
+          "text": "twice as great"
+        },
+        {
+          "label": "C",
+          "text": "three times greater"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The second law of thermodynamics tells us that heat doesn’t flow from",
+      "options": [
+        {
+          "label": "A",
+          "text": "hot to cold ever"
+        },
+        {
+          "label": "B",
+          "text": "cold to hot ever"
+        },
+        {
+          "label": "C",
+          "text": "hot to cold without external energy"
+        },
+        {
+          "label": "D",
+          "text": "cold to hot without external energy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "When you buy a pipe in a hardware store, the water isn’t included. When you buy copper wire, electrons",
+      "options": [
+        {
+          "label": "A",
+          "text": "must be supplied by you"
+        },
+        {
+          "label": "B",
+          "text": "are included in the wire"
+        },
+        {
+          "label": "C",
+          "text": "may fall out—hence insulation"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "As entropy in a system increases, energy in the system",
+      "options": [
+        {
+          "label": "A",
+          "text": "becomes more ordered"
+        },
+        {
+          "label": "B",
+          "text": "becomes less ordered"
+        },
+        {
+          "label": "C",
+          "text": "reaches equilibrium"
+        },
+        {
+          "label": "D",
+          "text": "moves toward destruction"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Light reflecting from a smooth surface undergoes a change in",
+      "options": [
+        {
+          "label": "A",
+          "text": "frequency."
+        },
+        {
+          "label": "B",
+          "text": "wavelength."
+        },
+        {
+          "label": "C",
+          "text": "All of these."
+        },
+        {
+          "label": "D",
+          "text": "None of these."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Spectral lines of the elements are",
+      "options": [
+        {
+          "label": "A",
+          "text": "chaotic"
+        },
+        {
+          "label": "B",
+          "text": "ordered"
+        },
+        {
+          "label": "C",
+          "text": "positioned by amplitude"
+        },
+        {
+          "label": "D",
+          "text": "in phase"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Lift a 100-N crate with an ideal pulley system by pulling a rope downward with 25 N of force. For every 1-m length of rope pulled down, the crate rises",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 cm"
+        },
+        {
+          "label": "B",
+          "text": "25 m"
+        },
+        {
+          "label": "C",
+          "text": "50 cm"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "According to general relativity,",
+      "options": [
+        {
+          "label": "A",
+          "text": "mass distorts spacetime."
+        },
+        {
+          "label": "B",
+          "text": "gravity affects clocks."
+        },
+        {
+          "label": "C",
+          "text": "light can’t escape from a black hole."
+        },
+        {
+          "label": "D",
+          "text": "All of these."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "When food is exposed to gamma radiation, the food",
+      "options": [
+        {
+          "label": "A",
+          "text": "becomes slightly radioactive"
+        },
+        {
+          "label": "B",
+          "text": "doesn’t become radioactive"
+        },
+        {
+          "label": "C",
+          "text": "will spoil faster"
+        },
+        {
+          "label": "D",
+          "text": "should be avoided"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "If the Sun were twice as massive, its pull on Mars would be",
+      "options": [
+        {
+          "label": "A",
+          "text": "unchanged"
+        },
+        {
+          "label": "B",
+          "text": "twice as much"
+        },
+        {
+          "label": "C",
+          "text": "half as much"
+        },
+        {
+          "label": "D",
+          "text": "four times as much"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "The potential energy of a compressed spring and the potential energy of a charged object both depend on",
+      "options": [
+        {
+          "label": "A",
+          "text": "the work done on them"
+        },
+        {
+          "label": "B",
+          "text": "motion"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

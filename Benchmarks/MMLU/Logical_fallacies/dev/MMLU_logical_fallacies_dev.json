@@ -1,0 +1,147 @@
+{
+  "version": "mmlu-logical-fallacies-dev-v1",
+  "source": "MMLU (Measuring Massive Multitask Language Understanding), logical_fallacies subject, dev split | dataset cais/mmlu on Hugging Face | exported 2026-07-01.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "If someone attacks the character of an opposing arguer, instead of responding to that opponent's arguments, the first person has probably committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tu quoque"
+        },
+        {
+          "label": "B",
+          "text": "horse laugh"
+        },
+        {
+          "label": "C",
+          "text": "argument against the person"
+        },
+        {
+          "label": "D",
+          "text": "ignoratio elenchi"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 27,
+      "token_count": 33,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "The complex question fallacy consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing something is inferior just because it doesn't do something it was never intended to do."
+        },
+        {
+          "label": "B",
+          "text": "including more than one claim in the proposition and treating proof for one claim as proof for all the claims."
+        },
+        {
+          "label": "C",
+          "text": "drawing a conclusion before examining the evidence, and only considering evidence that supports that conclusion."
+        },
+        {
+          "label": "D",
+          "text": "asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless."
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 6,
+      "token_count": 7,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the following is true of a valid categorical syllogism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The minor premise must deny the antecedent"
+        },
+        {
+          "label": "B",
+          "text": "The major premise must affirm the consequent"
+        },
+        {
+          "label": "C",
+          "text": "The middle term must be used in at least one premise in a universal or unqualified sense"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 11,
+      "token_count": 15,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Arguing that what is true of the parts must be true of the whole is the fallacy of...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Division"
+        },
+        {
+          "label": "B",
+          "text": "Composition"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to the person"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to ignorance"
+        }
+      ],
+      "correct_label": "B",
+      "split": "dev",
+      "question_word_count": 18,
+      "token_count": 21,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "When an arguer causes confusion during refutation because of real or feigned lack of an ability to engage in refutation, that arguer may have committed the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "poor sportsmanship"
+        },
+        {
+          "label": "B",
+          "text": "appeal to compassion"
+        },
+        {
+          "label": "C",
+          "text": "argument against the person"
+        },
+        {
+          "label": "D",
+          "text": "ignorance of refutation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 28,
+      "token_count": 35,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 18.0,
+    "avg_token_count": 22.2,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.368492066860199
+  }
+}

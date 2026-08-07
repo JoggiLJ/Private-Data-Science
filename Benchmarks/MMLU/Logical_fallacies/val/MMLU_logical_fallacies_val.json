@@ -1,0 +1,499 @@
+{
+  "variant_id": "logical_fallacies_val",
+  "description": "Logical fallacies multiple-choice questions from the MMLU benchmark (val split).",
+  "source": "MMLU (Hendrycks et al., 2021, arXiv:2009.03300) — logical_fallacies subject, val split.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which of the following fallacies happens when someone argues that a claim should be accepted based on evidence that is not presented, but is asserted to be well known or obvious.",
+      "options": [
+        {
+          "label": "A",
+          "text": "self evident truths"
+        },
+        {
+          "label": "B",
+          "text": "suppressed evidence"
+        },
+        {
+          "label": "C",
+          "text": "appeal to pride"
+        },
+        {
+          "label": "D",
+          "text": "ad populum"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 31,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "The use of a word in two different senses in an argument is the fallacy of...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appeal to the person"
+        },
+        {
+          "label": "B",
+          "text": "Equivocation"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to tradition"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to emotion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 16,
+      "token_count": 18,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "Attempts to gain agreement only by trying to arouse particular feelings about the subject of the argument is the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "ignorance of refutation"
+        },
+        {
+          "label": "B",
+          "text": "appeal to emotion"
+        },
+        {
+          "label": "C",
+          "text": "straw person"
+        },
+        {
+          "label": "D",
+          "text": "tu quoque"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 21,
+      "token_count": 23,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Which of the following is true of a valid disjunctive syllogism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The minor premise must affirm the antecedent or deny the consequent"
+        },
+        {
+          "label": "B",
+          "text": "Every term must be used twice"
+        },
+        {
+          "label": "C",
+          "text": "The middle term must be used in at least one premise in a universal or unqualified sense"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 18,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "Appeal to authority involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that a claim should be accepted based only on the evidence that prestigious people accept it"
+        },
+        {
+          "label": "B",
+          "text": "arguing that small changes will lead to significant effects, when there is no evidence the effects will be that significant"
+        },
+        {
+          "label": "C",
+          "text": "arguing that a claim should be accepted based only on the evidence that an authority figure agrees with it"
+        },
+        {
+          "label": "D",
+          "text": "reasoning that a claim must be true based only on the evidence that it has been claimed quite often"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 4,
+      "token_count": 5,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 6,
+      "text": "The fallacy of reducing to an absurdity consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "characterizing an opponent's position in such a way to make it or its consequences appear to be ridiculous"
+        },
+        {
+          "label": "B",
+          "text": "responding to charges of wrongdoing by saying the accuser or others do something equally bad"
+        },
+        {
+          "label": "C",
+          "text": "arguing someone should do something only because it will make that person better liked by others"
+        },
+        {
+          "label": "D",
+          "text": "arguing that an idea should be accepted or disregarded only because of it source"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 9,
+      "token_count": 11,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 7,
+      "text": "The fallacy of appeal to force consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that an idea or argument should be rejected only because of who came up with the idea"
+        },
+        {
+          "label": "B",
+          "text": "using threats to get someone to agree with an idea or to do something"
+        },
+        {
+          "label": "C",
+          "text": "characterizing an opponent's position in such a way to make it seem ridiculous"
+        },
+        {
+          "label": "D",
+          "text": "attacking the character of the opposing arguer instead of that person's argument"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 8,
+      "token_count": 9,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 8,
+      "text": "When someone confuses figurative language with literal language that person might commit which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equivocation"
+        },
+        {
+          "label": "B",
+          "text": "Style over substance"
+        },
+        {
+          "label": "C",
+          "text": "Figure of speech"
+        },
+        {
+          "label": "D",
+          "text": "Amphiboly"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 17,
+      "token_count": 21,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 9,
+      "text": "When people argue that an idea must be true because a lot of people believe it they commit which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ad populum"
+        },
+        {
+          "label": "B",
+          "text": "ad vericundiam"
+        },
+        {
+          "label": "C",
+          "text": "appeal to pride"
+        },
+        {
+          "label": "D",
+          "text": "slippery slope"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 23,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 10,
+      "text": "In a deductively valid argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "If all the premises are true, the conclusion must be true"
+        },
+        {
+          "label": "B",
+          "text": "The conclusion has already been stated in its premises"
+        },
+        {
+          "label": "C",
+          "text": "If all the premises are true, the conclusion may still be false"
+        },
+        {
+          "label": "D",
+          "text": "Both A and B"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 5,
+      "token_count": 6,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 11,
+      "text": "When someone is aware of evidence that contradicts her claim, but doesn't consider that evidence when making her argument, she may have committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "slippery slope"
+        },
+        {
+          "label": "B",
+          "text": "appeal to authority"
+        },
+        {
+          "label": "C",
+          "text": "appeal to pride"
+        },
+        {
+          "label": "D",
+          "text": "suppressed evidence"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 28,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 12,
+      "text": "Any application is invalid if the fee hasn't been paid. Your application is invalid, so your fee must not have been paid.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equivocation"
+        },
+        {
+          "label": "B",
+          "text": "False Dilemma"
+        },
+        {
+          "label": "C",
+          "text": "Denying the Antecedent"
+        },
+        {
+          "label": "D",
+          "text": "Affirming the Consequent"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 22,
+      "token_count": 26,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 13,
+      "text": "Which type of syllogism has a major premise that takes the form of \"Either A or B\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Categorical"
+        },
+        {
+          "label": "B",
+          "text": "Disjunctive"
+        },
+        {
+          "label": "C",
+          "text": "Conditional"
+        },
+        {
+          "label": "D",
+          "text": "Hypothetical"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 17,
+      "token_count": 22,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 14,
+      "text": "\"Anecdotal evidence\" is a fallacy that happens when an arguer",
+      "options": [
+        {
+          "label": "A",
+          "text": "substitutes individual stories for a larger sample as support for a generalization."
+        },
+        {
+          "label": "B",
+          "text": "argues that something is necessarily better because it is old"
+        },
+        {
+          "label": "C",
+          "text": "argues that since one event preceded a second event, the first event must have caused the second event"
+        },
+        {
+          "label": "D",
+          "text": "argues that something is necessarily better because it is new"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 10,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 15,
+      "text": "_Cum hoc ergo prompter hoc_ is another name for which fallacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Division"
+        },
+        {
+          "label": "B",
+          "text": "Hasty Generalization"
+        },
+        {
+          "label": "C",
+          "text": "Concomitant variation"
+        },
+        {
+          "label": "D",
+          "text": "False sign"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 17,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 16,
+      "text": "If you summarized an opposing argument in a way that intentionally mischaracterizes it to make it seem ridiculous, you've committed the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "ignorance of refutation"
+        },
+        {
+          "label": "B",
+          "text": "appeal to compassion"
+        },
+        {
+          "label": "C",
+          "text": "two wrongs make a right"
+        },
+        {
+          "label": "D",
+          "text": "reducing to an absurdity"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 23,
+      "token_count": 28,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 17,
+      "text": "Another name for the fallacy of appeal to force is",
+      "options": [
+        {
+          "label": "A",
+          "text": "ignoratio elenchi"
+        },
+        {
+          "label": "B",
+          "text": "ad misericordiam"
+        },
+        {
+          "label": "C",
+          "text": "ad baculum"
+        },
+        {
+          "label": "D",
+          "text": "ad hominem"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 10,
+      "token_count": 11,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 18,
+      "text": "Which of the following best describes the fallacy of hypostatization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Treating something that exists in the mind as if it was a real object."
+        },
+        {
+          "label": "B",
+          "text": "Changing the meaning of a word or phrase from one part of the argument to another."
+        },
+        {
+          "label": "C",
+          "text": "Using language and punctuation in a way that a statement can have multiple interpretations, so it's not really clear what is meant."
+        },
+        {
+          "label": "D",
+          "text": "A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim."
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 10,
+      "token_count": 15,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 15.333333333333334,
+    "avg_token_count": 18.833333333333332,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.3647569715976715
+  }
+}

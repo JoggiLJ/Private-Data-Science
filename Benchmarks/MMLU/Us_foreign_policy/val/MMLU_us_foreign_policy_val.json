@@ -1,0 +1,310 @@
+{
+  "variant_id": "us_foreign_policy_val",
+  "description": "Us foreign policy multiple-choice questions from the MMLU benchmark (val split).",
+  "source": "MMLU (Hendrycks et al., 2021, arXiv:2009.03300) — us_foreign_policy subject, val split.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "What policies did Alexander Hamilton pursue to build the American economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Free trade with all European countries on an equal basis and a smaller government role in the economy"
+        },
+        {
+          "label": "B",
+          "text": "Establishment of a national currency and higher government spending"
+        },
+        {
+          "label": "C",
+          "text": "Tariffs to protect American manufacturing, establishment of a national bank, and the repayment of all debts."
+        },
+        {
+          "label": "D",
+          "text": "Limits on immigration and imported technology to encourage higher wages"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 12,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "How did relations with Russia develop under George H.W. Bush?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cautious support for Gorbachev and Yeltsin"
+        },
+        {
+          "label": "B",
+          "text": "Unreserved support for Gorbachev and Yeltsin"
+        },
+        {
+          "label": "C",
+          "text": "Denouncement of Gorbachev, but support for Yeltsin"
+        },
+        {
+          "label": "D",
+          "text": "Denouncement of Gorbachev and Yeltsin"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 10,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "What fact impinged upon America's 'neutral' stance towards the belligerent in World War I between 1915 and 1917?",
+      "options": [
+        {
+          "label": "A",
+          "text": "US banks funded the allies much more than Germany and Austria-Hungary"
+        },
+        {
+          "label": "B",
+          "text": "US banks funded Germany and Austria-Hungary much more than the allies"
+        },
+        {
+          "label": "C",
+          "text": "Wilson secretly favoured the German position"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 18,
+      "token_count": 30,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Who were the original five permanent members on the UN Security Council?",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States, Soviet Union, Germany, France, and Great Britain"
+        },
+        {
+          "label": "B",
+          "text": "United States, Germany, France, Great Britain, and Japan"
+        },
+        {
+          "label": "C",
+          "text": "United States, Great Britain, Republic of China, India, and Brazil"
+        },
+        {
+          "label": "D",
+          "text": "United States, Soviet Union, France, Great Britain, and Republic of China"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "According to Realists, what accounts for the onset of the Cold War?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ideological differences"
+        },
+        {
+          "label": "B",
+          "text": "A power vacuum"
+        },
+        {
+          "label": "C",
+          "text": "The expansionist nature of the Soviet Union"
+        },
+        {
+          "label": "D",
+          "text": "Both b and c"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 15,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 6,
+      "text": "What is soft power?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use of coercive measures short of war, such as economic sanctions"
+        },
+        {
+          "label": "B",
+          "text": "Ways in which the values and culture of a country provide it with influence in the international system"
+        },
+        {
+          "label": "C",
+          "text": "Ineffective use of one's power"
+        },
+        {
+          "label": "D",
+          "text": "When states use carrots (incentives) instead of sticks (threats) to influence other countries."
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 4,
+      "token_count": 5,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 7,
+      "text": "Why did Congress oppose Wilson's proposal for the League of Nations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It feared the League would encourage Soviet influence in the US"
+        },
+        {
+          "label": "B",
+          "text": "It feared the League would be anti-democratic"
+        },
+        {
+          "label": "C",
+          "text": "It feared the League would commit the US to an international alliance"
+        },
+        {
+          "label": "D",
+          "text": "Both a and b"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 8,
+      "text": "What is the core reason why the US is viewed as exceptional?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because it is a great power but uses that power sparingly"
+        },
+        {
+          "label": "B",
+          "text": "Because of its intensely liberal character, which is rooted in a sense of its special mission"
+        },
+        {
+          "label": "C",
+          "text": "Because of its exclusive concentration on issues of power and security"
+        },
+        {
+          "label": "D",
+          "text": "Because of its despotic character, which is rooted in a sense of its special mission"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 9,
+      "text": "What is meant by a grand strategy of 'primacy'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assurance of US parity with other powers"
+        },
+        {
+          "label": "B",
+          "text": "Striving for American dominance in the international system"
+        },
+        {
+          "label": "C",
+          "text": "Putting America's interests first"
+        },
+        {
+          "label": "D",
+          "text": "Promotion of America as the world's first democracy"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 9,
+      "token_count": 12,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 10,
+      "text": "Which factor is cited by Revisionists as the primary cause of the Cold War?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The threat posed by the Soviet Union"
+        },
+        {
+          "label": "B",
+          "text": "Domestic concerns of the US"
+        },
+        {
+          "label": "C",
+          "text": "Soviet ideology"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 14,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 11,
+      "text": "Who is considered the “father” of containment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "George Kennan"
+        },
+        {
+          "label": "B",
+          "text": "John Foster Dulles"
+        },
+        {
+          "label": "C",
+          "text": "Henry Kissinger"
+        },
+        {
+          "label": "D",
+          "text": "Dwight Eisenhower"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 7,
+      "token_count": 10,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 10.909090909090908,
+    "avg_token_count": 13.818181818181818,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.20782619714736938
+  }
+}

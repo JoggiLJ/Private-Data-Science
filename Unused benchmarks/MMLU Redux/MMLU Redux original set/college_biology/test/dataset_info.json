@@ -1,0 +1,59 @@
+{
+  "builder_name": "arrow",
+  "citation": "",
+  "config_name": "college_biology",
+  "dataset_name": "mmlu-redux-2.0",
+  "dataset_size": 43465,
+  "description": "",
+  "download_size": 45472,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choices": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "answer": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "error_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "correct_answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "potential_reason": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 88937,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 43465,
+      "num_examples": 100,
+      "dataset_name": "mmlu-redux-2.0"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

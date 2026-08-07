@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_professional_psychology_test",
+  "description": "Professional psychology multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — professional_psychology subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "A woman has a schizophrenic brother. According to research area, the probability thar she is or will become schizophrenic is about",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.01"
+        },
+        {
+          "label": "B",
+          "text": "0.42"
+        },
+        {
+          "label": "C",
+          "text": "0.5"
+        },
+        {
+          "label": "D",
+          "text": "0.7"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "When it comes to STATISTICAL DECISION-MAKING, rejecting a false null is the goal of most researches. From your knowledge about TYPE I ERROR, which statement out of the following ones is about it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "probability of making an Alpha Level error"
+        },
+        {
+          "label": "B",
+          "text": "the level of significance is set by the researcher at .01 or .05"
+        },
+        {
+          "label": "C",
+          "text": "graphically→ white is retention area and black is rejected area"
+        },
+        {
+          "label": "D",
+          "text": "null hypothesis is rejected, but it is true"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "A 38-year-old person is afraid to travel on public transportation. A program of treatment that relies on graduated exposure to traveling by bus, with actual real-life behavioral activities increased across trials, is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "flooding"
+        },
+        {
+          "label": "B",
+          "text": "modeling"
+        },
+        {
+          "label": "C",
+          "text": "reinforced practice"
+        },
+        {
+          "label": "D",
+          "text": "implosion"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "A small bit of meat powder in the dog’s mouth was Pavlov’s ___________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "US"
+        },
+        {
+          "label": "B",
+          "text": "CS"
+        },
+        {
+          "label": "C",
+          "text": "UR"
+        },
+        {
+          "label": "D",
+          "text": "CR"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Attentional load theory posits:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The unity of our actions places limits on attentional resources"
+        },
+        {
+          "label": "B",
+          "text": "The degree to which an ignored stimulus is processed depends on the extent of processing required by the attended stimulus"
+        },
+        {
+          "label": "C",
+          "text": "Selective attention facilitates inhibition of return"
+        },
+        {
+          "label": "D",
+          "text": "There is a general limit to the extent of attentional resources"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Child abuse and neglect are most associated with which of the following attachment patterns?",
+      "options": [
+        {
+          "label": "A",
+          "text": "disorganized/disoriented"
+        },
+        {
+          "label": "B",
+          "text": "distant/disengaged."
+        },
+        {
+          "label": "C",
+          "text": "insecure/avoidant."
+        },
+        {
+          "label": "D",
+          "text": "insecure/ambivalent"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Ethnic identity refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "cultural practices and beliefs char are non-Western in orientation and perspective"
+        },
+        {
+          "label": "B",
+          "text": "the collective cultural practices, traditions, and orientations of ethnic minority communities"
+        },
+        {
+          "label": "C",
+          "text": "a rejection of Caucasian social, cultural, and institutional standards"
+        },
+        {
+          "label": "D",
+          "text": "the extent to which an individual endorses and practices the ethnocultural traditions of a given group"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Expectancy theory predicts that worker motivation depends on several factors including “valence,” which refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the employee’s beliefs about the value of rewards provided for successful performance."
+        },
+        {
+          "label": "B",
+          "text": "the employee’s beliefs about the inherent (intrinsic) value of the work itself."
+        },
+        {
+          "label": "C",
+          "text": "the strength of the worker's motivation and organizational commitment."
+        },
+        {
+          "label": "D",
+          "text": "the strength of the effort (versus ability) component of the worker’s motivation."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "In a research study, a social psychologist offers participants either $1.00 or $20.00 to tell potential participants that a dull experiment was very interesting. With regard to cognitive dissonance theory and self-perception theory, which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cognitive dissonance theory predicts that participants in the $1.00 condition will subsequently report greater liking for the dull experiment, while self-perception theory predicts that participants in the $20.00 condition will subsequently report greater liking for the dull experiment."
+        },
+        {
+          "label": "B",
+          "text": "Self-perception theory predicts that participants in the $1.00 condition will subsequently report greater liking for the dull experiment, while cognitive dissonance theory predicts that participants in the $20.00 condition will subsequently report greater liking for the dull experiment."
+        },
+        {
+          "label": "C",
+          "text": "Cognitive dissonance theory and self-perception theory both predict that participants in the $1.00 condition will subsequently report greater liking for the dull experiment than will those in the $20.00 condition."
+        },
+        {
+          "label": "D",
+          "text": "Cognitive dissonance theory and self-perception theory both predict that participants in the $20.00 condition will subsequently report greater liking for the dull experiment than will those in the $1.00 condition."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "In a study in which depressed individuals presenting for outpatient mental health treatment are randomly assigned to either cognitive behavioral or brief dynamic treatment and both groups are assessed at pretest and posttest:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A mixed model analysis of variance (ANOVA) could be used to analyze the data"
+        },
+        {
+          "label": "B",
+          "text": "The design includes one between-subjects factor and one within-subjects factor"
+        },
+        {
+          "label": "C",
+          "text": "Each factor comprises two levels"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "In cognitive dissonance theory, individuals will change their ___________ to match their ___________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Behavior; belief"
+        },
+        {
+          "label": "B",
+          "text": "Cognition; emotion"
+        },
+        {
+          "label": "C",
+          "text": "Belief; motivation"
+        },
+        {
+          "label": "D",
+          "text": "Belief; behavior"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Individuals with Moderate Mental Retardation",
+      "options": [
+        {
+          "label": "A",
+          "text": "constitute 2% - 3% of the mentally retarded population"
+        },
+        {
+          "label": "B",
+          "text": "can be trained to perform unskilled work under close supervision"
+        },
+        {
+          "label": "C",
+          "text": "usually acquire academic skills up to approximately eighth-grade level"
+        },
+        {
+          "label": "D",
+          "text": "display minimal or no impairment in sensorimotor functioning"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The body’s stress response system:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is vulnerable to influence during childhood, but not before birth"
+        },
+        {
+          "label": "B",
+          "text": "Cannot be affected by outside influences"
+        },
+        {
+          "label": "C",
+          "text": "Can mainly be regulated through prescribed selective serotonin reuptake inhibitors (SSRIs)"
+        },
+        {
+          "label": "D",
+          "text": "Can impact genetic predispositions to developmental disorders"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "The function of the correction for attenuation is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "provide an estimate of the predictive validity of a test-thar is independent of chance factors in any specific validation sample"
+        },
+        {
+          "label": "B",
+          "text": "show how adding or subtracting items affects the reliability of a test"
+        },
+        {
+          "label": "C",
+          "text": "estimate the correlation between wo variables if one or both could be measured without error"
+        },
+        {
+          "label": "D",
+          "text": "correct an obtained correlation coefficient for restriction of range in either variable"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "The INTER-SCORER RELIABILITY is used for essay tests or behavioral observation scales and usually involves a coefficient between rater’s scores. What is the Kappa Coefficient?",
+      "options": [
+        {
+          "label": "A",
+          "text": "measure of agreement between 2 raters using nominal scales"
+        },
+        {
+          "label": "B",
+          "text": "elapsed time in which target behaviors occurs"
+        },
+        {
+          "label": "C",
+          "text": "recording all behaviors with narrative description"
+        },
+        {
+          "label": "D",
+          "text": "# of times target behavior occurs"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "The mother of a previous client of yours asks for a copy of her daughter's records. The daughter saw you for two years and died three months ago when she was 38 years old. You should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "send the mother a copy of the records as requested."
+        },
+        {
+          "label": "B",
+          "text": "send the mother only the information you believe will not be harmful."
+        },
+        {
+          "label": "C",
+          "text": "allow the mother to inspect the records in your office."
+        },
+        {
+          "label": "D",
+          "text": "not release any information to the mother without appropriate authorization."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "The neurotransmitter most directly involved with voluntary muscle movement is",
+      "options": [
+        {
+          "label": "A",
+          "text": "norepinephrine"
+        },
+        {
+          "label": "B",
+          "text": "acetylcholine"
+        },
+        {
+          "label": "C",
+          "text": "epinephrine"
+        },
+        {
+          "label": "D",
+          "text": "dopamine"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "The presence of manic episodes is required for a diagnosis of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depression"
+        },
+        {
+          "label": "B",
+          "text": "Bipolar I"
+        },
+        {
+          "label": "C",
+          "text": "Bipolar II"
+        },
+        {
+          "label": "D",
+          "text": "Dysthymia"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The relationship of preadolescent siblings is best described as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "distant/aloof."
+        },
+        {
+          "label": "B",
+          "text": "conflictual/hostile."
+        },
+        {
+          "label": "C",
+          "text": "competitive and cooperative."
+        },
+        {
+          "label": "D",
+          "text": "close and conflictual."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "The Standard for Educational and Psychological Testing provides",
+      "options": [
+        {
+          "label": "A",
+          "text": "reliability and validity data on over 3000 tests, along with minimum training requirements needed to administer, score, and interpret each test"
+        },
+        {
+          "label": "B",
+          "text": "derailed legal requirements for the use of tests and manuals"
+        },
+        {
+          "label": "C",
+          "text": "criteria by which tests and manuals should be judged, and which tests should strive to meet"
+        },
+        {
+          "label": "D",
+          "text": "lists of approved tests and manuals"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "There are specific research designs and strategies used to gain the desired information. From your knowledge about the research designs and strategies, how does the CORRELATIONAL RESEARCH work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "investigators randomly assigns subjects to different groups and they receive different levels of a manipulated variable"
+        },
+        {
+          "label": "B",
+          "text": "involves the use of intact groups"
+        },
+        {
+          "label": "C",
+          "text": "does not have any internal validity; can’t infer causal relationship"
+        },
+        {
+          "label": "D",
+          "text": "assessing variables as a function of time"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "What factors increase the likelihood of burnout?",
+      "options": [
+        {
+          "label": "A",
+          "text": "External locus of control and insufficient praise"
+        },
+        {
+          "label": "B",
+          "text": "Positive environment and micro-management"
+        },
+        {
+          "label": "C",
+          "text": "Age and quality of life"
+        },
+        {
+          "label": "D",
+          "text": "Lack of control and insufficient reward"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "What is pertinent in the effort to promote and enhance health?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Encouraging healthy behavior and educating the public on problems in society"
+        },
+        {
+          "label": "B",
+          "text": "Job satisfaction, building resilience, building self-esteem and social skills, addressing risk factors, and encouraging healthy behavior"
+        },
+        {
+          "label": "C",
+          "text": "Implementing advocacy groups for health, only targeting problem groups, and encouraging healthy eating"
+        },
+        {
+          "label": "D",
+          "text": "Advocating and educating the public on obesity"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "When subjected to moderate punishment, an instrumental response of moderate strength will",
+      "options": [
+        {
+          "label": "A",
+          "text": "be eliminated"
+        },
+        {
+          "label": "B",
+          "text": "be strengthened"
+        },
+        {
+          "label": "C",
+          "text": "be suppressed"
+        },
+        {
+          "label": "D",
+          "text": "remain unchanged"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following is the primary ethical principle guiding the conduct of the practitioner's professional life",
+      "options": [
+        {
+          "label": "A",
+          "text": "Duty to the client"
+        },
+        {
+          "label": "B",
+          "text": "Confidentiality"
+        },
+        {
+          "label": "C",
+          "text": "Duty to the profession"
+        },
+        {
+          "label": "D",
+          "text": "Legal defensibility"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following relies on internal resources to cope with a problem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Problem-focused coping"
+        },
+        {
+          "label": "B",
+          "text": "Emotion-focused coping"
+        },
+        {
+          "label": "C",
+          "text": "Cognitive dissonance"
+        },
+        {
+          "label": "D",
+          "text": "Semantic differential"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Which of the following statements best paraphrases Thorndike’s Law of Effect",
+      "options": [
+        {
+          "label": "A",
+          "text": "All behavior is caused: everything that is done has an effect on behavior"
+        },
+        {
+          "label": "B",
+          "text": "Elimination of the unconditioned stimulus or the reward results in a decreased frequency of behavior"
+        },
+        {
+          "label": "C",
+          "text": "A positive correlation exists between responding and aversive stimulation"
+        },
+        {
+          "label": "D",
+          "text": "A reward tends to increase the probability of recurrence of the response that it follows"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "__________ is the most frequent cause of many of the ethical complaints brought against psychotherapy supervisors.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sexual harassment"
+        },
+        {
+          "label": "B",
+          "text": "Breach of confidentiality"
+        },
+        {
+          "label": "C",
+          "text": "Lack of timely feedback"
+        },
+        {
+          "label": "D",
+          "text": "Incompetence"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "__________ memory is the aspect of memory that is involved in the recall of information acquired within the past few hours to days.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Working"
+        },
+        {
+          "label": "B",
+          "text": "Sensory"
+        },
+        {
+          "label": "C",
+          "text": "Long-term"
+        },
+        {
+          "label": "D",
+          "text": "Prospective"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "\"A 14-year old boy is arrested for the third time for shoplifting. His mother seems unconcerned and says \"\"he's just going through a phase.\"\" His father decides to go fishing on the day of the boy's court hearing, and his sister says she can't attend his court hearing because she has too much homework. From the perspective of structural family therapy, this family is best described as:\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "disengaged."
+        },
+        {
+          "label": "B",
+          "text": "closed."
+        },
+        {
+          "label": "C",
+          "text": "\"emotionally \"\"cut-off.\"\"\""
+        },
+        {
+          "label": "D",
+          "text": "skewed."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "\"Rosenhan’s research involving “pseudopatients\"\" who were admitted to psychiatric hospitals:\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "conﬁrmed that participation in a research study alters the behavior of research participants."
+        },
+        {
+          "label": "B",
+          "text": "demonstrated that labeling a person changes the person's behavior."
+        },
+        {
+          "label": "C",
+          "text": "showed that the environment inﬂuences how a person's behavior is perceived."
+        },
+        {
+          "label": "D",
+          "text": "\"showed that “central traits\"\" have a greater impact than other traits on impression formation.\""
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "\"Smith, Glass, and Miller’s (1980) meta-analysis of the psychotherapy outcome research found that people receiving therapy are \"\"better off\"\" than about _____% of people who need treatment but do not receive it.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "45"
+        },
+        {
+          "label": "B",
+          "text": "55"
+        },
+        {
+          "label": "C",
+          "text": "80"
+        },
+        {
+          "label": "D",
+          "text": "95"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "A couple brings their ten-year-old son to therapy at the suggestion of his school counselor who is concerned because the boy has started arguing with his teacher and getting into physical fights with his classmates. After several sessions with the boy and his family, you receive a letter from the school principal requesting information about the boy's condition, and a signed release from the boy's parents is included with the letter. As an ethical psychologist, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "refuse to release the records to anyone but a licensed psychologist."
+        },
+        {
+          "label": "B",
+          "text": "refuse to release the records to anyone but the boy's parents."
+        },
+        {
+          "label": "C",
+          "text": "release only that information you believe to be relevant to the school's concerns."
+        },
+        {
+          "label": "D",
+          "text": "release photocopies of your complete file on the boy and his family."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "A measure of __________ would be most useful for determining the likelihood that employees will remain on the job for a long period of time.",
+      "options": [
+        {
+          "label": "A",
+          "text": "job satisfaction"
+        },
+        {
+          "label": "B",
+          "text": "job productivity"
+        },
+        {
+          "label": "C",
+          "text": "intelligence"
+        },
+        {
+          "label": "D",
+          "text": "motivation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "A person who is low in self-monitoring (Snyder, 1987) will rely on which of the following when deciding how to act in a particular social situation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "his/her life scripts."
+        },
+        {
+          "label": "B",
+          "text": "his/her own feelings, attitudes, and beliefs."
+        },
+        {
+          "label": "C",
+          "text": "the emotional reactions and behaviors of the people he/she is interacting with."
+        },
+        {
+          "label": "D",
+          "text": "internal working models that were acquired during infancy and early childhood."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "A primary concern about the long-term use of chlorpromazine is that it may result in the development of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "acute hypertensive crisis"
+        },
+        {
+          "label": "B",
+          "text": "profound anterograde amnesia"
+        },
+        {
+          "label": "C",
+          "text": "tardive dyskinesia"
+        },
+        {
+          "label": "D",
+          "text": "renal toxicity"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "A problem with relying on the representativeness heuristic when making a judgment about the characteristics of another person is that doing so:",
+      "options": [
+        {
+          "label": "A",
+          "text": "causes over-reliance on statistical data."
+        },
+        {
+          "label": "B",
+          "text": "doesn't take base rate data into account."
+        },
+        {
+          "label": "C",
+          "text": "overestimates the degree to which dispositional factors affect behavior."
+        },
+        {
+          "label": "D",
+          "text": "doesn't take into account the limitations of working memory."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "A psychologist obtains a statistically significant F-ratio for the interaction between two independent variables. This means that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the effects of one variable are significant across all levels of the second variable."
+        },
+        {
+          "label": "B",
+          "text": "the effects of one variable are contingent on the level of the second variable."
+        },
+        {
+          "label": "C",
+          "text": "the main effects of both variables are statistically significant."
+        },
+        {
+          "label": "D",
+          "text": "the two variables are statistically significant only when considered jointly."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "A psychologist places an ad in a local newspaper claiming a guaranteed cure for anxiety.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ad is not ethical because psychologists are not allowed to advertise"
+        },
+        {
+          "label": "B",
+          "text": "The ad is ethical because the psychologist is an excellent psychologist"
+        },
+        {
+          "label": "C",
+          "text": "The ad is unethical because it makes misleading claims of effectiveness"
+        },
+        {
+          "label": "D",
+          "text": "The ad is ethical because even psychologists are protected by the First Amendment protecting one’s freedom of speech"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "A stroke that affects the posterior region of the corpus callosum, thus disconnecting the visual centers of the brain from the language centers of the brain, may result in this syndrome:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agraphia without alexia"
+        },
+        {
+          "label": "B",
+          "text": "Alexia without agraphia"
+        },
+        {
+          "label": "C",
+          "text": "Aphasia"
+        },
+        {
+          "label": "D",
+          "text": "Apraxia"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "A supervisor has declared, “My position gives me a great deal of authority, my subordinates know that I expect that my orders will be followed.” This supervisor's statement refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "expert power"
+        },
+        {
+          "label": "B",
+          "text": "legitimate power"
+        },
+        {
+          "label": "C",
+          "text": "reward power"
+        },
+        {
+          "label": "D",
+          "text": "referent power"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "After 6 months of once-2-week therapy and several attempts to evaluate and adjust treatment goals and strategies, a patient continues to complain over several sessions thar therapy has not helped and that therapy goals have not been met. The psychologist should",
+      "options": [
+        {
+          "label": "A",
+          "text": "immediately terminate treatment and refer the patient elsewhere"
+        },
+        {
+          "label": "B",
+          "text": "discuss the possibility that the patient consult with another therapist"
+        },
+        {
+          "label": "C",
+          "text": "treat this as an instance of resistance"
+        },
+        {
+          "label": "D",
+          "text": "increase the frequency of sessions"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "After studying for an examination, retention of the learned material is best facilitated by",
+      "options": [
+        {
+          "label": "A",
+          "text": "sleeping"
+        },
+        {
+          "label": "B",
+          "text": "studying a related subject"
+        },
+        {
+          "label": "C",
+          "text": "exercising"
+        },
+        {
+          "label": "D",
+          "text": "studying an unrelated subject"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "All of the following are uses of job analysis except",
+      "options": [
+        {
+          "label": "A",
+          "text": "marching the right person with the right job"
+        },
+        {
+          "label": "B",
+          "text": "setting wages and salaries"
+        },
+        {
+          "label": "C",
+          "text": "establishing safety standards"
+        },
+        {
+          "label": "D",
+          "text": "determining underutilization in workforce labor marker comparisons"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Although concurrent individual and group therapy may be necessary for some patients, many therapists do not support it. One of the major concerns is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "patients beginning with a group, finding additional sources of support, tend to terminate the individual therapy prematurely"
+        },
+        {
+          "label": "B",
+          "text": "patients wait until they are in their individual sessions before reacting to what occurred in the group"
+        },
+        {
+          "label": "C",
+          "text": "screening procedures for patients may be ignored because a therapist is recommending the group experience"
+        },
+        {
+          "label": "D",
+          "text": "patients use their two therapists’ words to refute group members’ suggestions for behavior change"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Although itis rarely feasible to engage in such a practice, the most valid way for psychotherapists to monitor the quality of their own services is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "attempt as dispassionately possible to estimate the success of their therapeutic efforts"
+        },
+        {
+          "label": "B",
+          "text": "consult regularly with fellow therapists who provide mutual review of one another's cases"
+        },
+        {
+          "label": "C",
+          "text": "engage the services of a consultant who reviews rape recordings of pical sessions conducted by the therapists"
+        },
+        {
+          "label": "D",
+          "text": "check in an objective manner their clients’ ability to cope with their problems"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Aronson and Mills examined the effects severity of initiation into a group on subsequent attitudes toward the group. Results of their study indicated that, compared to women who underwent a mild initiation, women who underwent a severe initiation as a precondition of group membership:",
+      "options": [
+        {
+          "label": "A",
+          "text": "rated the group as less interesting and enjoyable."
+        },
+        {
+          "label": "B",
+          "text": "rated the group as more interesting and enjoyable."
+        },
+        {
+          "label": "C",
+          "text": "were more likely to drop out of the group."
+        },
+        {
+          "label": "D",
+          "text": "were more likely to dislike fellow group members."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "At birth, the least developed part of the brain is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "visual system"
+        },
+        {
+          "label": "B",
+          "text": "cortex"
+        },
+        {
+          "label": "C",
+          "text": "brain stem"
+        },
+        {
+          "label": "D",
+          "text": "cerebellum"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Berkowitz (1971) revised the original frustration-aggression hypothesis by proposing that frustration leads to aggression when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "acting aggressively is likely to produce desirable outcomes."
+        },
+        {
+          "label": "B",
+          "text": "there are aggressive cues in the environment."
+        },
+        {
+          "label": "C",
+          "text": "the aggressor has an internal locus of control."
+        },
+        {
+          "label": "D",
+          "text": "the target of the aggression is of lower-status than the aggressor."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Equity theory predicts that a person's satisfaction in a close personal relationship is related to the person's:",
+      "options": [
+        {
+          "label": "A",
+          "text": "perceptions of his/her own contribution/reward ratio and the ratio of his/her partner."
+        },
+        {
+          "label": "B",
+          "text": "perceptions of the relative utility of the relationship."
+        },
+        {
+          "label": "C",
+          "text": "comparisons between his/her current relationship and past relationships."
+        },
+        {
+          "label": "D",
+          "text": "comparisons between his/her own relationship outcomes and the relationship outcomes of others."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Exposing individuals to arguments against their views, arguments that are then strongly refuted, may serve to",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase their attitudinal ambivalence"
+        },
+        {
+          "label": "B",
+          "text": "weaken their resistance to later persuasive appeals"
+        },
+        {
+          "label": "C",
+          "text": "render them indifferent to the attitude object"
+        },
+        {
+          "label": "D",
+          "text": "inoculate chem against later persuasive appeals"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Focal damage to the portion of the left frontal lobe known as Broca's area is likely to impair",
+      "options": [
+        {
+          "label": "A",
+          "text": "recall of words"
+        },
+        {
+          "label": "B",
+          "text": "verbal comprehension"
+        },
+        {
+          "label": "C",
+          "text": "verbal learning"
+        },
+        {
+          "label": "D",
+          "text": "production of speech"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "For all sensory systems except olfaction, the afferent sensory pathways include the",
+      "options": [
+        {
+          "label": "A",
+          "text": "cerebellum"
+        },
+        {
+          "label": "B",
+          "text": "thalamus"
+        },
+        {
+          "label": "C",
+          "text": "caudate nucleus"
+        },
+        {
+          "label": "D",
+          "text": "inferior colliculus"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Form A of a standardized personality test was given in the fall and again in the spring co the same group of people. The reliability estimate that resulted from this research is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "external consistency"
+        },
+        {
+          "label": "B",
+          "text": "equivalence"
+        },
+        {
+          "label": "C",
+          "text": "stability"
+        },
+        {
+          "label": "D",
+          "text": "internal consistency"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "In a cross-sectional study designed to assess the effects of age on reaction time, you have adults belonging to different age groups respond to visual stimuli on a computer screen. A colleague suggests that the results of your study might be confounded by the fact that older participants may have less experience using a computer than do younger participants. This potential source of error is best described as a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rosenthal effect."
+        },
+        {
+          "label": "B",
+          "text": "Hawthorne effect."
+        },
+        {
+          "label": "C",
+          "text": "carryover effect."
+        },
+        {
+          "label": "D",
+          "text": "cohort effect."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "In Bandura's social learning theory, the concept of seif-reinforcement is critical for explaining how in the absence of external reward",
+      "options": [
+        {
+          "label": "A",
+          "text": "socially appropriate behavior can be learned in the absence of models"
+        },
+        {
+          "label": "B",
+          "text": "rival responses are acquired"
+        },
+        {
+          "label": "C",
+          "text": "learned behavior is maintained over time"
+        },
+        {
+          "label": "D",
+          "text": "children can overcome the negative effects of poor models"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "In contrast to traditional approaches to psychotherapy, culturally sensitive approaches attempt to understand a client’s experience of an illness within the client’s cultural context. In other words, culturally sensitive approaches adopt an ______ perspective.",
+      "options": [
+        {
+          "label": "A",
+          "text": "emic"
+        },
+        {
+          "label": "B",
+          "text": "etic"
+        },
+        {
+          "label": "C",
+          "text": "emetic"
+        },
+        {
+          "label": "D",
+          "text": "endogenous"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "In order to deal with the legal issue of age discrimination, iris important for the psychologist to know that, with regard to the firing of an employee, evidence of age discrimination exists",
+      "options": [
+        {
+          "label": "A",
+          "text": "only when company policy reflects adverse impact on older workers"
+        },
+        {
+          "label": "B",
+          "text": "whenever the employee's age, instead of work performance, is the basis for firing"
+        },
+        {
+          "label": "C",
+          "text": "whenever the affected employee can demonstrate substantial economic loss"
+        },
+        {
+          "label": "D",
+          "text": "only when the majority of employees in a given age group are adversely affected economically"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The American health care system is primarily dominated by which network?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The public sector"
+        },
+        {
+          "label": "B",
+          "text": "The private sector"
+        },
+        {
+          "label": "C",
+          "text": "The VA system"
+        },
+        {
+          "label": "D",
+          "text": "None, all are equally important"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The emotional state of the mother during pregnancy",
+      "options": [
+        {
+          "label": "A",
+          "text": "can affect such variables as activity level and birth weight of the fetus"
+        },
+        {
+          "label": "B",
+          "text": "produces an immediate emotional reaction in the fetus"
+        },
+        {
+          "label": "C",
+          "text": "has no apparent effect on the fetus"
+        },
+        {
+          "label": "D",
+          "text": "may determine the predominant emotional orientation of the child"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "The first standardized measure of assessment was:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stanford Binet"
+        },
+        {
+          "label": "B",
+          "text": "Binet–Simon Scale"
+        },
+        {
+          "label": "C",
+          "text": "Wechsler Adult Intelligence Scale"
+        },
+        {
+          "label": "D",
+          "text": "Raven’s Progressive Matrices"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The highest levels of learning and performance are usually associated with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "low levels of arousal."
+        },
+        {
+          "label": "B",
+          "text": "moderate levels of arousal."
+        },
+        {
+          "label": "C",
+          "text": "high levels of arousal."
+        },
+        {
+          "label": "D",
+          "text": "variability in levels of arousal."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "The information that family members continuously exchange and that helps minimize deviation and maintain the family's stability is referred to as ________ feedback.",
+      "options": [
+        {
+          "label": "A",
+          "text": "external"
+        },
+        {
+          "label": "B",
+          "text": "internal"
+        },
+        {
+          "label": "C",
+          "text": "negative"
+        },
+        {
+          "label": "D",
+          "text": "positive"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "The largest proportion of variation in therapy outcome is accounted for by",
+      "options": [
+        {
+          "label": "A",
+          "text": "pre-existing client factors, such as the motivation to-change"
+        },
+        {
+          "label": "B",
+          "text": "therapeutic technique variables, such as the ability to be directive and still keep the patient in therapy"
+        },
+        {
+          "label": "C",
+          "text": "therapist personality factors, such as warmth and empathy"
+        },
+        {
+          "label": "D",
+          "text": "therapist—client interactions, such as the (favorable) combination of 2 cold therapists with a manipulative client"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "The major advantage of using a forced-choice method as an employee performance appraisal technique is that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is easy to develop and use."
+        },
+        {
+          "label": "B",
+          "text": "it provides specific information for employee feedback."
+        },
+        {
+          "label": "C",
+          "text": "it helps alleviate leniency and other biases."
+        },
+        {
+          "label": "D",
+          "text": "it provides an objective measure of job performance."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Trend analysis is a type of analysis of variance that is used when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a study’s independent variable is quantitative."
+        },
+        {
+          "label": "B",
+          "text": "a study’s dependent variable is qualitative."
+        },
+        {
+          "label": "C",
+          "text": "a cross-sectional research design has been used."
+        },
+        {
+          "label": "D",
+          "text": "a factorial research design has been used."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "When consulting with a colleague about a “therapeutic impasse” you are having with a therapy client:",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is always necessary to advise the client about the consultation."
+        },
+        {
+          "label": "B",
+          "text": "it is necessary to get a signed waiver of confidentiality from the client before discussing confidential information with the consultant."
+        },
+        {
+          "label": "C",
+          "text": "it is unnecessary to advise the client of the consultation as long as only information that is relevant to the impasse is discussed."
+        },
+        {
+          "label": "D",
+          "text": "it is unnecessary to advise the client of the consultation as long as the client's identity is not revealed."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "When one uses a time-series design to evaluate a program, fluctuation in the outcome slope can be accounted for by various alternative hypotheses. According to Campbell and Stanley, the most probable alternative is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "a simultaneous event produced the fluctuation"
+        },
+        {
+          "label": "B",
+          "text": "participants dropped out of the group, reducing the size of the sample"
+        },
+        {
+          "label": "C",
+          "text": "aging effects were unduly influential"
+        },
+        {
+          "label": "D",
+          "text": "test—retest reliability is inadequate"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "When the corpus callosum is cut in a right-handed patient, often the patient",
+      "options": [
+        {
+          "label": "A",
+          "text": "cannot carry out well-learned motor tasks with the left hand"
+        },
+        {
+          "label": "B",
+          "text": "Cannot name objects placed in the right hand if the patient can see them"
+        },
+        {
+          "label": "C",
+          "text": "cannot name objects placed in the left hand if the patient cannot see them"
+        },
+        {
+          "label": "D",
+          "text": "shows a decline in verbal intelligence"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which is NOT an example of children actively shaping their own development?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Children selecting the contexts in which they participate"
+        },
+        {
+          "label": "B",
+          "text": "Children imposing their subjective appraisal on the context"
+        },
+        {
+          "label": "C",
+          "text": "Children affecting what takes place in the context"
+        },
+        {
+          "label": "D",
+          "text": "Children being conditioned to modify their behavior to the context"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which of the following best describes ethical guidelines regarding sexual intimacies with former therapy clients?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Psychologists are prohibited from having sexual intimacies with former therapy clients under any circumstances."
+        },
+        {
+          "label": "B",
+          "text": "Psychologists are prohibited from having sexual intimacies with former therapy clients for at least one year following the termination of therapy."
+        },
+        {
+          "label": "C",
+          "text": "Psychologists are prohibited from having sexual intimacies with former therapy clients in certain circumstances (e.g., when there is a risk of exploitation)."
+        },
+        {
+          "label": "D",
+          "text": "Psychologists are not prohibited from having sexual intimacies with former therapy clients."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which of the following factors appears to have the strongest influence on learning in people with antisocial personalities",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social ostracism"
+        },
+        {
+          "label": "B",
+          "text": "Money"
+        },
+        {
+          "label": "C",
+          "text": "Tranquilizers"
+        },
+        {
+          "label": "D",
+          "text": "Physical punishment"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following is not an available tool for assessing suicide risk?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beck Hopelessness Scale"
+        },
+        {
+          "label": "B",
+          "text": "Beck Scale for Suicidal Ideation"
+        },
+        {
+          "label": "C",
+          "text": "The Suicide Action Questionnaire"
+        },
+        {
+          "label": "D",
+          "text": "Suicidal Ideation Questionnaire"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "You are asked by an attorney to evaluate the woman he is representing in a custody case and then testify on her behalf in court. As an ethical psychologist, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "evaluate her only if you can conduct a thorough assessment of the woman."
+        },
+        {
+          "label": "B",
+          "text": "evaluate her if you can conduct a thorough assessment and then recommend that she be granted custody only if the results indicate that she‘s a good parent."
+        },
+        {
+          "label": "C",
+          "text": "evaluate her and testify about the results but do not make a speciﬁc recommendation about custody without evaluating the husband and children"
+        },
+        {
+          "label": "D",
+          "text": "refuse to make a recommendation about which parent should be granted child custody under any circumstances."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "You have been hired to assist with a research project on process variables in group psychotherapy. The psychologist who is the principal investigator tells you to discourage participants from leaving the group prior to the end of the study because, if too many participants drop out, the study's potential usefulness will be seriously compromised. As an ethical psychologist, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "refuse to assist with the research project."
+        },
+        {
+          "label": "B",
+          "text": "immediately file a complaint against the psychologist with the psychology licensing board or ethics committee."
+        },
+        {
+          "label": "C",
+          "text": "write a letter to the psychologist, indicating the relevant ethical standards and offering to discuss the matter with him."
+        },
+        {
+          "label": "D",
+          "text": "\"follow the psychologist''s instructions since, by \"\"discouraging\"\" participants from leaving the group, you are not actually coercing them to participate.\""
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "The mental retardation associated with PKU is preventable with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "removal of environmental toxins."
+        },
+        {
+          "label": "B",
+          "text": "blood transfusions."
+        },
+        {
+          "label": "C",
+          "text": "a special diet."
+        },
+        {
+          "label": "D",
+          "text": "antibiotics."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "A community bank consists of four branch offices with approximately 60 employees each. The general management would like to institute 2 health risk-reduction program by encouraging weight loss and smoking cessation among the employees. Which of the following programs would be most effective",
+      "options": [
+        {
+          "label": "A",
+          "text": "Employee reimbursement for costs and fees associated with professional help for weight loss and smoking cessation"
+        },
+        {
+          "label": "B",
+          "text": "Development of, and participation in, local community group sessions focusing on weight loss and smoking cessation"
+        },
+        {
+          "label": "C",
+          "text": "A competition among the four branches focusing on stepwise reductions in weight and smoking"
+        },
+        {
+          "label": "D",
+          "text": "Distribution of health information and self-help materials related to weight loss and smoking cessation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "A person who has difficulty performing a purposeful skilled movement, such as opening a door with a key, despite having intact motor and sensory functioning, most likely has which of the following disorders:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transcortical motor aphasia"
+        },
+        {
+          "label": "B",
+          "text": "Apraxia"
+        },
+        {
+          "label": "C",
+          "text": "Pure alexia"
+        },
+        {
+          "label": "D",
+          "text": "Agraphia"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "A psychologist at a pain clinic is helping design a medication reduction schedule to address the learned aspects of a patient's medication use. The psychologist’s best recommendation would be to administer medication",
+      "options": [
+        {
+          "label": "A",
+          "text": "in the patient’s food, because reduction will occur sooner as the patient's awareness of the medication decreases"
+        },
+        {
+          "label": "B",
+          "text": "at specific times, because then the medication will not be given in response to pain"
+        },
+        {
+          "label": "C",
+          "text": "only when requested by the patient, because reduction will occur sooner if less medication is given"
+        },
+        {
+          "label": "D",
+          "text": "by injection, because as administration becomes more painful, less medication will be requested"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Awareness that traditional healers (e.g., shamans, curanderos, expititistas) have an important place in many minority communities would suggest that",
+      "options": [
+        {
+          "label": "A",
+          "text": "psychologists working in these communities clarify their role vis a-vis traditional healers"
+        },
+        {
+          "label": "B",
+          "text": "psychologists working in these communities assist clients in choosing one mode of therapy over the other"
+        },
+        {
+          "label": "C",
+          "text": "psychologists working in these communities nor use Western psychotherapeutic practices"
+        },
+        {
+          "label": "D",
+          "text": "ethnic minority clients prefer working with traditional healers"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Dr. Bertha Black's advertisement for her seminar on relaxation techniques invites the public to “come hear an in-depth lecture on techniques to help reduce the stress of daily living.” The advertised cost for her four-hour seminar is $50. While preparing her lecture the night before the presentation, Dr. Black decides it would be valuable to demonstrate some of her techniques with the group. She decides that, instead of lecturing for the full four hours, she will have attendees divide into groups for the last two hours to experiment with the techniques. According to ethical standards, this is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "ethical if she allows participants to leave after the lecture portion of the seminar."
+        },
+        {
+          "label": "B",
+          "text": "ethical if the demonstration is well executed and educational."
+        },
+        {
+          "label": "C",
+          "text": "unethical since she advertised the seminar as a “lecture.”"
+        },
+        {
+          "label": "D",
+          "text": "unethical because she plans to spend some of the time lecturing when the most beneficial part will probably be the experiential portion"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Dr. Carl Carlson is a licensed psychologist and professor in the psychology department at a large university. He is approached by a graduate student, Marla M., age 36, who asks him if he’d like to attend a baseball game on Friday night. Dr. Carlson is divorced and finds Marla to be a very attractive woman. In terms of ethical guidelines, if Dr. Carlson accepts Marla’s invitation, he will be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "clearly violating ethical guidelines."
+        },
+        {
+          "label": "B",
+          "text": "acting ethically since he is not the one who initiated a potential relationship."
+        },
+        {
+          "label": "C",
+          "text": "acting ethically as long as Marla is a student in a department other than the psychology department and will not be taking any classes in the psychology department."
+        },
+        {
+          "label": "D",
+          "text": "acting ethically as long as he does not become sexually involved with Marla until she is no longer affiliated with the university."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "In classical conditioning, experimental extinction will occur when the",
+      "options": [
+        {
+          "label": "A",
+          "text": "conditioned stimulus is repeatedly not followed by the unconditioned stimulus"
+        },
+        {
+          "label": "B",
+          "text": "unconditioned stimulus is repeatedly not followed by the conditioned stimulus"
+        },
+        {
+          "label": "C",
+          "text": "conditioned stimulus is repeatedly followed by the unconditioned response"
+        },
+        {
+          "label": "D",
+          "text": "unconditioned stimulus is repeatedly followed by the conditioned response"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "In most cases, statutory responsibility for establishing minimal standards for professional competency to protect the public from harm rests with",
+      "options": [
+        {
+          "label": "A",
+          "text": "state/provincial regulatory boards"
+        },
+        {
+          "label": "B",
+          "text": "state/provincial psychological associations"
+        },
+        {
+          "label": "C",
+          "text": "individual psychologists"
+        },
+        {
+          "label": "D",
+          "text": "the APA and the Canadian Psychological Association"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "In most situations, the “holder of the privilege” is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the therapist."
+        },
+        {
+          "label": "B",
+          "text": "the client."
+        },
+        {
+          "label": "C",
+          "text": "the therapist and client jointly."
+        },
+        {
+          "label": "D",
+          "text": "the court."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "In terms of EEOC guidelines, a substantially different rate of selection or promotion that results in disadvantage to people of a particular gender, race, or ethnicity is evidence of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "test bias."
+        },
+        {
+          "label": "B",
+          "text": "adverse impact."
+        },
+        {
+          "label": "C",
+          "text": "criterion deficiency."
+        },
+        {
+          "label": "D",
+          "text": "situation specificity."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "In which of the following psychotherapies is self-disclosure by the psychologist a specifically recommended and frequently applied technique",
+      "options": [
+        {
+          "label": "A",
+          "text": "Object relations therapy"
+        },
+        {
+          "label": "B",
+          "text": "Transactional analysis"
+        },
+        {
+          "label": "C",
+          "text": "Feminist psychotherapy"
+        },
+        {
+          "label": "D",
+          "text": "Interpersonal therapy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "In which type of research there is no manipulation of research done and variables are just measured, not manipulated? From your knowledge about research designs and strategies, choose the correct answer.",
+      "options": [
+        {
+          "label": "A",
+          "text": "QUASI-EXPERIMENTAL RESEARCH"
+        },
+        {
+          "label": "B",
+          "text": "TRUE EXPERIMENTAL RESEARCH"
+        },
+        {
+          "label": "C",
+          "text": "CORRELATIONAL RESEARCH"
+        },
+        {
+          "label": "D",
+          "text": "DEVELOPMENTAL RESEARCH"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "It is a 3-year-old’s first day of preschool. When she arrives at her classroom, she holds on tightly to her mother’s hand and watches the other children play. After a few minutes and some coaxing from her teacher, she begins to help another child complete a puzzle. According to Thomas and Chess, what temperament style does this child have?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Easy"
+        },
+        {
+          "label": "B",
+          "text": "Difficult"
+        },
+        {
+          "label": "C",
+          "text": "Slow to warm up"
+        },
+        {
+          "label": "D",
+          "text": "Secure"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "LISREL (linear structural relations analysis) would be the appropriate method of analysis if your causal model:",
+      "options": [
+        {
+          "label": "A",
+          "text": "includes measured (observed) attributes only."
+        },
+        {
+          "label": "B",
+          "text": "includes latent traits only."
+        },
+        {
+          "label": "C",
+          "text": "includes both measured (observed) attributes and latent traits."
+        },
+        {
+          "label": "D",
+          "text": "includes both correlated and uncorrelated attributes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Magical thinking would predispose a child of what age range to infer chat his or her father died because of the child’s own misbehavior",
+      "options": [
+        {
+          "label": "A",
+          "text": "12 years"
+        },
+        {
+          "label": "B",
+          "text": "3-6 years"
+        },
+        {
+          "label": "C",
+          "text": "7-12 years"
+        },
+        {
+          "label": "D",
+          "text": "13-18 years"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Research comparing heterogeneous and homogeneous work groups has found that, in general, heterogeneous groups:",
+      "options": [
+        {
+          "label": "A",
+          "text": "are more creative and better at decision-making."
+        },
+        {
+          "label": "B",
+          "text": "are more creative but less productive overall."
+        },
+        {
+          "label": "C",
+          "text": "make better decisions but are less productive overall."
+        },
+        {
+          "label": "D",
+          "text": "are more creative but worse at decision-making."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Research on bystander intervention indicates that a person in an emergency will be most likely to receive help when the number of bystanders is",
+      "options": [
+        {
+          "label": "A",
+          "text": "one"
+        },
+        {
+          "label": "B",
+          "text": "two"
+        },
+        {
+          "label": "C",
+          "text": "three"
+        },
+        {
+          "label": "D",
+          "text": "four"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Research on Helms’s White Racial Identity Development Model suggests that a White therapist will usually be most successful when working with a client from an ethnic/racial minority group when the therapist is in which stage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "reintegration"
+        },
+        {
+          "label": "B",
+          "text": "immersion-emersion"
+        },
+        {
+          "label": "C",
+          "text": "autonomy"
+        },
+        {
+          "label": "D",
+          "text": "integrative awareness"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Standardized tests or measures that compare an examinee’s performance to the performance of a specified group of participants are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Criterion-referenced testing"
+        },
+        {
+          "label": "B",
+          "text": "Functional behavioral assessments"
+        },
+        {
+          "label": "C",
+          "text": "Intellectual assessments"
+        },
+        {
+          "label": "D",
+          "text": "Norm-referenced tests"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Stress Inoculation Training involves both skills training and modification of maladaptive cognitions. Which of the following steps is incorrectly defined by a young inexperienced therapist:",
+      "options": [
+        {
+          "label": "A",
+          "text": "PRACTICE→ applies learning to real or imagines situations done on a gradual basis"
+        },
+        {
+          "label": "B",
+          "text": "SKILLS ACQUISITION→ learning relaxation, self-statements, escape routes not necessary with rehearsing them"
+        },
+        {
+          "label": "C",
+          "text": "COGNITION PREPARATION→ education on how faulty cognitions prevent adaptive coping"
+        },
+        {
+          "label": "D",
+          "text": "SKILLS ACQUISITION→ learning and rehearsing new skills relaxation, self-statements, escape routes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "The ____________ provides information on the four cognitive abilities identified by Luria (1980) – i.e., planning, attention, simultaneous processing, and sequential processing.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slosson Intelligence Test Primary"
+        },
+        {
+          "label": "B",
+          "text": "Cognitive Assessment System"
+        },
+        {
+          "label": "C",
+          "text": "Kuhlman-Anderson Test"
+        },
+        {
+          "label": "D",
+          "text": "Woodcock Johnson III"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The classic aging pattern is defined as 2 decline on which subtest(s) of the Wechsler Adult Intelligence Scale-Revised",
+      "options": [
+        {
+          "label": "A",
+          "text": "All Verbal subtests"
+        },
+        {
+          "label": "B",
+          "text": "All Performance subtests"
+        },
+        {
+          "label": "C",
+          "text": "Vocabulary subtest only"
+        },
+        {
+          "label": "D",
+          "text": "Block Design subtest only"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "When cross-validation of a set of predictors results in great shrinkage of an initially encouraging multiple correlation coefficients, it is most likely chat",
+      "options": [
+        {
+          "label": "A",
+          "text": "the selection of weights for the predictors capitalized on chance"
+        },
+        {
+          "label": "B",
+          "text": "none of the predictor variables was sufficiency reliable"
+        },
+        {
+          "label": "C",
+          "text": "the number of independent variables used in the first study was too small"
+        },
+        {
+          "label": "D",
+          "text": "the criterion variable was unreliable"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "When helping a patient to resolve ambivalence, build commitment, and reach a decision to change, which of the following basic principle is not used at Motivational Interviewing:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Does not support self-efficacy for change"
+        },
+        {
+          "label": "B",
+          "text": "Empathy through reflective listening"
+        },
+        {
+          "label": "C",
+          "text": "Roll with resistance"
+        },
+        {
+          "label": "D",
+          "text": "Avoid direct confrontation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

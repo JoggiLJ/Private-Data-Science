@@ -1,0 +1,391 @@
+{
+  "variant_id": "formal_logic_val",
+  "description": "Formal logic multiple-choice questions from the MMLU benchmark (val split).",
+  "source": "MMLU (Hendrycks et al., 2021, arXiv:2009.03300) — formal_logic subject, val split.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Identify the antecedent of the following conditional proposition: If the Bees win their first game, then neither the Aardvarks nor the Chipmunks win their first games.",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Aardvarks do not win their first game."
+        },
+        {
+          "label": "B",
+          "text": "The Bees win their first game."
+        },
+        {
+          "label": "C",
+          "text": "The Chipmunks do not win their first game."
+        },
+        {
+          "label": "D",
+          "text": "Neither the Aardvarks nor the Chipmunks win their first games."
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 26,
+      "token_count": 38,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "Which of the given formulas of PL is the best symbolization of the following sentence?\nElliott likes to skateboard or he likes to write songs and to play them.",
+      "options": [
+        {
+          "label": "A",
+          "text": "S ∨ (W • P)"
+        },
+        {
+          "label": "B",
+          "text": "(S ∨ W) ∨ P"
+        },
+        {
+          "label": "C",
+          "text": "S • (W ∨ P)"
+        },
+        {
+          "label": "D",
+          "text": "(S • W) ∨ P"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 29,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the given formulas of PL is the best symbolization of the following sentence?\nA married couple can report their combined income and deduct their combined allowable expenses on one return provided that only one had income or they did not live together all year.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(R • D) ⊃ (I ∨ ~L)"
+        },
+        {
+          "label": "B",
+          "text": "(I ∨ ~L) ⊃ (R • D)"
+        },
+        {
+          "label": "C",
+          "text": "R • [(I ⊃ D) ∨ ~L]"
+        },
+        {
+          "label": "D",
+          "text": "~(I ∨ L) ⊃ (R • D)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 46,
+      "token_count": 49,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Select the best translation into predicate logic.Some robbers steal money from a bank. (Bx: x is a bank; Mx: x is money; Rx: x is a robber; Sxyz: x steals y from z)",
+      "options": [
+        {
+          "label": "A",
+          "text": "(∃x){Bx • (∃y)[Ry • (∀z)(Mz ⊃ Syzx)]}"
+        },
+        {
+          "label": "B",
+          "text": "(∃x)(∃y)(∃z)[(Rx • By) • (Mz • Syxz)]"
+        },
+        {
+          "label": "C",
+          "text": "(∃x){Rx ⊃ (∃y)[My ⊃ (∃z)(Bz ⊃ Sxyz)]}"
+        },
+        {
+          "label": "D",
+          "text": "(∃x){Rx • (∃y)[My • (∃z)(Bz • Sxyz)]}"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 33,
+      "token_count": 48,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~[(G ⊃ H) ∨ ~H] and ~G ⊃ G",
+      "options": [
+        {
+          "label": "A",
+          "text": "Logically equivalent"
+        },
+        {
+          "label": "B",
+          "text": "Contradictory"
+        },
+        {
+          "label": "C",
+          "text": "Neither logically equivalent nor contradictory, but consistent"
+        },
+        {
+          "label": "D",
+          "text": "Inconsistent"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 46,
+      "token_count": 63,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 6,
+      "text": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nD ⊃ (~E ⊃ F)\n~D ⊃ E\n~E / F",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valid"
+        },
+        {
+          "label": "B",
+          "text": "Invalid. Counterexample when D and E are true and F is false"
+        },
+        {
+          "label": "C",
+          "text": "Invalid. Counterexample when D is true and E and F are false"
+        },
+        {
+          "label": "D",
+          "text": "Invalid. Counterexample when E is true and D and F are false"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 52,
+      "token_count": 70,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 7,
+      "text": "Select the best English interpretation of the given proposition, using the following translation key: Ax: x is an apartment Hx: x is a house Lx: x is large Bxy: x is bigger than y (∀x){(Lx • Ax) ⊃ (∃y)[(Hy • ~Ly) • Bxy]}",
+      "options": [
+        {
+          "label": "A",
+          "text": "All large apartments are bigger than all houses that are not large."
+        },
+        {
+          "label": "B",
+          "text": "Some house that is not large is bigger than all large apartments."
+        },
+        {
+          "label": "C",
+          "text": "Any apartment bigger than a house that is not large is large."
+        },
+        {
+          "label": "D",
+          "text": "Every large apartment is bigger than some house that is not large."
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 43,
+      "token_count": 69,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 8,
+      "text": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(A ∨ B) ∨ C\n~C\n~A ⊃ B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistent"
+        },
+        {
+          "label": "B",
+          "text": "Consistent. Consistent valuation when A and B are true and C is false"
+        },
+        {
+          "label": "C",
+          "text": "Consistent. Consistent valuation when A and C are true and B is false"
+        },
+        {
+          "label": "D",
+          "text": "Consistent. Consistent valuation when B and C are true and A is false"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 40,
+      "token_count": 54,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 9,
+      "text": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n~(J ∨ ~K)\nL ⊃ M\n(J ∨ L) ⊃ (K · M)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistent"
+        },
+        {
+          "label": "B",
+          "text": "Consistent. Consistent valuation when J, K, and M are true and L is false"
+        },
+        {
+          "label": "C",
+          "text": "Consistent. Consistent valuation when L and M are true and J and K are false"
+        },
+        {
+          "label": "D",
+          "text": "Consistent. Consistent valuation when K and M are true and J and L are false"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 44,
+      "token_count": 62,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 10,
+      "text": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~E ∨ F\n~F / E",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valid"
+        },
+        {
+          "label": "B",
+          "text": "Invalid. Counterexample when E and F are true"
+        },
+        {
+          "label": "C",
+          "text": "Invalid. Counterexample when E is true and F is false"
+        },
+        {
+          "label": "D",
+          "text": "Invalid. Counterexample when E and F are false"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 47,
+      "token_count": 61,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 11,
+      "text": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nP ≡ Q\n~Q ≡ R\nR ≡ P\nS ≡ ~P\nS ≡ R",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistent"
+        },
+        {
+          "label": "B",
+          "text": "Consistent. Consistent valuation when P and Q are true and R and S are false"
+        },
+        {
+          "label": "C",
+          "text": "Consistent. Consistent valuation when P, Q, R, and S are true"
+        },
+        {
+          "label": "D",
+          "text": "Consistent. Consistent valuation when R and S are true and P and Q are false"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 46,
+      "token_count": 63,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 12,
+      "text": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nA ⊃ (~B ≡ C)\nB ≡ D\n~C ≡ ~D / ~A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Valid"
+        },
+        {
+          "label": "B",
+          "text": "Invalid. Counterexample when A, B, and D are true and C is false"
+        },
+        {
+          "label": "C",
+          "text": "Invalid. Counterexample when A and B are true and C and D are false"
+        },
+        {
+          "label": "D",
+          "text": "Invalid. Counterexample when A, C, and D are true and B is false"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 44,
+      "token_count": 61,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 13,
+      "text": "Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nA ⊃ ~B and B ⊃ A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Logically equivalent"
+        },
+        {
+          "label": "B",
+          "text": "Contradictory"
+        },
+        {
+          "label": "C",
+          "text": "Neither logically equivalent nor contradictory, but consistent"
+        },
+        {
+          "label": "D",
+          "text": "Inconsistent"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 44,
+      "token_count": 55,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 14,
+      "text": "Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\n(G ≡ H) ⊃ H\n~H ∨ I\nG · ~I",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inconsistent"
+        },
+        {
+          "label": "B",
+          "text": "Consistent. Consistent valuation when G, H, and I are true"
+        },
+        {
+          "label": "C",
+          "text": "Consistent. Consistent valuation when G and H are true and I is false"
+        },
+        {
+          "label": "D",
+          "text": "Consistent. Consistent valuation when G is true and H and I are false"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 42,
+      "token_count": 56,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 41.57142857142857,
+    "avg_token_count": 55.92857142857143,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.41533714532852173
+  }
+}

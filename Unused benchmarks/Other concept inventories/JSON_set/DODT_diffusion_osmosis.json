@@ -1,0 +1,534 @@
+{
+ "version": "dodt-diffusion-osmosis-v1",
+ "source": "Diffusion and Osmosis Diagnostic Test (DODT), Odom & Barrow 1995, J. Research in Science Teaching 32:45-61; full items in Odom 1995, American Biology Teacher 57(7):409-415, Appendix A | 12 two-tier items (content tier + reason tier); each pair appears as consecutive items (orig_label Na = content, Nb = reason). No answer key published in source; correct_label left null. Transcribed from local md 2026-07-03. Some items reference figures described inline.",
+ "items": [
+  {
+   "item_id": 1,
+   "orig_label": "1a",
+   "text": "Suppose there is a large beaker full of clear water and a drop of blue dye is added to the beaker of water. Eventually the water will turn a light blue color. The process responsible for blue dye becoming evenly distributed throughout the water is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Osmosis"
+    },
+    {
+     "label": "B",
+     "text": "Diffusion"
+    },
+    {
+     "label": "C",
+     "text": "A reaction between water and dye"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 2,
+   "orig_label": "1b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The lack of a membrane means that osmosis and diffusion cannot occur."
+    },
+    {
+     "label": "B",
+     "text": "There is movement of particles between regions of different concentrations."
+    },
+    {
+     "label": "C",
+     "text": "The dye separates into small particles and mixes with water."
+    },
+    {
+     "label": "D",
+     "text": "The water moves from one region to another."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 3,
+   "orig_label": "2a",
+   "text": "During the process of diffusion, particles will generally move from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "High to low concentrations"
+    },
+    {
+     "label": "B",
+     "text": "Low to high concentrations"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 4,
+   "orig_label": "2b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "There are too many particles crowded into one area, therefore they move to an area with more room."
+    },
+    {
+     "label": "B",
+     "text": "Particles in areas of greater concentration are more likely to bounce toward other areas."
+    },
+    {
+     "label": "C",
+     "text": "The particles tend to move until the two areas are isotonic and then the particles stop moving."
+    },
+    {
+     "label": "D",
+     "text": "There is a greater chance of the particles repelling each other."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 5,
+   "orig_label": "3a",
+   "text": "As the difference in concentration between two areas increases, the rate of diffusion:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Decreases"
+    },
+    {
+     "label": "B",
+     "text": "Increases"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 6,
+   "orig_label": "3b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "There is less room for the particles to move."
+    },
+    {
+     "label": "B",
+     "text": "If the concentration is high enough, the particles will spread less and the rate will be slowed."
+    },
+    {
+     "label": "C",
+     "text": "The molecules want to spread out."
+    },
+    {
+     "label": "D",
+     "text": "The greater likelihood of random motion into other regions."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 7,
+   "orig_label": "4a",
+   "text": "A glucose solution can be made more concentrated by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Adding more water"
+    },
+    {
+     "label": "B",
+     "text": "Adding more glucose"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 8,
+   "orig_label": "4b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The more water there is, the more glucose it will take to saturate the solution."
+    },
+    {
+     "label": "B",
+     "text": "Concentration means the dissolving of something."
+    },
+    {
+     "label": "C",
+     "text": "It increases the number of dissolved particles."
+    },
+    {
+     "label": "D",
+     "text": "For a solution to be more concentrated, one must add more liquid."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 9,
+   "orig_label": "5a",
+   "text": "If a small amount of sugar is added to a container of water and allowed to set for a very long period of time without stirring, the sugar molecules will:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Be more concentrated on the bottom of the container"
+    },
+    {
+     "label": "B",
+     "text": "Be evenly distributed throughout the container"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 10,
+   "orig_label": "5b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "There is movement of particles from a high to low concentration."
+    },
+    {
+     "label": "B",
+     "text": "The sugar is heavier than water and will sink."
+    },
+    {
+     "label": "C",
+     "text": "Sugar dissolves poorly or not at all in water."
+    },
+    {
+     "label": "D",
+     "text": "There will be more time for settling."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 11,
+   "orig_label": "6a",
+   "text": "Suppose you add a drop of blue dye to a container of clear water and after several hours the entire container turns light blue. At this time, the molecules of dye:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Have stopped moving"
+    },
+    {
+     "label": "B",
+     "text": "Continue to move around randomly"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 12,
+   "orig_label": "6b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The entire container is the same color; if the dye molecules were still moving, the container would be different shades of blue."
+    },
+    {
+     "label": "B",
+     "text": "If the dye molecules stopped, they would settle to the bottom of the container."
+    },
+    {
+     "label": "C",
+     "text": "Molecules are always moving."
+    },
+    {
+     "label": "D",
+     "text": "This is a liquid; if it were solid the molecules would stop moving."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 13,
+   "orig_label": "7a",
+   "text": "Suppose there are two large beakers with equal amounts of clear water at two different temperatures (Beaker 1 at 25°C, Beaker 2 at 35°C). A drop of green dye is added to each. Which beaker became light green first?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Beaker 1"
+    },
+    {
+     "label": "B",
+     "text": "Beaker 2"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 14,
+   "orig_label": "7b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The lower temperature breaks down the dye."
+    },
+    {
+     "label": "B",
+     "text": "The dye molecules move faster at higher temperatures."
+    },
+    {
+     "label": "C",
+     "text": "The cold temperature speeds up the molecules."
+    },
+    {
+     "label": "D",
+     "text": "It helps the molecules to expand."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 15,
+   "orig_label": "8a",
+   "text": "Two columns of water are separated by a membrane through which only water can pass. Side 1 contains dye and water; Side 2 contains pure water. After two hours, the water level in Side 1 will be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Higher"
+    },
+    {
+     "label": "B",
+     "text": "Lower"
+    },
+    {
+     "label": "C",
+     "text": "The same height"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 16,
+   "orig_label": "8b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Water will move from the hypertonic to hypotonic solution."
+    },
+    {
+     "label": "B",
+     "text": "The concentration of water molecules is less on Side 1."
+    },
+    {
+     "label": "C",
+     "text": "Water will become isotonic."
+    },
+    {
+     "label": "D",
+     "text": "Water moves from low to high concentration."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 17,
+   "orig_label": "9a",
+   "text": "Side 1 (10% salt solution) is ___ to Side 2 (15% salt solution).",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hypotonic"
+    },
+    {
+     "label": "B",
+     "text": "Hypertonic"
+    },
+    {
+     "label": "C",
+     "text": "Isotonic"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 18,
+   "orig_label": "9b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Water is hypertonic to most things."
+    },
+    {
+     "label": "B",
+     "text": "Isotonic means \"the same.\""
+    },
+    {
+     "label": "C",
+     "text": "Water moves from a high to a low."
+    },
+    {
+     "label": "D",
+     "text": "There are fewer dissolved particles on Side 1."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 19,
+   "orig_label": "10a",
+   "text": "A plant cell that lives in fresh water is placed in a beaker of 25% salt water solution. The central vacuole would:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Increase in size"
+    },
+    {
+     "label": "B",
+     "text": "Decrease in size"
+    },
+    {
+     "label": "C",
+     "text": "Remain the same size"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 20,
+   "orig_label": "10b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Salt absorbs the water from the central vacuole."
+    },
+    {
+     "label": "B",
+     "text": "Water will move from the vacuole to the salt water solution."
+    },
+    {
+     "label": "C",
+     "text": "The salt will enter the vacuole."
+    },
+    {
+     "label": "D",
+     "text": "Salt solution outside the cell cannot affect the vacuole inside the cell."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 21,
+   "orig_label": "11a",
+   "text": "Suppose you killed the plant cell with poison and placed the dead cell in a 25% salt water solution. Osmosis and diffusion would:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Not occur"
+    },
+    {
+     "label": "B",
+     "text": "Continue"
+    },
+    {
+     "label": "C",
+     "text": "Only diffusion would continue"
+    },
+    {
+     "label": "D",
+     "text": "Only osmosis would continue"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 22,
+   "orig_label": "11b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The cell would stop functioning."
+    },
+    {
+     "label": "B",
+     "text": "The cell does not have to be alive."
+    },
+    {
+     "label": "C",
+     "text": "Osmosis is not random, while diffusion is a random process."
+    },
+    {
+     "label": "D",
+     "text": "Osmosis and diffusion require cell energy."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 23,
+   "orig_label": "12a",
+   "text": "All cell membranes are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Semipermeable"
+    },
+    {
+     "label": "B",
+     "text": "Permeable"
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  },
+  {
+   "item_id": 24,
+   "orig_label": "12b",
+   "text": "The reason for my answer is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "They allow some substances to pass."
+    },
+    {
+     "label": "B",
+     "text": "They allow some substances to enter, but they prevent any substance from leaving."
+    },
+    {
+     "label": "C",
+     "text": "The membrane requires nutrients to live."
+    },
+    {
+     "label": "D",
+     "text": "They allow ALL nutrients to pass."
+    }
+   ],
+   "correct_label": null,
+   "split": "test"
+  }
+ ]
+}

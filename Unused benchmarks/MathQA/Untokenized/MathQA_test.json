@@ -1,0 +1,7119 @@
+{
+  "variant_id": "mathqa_test_untokenized",
+  "description": "MathQA folder items, split: test (untokenized).",
+  "source": "Data found in the project's \"MathQA\" folder; content and file sizes (train 97,467 / dev 254 / test 254) match AQuA-RAT (Algebra Question Answering with Rationales; Ling, Yogatama, Dyer & Blunsom, 2017, arXiv:1705.04146; google-deepmind/AQuA), not the canonical MathQA (Amini et al., 2019) dataset.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "A car is being driven, in a straight line and at a uniform speed, towards the base of a vertical tower. The top of the tower is observed from the car and, in the process, it takes 10 minutes for the angle of elevation to change from 45° to 60°. After how much more time will this car reach the base of the tower?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5(√3 + 1)"
+        },
+        {
+          "label": "B",
+          "text": "6(√3 + √2)"
+        },
+        {
+          "label": "C",
+          "text": "7(√3 – 1)"
+        },
+        {
+          "label": "D",
+          "text": "8(√3 – 2)"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "The original price of an item is discounted 22%. A customer buys the item at this discounted price using a $20-off coupon. There is no tax on the item, and this was the only item the customer bought. If the customer paid $1.90 more than half the original price of the item, what was the original price of the item?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$61"
+        },
+        {
+          "label": "B",
+          "text": "$65"
+        },
+        {
+          "label": "C",
+          "text": "$67.40"
+        },
+        {
+          "label": "D",
+          "text": "$70"
+        },
+        {
+          "label": "E",
+          "text": "$78.20"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Find out which of the following values is the multiple of X, if it is divisible by 9 and 12?",
+      "options": [
+        {
+          "label": "A",
+          "text": "36"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "17"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        },
+        {
+          "label": "E",
+          "text": "7"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "If the probability that Stock A will increase in value during the next month is 0.56, and the probability that Stock B will increase in value during the next month is 0.74. What is the greatest value for the probability that neither of these two events will occur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.22"
+        },
+        {
+          "label": "B",
+          "text": "0.26"
+        },
+        {
+          "label": "C",
+          "text": "0.37"
+        },
+        {
+          "label": "D",
+          "text": "0.46"
+        },
+        {
+          "label": "E",
+          "text": "0.63"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "A trader sold an article at a profit of 20% for Rs.360. What is the cost price of the article?",
+      "options": [
+        {
+          "label": "A",
+          "text": "270"
+        },
+        {
+          "label": "B",
+          "text": "300"
+        },
+        {
+          "label": "C",
+          "text": "280"
+        },
+        {
+          "label": "D",
+          "text": "320"
+        },
+        {
+          "label": "E",
+          "text": "315"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40"
+        },
+        {
+          "label": "B",
+          "text": "200"
+        },
+        {
+          "label": "C",
+          "text": "380"
+        },
+        {
+          "label": "D",
+          "text": "400"
+        },
+        {
+          "label": "E",
+          "text": "3200"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "74453"
+        },
+        {
+          "label": "B",
+          "text": "64543"
+        },
+        {
+          "label": "C",
+          "text": "74325"
+        },
+        {
+          "label": "D",
+          "text": "65000"
+        },
+        {
+          "label": "E",
+          "text": "97656"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "A train running at a speed of 100 miles/hour, takes 10 hours to reach its destination. After covering quarter of the distance, it starts raining and the train has to be slowed to speed of 75 miles/hour. What is the total journey duration?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "11.5"
+        },
+        {
+          "label": "C",
+          "text": "12.5"
+        },
+        {
+          "label": "D",
+          "text": "13.5"
+        },
+        {
+          "label": "E",
+          "text": "15"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Of the 200 students in a school, at least 45% attended the prom night and at least 35% took part in the debating session. What is the maximum number of students who could have neither attended the prom night nor the debating session?",
+      "options": [
+        {
+          "label": "A",
+          "text": "27"
+        },
+        {
+          "label": "B",
+          "text": "81"
+        },
+        {
+          "label": "C",
+          "text": "90"
+        },
+        {
+          "label": "D",
+          "text": "99"
+        },
+        {
+          "label": "E",
+          "text": "110"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "24"
+        },
+        {
+          "label": "C",
+          "text": "25"
+        },
+        {
+          "label": "D",
+          "text": "40"
+        },
+        {
+          "label": "E",
+          "text": "52"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "226"
+        },
+        {
+          "label": "B",
+          "text": "230"
+        },
+        {
+          "label": "C",
+          "text": "240"
+        },
+        {
+          "label": "D",
+          "text": "260"
+        },
+        {
+          "label": "E",
+          "text": "280"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "At a certain factory, 10 percent of the staplers produced on Monday were defective and 2 percent of the non-defective staplers were rejected by mistake. If 72 of the non-defective staplers were rejected, what was the number of staplers produced that day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4,000"
+        },
+        {
+          "label": "B",
+          "text": "4,200"
+        },
+        {
+          "label": "C",
+          "text": "4,500"
+        },
+        {
+          "label": "D",
+          "text": "4,800"
+        },
+        {
+          "label": "E",
+          "text": "5,000"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos?",
+      "options": [
+        {
+          "label": "A",
+          "text": "24 minutes"
+        },
+        {
+          "label": "B",
+          "text": "32 minutes"
+        },
+        {
+          "label": "C",
+          "text": "36 minutes"
+        },
+        {
+          "label": "D",
+          "text": "64 minutes"
+        },
+        {
+          "label": "E",
+          "text": "72 minutes"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Add: +45 and -30",
+      "options": [
+        {
+          "label": "A",
+          "text": "-30"
+        },
+        {
+          "label": "B",
+          "text": "+30"
+        },
+        {
+          "label": "C",
+          "text": "0"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        },
+        {
+          "label": "E",
+          "text": "-15"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "In how many ways can the letters of the word \"PROBLEC\" be rearranged to make 7 letter words such that none of the letters repeat?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2!"
+        },
+        {
+          "label": "B",
+          "text": "3!"
+        },
+        {
+          "label": "C",
+          "text": "7!"
+        },
+        {
+          "label": "D",
+          "text": "8!"
+        },
+        {
+          "label": "E",
+          "text": "9!"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.2"
+        },
+        {
+          "label": "B",
+          "text": "0.4"
+        },
+        {
+          "label": "C",
+          "text": "0.6"
+        },
+        {
+          "label": "D",
+          "text": "1.2"
+        },
+        {
+          "label": "E",
+          "text": "1.5"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 step/minute"
+        },
+        {
+          "label": "B",
+          "text": "2 step/minute"
+        },
+        {
+          "label": "C",
+          "text": "3 step/minute"
+        },
+        {
+          "label": "D",
+          "text": "4 step/minute"
+        },
+        {
+          "label": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Last year, a Home Appliance Store sold an average(arithmetic mean) of 42 microwave ovens per month. In the first 10 months of this year,the store has sold an average(arithmetic mean) of only 20 microwave ovens per month. What was the average number of microwave ovens sold per month during the entire 22 months period ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "31"
+        },
+        {
+          "label": "D",
+          "text": "32"
+        },
+        {
+          "label": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(zy – 2x)/z"
+        },
+        {
+          "label": "B",
+          "text": "(zy – 2)/z"
+        },
+        {
+          "label": "C",
+          "text": "(zx – y)/(z – 2)"
+        },
+        {
+          "label": "D",
+          "text": "(zy – 2x)/(z -2)"
+        },
+        {
+          "label": "E",
+          "text": "(zy – x)/(z + 2)"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "[5 + ? × 19 - 15 - 7]/[13 × 13 - 156] = 6",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "4.5"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "5.5"
+        },
+        {
+          "label": "E",
+          "text": "6.5"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "A grocer makes a 25% profit on the selling price for each bag of flour it sells. If he sells each bag for $100 and makes $3,000 in profit, how many bags did he sell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "24"
+        },
+        {
+          "label": "D",
+          "text": "30"
+        },
+        {
+          "label": "E",
+          "text": "40"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Alex and Jacob works at a toy shop that make toys. Alex takes 7 hours to make a toy, and Jacob takes 9 hours to make a toy. During a month, both of them makes 35 toys in total. If both of them have worked for almost similar number of hours how many toys have been prepared by Jacob?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "16"
+        },
+        {
+          "label": "C",
+          "text": "17"
+        },
+        {
+          "label": "D",
+          "text": "18"
+        },
+        {
+          "label": "E",
+          "text": "19"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.\nWhat is the final concentration of tea John drinks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15.38%"
+        },
+        {
+          "label": "B",
+          "text": "42%"
+        },
+        {
+          "label": "C",
+          "text": "39.86%"
+        },
+        {
+          "label": "D",
+          "text": "22.35%"
+        },
+        {
+          "label": "E",
+          "text": "32.51%"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "In a class 1/16 of the students study math, 1/10 of the students study bio, 1/8 of the students study english. The total number of students is a 4 digit number. Find the diffrence between maximum number of students and minimum number of students.",
+      "options": [
+        {
+          "label": "A",
+          "text": "8880"
+        },
+        {
+          "label": "B",
+          "text": "8870"
+        },
+        {
+          "label": "C",
+          "text": "8890"
+        },
+        {
+          "label": "D",
+          "text": "7890"
+        },
+        {
+          "label": "E",
+          "text": "6780"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 miles"
+        },
+        {
+          "label": "B",
+          "text": "2.25 miles"
+        },
+        {
+          "label": "C",
+          "text": "3.25 miles"
+        },
+        {
+          "label": "D",
+          "text": "3.85 miles"
+        },
+        {
+          "label": "E",
+          "text": "2.85 miles"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$27.30"
+        },
+        {
+          "label": "B",
+          "text": "$51.00"
+        },
+        {
+          "label": "C",
+          "text": "$63.00"
+        },
+        {
+          "label": "D",
+          "text": "$70.00"
+        },
+        {
+          "label": "E",
+          "text": "$91.00"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "At 6% per annum simple interest, Rahul borrowed Rs. 500. What amount will he pay to clear the debt after 4 years",
+      "options": [
+        {
+          "label": "A",
+          "text": "750"
+        },
+        {
+          "label": "B",
+          "text": "700"
+        },
+        {
+          "label": "C",
+          "text": "620"
+        },
+        {
+          "label": "D",
+          "text": "600"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "A computer routine was developed to generate two numbers (x,y) the first being a random number between 0 and 100 inclusive, and the second being less than or equal to the square root of the first. Each of the following pair satisfies the routine except",
+      "options": [
+        {
+          "label": "A",
+          "text": "(99,10)"
+        },
+        {
+          "label": "B",
+          "text": "(85,9)"
+        },
+        {
+          "label": "C",
+          "text": "(50,7)"
+        },
+        {
+          "label": "D",
+          "text": "(1,1)"
+        },
+        {
+          "label": "E",
+          "text": "(1,0)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?",
+      "options": [
+        {
+          "label": "A",
+          "text": "126km"
+        },
+        {
+          "label": "B",
+          "text": "144km"
+        },
+        {
+          "label": "C",
+          "text": "127km"
+        },
+        {
+          "label": "D",
+          "text": "228km"
+        },
+        {
+          "label": "E",
+          "text": "128km"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A)59"
+        },
+        {
+          "label": "B",
+          "text": "B)69"
+        },
+        {
+          "label": "C",
+          "text": "C)79"
+        },
+        {
+          "label": "D",
+          "text": "D)89"
+        },
+        {
+          "label": "E",
+          "text": "E)99"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "28%"
+        },
+        {
+          "label": "C",
+          "text": "36%"
+        },
+        {
+          "label": "D",
+          "text": "40%"
+        },
+        {
+          "label": "E",
+          "text": "42%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road?",
+      "options": [
+        {
+          "label": "A",
+          "text": "800"
+        },
+        {
+          "label": "B",
+          "text": "720"
+        },
+        {
+          "label": "C",
+          "text": "960"
+        },
+        {
+          "label": "D",
+          "text": "1140"
+        },
+        {
+          "label": "E",
+          "text": "1160"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "When folded into two equal halves a rectangular sheet had a perimeter of 48cm for each part folded along one set of sides and the same is 66cm when folded along the other set of sides. Find the area of the sheet.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1584"
+        },
+        {
+          "label": "B",
+          "text": "1120"
+        },
+        {
+          "label": "C",
+          "text": "792"
+        },
+        {
+          "label": "D",
+          "text": "1320"
+        },
+        {
+          "label": "E",
+          "text": "1200"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "24"
+        },
+        {
+          "label": "B",
+          "text": "36"
+        },
+        {
+          "label": "C",
+          "text": "72"
+        },
+        {
+          "label": "D",
+          "text": "84"
+        },
+        {
+          "label": "E",
+          "text": "None"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "A rectangular solid, 3 x 4 x 15, is inscribed in a sphere, so that all eight of its vertices are on the sphere. What is the diameter of the sphere?",
+      "options": [
+        {
+          "label": "A",
+          "text": "13.3542"
+        },
+        {
+          "label": "B",
+          "text": "15.8113"
+        },
+        {
+          "label": "C",
+          "text": "18.3451"
+        },
+        {
+          "label": "D",
+          "text": "19.5667"
+        },
+        {
+          "label": "E",
+          "text": "20.8888"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3km"
+        },
+        {
+          "label": "B",
+          "text": "2km"
+        },
+        {
+          "label": "C",
+          "text": "4km"
+        },
+        {
+          "label": "D",
+          "text": "5km"
+        },
+        {
+          "label": "E",
+          "text": "6km"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "While selling a watch, a shopkeeper gives a discount of 5%. If he gives a discount of 7%, he earns Rs. 15 less as profit. The marked price of the watch is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs. 697.50"
+        },
+        {
+          "label": "B",
+          "text": "Rs. 712.50"
+        },
+        {
+          "label": "C",
+          "text": "Rs. 787.50"
+        },
+        {
+          "label": "D",
+          "text": "Rs. 750"
+        },
+        {
+          "label": "E",
+          "text": "Rs. 780"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "A student instead of finding the value of 7/8 of a number, found the value of 7/18 of the number. If his answer differed from the actual one by 770, find the that number.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1584"
+        },
+        {
+          "label": "B",
+          "text": "2520"
+        },
+        {
+          "label": "C",
+          "text": "1728"
+        },
+        {
+          "label": "D",
+          "text": "1656"
+        },
+        {
+          "label": "E",
+          "text": "None"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$50000"
+        },
+        {
+          "label": "B",
+          "text": "$40000"
+        },
+        {
+          "label": "C",
+          "text": "$30000"
+        },
+        {
+          "label": "D",
+          "text": "$20000"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "An aeroplane flies along the four sides of a square at the speeds of 200, 400, 600 and 800km/hr. Find the average speed of the plane around the field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "384"
+        },
+        {
+          "label": "B",
+          "text": "562"
+        },
+        {
+          "label": "C",
+          "text": "458"
+        },
+        {
+          "label": "D",
+          "text": "156"
+        },
+        {
+          "label": "E",
+          "text": "452"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Jack buys 18 sharpeners (white and brown) for rs. 100. If he pays 1 rupee more for each white than brown sharpeners. How many of white and how many brown sharpeners did he buy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10,8"
+        },
+        {
+          "label": "B",
+          "text": "9,8"
+        },
+        {
+          "label": "C",
+          "text": "7,8"
+        },
+        {
+          "label": "D",
+          "text": "5,6"
+        },
+        {
+          "label": "E",
+          "text": "11,12"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Hoses A and B spout water at different constant rates, and hose A can fill a certain pool in 8 hours. Hose A filled the pool alone for the first 2 hours and the two hoses, working together, then finished filling the pool in another 3 hours. How many hours would it have taken hose B, working alone, to fill the entire pool?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        },
+        {
+          "label": "E",
+          "text": "3"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "If 120 is reduced to 96, what is the reduction percent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "20%"
+        },
+        {
+          "label": "D",
+          "text": "10%"
+        },
+        {
+          "label": "E",
+          "text": "5%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "I know a 5 digit number having a property that with a 1 after it, it is three times as large as it would be with a 1 before it.\nWhat is that number?",
+      "options": [
+        {
+          "label": "A",
+          "text": "42857"
+        },
+        {
+          "label": "B",
+          "text": "32456"
+        },
+        {
+          "label": "C",
+          "text": "76523"
+        },
+        {
+          "label": "D",
+          "text": "24567"
+        },
+        {
+          "label": "E",
+          "text": "43566"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "At Daifu university, 24% of all students are members of both a chess club and a swim team. If 20% of members of the swim team are not members of the chess club, what percentage of all Daifu students are members of the swim team?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "30%"
+        },
+        {
+          "label": "C",
+          "text": "40%"
+        },
+        {
+          "label": "D",
+          "text": "50%"
+        },
+        {
+          "label": "E",
+          "text": "60%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000?",
+      "options": [
+        {
+          "label": "A",
+          "text": "81900"
+        },
+        {
+          "label": "B",
+          "text": "85995"
+        },
+        {
+          "label": "C",
+          "text": "85800"
+        },
+        {
+          "label": "D",
+          "text": "90000"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Two cars start at the same time from opposite ends of a highway that is 50 miles long. One car is riding at 12 mph and the second car is riding at 13 mph. How long after they begin will they meet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "1.25"
+        },
+        {
+          "label": "C",
+          "text": "1.50"
+        },
+        {
+          "label": "D",
+          "text": "1.75"
+        },
+        {
+          "label": "E",
+          "text": "2"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "A shopkeeper employed a servant at a monthly salary of 1500. In addition to it, he agreed to pay him a commission of 15% on the monthly sale. How much sale in Rupees should the servant do if he wants his monthly income as 6000?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30000"
+        },
+        {
+          "label": "B",
+          "text": "415000"
+        },
+        {
+          "label": "C",
+          "text": "31500"
+        },
+        {
+          "label": "D",
+          "text": "50000"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "A man borrows Rs.360 If he pays it back in 12 monthly installments of Rs.31.50, what is his interest rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.5%"
+        },
+        {
+          "label": "B",
+          "text": "4.5%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "5%"
+        },
+        {
+          "label": "E",
+          "text": "12%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "The price of a product is reduced by 30% . By what percentage should it be increased to make it 100%",
+      "options": [
+        {
+          "label": "A",
+          "text": "41.86%"
+        },
+        {
+          "label": "B",
+          "text": "42.86%"
+        },
+        {
+          "label": "C",
+          "text": "43.86%"
+        },
+        {
+          "label": "D",
+          "text": "44.86%"
+        },
+        {
+          "label": "E",
+          "text": "45.86%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "I have a money pouch containing Rs. 700. There are equal number of 25 paise coins, 50 paise coins and one rupee coins.\nHow many of each are there?",
+      "options": [
+        {
+          "label": "A",
+          "text": "453"
+        },
+        {
+          "label": "B",
+          "text": "651"
+        },
+        {
+          "label": "C",
+          "text": "400"
+        },
+        {
+          "label": "D",
+          "text": "487"
+        },
+        {
+          "label": "E",
+          "text": "286"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "A man spends Rs. 3500 per month and saves 12 1/2% of his income. His monthly income is ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs. 4400"
+        },
+        {
+          "label": "B",
+          "text": "Rs. 4270"
+        },
+        {
+          "label": "C",
+          "text": "Rs. 4000"
+        },
+        {
+          "label": "D",
+          "text": "Rs. 3937.50"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Five dozen toys are packed in a box and 98 boxes are kept in a tempo. How many tempos can lift 29400 toys in one round ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        },
+        {
+          "label": "E",
+          "text": "8"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "There are 10 oranges in a basket. Find the no. of ways in which 2 oranges are chosen from the basket?",
+      "options": [
+        {
+          "label": "A",
+          "text": "45"
+        },
+        {
+          "label": "B",
+          "text": "90"
+        },
+        {
+          "label": "C",
+          "text": "120"
+        },
+        {
+          "label": "D",
+          "text": "150"
+        },
+        {
+          "label": "E",
+          "text": "180"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "A company contracts to paint 3 houses. Mr.Brown can paint a house in 6 days while Mr.Black would take 8 days and Mr.Blue 12 days. After 8 days Mr.Brown goes on vacation and Mr. Black begins to work for a period of 6 days. How many days will it take Mr.Blue to complete the contract?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "11"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Train A leaves a station every 16 minutes and Train B leaves every 17 minutes. If both trains just left the station simultaneously, how long until they do so again?",
+      "options": [
+        {
+          "label": "A",
+          "text": "272 minutes"
+        },
+        {
+          "label": "B",
+          "text": "304 minutes"
+        },
+        {
+          "label": "C",
+          "text": "190 minutes"
+        },
+        {
+          "label": "D",
+          "text": "70 minutes"
+        },
+        {
+          "label": "E",
+          "text": "35 minutes"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "438"
+        },
+        {
+          "label": "B",
+          "text": "550"
+        },
+        {
+          "label": "C",
+          "text": "500"
+        },
+        {
+          "label": "D",
+          "text": "450"
+        },
+        {
+          "label": "E",
+          "text": "498"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "In a chocolate store, all chocolates are either vanilla or cocoa flavored only. 10% of the chocolates are cocoa flavored, 90% of the rest are squashed. What percentage of the chocolates are both vanilla flavored and not squashed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1%"
+        },
+        {
+          "label": "B",
+          "text": "2%"
+        },
+        {
+          "label": "C",
+          "text": "5%"
+        },
+        {
+          "label": "D",
+          "text": "9%"
+        },
+        {
+          "label": "E",
+          "text": "10%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "There is well of depth 30m and frog is at bottom of the well. He jumps 3m up one day and falls back 2m down the same day. How many days will it take for the frog to come out of the well?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 days"
+        },
+        {
+          "label": "B",
+          "text": "26 days"
+        },
+        {
+          "label": "C",
+          "text": "27 days"
+        },
+        {
+          "label": "D",
+          "text": "28 days"
+        },
+        {
+          "label": "E",
+          "text": "29 days"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The sum of the 5 consecutive two digit odd numbers when divided by 10 becomes a perfect square, which of the following can be one of these 5 numbers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "47"
+        },
+        {
+          "label": "B",
+          "text": "91"
+        },
+        {
+          "label": "C",
+          "text": "41"
+        },
+        {
+          "label": "D",
+          "text": "67"
+        },
+        {
+          "label": "E",
+          "text": "44"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "In a class, 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. How many students are there in the class?",
+      "options": [
+        {
+          "label": "A",
+          "text": "850"
+        },
+        {
+          "label": "B",
+          "text": "800"
+        },
+        {
+          "label": "C",
+          "text": "900"
+        },
+        {
+          "label": "D",
+          "text": "950"
+        },
+        {
+          "label": "E",
+          "text": "1000"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years. What is definitely the difference between R and Q's age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22"
+        },
+        {
+          "label": "B",
+          "text": "27"
+        },
+        {
+          "label": "C",
+          "text": "29"
+        },
+        {
+          "label": "D",
+          "text": "Cannot be determined"
+        },
+        {
+          "label": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Calculate the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter mile.",
+      "options": [
+        {
+          "label": "A",
+          "text": "11.75 miles"
+        },
+        {
+          "label": "B",
+          "text": "12.75 miles"
+        },
+        {
+          "label": "C",
+          "text": "17.75 miles"
+        },
+        {
+          "label": "D",
+          "text": "14.75 miles"
+        },
+        {
+          "label": "E",
+          "text": "10.75 miles"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "In IPL season, Sachin current batting average is 51. In the finals, he scores 78 runs, then is batting average will be 54. Find out the total number of matches played by Sachin in this season.",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        },
+        {
+          "label": "E",
+          "text": "11"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Amy is organizing her bookshelves and finds that she has 10 different types of books. She then codes each book with either a single letter or a pair of two different letters. If each type of book is uniquely represented by either a single letter or pair of letters, what is the smallest number of letters Amy will need to create the codes for all 10 types of books? (Assume the order of letters in a pair does not matter.)",
+      "options": [
+        {
+          "label": "A",
+          "text": "3"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        },
+        {
+          "label": "E",
+          "text": "20"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "A rectangular piece of 150 sq m has a length which is 1m more than the 4 times the breadth. What is the perimeter of the piece?",
+      "options": [
+        {
+          "label": "A",
+          "text": "60 m"
+        },
+        {
+          "label": "B",
+          "text": "61 m"
+        },
+        {
+          "label": "C",
+          "text": "62 m"
+        },
+        {
+          "label": "D",
+          "text": "63 m"
+        },
+        {
+          "label": "E",
+          "text": "64 m"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.5"
+        },
+        {
+          "label": "B",
+          "text": "10.5"
+        },
+        {
+          "label": "C",
+          "text": "12.5"
+        },
+        {
+          "label": "D",
+          "text": "14.5"
+        },
+        {
+          "label": "E",
+          "text": "16.5"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        },
+        {
+          "label": "E",
+          "text": "19"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "R, S, T, and U are points on a line, and U is the midpoint of line segment ST. If the lengths of line segments RS, RT, and ST are 5, 17, and 22, respectively. What is the length of line segment RU?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "8"
+        },
+        {
+          "label": "D",
+          "text": "9"
+        },
+        {
+          "label": "E",
+          "text": "10"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Six pita breads contain the same amount of falafel as do two rolls. Three rolls contain the same amount of falafel as five baguettes do. Two baguettes contain the same amount of falafel as how many pita breads?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12/25"
+        },
+        {
+          "label": "B",
+          "text": "3/2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        },
+        {
+          "label": "E",
+          "text": "25/3"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "A shopkeeper in order to promote his new shop put a discount of 20% on all the items for one day. Now he must sell the items at original price the other day. By what percentage must he increase the price to original?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21%"
+        },
+        {
+          "label": "B",
+          "text": "20%"
+        },
+        {
+          "label": "C",
+          "text": "25%"
+        },
+        {
+          "label": "D",
+          "text": "33%"
+        },
+        {
+          "label": "E",
+          "text": "18%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "The bus fare for two persons for travelling between Agra and Aligarh id four-thirds the train fare between the same places for one person. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Find the train fare between the two places for one person?",
+      "options": [
+        {
+          "label": "A",
+          "text": "126"
+        },
+        {
+          "label": "B",
+          "text": "77"
+        },
+        {
+          "label": "C",
+          "text": "88"
+        },
+        {
+          "label": "D",
+          "text": "66"
+        },
+        {
+          "label": "E",
+          "text": "54"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "A rectangle has a length of 8 centimeters and a width of 3 centimeters. Find the perimeter.",
+      "options": [
+        {
+          "label": "A",
+          "text": "18cm"
+        },
+        {
+          "label": "B",
+          "text": "22cm"
+        },
+        {
+          "label": "C",
+          "text": "20cm"
+        },
+        {
+          "label": "D",
+          "text": "30cm"
+        },
+        {
+          "label": "E",
+          "text": "28cm"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "520"
+        },
+        {
+          "label": "B",
+          "text": "720"
+        },
+        {
+          "label": "C",
+          "text": "920"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "A straight picket fence is composed of x pickets each of which is 1/2 inch wide. If there are 6 inches of space between each pair of pickets, which of the following represents the length of fence in feet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "13x/2"
+        },
+        {
+          "label": "B",
+          "text": "13x/2 - 6"
+        },
+        {
+          "label": "C",
+          "text": "13x/24"
+        },
+        {
+          "label": "D",
+          "text": "(13x+1)/24"
+        },
+        {
+          "label": "E",
+          "text": "(13x-12)/24"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point.",
+      "options": [
+        {
+          "label": "A",
+          "text": "238"
+        },
+        {
+          "label": "B",
+          "text": "289"
+        },
+        {
+          "label": "C",
+          "text": "200"
+        },
+        {
+          "label": "D",
+          "text": "287"
+        },
+        {
+          "label": "E",
+          "text": "187"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "In a large forest, 300 deer were caught, tagged, and returned during 2001. During 2002, 500 deer were caught at random, of which only 20 had tags from the previous year. If the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags, what is the total deer population in the forest (assuming no change in population between 2001 and 2002)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300"
+        },
+        {
+          "label": "B",
+          "text": "500"
+        },
+        {
+          "label": "C",
+          "text": "5000"
+        },
+        {
+          "label": "D",
+          "text": "6000"
+        },
+        {
+          "label": "E",
+          "text": "7500"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "In a railway station, there are two trains going. One in the harbor line and one in the main line, each having a frequency of 10 minutes. The main line service starts at 5 o'clock and the harbor line starts at 5.02 A.M. A man goes to the station every day to catch the first train that comes. What is the probability of the man catching the first train?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.9"
+        },
+        {
+          "label": "B",
+          "text": "0.8"
+        },
+        {
+          "label": "C",
+          "text": "0.6"
+        },
+        {
+          "label": "D",
+          "text": "0.65"
+        },
+        {
+          "label": "E",
+          "text": "1.5"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "The average (arithmetic mean) of the weight of 10 vehicles is 12.2 tons. The average weight of the group of vehicles increased by 2.6 tons after a new heavy duty truck was added to the group? What is the weight in tons of the heavy duty truck?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40.8"
+        },
+        {
+          "label": "B",
+          "text": "41.6"
+        },
+        {
+          "label": "C",
+          "text": "42.2"
+        },
+        {
+          "label": "D",
+          "text": "43.5"
+        },
+        {
+          "label": "E",
+          "text": "44.8"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Boomtown urban planners expect the city’s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "65%"
+        },
+        {
+          "label": "E",
+          "text": "75%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Arjun and Sajal are friends, each has some money. If Arun gives $30 to Sajal, the Sajal will have twice the money left with Arjun. But, if Sajal gives $10 to Arjun, Arjun will have thrice as much as is left with Sajal. How much money does each have?",
+      "options": [
+        {
+          "label": "A",
+          "text": "62, 35"
+        },
+        {
+          "label": "B",
+          "text": "62, 34"
+        },
+        {
+          "label": "C",
+          "text": "34, 62"
+        },
+        {
+          "label": "D",
+          "text": "42, 62"
+        },
+        {
+          "label": "E",
+          "text": "62, 42"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Julie’s yard is rectangular. One side of the yard is 100 feet wide. The total area of the yard is 3,000 square feet. What is the length of the other side of the yard?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 feet"
+        },
+        {
+          "label": "B",
+          "text": "20 feet"
+        },
+        {
+          "label": "C",
+          "text": "10 feet"
+        },
+        {
+          "label": "D",
+          "text": "50 feet"
+        },
+        {
+          "label": "E",
+          "text": "60 feet"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other?",
+      "options": [
+        {
+          "label": "A",
+          "text": "242"
+        },
+        {
+          "label": "B",
+          "text": "308"
+        },
+        {
+          "label": "C",
+          "text": "352"
+        },
+        {
+          "label": "D",
+          "text": "412"
+        },
+        {
+          "label": "E",
+          "text": "456"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "A square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles. If the area of each of triangle is 70 square feet, what was the perimeter (in feet) of the original piece of square cloth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "56"
+        },
+        {
+          "label": "B",
+          "text": "58"
+        },
+        {
+          "label": "C",
+          "text": "60"
+        },
+        {
+          "label": "D",
+          "text": "62"
+        },
+        {
+          "label": "E",
+          "text": "64"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.",
+      "options": [
+        {
+          "label": "A",
+          "text": "20"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "40"
+        },
+        {
+          "label": "D",
+          "text": "200"
+        },
+        {
+          "label": "E",
+          "text": "None"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?",
+      "options": [
+        {
+          "label": "A",
+          "text": "550"
+        },
+        {
+          "label": "B",
+          "text": "570"
+        },
+        {
+          "label": "C",
+          "text": "600"
+        },
+        {
+          "label": "D",
+          "text": "700"
+        },
+        {
+          "label": "E",
+          "text": "none of these"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "If Raj was one-third as old as Rahim 5 years back and Raj is 17 years old now, How old is Rahim now?",
+      "options": [
+        {
+          "label": "A",
+          "text": "37"
+        },
+        {
+          "label": "B",
+          "text": "41"
+        },
+        {
+          "label": "C",
+          "text": "40"
+        },
+        {
+          "label": "D",
+          "text": "42"
+        },
+        {
+          "label": "E",
+          "text": "43"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "A cow is tethered in the middle of a field with a 14 feet long rope. If the cow grazes 10 sq.ft. per day, then approximately what time will be taken by the cow to graze the whole field?",
+      "options": [
+        {
+          "label": "A",
+          "text": "51 days"
+        },
+        {
+          "label": "B",
+          "text": "61 days"
+        },
+        {
+          "label": "C",
+          "text": "71 days"
+        },
+        {
+          "label": "D",
+          "text": "81 days"
+        },
+        {
+          "label": "E",
+          "text": "91 days"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "A book was sold for Rs 27.50 with a profit of 10%. If it were sold for Rs. 25.75, then would have been percentage of profit and loss ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2% Profit"
+        },
+        {
+          "label": "B",
+          "text": "3% Profit"
+        },
+        {
+          "label": "C",
+          "text": "2% Loss"
+        },
+        {
+          "label": "D",
+          "text": "3% Loss"
+        },
+        {
+          "label": "E",
+          "text": "4% Loss"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        },
+        {
+          "label": "E",
+          "text": "6"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "The telephone bill of a certain establishment is party fixed and partly varies as the number of calls consumed. When in a certain month 540 calls made the bill is Rs.1800. In another month 620 calls are consumed then the bill becomes Rs.2040. In another month 500 units are consumed due to more\nholidays. The bill for that month would be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs.1560"
+        },
+        {
+          "label": "B",
+          "text": "Rs.1680"
+        },
+        {
+          "label": "C",
+          "text": "Rs.1840"
+        },
+        {
+          "label": "D",
+          "text": "Rs.1950"
+        },
+        {
+          "label": "E",
+          "text": "Rs.1690"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Two balls A and B rotate along a circular track. Ball A makes 2 full rotations in 26 minutes. Ball B makes 5 full rotation in 35 minutes. If they start rotating now from the same point, when will they be at the same starting point again?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 hour and 31 minutes"
+        },
+        {
+          "label": "B",
+          "text": "2 hour and 31 minutes"
+        },
+        {
+          "label": "C",
+          "text": "3 hour and 31 minutes"
+        },
+        {
+          "label": "D",
+          "text": "4 hour and 31 minutes"
+        },
+        {
+          "label": "E",
+          "text": "5 hour and 31 minutes"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "A bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction. What is the maximum number of books that are both hardcover and fiction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "15"
+        },
+        {
+          "label": "C",
+          "text": "18"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        },
+        {
+          "label": "E",
+          "text": "30"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "A newspaper costs $4 on Sunday and $1 the rest of the days of the week. If a hotel orders twice as many papers on Sunday as it does the rest of the days of the week and pays $210 per week for newspapers, how many newspapers does it buy on Monday?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "45"
+        },
+        {
+          "label": "D",
+          "text": "60"
+        },
+        {
+          "label": "E",
+          "text": "75"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 extra, each. The number of those who attended the picnic was",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "12"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "24"
+        },
+        {
+          "label": "E",
+          "text": "25"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "A wire in the shape of rectangle of length 27 cm and breadth 17 cm is rebent to form a square. What will be the measure of each side?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9"
+        },
+        {
+          "label": "B",
+          "text": "11"
+        },
+        {
+          "label": "C",
+          "text": "22"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        },
+        {
+          "label": "E",
+          "text": "31"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs 400"
+        },
+        {
+          "label": "B",
+          "text": "Rs 500"
+        },
+        {
+          "label": "C",
+          "text": "Rs 600"
+        },
+        {
+          "label": "D",
+          "text": "Rs 700"
+        },
+        {
+          "label": "E",
+          "text": "Rs 800"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Silu and Meenu were walking on the road.\nSilu said, \"I weigh 51 Kgs. How much do you weigh?\"\nMeenu replied that she wouldn't reveal her weight directly as she is overweight.\nBut she said, \"I weigh 29 Kgs plus half of my weight. \"How much does Meenu weigh?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "27"
+        },
+        {
+          "label": "D",
+          "text": "58"
+        },
+        {
+          "label": "E",
+          "text": "91"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Roy was suffering from severe headaches. He went to see his doctor and the doctor gave him 5 tablets asking him to take one tablet every 15 minutes.\nHow much time will it take Roy to consume all the 5 tablets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "45 Min"
+        },
+        {
+          "label": "B",
+          "text": "75 Min"
+        },
+        {
+          "label": "C",
+          "text": "90 Min"
+        },
+        {
+          "label": "D",
+          "text": "120 Min"
+        },
+        {
+          "label": "E",
+          "text": "60 Min"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 101,
+      "text": "In a bag of red and green sweets, the ratio of red sweets to green sweets is 3:4. If the bag contains 120 green sweets, how many red sweets are there?",
+      "options": [
+        {
+          "label": "A",
+          "text": "90"
+        },
+        {
+          "label": "B",
+          "text": "80"
+        },
+        {
+          "label": "C",
+          "text": "95"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        },
+        {
+          "label": "E",
+          "text": "85"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 102,
+      "text": "A club consists of members whose ages are in A.P. The common difference being 3 months. If the youngest member of the club is just 7 years old and the sum of the ages of all the members is 250, then number of members in the club are :",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "25"
+        },
+        {
+          "label": "D",
+          "text": "26"
+        },
+        {
+          "label": "E",
+          "text": "27"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 103,
+      "text": "M men agree to purchase a gift for Rs. D. If 3 men drop out how much more will each have to contribute towards the purchase of the gift?",
+      "options": [
+        {
+          "label": "A",
+          "text": "D/(M-3)"
+        },
+        {
+          "label": "B",
+          "text": "MD/3"
+        },
+        {
+          "label": "C",
+          "text": "M/(D-3)"
+        },
+        {
+          "label": "D",
+          "text": "3D/(M2-3M)"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 104,
+      "text": "At what price should the Karan mark a sewing machine that costs him Rs. 1200/- so that even after offering a 20% discount, he makes 20% profit?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,879"
+        },
+        {
+          "label": "B",
+          "text": "1,875"
+        },
+        {
+          "label": "C",
+          "text": "1,876"
+        },
+        {
+          "label": "D",
+          "text": "1,872"
+        },
+        {
+          "label": "E",
+          "text": "1,800"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 105,
+      "text": "Train ‘A’ leaves Mumbai Central for Lucknow at 11 am, running at the speed of 40 kmph. Train ‘B’ leaves Mumbai Central for Lucknow by the same route at 2 pm on the same day, running at the speed of 72 kmph. At what time will the two trains meet each other?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12 am on the next day"
+        },
+        {
+          "label": "B",
+          "text": "5 am on the next day"
+        },
+        {
+          "label": "C",
+          "text": "5 pm on the next day"
+        },
+        {
+          "label": "D",
+          "text": "2 pm on the next day"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 106,
+      "text": "Mark told John \"If you give me half your money I will have Rs.75. John said, \"if you give me one third of your money, I will have Rs.75/-. How much money did John have ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22"
+        },
+        {
+          "label": "B",
+          "text": "60"
+        },
+        {
+          "label": "C",
+          "text": "28"
+        },
+        {
+          "label": "D",
+          "text": "26"
+        },
+        {
+          "label": "E",
+          "text": "18"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 107,
+      "text": "The number of water lilies on a certain lake doubles every two days. If there is exactly one water lily on the lake, it takes 60 days for the lake to be fully covered with water lilies. In how many days will the lake be fully covered with lilies, if initially there were 64 water lilies on it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "15"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "30"
+        },
+        {
+          "label": "D",
+          "text": "53"
+        },
+        {
+          "label": "E",
+          "text": "59"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 108,
+      "text": "x men working x hours per day can do x units of a work in x days. How much work can be completed by y men working y hours per day in y days?",
+      "options": [
+        {
+          "label": "A",
+          "text": "x2/y2 units"
+        },
+        {
+          "label": "B",
+          "text": "y3/x2 units"
+        },
+        {
+          "label": "C",
+          "text": "x3/y2 units"
+        },
+        {
+          "label": "D",
+          "text": "y2/x2 units"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 109,
+      "text": "ABCDE is a regular pentagon with F at its center. How many different quadrilaterals can be formed by joining 4 of the points A,B,C,D,E and F?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        },
+        {
+          "label": "E",
+          "text": "20"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 110,
+      "text": "Points A, B, C, D lie in this order on the circumference of a circle. Minor arc AC is 160°, and minor arc BD is 150°. If B bisects minor arc AC, then what is the measure of minor arc AD?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80°"
+        },
+        {
+          "label": "B",
+          "text": "130°"
+        },
+        {
+          "label": "C",
+          "text": "140°"
+        },
+        {
+          "label": "D",
+          "text": "160°"
+        },
+        {
+          "label": "E",
+          "text": "220°"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 111,
+      "text": "If 75 percent of the employees of a certain company take a winter vacation, 40 percent take a winter and a summer vacation, and 20 percent take neither a winter nor a summer vacation, what Q percent of the employees take a summer vacation but not a winter vacation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5%"
+        },
+        {
+          "label": "B",
+          "text": "15%"
+        },
+        {
+          "label": "C",
+          "text": "25%"
+        },
+        {
+          "label": "D",
+          "text": "35%"
+        },
+        {
+          "label": "E",
+          "text": "45%"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 112,
+      "text": "The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "26"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "21"
+        },
+        {
+          "label": "D",
+          "text": "80"
+        },
+        {
+          "label": "E",
+          "text": "23"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 113,
+      "text": "During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost?",
+      "options": [
+        {
+          "label": "A",
+          "text": "70"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        },
+        {
+          "label": "E",
+          "text": "5"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 114,
+      "text": "A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "750pi"
+        },
+        {
+          "label": "B",
+          "text": "1500pi"
+        },
+        {
+          "label": "C",
+          "text": "1875pi"
+        },
+        {
+          "label": "D",
+          "text": "3000pi"
+        },
+        {
+          "label": "E",
+          "text": "7500pi"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 115,
+      "text": "If n is such that 36 ≤ n ≤ 72, then x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4) satisfies",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 < x < 54"
+        },
+        {
+          "label": "B",
+          "text": "23 < x < 58"
+        },
+        {
+          "label": "C",
+          "text": "25 < x < 64"
+        },
+        {
+          "label": "D",
+          "text": "28 < x < 60"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 116,
+      "text": "At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 m"
+        },
+        {
+          "label": "B",
+          "text": "75 m"
+        },
+        {
+          "label": "C",
+          "text": "100 m"
+        },
+        {
+          "label": "D",
+          "text": "125 m"
+        },
+        {
+          "label": "E",
+          "text": "150 m"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 117,
+      "text": "A starts a business with Rs.40,000. After 2 months, B joined him with Rs.60,000. C joined them after some more time with Rs.120,000. At the end of the year, out of a total profit of Rs.375,000, C gets Rs.150,000 as his share. How many months after B joined the business, did C join?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 months"
+        },
+        {
+          "label": "B",
+          "text": "4 months"
+        },
+        {
+          "label": "C",
+          "text": "23 months"
+        },
+        {
+          "label": "D",
+          "text": "24 months"
+        },
+        {
+          "label": "E",
+          "text": "84 months"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 118,
+      "text": "A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.75"
+        },
+        {
+          "label": "B",
+          "text": "8.79"
+        },
+        {
+          "label": "C",
+          "text": "8.75"
+        },
+        {
+          "label": "D",
+          "text": "8.71"
+        },
+        {
+          "label": "E",
+          "text": "8.72"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 119,
+      "text": "An athlete runs M miles in 4 hours, then rides a bike N miles in the same number of hours. Which of the following represents the average speed, in miles per hour, for these two activities combined?",
+      "options": [
+        {
+          "label": "A",
+          "text": "M + N / 8"
+        },
+        {
+          "label": "B",
+          "text": "2M + N / 8"
+        },
+        {
+          "label": "C",
+          "text": "M + N / 4"
+        },
+        {
+          "label": "D",
+          "text": "M + 3N / 8"
+        },
+        {
+          "label": "E",
+          "text": "M + N / 5"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 120,
+      "text": "8 man work for 6 days to complete a work. How many men are required to complete same work in 1/2 day.",
+      "options": [
+        {
+          "label": "A",
+          "text": "93 men"
+        },
+        {
+          "label": "B",
+          "text": "94 men"
+        },
+        {
+          "label": "C",
+          "text": "95 men"
+        },
+        {
+          "label": "D",
+          "text": "96 men"
+        },
+        {
+          "label": "E",
+          "text": "97 men"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 121,
+      "text": "64 boys and 40 girls form a group for social work. During their membership drive, the same number of boys and girls joined the group. How many members does the group have now, if the ratio of boys to girls is 4:3?",
+      "options": [
+        {
+          "label": "A",
+          "text": "277"
+        },
+        {
+          "label": "B",
+          "text": "288"
+        },
+        {
+          "label": "C",
+          "text": "200"
+        },
+        {
+          "label": "D",
+          "text": "277"
+        },
+        {
+          "label": "E",
+          "text": "168"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 122,
+      "text": "A cyclist travels at 12 miles per hour. How many minutes will it take to travel 48 miles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "240"
+        },
+        {
+          "label": "C",
+          "text": "30"
+        },
+        {
+          "label": "D",
+          "text": "60"
+        },
+        {
+          "label": "E",
+          "text": "120"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 123,
+      "text": "Kevin drove from A to B at a constant speed of 70 mph. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it. What is the distance between A and B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "180"
+        },
+        {
+          "label": "B",
+          "text": "90"
+        },
+        {
+          "label": "C",
+          "text": "270"
+        },
+        {
+          "label": "D",
+          "text": "360"
+        },
+        {
+          "label": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 124,
+      "text": "30 is subtracted from a number, it is reduced to its one third. What is the value of 50% of that number?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22.5"
+        },
+        {
+          "label": "B",
+          "text": "84"
+        },
+        {
+          "label": "C",
+          "text": "21"
+        },
+        {
+          "label": "D",
+          "text": "24"
+        },
+        {
+          "label": "E",
+          "text": "25"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 125,
+      "text": "If a man rows at the rate of 4 kmph in still water and his rate against the current is 2 kmph, then the man's rate along the current is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "15 kmph"
+        },
+        {
+          "label": "B",
+          "text": "6 kmph"
+        },
+        {
+          "label": "C",
+          "text": "12 kmph"
+        },
+        {
+          "label": "D",
+          "text": "14 kmph"
+        },
+        {
+          "label": "E",
+          "text": "6 kmph"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 126,
+      "text": "The sum of the digits of a three digit number is 17, and the sum of the squares of its digits is 109. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order. Find the number.",
+      "options": [
+        {
+          "label": "A",
+          "text": "368"
+        },
+        {
+          "label": "B",
+          "text": "377"
+        },
+        {
+          "label": "C",
+          "text": "288"
+        },
+        {
+          "label": "D",
+          "text": "997"
+        },
+        {
+          "label": "E",
+          "text": "112"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 127,
+      "text": "X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, what is the ratio of zinc and copper in the alloy Z ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "69:91"
+        },
+        {
+          "label": "B",
+          "text": "59:91"
+        },
+        {
+          "label": "C",
+          "text": "59:90"
+        },
+        {
+          "label": "D",
+          "text": "59:91"
+        },
+        {
+          "label": "E",
+          "text": "69:101"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 128,
+      "text": "The nefarious bandit Hoopsmot decides to go in with his criminal partner Smolapon to purchase a number of senators. Hoopsmot contributes $16,000 to their bribery pool, and Smolapon contributes just $4,000. Their total allows them to influence 30 senators. How many senators of these can be considered Hoopsmot's?",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "20"
+        },
+        {
+          "label": "C",
+          "text": "22"
+        },
+        {
+          "label": "D",
+          "text": "24"
+        },
+        {
+          "label": "E",
+          "text": "26"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 129,
+      "text": "The difference between the squares of two numbers is 256000 and the sum of the numbers is 1000. The numbers are",
+      "options": [
+        {
+          "label": "A",
+          "text": "600, 400"
+        },
+        {
+          "label": "B",
+          "text": "628, 372"
+        },
+        {
+          "label": "C",
+          "text": "640, 360"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 130,
+      "text": "An astronaut weighing 211 pounds on Earth would weigh 182 pounds on Venus. The weight of the astronaut on Venus would be approximately what percent of the astronaut’s weight on Earth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50%"
+        },
+        {
+          "label": "B",
+          "text": "60%"
+        },
+        {
+          "label": "C",
+          "text": "70%"
+        },
+        {
+          "label": "D",
+          "text": "86%"
+        },
+        {
+          "label": "E",
+          "text": "90%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 131,
+      "text": "A man walks at 5 kmph for 6 hrs and at 4 kmph for 12 hrs. His average speed is",
+      "options": [
+        {
+          "label": "A",
+          "text": "4 1/3 km/h"
+        },
+        {
+          "label": "B",
+          "text": "7 2/3 km/h"
+        },
+        {
+          "label": "C",
+          "text": "9 ½ km/h"
+        },
+        {
+          "label": "D",
+          "text": "8 km/h"
+        },
+        {
+          "label": "E",
+          "text": "81 km/h"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 132,
+      "text": "[(272 - 32) (124 + 176)] / (17 x 15 - 15) = ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "2.25"
+        },
+        {
+          "label": "C",
+          "text": "300"
+        },
+        {
+          "label": "D",
+          "text": "400"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 133,
+      "text": "Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        },
+        {
+          "label": "E",
+          "text": "6"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 134,
+      "text": "The bus fare of one adult is Rs. 140 from Ranchi to Patna and bus fare of a child is half the fare of one adult between the same places. What is the total bus fare of 4 adults and 3 children between same places?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs. 666"
+        },
+        {
+          "label": "B",
+          "text": "Rs. 670"
+        },
+        {
+          "label": "C",
+          "text": "Rs. 700"
+        },
+        {
+          "label": "D",
+          "text": "Rs. 570"
+        },
+        {
+          "label": "E",
+          "text": "Rs. 770"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 135,
+      "text": "An organization decided to raise Rs. 6 lakh by collecting equal contribution from each of its employees. If each of them had contributed Rs. 60 extra, the contribution would have been Rs. 6.24 lakh. How many employees are there in that organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300"
+        },
+        {
+          "label": "B",
+          "text": "200"
+        },
+        {
+          "label": "C",
+          "text": "400"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        },
+        {
+          "label": "E",
+          "text": "500"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 136,
+      "text": "If there are 5,000 voters out of which 20% are not eligible to vote and there are two candidates contesting. The winning candidate won by 15% of the votes. What is the total number of votes he got ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3267"
+        },
+        {
+          "label": "B",
+          "text": "2678"
+        },
+        {
+          "label": "C",
+          "text": "2797"
+        },
+        {
+          "label": "D",
+          "text": "2300"
+        },
+        {
+          "label": "E",
+          "text": "2781"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 137,
+      "text": "For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        },
+        {
+          "label": "E",
+          "text": "0"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 138,
+      "text": "Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route. Ram meets Krishna at point C on the road after 10 seconds. Find the total distance between A to B.",
+      "options": [
+        {
+          "label": "A",
+          "text": "700 meters"
+        },
+        {
+          "label": "B",
+          "text": "1000 meters"
+        },
+        {
+          "label": "C",
+          "text": "700 kilometers"
+        },
+        {
+          "label": "D",
+          "text": "555 meters"
+        },
+        {
+          "label": "E",
+          "text": "600 meters"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 139,
+      "text": "Car ‘X’ covers a distance of 320 kms in 8 hours and car ‘Y’ covers a distance of 415 kms in 5 hrs. What is the difference in the speed of the two cars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "42kms/hr"
+        },
+        {
+          "label": "B",
+          "text": "41km/hr"
+        },
+        {
+          "label": "C",
+          "text": "43kms/hr"
+        },
+        {
+          "label": "D",
+          "text": "45kms/hr"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 140,
+      "text": "Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, how many miles is his home from his school?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9"
+        },
+        {
+          "label": "B",
+          "text": "6"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        },
+        {
+          "label": "E",
+          "text": "2"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 141,
+      "text": "A sporting goods store carries only yellow and white golf balls. At the beginning of the day it had 600 golf balls in stock, and by the end of the day it had sold 80% of its inventory of golf balls. If the store sold an equal number of yellow and white golf balls, and in doing so sold all of its white golf balls, how many yellow golf balls did the store have to begin the day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80"
+        },
+        {
+          "label": "B",
+          "text": "120"
+        },
+        {
+          "label": "C",
+          "text": "240"
+        },
+        {
+          "label": "D",
+          "text": "320"
+        },
+        {
+          "label": "E",
+          "text": "360"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 142,
+      "text": "A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :",
+      "options": [
+        {
+          "label": "A",
+          "text": "12 metre"
+        },
+        {
+          "label": "B",
+          "text": "12.5 metre"
+        },
+        {
+          "label": "C",
+          "text": "13.5 metre"
+        },
+        {
+          "label": "D",
+          "text": "14 metre"
+        },
+        {
+          "label": "E",
+          "text": "15 metre"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 143,
+      "text": "Two cars are travelling from the same starting point in the same direction, having started their commute at the same time. The first car travels at a steady rate of 55 mph, while the second travels at a steady rate of 52 mph. How much time will pass before the cars are 15 miles away from each other?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 hours"
+        },
+        {
+          "label": "B",
+          "text": "5 hours"
+        },
+        {
+          "label": "C",
+          "text": "6 hours"
+        },
+        {
+          "label": "D",
+          "text": "4 hours"
+        },
+        {
+          "label": "E",
+          "text": "7 hours"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 144,
+      "text": "The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5"
+        },
+        {
+          "label": "B",
+          "text": "0.6"
+        },
+        {
+          "label": "C",
+          "text": "0.7"
+        },
+        {
+          "label": "D",
+          "text": "0.8"
+        },
+        {
+          "label": "E",
+          "text": "0.9"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 145,
+      "text": "The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2: π"
+        },
+        {
+          "label": "B",
+          "text": "7:2"
+        },
+        {
+          "label": "C",
+          "text": "8:2"
+        },
+        {
+          "label": "D",
+          "text": "6: π"
+        },
+        {
+          "label": "E",
+          "text": "8:3"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 146,
+      "text": "My wall contains 8 red colour ties, 13 violet colour ties,10 blue colour ties, 5 pink colour ties, 4 green colour ties. If electricity is gone and I want at least two ties of same colour then how many ties I should take out from my rack?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "5"
+        },
+        {
+          "label": "E",
+          "text": "6"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 147,
+      "text": "Find 25/12*5",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.5498"
+        },
+        {
+          "label": "B",
+          "text": "0.4167"
+        },
+        {
+          "label": "C",
+          "text": "3.3987"
+        },
+        {
+          "label": "D",
+          "text": "8.5497"
+        },
+        {
+          "label": "E",
+          "text": "5.6312"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 148,
+      "text": "The value of log2 4 is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 149,
+      "text": "Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.",
+      "options": [
+        {
+          "label": "A",
+          "text": "50 %"
+        },
+        {
+          "label": "B",
+          "text": "60 %"
+        },
+        {
+          "label": "C",
+          "text": "55 %"
+        },
+        {
+          "label": "D",
+          "text": "70 %"
+        },
+        {
+          "label": "E",
+          "text": "58%"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 150,
+      "text": "A train M leaves City A at 5 am and reaches City B at 9am. Another train N leaves City B at 7am and reaches City A at 1030am. At what time do the 2 trains cross one another?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 hr 23 min"
+        },
+        {
+          "label": "B",
+          "text": "1 hr 15 min"
+        },
+        {
+          "label": "C",
+          "text": "1 hr 8 min"
+        },
+        {
+          "label": "D",
+          "text": "56 min"
+        },
+        {
+          "label": "E",
+          "text": "55 min"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 151,
+      "text": "Janice bikes at 10 miles per hour, while Jennie bikes at 20. How long until they have collectively biked 1 mile?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 minute"
+        },
+        {
+          "label": "B",
+          "text": "2 minutes"
+        },
+        {
+          "label": "C",
+          "text": "3 minutes"
+        },
+        {
+          "label": "D",
+          "text": "4 minutes"
+        },
+        {
+          "label": "E",
+          "text": "5 minutes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 152,
+      "text": "In an exam, a candidate secured 504 marks of the maximum mark of M. If the maximum mark M is converted into 800 marks, he would have secured 420 marks. What is the value of M?",
+      "options": [
+        {
+          "label": "A",
+          "text": "278"
+        },
+        {
+          "label": "B",
+          "text": "2890"
+        },
+        {
+          "label": "C",
+          "text": "270"
+        },
+        {
+          "label": "D",
+          "text": "2702"
+        },
+        {
+          "label": "E",
+          "text": "960"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 153,
+      "text": "If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        },
+        {
+          "label": "E",
+          "text": "14"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 154,
+      "text": "Two ants are standing side-by-side. One ant, which is 4 inches tall, casts a shadow that is 10 inches long. The other ant is 6 inches tall. Compute, in inches, the length of the shadow that the taller ant casts.",
+      "options": [
+        {
+          "label": "A",
+          "text": "36"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "42"
+        },
+        {
+          "label": "D",
+          "text": "15"
+        },
+        {
+          "label": "E",
+          "text": "20"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 155,
+      "text": "The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.6m"
+        },
+        {
+          "label": "B",
+          "text": "3.9m"
+        },
+        {
+          "label": "C",
+          "text": "4m"
+        },
+        {
+          "label": "D",
+          "text": "4.2m"
+        },
+        {
+          "label": "E",
+          "text": "4.4m"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 156,
+      "text": "The sum of k consecutive integers is 51. If the least integer is -50, then k =",
+      "options": [
+        {
+          "label": "A",
+          "text": "40"
+        },
+        {
+          "label": "B",
+          "text": "62"
+        },
+        {
+          "label": "C",
+          "text": "82"
+        },
+        {
+          "label": "D",
+          "text": "92"
+        },
+        {
+          "label": "E",
+          "text": "102"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 157,
+      "text": "In a survey of students, each student selected from a list of 10 songs the 2 songs that the student liked best. If each song was selected 5 times, how many students were surveyed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "96"
+        },
+        {
+          "label": "B",
+          "text": "48"
+        },
+        {
+          "label": "C",
+          "text": "32"
+        },
+        {
+          "label": "D",
+          "text": "25"
+        },
+        {
+          "label": "E",
+          "text": "18"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 158,
+      "text": "If one of the roots of the quadratic equation x^2 + mx + 22 = 0 is 1.5, then what is the value of m?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-23.5"
+        },
+        {
+          "label": "B",
+          "text": "-17.5"
+        },
+        {
+          "label": "C",
+          "text": "-10.5"
+        },
+        {
+          "label": "D",
+          "text": "-16.2"
+        },
+        {
+          "label": "E",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 159,
+      "text": "At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10!/3"
+        },
+        {
+          "label": "B",
+          "text": "10!/6"
+        },
+        {
+          "label": "C",
+          "text": "10!/2"
+        },
+        {
+          "label": "D",
+          "text": "10!/4"
+        },
+        {
+          "label": "E",
+          "text": "10!/5"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 160,
+      "text": "Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. What is the new selling price of each article?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$8"
+        },
+        {
+          "label": "B",
+          "text": "$10"
+        },
+        {
+          "label": "C",
+          "text": "$13.6"
+        },
+        {
+          "label": "D",
+          "text": "$22.9"
+        },
+        {
+          "label": "E",
+          "text": "$40"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 161,
+      "text": "In a row of children Neha is 12th from left end and Radha is 6th from right end. When Radha is shifted to left by 2 places and Neha is shifted to right by 2 places there 6 children between Radha and Neha. How many children are there in the row?",
+      "options": [
+        {
+          "label": "A",
+          "text": "23"
+        },
+        {
+          "label": "B",
+          "text": "27"
+        },
+        {
+          "label": "C",
+          "text": "26"
+        },
+        {
+          "label": "D",
+          "text": "28"
+        },
+        {
+          "label": "E",
+          "text": "29"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 162,
+      "text": "10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand how much of the mixture is to be removed and replaced with pure sand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10/7"
+        },
+        {
+          "label": "B",
+          "text": "20/7"
+        },
+        {
+          "label": "C",
+          "text": "30/7"
+        },
+        {
+          "label": "D",
+          "text": "40/7"
+        },
+        {
+          "label": "E",
+          "text": "50/7"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 163,
+      "text": "A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure?",
+      "options": [
+        {
+          "label": "A",
+          "text": "58.3%"
+        },
+        {
+          "label": "B",
+          "text": "62.5%"
+        },
+        {
+          "label": "C",
+          "text": "63.5%"
+        },
+        {
+          "label": "D",
+          "text": "64.5%"
+        },
+        {
+          "label": "E",
+          "text": "65.5%"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 164,
+      "text": "What is the greatest number of identical bouquets that can be made out of 28 white and 98 red tulips if no flowers are to be left out? (Two bouquets are identical whenever the number of red tulips in the two bouquets is equal and the number of white tulips in the two bouquets is equal.)",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "14"
+        },
+        {
+          "label": "E",
+          "text": "21"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 165,
+      "text": "Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 hour"
+        },
+        {
+          "label": "B",
+          "text": "2 hours"
+        },
+        {
+          "label": "C",
+          "text": "3 hours"
+        },
+        {
+          "label": "D",
+          "text": "4 hours"
+        },
+        {
+          "label": "E",
+          "text": "5 hours"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 166,
+      "text": "If x<0, y>0, and |x^3| > |y^2|, which of the following must be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "x > y"
+        },
+        {
+          "label": "B",
+          "text": "y^2 > x^2"
+        },
+        {
+          "label": "C",
+          "text": "-x^3 < y^2"
+        },
+        {
+          "label": "D",
+          "text": "–x < y"
+        },
+        {
+          "label": "E",
+          "text": "x < –y"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 167,
+      "text": "Printer A and Printer B can each print 1⁄2 page per second. How long will it take both printers working together to print 100 pages?",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 seconds"
+        },
+        {
+          "label": "B",
+          "text": "50 seconds"
+        },
+        {
+          "label": "C",
+          "text": "100 seconds"
+        },
+        {
+          "label": "D",
+          "text": "200 seconds"
+        },
+        {
+          "label": "E",
+          "text": "400 seconds"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 168,
+      "text": "Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "45"
+        },
+        {
+          "label": "B",
+          "text": "48"
+        },
+        {
+          "label": "C",
+          "text": "51"
+        },
+        {
+          "label": "D",
+          "text": "54"
+        },
+        {
+          "label": "E",
+          "text": "57"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 169,
+      "text": "Roberts has a property worth of $1023.65. But in a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100. Find the difference between actual property and recorded property worth?",
+      "options": [
+        {
+          "label": "A",
+          "text": "23.65"
+        },
+        {
+          "label": "B",
+          "text": "1000"
+        },
+        {
+          "label": "C",
+          "text": "35.62"
+        },
+        {
+          "label": "D",
+          "text": "2.65"
+        },
+        {
+          "label": "E",
+          "text": "1023.65"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 170,
+      "text": "A man spend 810 in buying trouser at Rs 70 each and shirt at 30 each. What will be the ratio of trouser and shirt when the maximum number of trouser is purchased?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 Trousers"
+        },
+        {
+          "label": "B",
+          "text": "8 Trousers"
+        },
+        {
+          "label": "C",
+          "text": "10 Trousers"
+        },
+        {
+          "label": "D",
+          "text": "7 Trousers"
+        },
+        {
+          "label": "E",
+          "text": "11 Trousers"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 171,
+      "text": "If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$7.73"
+        },
+        {
+          "label": "B",
+          "text": "$6.73"
+        },
+        {
+          "label": "C",
+          "text": "$5.73"
+        },
+        {
+          "label": "D",
+          "text": "$4.73"
+        },
+        {
+          "label": "E",
+          "text": "$3.73"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 172,
+      "text": "Christopher and Jonathan were having bets. They decide that a coin will be flipped twenty times and each time it turns heads, Christopher will give $2 to Jonathan and each time it turns out to be Tails, Jonathan will give 3$ to Christopher. After flipping for twenty times none of the both won or lost any amount.\nHow many times did the coin landed on Heads ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "23"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "18"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 173,
+      "text": "Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.",
+      "options": [
+        {
+          "label": "A",
+          "text": "144km"
+        },
+        {
+          "label": "B",
+          "text": "72 km"
+        },
+        {
+          "label": "C",
+          "text": "126km"
+        },
+        {
+          "label": "D",
+          "text": "84 km"
+        },
+        {
+          "label": "E",
+          "text": "48km"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 174,
+      "text": "Tires of a certain brand, when purchased new, last for four years. A customer can choose to purchase the new tires at a cost of $180 per tire or can have his current tires repaired at a cost of $40 per tire, a repair that will make the current tires last for one additional year. The average cost per year of the new tires is what percent greater than the cost of repairing the current tires?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8%"
+        },
+        {
+          "label": "B",
+          "text": "10%"
+        },
+        {
+          "label": "C",
+          "text": "12.5%"
+        },
+        {
+          "label": "D",
+          "text": "16.7%"
+        },
+        {
+          "label": "E",
+          "text": "25%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 175,
+      "text": "A rope 20 meters long is cut into two pieces. If the length of one piece of rope is 3 meters shorter than the length of the other, what is the length, in meters, of the longer piece of rope?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7.5"
+        },
+        {
+          "label": "B",
+          "text": "8.9"
+        },
+        {
+          "label": "C",
+          "text": "9.9"
+        },
+        {
+          "label": "D",
+          "text": "11.5"
+        },
+        {
+          "label": "E",
+          "text": "11.7"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 176,
+      "text": "Jerry purchased a 1-year $5,000 bond that paid an annual interest rate of 12% compounded every six months. How much interest had this bond accrued at maturity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$5102"
+        },
+        {
+          "label": "B",
+          "text": "$618"
+        },
+        {
+          "label": "C",
+          "text": "$216"
+        },
+        {
+          "label": "D",
+          "text": "$202"
+        },
+        {
+          "label": "E",
+          "text": "$200"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 177,
+      "text": "Decipher the following multiplication table:\nM A D\nB E\n-------------\nM A D\nR A E\n-------------\nA M I D",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 2 0 0"
+        },
+        {
+          "label": "B",
+          "text": "9 2 0 9"
+        },
+        {
+          "label": "C",
+          "text": "9 2 0 1"
+        },
+        {
+          "label": "D",
+          "text": "9 2 0 7"
+        },
+        {
+          "label": "E",
+          "text": "9 2 2 2"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 178,
+      "text": "Sachin was twice as old as Ajay 10 years back. How old is Ajay today if Sachin will be 40 years old in 10 years",
+      "options": [
+        {
+          "label": "A",
+          "text": "18"
+        },
+        {
+          "label": "B",
+          "text": "25"
+        },
+        {
+          "label": "C",
+          "text": "15"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        },
+        {
+          "label": "E",
+          "text": "21"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 179,
+      "text": "What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3400"
+        },
+        {
+          "label": "B",
+          "text": "1700"
+        },
+        {
+          "label": "C",
+          "text": "3440"
+        },
+        {
+          "label": "D",
+          "text": "Cannot be determined"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 180,
+      "text": "Last year, 34 percent of Ace Book Company's sales revenue came from the sale of novels. Of the remaining revenue, 1/3 was from the sale of biographies. The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.3"
+        },
+        {
+          "label": "B",
+          "text": "1.5"
+        },
+        {
+          "label": "C",
+          "text": "2.1"
+        },
+        {
+          "label": "D",
+          "text": "2.5"
+        },
+        {
+          "label": "E",
+          "text": "3.1"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 181,
+      "text": "A bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them. How many flowers will the bee fly by to bypass 8 flowers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2000"
+        },
+        {
+          "label": "B",
+          "text": "4000"
+        },
+        {
+          "label": "C",
+          "text": "8000"
+        },
+        {
+          "label": "D",
+          "text": "16000"
+        },
+        {
+          "label": "E",
+          "text": "32000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 182,
+      "text": "Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5C3*4C3"
+        },
+        {
+          "label": "B",
+          "text": "5C4*4C2"
+        },
+        {
+          "label": "C",
+          "text": "5C2*4C4"
+        },
+        {
+          "label": "D",
+          "text": "5C6*4C5"
+        },
+        {
+          "label": "E",
+          "text": "4C3*4C3"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 183,
+      "text": "What should come in place of the question mark(?) in each of the following questions ?\na2 - b2/(a + b)2 (?)=(a - b)2",
+      "options": [
+        {
+          "label": "A",
+          "text": "(a + b)(a - b)"
+        },
+        {
+          "label": "B",
+          "text": "(a - b)2"
+        },
+        {
+          "label": "C",
+          "text": "(a + b)2"
+        },
+        {
+          "label": "D",
+          "text": "a3 + b3"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 184,
+      "text": "A number is as much greater than 36 as is less than 86. Find the Number.",
+      "options": [
+        {
+          "label": "A",
+          "text": "60"
+        },
+        {
+          "label": "B",
+          "text": "56"
+        },
+        {
+          "label": "C",
+          "text": "51"
+        },
+        {
+          "label": "D",
+          "text": "61"
+        },
+        {
+          "label": "E",
+          "text": "41"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 185,
+      "text": "A certain phone manufacturer ships its products in crates. A crate consists of p pallets, and each pallet holds 1250 phones. If the manufacturer ships 4 crates, how many phones are shipped?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1000p"
+        },
+        {
+          "label": "B",
+          "text": "1500p"
+        },
+        {
+          "label": "C",
+          "text": "2000p"
+        },
+        {
+          "label": "D",
+          "text": "2500p"
+        },
+        {
+          "label": "E",
+          "text": "30000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 186,
+      "text": "A can construct a wall in 40 min and B can construct the wall in 45 min. How many hours is needed to contruct a wall if both the person working together.",
+      "options": [
+        {
+          "label": "A",
+          "text": "20 min"
+        },
+        {
+          "label": "B",
+          "text": "22 min"
+        },
+        {
+          "label": "C",
+          "text": "23 min"
+        },
+        {
+          "label": "D",
+          "text": "21 min"
+        },
+        {
+          "label": "E",
+          "text": "20 min"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 187,
+      "text": "An express electric train takes exact three seconds to enter tunnel which is 1 mile long.\nIf train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "43 seconds"
+        },
+        {
+          "label": "B",
+          "text": "39 seconds"
+        },
+        {
+          "label": "C",
+          "text": "20 seconds"
+        },
+        {
+          "label": "D",
+          "text": "33 seconds"
+        },
+        {
+          "label": "E",
+          "text": "55 seconds"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 188,
+      "text": "A merchant receives an invoice for a motor boat for $20 000 with terms 4/30, n/100. What is the highest simple interest rate at which he can afford to borrow money in order to take advantage of the discount?",
+      "options": [
+        {
+          "label": "A",
+          "text": "247.67"
+        },
+        {
+          "label": "B",
+          "text": "237.67"
+        },
+        {
+          "label": "C",
+          "text": "227.67"
+        },
+        {
+          "label": "D",
+          "text": "215.67"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 189,
+      "text": "There are ten lime soda bottles on a table in a restaurant. They are to be served among two different groups of customers consisting of 5 members each. How many ways are there to create these 2 groups?",
+      "options": [
+        {
+          "label": "A",
+          "text": "90"
+        },
+        {
+          "label": "B",
+          "text": "105"
+        },
+        {
+          "label": "C",
+          "text": "126"
+        },
+        {
+          "label": "D",
+          "text": "252"
+        },
+        {
+          "label": "E",
+          "text": "525"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 190,
+      "text": "A special cereal mixture contains rice, wheat and corn in the ratio of 2:3:5. If a bag of the mixture contains 3 pounds of rice, how much corn does it contain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.5"
+        },
+        {
+          "label": "B",
+          "text": "7.5"
+        },
+        {
+          "label": "C",
+          "text": "7"
+        },
+        {
+          "label": "D",
+          "text": "6"
+        },
+        {
+          "label": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 191,
+      "text": "You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300\ncents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars.",
+      "options": [
+        {
+          "label": "A",
+          "text": "500"
+        },
+        {
+          "label": "B",
+          "text": "600"
+        },
+        {
+          "label": "C",
+          "text": "750"
+        },
+        {
+          "label": "D",
+          "text": "800"
+        },
+        {
+          "label": "E",
+          "text": "900"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 192,
+      "text": "A pen company produces very fine quality of writing pens. Company knows that on average 10% of the produced pens are always defective so are rejected before packing. Company promises to deliver 7200 pens to its wholesaler at Rs. 10 each. It estimates the overall profit on all the manufactured pens to be 25%. What is the manufactured cost of each pen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rs. 6"
+        },
+        {
+          "label": "B",
+          "text": "Rs. 7.2"
+        },
+        {
+          "label": "C",
+          "text": "Rs. 5.6"
+        },
+        {
+          "label": "D",
+          "text": "Rs. 8"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 193,
+      "text": "A two digit number exceeds the sum of the digits of that number by 18. If the digit at the unit's place is double the digit in the ten's place, what is the number?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12"
+        },
+        {
+          "label": "B",
+          "text": "24"
+        },
+        {
+          "label": "C",
+          "text": "42"
+        },
+        {
+          "label": "D",
+          "text": "48"
+        },
+        {
+          "label": "E",
+          "text": "49"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 194,
+      "text": "Suppose for any real number x, [x] denotes the greatest integer less than or equal to x. Let L(x,y) = [x] + [y] + [x + y] and R(x,y) = [2x] + [2y]. Then it is impossible to find any two positive real numbers x and y for which",
+      "options": [
+        {
+          "label": "A",
+          "text": "L(x,y) = R(x,y)"
+        },
+        {
+          "label": "B",
+          "text": "L(x,y) ≠ R(x,y)"
+        },
+        {
+          "label": "C",
+          "text": "L(x,y) < R(x,y)"
+        },
+        {
+          "label": "D",
+          "text": "L(x,y) < R(x,y)"
+        },
+        {
+          "label": "E",
+          "text": "None"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 195,
+      "text": "Three bells ring at intervals of 36 seconds, 40 seconds and 48 seconds, respectively. They start ringing together at a particular time. When they will ring together again?",
+      "options": [
+        {
+          "label": "A",
+          "text": "After 6 minutes"
+        },
+        {
+          "label": "B",
+          "text": "After 12 minutes"
+        },
+        {
+          "label": "C",
+          "text": "After 18 minutes"
+        },
+        {
+          "label": "D",
+          "text": "After 24 minutes"
+        },
+        {
+          "label": "E",
+          "text": "none"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 196,
+      "text": "An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.",
+      "options": [
+        {
+          "label": "A",
+          "text": "21"
+        },
+        {
+          "label": "B",
+          "text": "22"
+        },
+        {
+          "label": "C",
+          "text": "20"
+        },
+        {
+          "label": "D",
+          "text": "23"
+        },
+        {
+          "label": "E",
+          "text": "24"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 197,
+      "text": "At my favorite fruit stand, an orange costs 18 dollars, a pineapple costs 27 dollars, and a grape costs 15 dollars. Using the same logic, can you tell how much a mango costs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22 dollars"
+        },
+        {
+          "label": "B",
+          "text": "15 dollars"
+        },
+        {
+          "label": "C",
+          "text": "20 dollars"
+        },
+        {
+          "label": "D",
+          "text": "18 dollars"
+        },
+        {
+          "label": "E",
+          "text": "10 dollars"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 198,
+      "text": "In the coordinate plane, a triangle has vertices at (a,0), (b,0), and (x,y). If a>x>b>0>y, which of the following represents the area of that triangle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "(ay−by)/2"
+        },
+        {
+          "label": "B",
+          "text": "(ab−ay)/2"
+        },
+        {
+          "label": "C",
+          "text": "(by−ay)/2"
+        },
+        {
+          "label": "D",
+          "text": "(ay+by)/x"
+        },
+        {
+          "label": "E",
+          "text": "(a−b)/2y"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 199,
+      "text": "A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "80 kmph"
+        },
+        {
+          "label": "B",
+          "text": "50 kmph"
+        },
+        {
+          "label": "C",
+          "text": "120 kmph"
+        },
+        {
+          "label": "D",
+          "text": "70 kmph"
+        },
+        {
+          "label": "E",
+          "text": "80 kmph"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 200,
+      "text": "Three friends Alan, Roger and Peter attempt to answer a question on an exam. Alan randomly guesses the answer, giving him a 1/5 probability of guessing correctly. Roger cheats by looking at the paper of the student in front of him, giving him a 2/3 probability of answering correctly. And Peter dutifully performs the calculations, then marks the answer, giving him a 5/6 probability of a correct answer. What is the probability that the question is answered correctly, but not via cheating?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/18"
+        },
+        {
+          "label": "B",
+          "text": "1/9"
+        },
+        {
+          "label": "C",
+          "text": "23/90"
+        },
+        {
+          "label": "D",
+          "text": "5/18"
+        },
+        {
+          "label": "E",
+          "text": "13/45"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 201,
+      "text": "The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "12%"
+        },
+        {
+          "label": "C",
+          "text": "6%"
+        },
+        {
+          "label": "D",
+          "text": "8%"
+        },
+        {
+          "label": "E",
+          "text": "4%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 202,
+      "text": "All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "70"
+        },
+        {
+          "label": "C",
+          "text": "75"
+        },
+        {
+          "label": "D",
+          "text": "100"
+        },
+        {
+          "label": "E",
+          "text": "125"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 203,
+      "text": "A father wants to divide Rs. 5100 between his two sons, Mohan and Sohan who are 23 and 24 at present. He divides the amount in such a way that if their shares are invested at compound interest at 4% p.a. they will receive equal amount on attaining the age of 26 years. Find Mohan's share.",
+      "options": [
+        {
+          "label": "A",
+          "text": "2400"
+        },
+        {
+          "label": "B",
+          "text": "2500"
+        },
+        {
+          "label": "C",
+          "text": "2600"
+        },
+        {
+          "label": "D",
+          "text": "2700"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 204,
+      "text": "What is 60% of 30% of 1400 grams?",
+      "options": [
+        {
+          "label": "A",
+          "text": "450 gms"
+        },
+        {
+          "label": "B",
+          "text": "100 gms"
+        },
+        {
+          "label": "C",
+          "text": "252 gms"
+        },
+        {
+          "label": "D",
+          "text": "240 gms"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 205,
+      "text": "A certain liquid passes through a drain at a rate of w/25 gallons every x seconds. At that rate, how many minutes will it take y gallons to pass through the drain?",
+      "options": [
+        {
+          "label": "A",
+          "text": "y/(1200xy)"
+        },
+        {
+          "label": "B",
+          "text": "20xy/w"
+        },
+        {
+          "label": "C",
+          "text": "5xy/(12w)"
+        },
+        {
+          "label": "D",
+          "text": "w/(3xy)"
+        },
+        {
+          "label": "E",
+          "text": "3y/(wx)"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 206,
+      "text": "A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "36 grams"
+        },
+        {
+          "label": "B",
+          "text": "40 grams"
+        },
+        {
+          "label": "C",
+          "text": "42 grams"
+        },
+        {
+          "label": "D",
+          "text": "48 grams"
+        },
+        {
+          "label": "E",
+          "text": "50 grams"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 207,
+      "text": "If 10 is subtracted from 2/3 of a number the result is equal to sum of 40 and 1/3 of the number. Find the number",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "160"
+        },
+        {
+          "label": "C",
+          "text": "150"
+        },
+        {
+          "label": "D",
+          "text": "210"
+        },
+        {
+          "label": "E",
+          "text": "220"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 208,
+      "text": "What is the largest integral value of 'k' for which the quadratic equation x2 - 5x + k = 0 will have two real and distinct roots?",
+      "options": [
+        {
+          "label": "A",
+          "text": "9"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 209,
+      "text": "900 + 5 × 12 = ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "820"
+        },
+        {
+          "label": "B",
+          "text": "202"
+        },
+        {
+          "label": "C",
+          "text": "420"
+        },
+        {
+          "label": "D",
+          "text": "209"
+        },
+        {
+          "label": "E",
+          "text": "960"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 210,
+      "text": "Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km",
+      "options": [
+        {
+          "label": "A",
+          "text": "9 hours."
+        },
+        {
+          "label": "B",
+          "text": "10 hours."
+        },
+        {
+          "label": "C",
+          "text": "11 hours."
+        },
+        {
+          "label": "D",
+          "text": "12 hours."
+        },
+        {
+          "label": "E",
+          "text": "13 hours."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 211,
+      "text": "Mr.Sam takes 17 hours to go by train to a certain city and return by car. He loses 4 hours if he goes both ways by train. How long would he have taken if he had traveled by car in both ways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22 hrs"
+        },
+        {
+          "label": "B",
+          "text": "18 hrs"
+        },
+        {
+          "label": "C",
+          "text": "16 hrs"
+        },
+        {
+          "label": "D",
+          "text": "20 hrs"
+        },
+        {
+          "label": "E",
+          "text": "13 hrs"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 212,
+      "text": "Jim filled his dog's bowl with dog food. Starting at 8:00 am, Jim's dog ate exactly once an hour, consuming exactly 1/3 of the dog food remaining in the bowl at each feeding session. Approximately, what percent of the original food was in the dog's bowl right before the dog began to eat at noon of the same day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "30%"
+        },
+        {
+          "label": "D",
+          "text": "35%"
+        },
+        {
+          "label": "E",
+          "text": "40%"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 213,
+      "text": "John conducted a survey about car color. 60% of the people who took the survey were women. Of the men who were surveyed, 75% preferred red cars over green cars. If 10 men liked green cars more than red, how many people took the survey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "120"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "200"
+        },
+        {
+          "label": "E",
+          "text": "80"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 214,
+      "text": "How many ways A boy can reach the top of stairs which contain 10 steps, when he can take either one or two steps every time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "88"
+        },
+        {
+          "label": "B",
+          "text": "89"
+        },
+        {
+          "label": "C",
+          "text": "90"
+        },
+        {
+          "label": "D",
+          "text": "91"
+        },
+        {
+          "label": "E",
+          "text": "92"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 215,
+      "text": "IF one gallon of soft drink is made of 40% orange juice and 60% water, how many additional gallons of orange juice must be mixed in order to make the orange juice 60% of the soft drink?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.5"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "1.25"
+        },
+        {
+          "label": "D",
+          "text": "1.5"
+        },
+        {
+          "label": "E",
+          "text": "2"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 216,
+      "text": "What is the units digit of 9^3-7?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "3"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "2"
+        },
+        {
+          "label": "E",
+          "text": "4"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 217,
+      "text": "5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/5"
+        },
+        {
+          "label": "B",
+          "text": "2/5"
+        },
+        {
+          "label": "C",
+          "text": "3/5"
+        },
+        {
+          "label": "D",
+          "text": "4/5"
+        },
+        {
+          "label": "E",
+          "text": "6/5"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 218,
+      "text": "On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "11"
+        },
+        {
+          "label": "C",
+          "text": "12"
+        },
+        {
+          "label": "D",
+          "text": "13"
+        },
+        {
+          "label": "E",
+          "text": "14"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 219,
+      "text": "On a test the passing students had an average of 83, while the failing students had an average\nof 55. If the overall class average was 76, what percent of the class passed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "44%"
+        },
+        {
+          "label": "B",
+          "text": "66%"
+        },
+        {
+          "label": "C",
+          "text": "68%"
+        },
+        {
+          "label": "D",
+          "text": "72%"
+        },
+        {
+          "label": "E",
+          "text": "75%"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 220,
+      "text": "The average wages of a worker during a fortnight comprising of 15 consecutive working days was $90 per day. During the first 7 days, his average wage was $87 per day and the average wage during the last 7 days was $92 per day. What was his wage on the 8th day?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$83"
+        },
+        {
+          "label": "B",
+          "text": "$92"
+        },
+        {
+          "label": "C",
+          "text": "$90"
+        },
+        {
+          "label": "D",
+          "text": "$97"
+        },
+        {
+          "label": "E",
+          "text": "$104"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 221,
+      "text": "Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "21"
+        },
+        {
+          "label": "B",
+          "text": "33"
+        },
+        {
+          "label": "C",
+          "text": "35"
+        },
+        {
+          "label": "D",
+          "text": "42"
+        },
+        {
+          "label": "E",
+          "text": "58"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 222,
+      "text": "If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40"
+        },
+        {
+          "label": "B",
+          "text": "60"
+        },
+        {
+          "label": "C",
+          "text": "70"
+        },
+        {
+          "label": "D",
+          "text": "80"
+        },
+        {
+          "label": "E",
+          "text": "90"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 223,
+      "text": "Anna has 4 books. If she decide to arrange the 4 books in every possible combination and moved just one book every minute, how long would it taken by her ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "22 minutes"
+        },
+        {
+          "label": "B",
+          "text": "30 minutes"
+        },
+        {
+          "label": "C",
+          "text": "15 minutes"
+        },
+        {
+          "label": "D",
+          "text": "24 minutes"
+        },
+        {
+          "label": "E",
+          "text": "35 minutes"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 224,
+      "text": "The manufacturer of tyres is offering a 20% discount on the price of its tubeless tyres. Some retailers are offering additional discounts. If a retailer offers an additional 20% discount, then what is the total discount available at that retailer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "28%"
+        },
+        {
+          "label": "D",
+          "text": "30%"
+        },
+        {
+          "label": "E",
+          "text": "36%"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 225,
+      "text": "A rectangular parking space is marked out by painting three of its sides. If the length of the unpainted side is 9 feet, and the sum of the lengths of the painted sides is 37 feet, then what is the area of the parking space in square feet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "46"
+        },
+        {
+          "label": "B",
+          "text": "81"
+        },
+        {
+          "label": "C",
+          "text": "126"
+        },
+        {
+          "label": "D",
+          "text": "252"
+        },
+        {
+          "label": "E",
+          "text": "None"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 226,
+      "text": "Peter wants to find 10 additional people to form a scavenger hunt team with him. If he has 10 friends who would like to participate, how many choices does he have for forming his team?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3"
+        },
+        {
+          "label": "E",
+          "text": "4"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 227,
+      "text": "The average weight of 10 oarsmen in a boat is increased by 1.8 kg when one of the crew, who weighs 53 kg is replaced by a new man. Find the weight of the new man.",
+      "options": [
+        {
+          "label": "A",
+          "text": "71"
+        },
+        {
+          "label": "B",
+          "text": "62"
+        },
+        {
+          "label": "C",
+          "text": "43"
+        },
+        {
+          "label": "D",
+          "text": "67"
+        },
+        {
+          "label": "E",
+          "text": "40"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 228,
+      "text": "A box contains a certain number of balls, marked successively from 1 to n. If there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected, then what is the value of n?",
+      "options": [
+        {
+          "label": "A",
+          "text": "11"
+        },
+        {
+          "label": "B",
+          "text": "10"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        },
+        {
+          "label": "E",
+          "text": "7"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 229,
+      "text": "If Q, a positive integer, has 5 factors, which of the following must be true about Q?\nI. Q is the square of a prime number.\nII. Q is the fourth power of a prime number.\nIII. Q is the product of two prime numbers.",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "III only"
+        },
+        {
+          "label": "C",
+          "text": "II only"
+        },
+        {
+          "label": "D",
+          "text": "I and II only"
+        },
+        {
+          "label": "E",
+          "text": "I and III only"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 230,
+      "text": "If 6x - y = 24 and y = 3x, what is the value of x?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "9"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "11"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 231,
+      "text": "You can rent DVDs at a local video store for $4.00 per movie without a membership. However, if you purchase a membership for $7.00 per month, you can rent DVDs for $2.00 each. What is the minimum amount of DVDs you would have to rent to make it worth it to purchase the membership?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        },
+        {
+          "label": "E",
+          "text": "5"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 232,
+      "text": "A bag of cat food weighs 7 pounds and 4 ounces. How much does the bag weigh in ounces?",
+      "options": [
+        {
+          "label": "A",
+          "text": "108"
+        },
+        {
+          "label": "B",
+          "text": "112"
+        },
+        {
+          "label": "C",
+          "text": "116"
+        },
+        {
+          "label": "D",
+          "text": "120"
+        },
+        {
+          "label": "E",
+          "text": "124"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 233,
+      "text": "By himself, Jack can clean a yacht in 12 hours. On a particular day, he happens to finish two-thirds of the work. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do. How long does it take Jill to finish the remaining work?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "22"
+        },
+        {
+          "label": "D",
+          "text": "50"
+        },
+        {
+          "label": "E",
+          "text": "20"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 234,
+      "text": "Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2%"
+        },
+        {
+          "label": "B",
+          "text": "8%"
+        },
+        {
+          "label": "C",
+          "text": "5%"
+        },
+        {
+          "label": "D",
+          "text": "10%"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 235,
+      "text": "In a sale, a discount of 20% was available on all the articles. If Vinit purchased an article for Rs.4578 in the sale. What was the actual selling price of the article?",
+      "options": [
+        {
+          "label": "A",
+          "text": "s.5050"
+        },
+        {
+          "label": "B",
+          "text": "s.5723"
+        },
+        {
+          "label": "C",
+          "text": "s.5040"
+        },
+        {
+          "label": "D",
+          "text": "s.4950"
+        },
+        {
+          "label": "E",
+          "text": "s.4870"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 236,
+      "text": "If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?",
+      "options": [
+        {
+          "label": "A",
+          "text": "AB/2700"
+        },
+        {
+          "label": "B",
+          "text": "27/AB"
+        },
+        {
+          "label": "C",
+          "text": "AB/270"
+        },
+        {
+          "label": "D",
+          "text": "2700/AB"
+        },
+        {
+          "label": "E",
+          "text": "100AB/27"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 237,
+      "text": "A bag contains 11 candy bars: three cost 50 cents each, four cost $1 each and four cost $2\neach. How many ways can 3 candy bars be selected from the 11 candy bars so that the total cost is more than $4?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8"
+        },
+        {
+          "label": "B",
+          "text": "28"
+        },
+        {
+          "label": "C",
+          "text": "46"
+        },
+        {
+          "label": "D",
+          "text": "66"
+        },
+        {
+          "label": "E",
+          "text": "70"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 238,
+      "text": "At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.)",
+      "options": [
+        {
+          "label": "A",
+          "text": "120"
+        },
+        {
+          "label": "B",
+          "text": "19"
+        },
+        {
+          "label": "C",
+          "text": "180"
+        },
+        {
+          "label": "D",
+          "text": "420"
+        },
+        {
+          "label": "E",
+          "text": "460"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 239,
+      "text": "Exactly 2/5th of the children in a certain class are girls. If there are 100 boys in the class, how many girls are in the class?",
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "100"
+        },
+        {
+          "label": "C",
+          "text": "150"
+        },
+        {
+          "label": "D",
+          "text": "200"
+        },
+        {
+          "label": "E",
+          "text": "70"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 240,
+      "text": "Two numbers are said to be relatively prime if they share no common positive factors other than 1. Set S contains the set of integers from 1 to 1,000, inclusive. What is the probability that a number chosen from S is relatively prime to 1,000?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5/7"
+        },
+        {
+          "label": "B",
+          "text": "3/5"
+        },
+        {
+          "label": "C",
+          "text": "4/7"
+        },
+        {
+          "label": "D",
+          "text": "2/5"
+        },
+        {
+          "label": "E",
+          "text": "2/7"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 241,
+      "text": "At the of his one-year investment, Charles received $54,080, including interest and principal from a certain investment. If the investment paid an annual interest of 8 percent compounded semi-annually, which of the following is the amount of money that Charles originally invested?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$45,000"
+        },
+        {
+          "label": "B",
+          "text": "$50,000"
+        },
+        {
+          "label": "C",
+          "text": "$54,000"
+        },
+        {
+          "label": "D",
+          "text": "$59,000"
+        },
+        {
+          "label": "E",
+          "text": "$62,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 242,
+      "text": "Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?",
+      "options": [
+        {
+          "label": "A",
+          "text": "45"
+        },
+        {
+          "label": "B",
+          "text": "48"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "55"
+        },
+        {
+          "label": "E",
+          "text": "58"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 243,
+      "text": "If one third of 3/4 of a number is 21. Then, find the number?",
+      "options": [
+        {
+          "label": "A",
+          "text": "84"
+        },
+        {
+          "label": "B",
+          "text": "66"
+        },
+        {
+          "label": "C",
+          "text": "28"
+        },
+        {
+          "label": "D",
+          "text": "19"
+        },
+        {
+          "label": "E",
+          "text": "11"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 244,
+      "text": "If m > 0, y > 0, and x is m percent of 4y, then, in terms of y, m is what percentage of x?",
+      "options": [
+        {
+          "label": "A",
+          "text": "y/400"
+        },
+        {
+          "label": "B",
+          "text": "4y"
+        },
+        {
+          "label": "C",
+          "text": "50y"
+        },
+        {
+          "label": "D",
+          "text": "2500/y"
+        },
+        {
+          "label": "E",
+          "text": "5000/y"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 245,
+      "text": "A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.",
+      "options": [
+        {
+          "label": "A",
+          "text": "54"
+        },
+        {
+          "label": "B",
+          "text": "24"
+        },
+        {
+          "label": "C",
+          "text": "48"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        },
+        {
+          "label": "E",
+          "text": "36"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 246,
+      "text": "There is a 90% chance that a registered voter in Burghtown voted in the last election. If five registered voters are chosen at random, what is the approximate likelihood that exactly four of them voted in the last election?",
+      "options": [
+        {
+          "label": "A",
+          "text": "26.2%"
+        },
+        {
+          "label": "B",
+          "text": "32.8%"
+        },
+        {
+          "label": "C",
+          "text": "43.7%"
+        },
+        {
+          "label": "D",
+          "text": "59.0%"
+        },
+        {
+          "label": "E",
+          "text": "65.6%"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 247,
+      "text": "Alice wants to put up fencing around three sides of her rectangular yard and leave one side of 10 meters unfenced. If the yard has an area of 240 square meters, how many meters of fencing does she need?",
+      "options": [
+        {
+          "label": "A",
+          "text": "58"
+        },
+        {
+          "label": "B",
+          "text": "62"
+        },
+        {
+          "label": "C",
+          "text": "66"
+        },
+        {
+          "label": "D",
+          "text": "70"
+        },
+        {
+          "label": "E",
+          "text": "74"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 248,
+      "text": "John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,980"
+        },
+        {
+          "label": "B",
+          "text": "2,020"
+        },
+        {
+          "label": "C",
+          "text": "2,100"
+        },
+        {
+          "label": "D",
+          "text": "2,200"
+        },
+        {
+          "label": "E",
+          "text": "1,900"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 249,
+      "text": "What is the sum of three consecutive integers whose product can be expressed as 727+728+729.",
+      "options": [
+        {
+          "label": "A",
+          "text": "37"
+        },
+        {
+          "label": "B",
+          "text": "38"
+        },
+        {
+          "label": "C",
+          "text": "36"
+        },
+        {
+          "label": "D",
+          "text": "30"
+        },
+        {
+          "label": "E",
+          "text": "39"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 250,
+      "text": "The capacity of a tank of dimensions (8 m × 6 m × 2.5 m) is",
+      "options": [
+        {
+          "label": "A",
+          "text": "120 litres"
+        },
+        {
+          "label": "B",
+          "text": "1200 litres"
+        },
+        {
+          "label": "C",
+          "text": "12000 litres"
+        },
+        {
+          "label": "D",
+          "text": "120000 litres"
+        },
+        {
+          "label": "E",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 251,
+      "text": "The population of a city is 5265526. If there are 4169516 adults in the city, how many children are there in the city?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1095961"
+        },
+        {
+          "label": "B",
+          "text": "1065961"
+        },
+        {
+          "label": "C",
+          "text": "1085961"
+        },
+        {
+          "label": "D",
+          "text": "1097961"
+        },
+        {
+          "label": "E",
+          "text": "1096061"
+        }
+      ],
+      "correct_label": "E",
+      "split": "test"
+    },
+    {
+      "item_id": 252,
+      "text": "It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour?",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "32"
+        },
+        {
+          "label": "C",
+          "text": "35"
+        },
+        {
+          "label": "D",
+          "text": "36"
+        },
+        {
+          "label": "E",
+          "text": "40"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 253,
+      "text": "Two friends are eating a jar full of candies. Had P eaten alone, it would have taken him 10 minutes to finish the candies in the jar. Had Q eaten alone, it would have taken her 5 minutes to finish half the jar. Since both of them are eating simultaneously, how many minutes would it take them to empty the jar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "6"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        },
+        {
+          "label": "E",
+          "text": "8"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 254,
+      "text": "A grocery sells a bag of ice for $1.25, and makes 20% profit. If it sells 500 bags of ice, how much total profit does it make?",
+      "options": [
+        {
+          "label": "A",
+          "text": "125"
+        },
+        {
+          "label": "B",
+          "text": "150"
+        },
+        {
+          "label": "C",
+          "text": "225"
+        },
+        {
+          "label": "D",
+          "text": "250"
+        },
+        {
+          "label": "E",
+          "text": "275"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

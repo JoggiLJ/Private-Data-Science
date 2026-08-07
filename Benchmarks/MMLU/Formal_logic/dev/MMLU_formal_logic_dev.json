@@ -1,0 +1,147 @@
+{
+  "version": "mmlu-formal-logic-dev-v1",
+  "source": "MMLU (Measuring Massive Multitask Language Understanding), formal_logic subject, dev split | dataset cais/mmlu on Hugging Face | exported 2026-07-01.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": " Select the best translation into predicate logic: No people drive on Mars.",
+      "options": [
+        {
+          "label": "A",
+          "text": "~Pd"
+        },
+        {
+          "label": "B",
+          "text": "(∀x)(Px ∨ ~Dx)"
+        },
+        {
+          "label": "C",
+          "text": "(∀x)(Px ⊃ ~Dx)"
+        },
+        {
+          "label": "D",
+          "text": "~Dp"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 12,
+      "token_count": 14,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "Select the best translation into predicate logic.George borrows Hector's lawnmower. (g: George; h: Hector; l: Hector's lawnmower; Bxyx: x borrows y from z)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blgh"
+        },
+        {
+          "label": "B",
+          "text": "Bhlg"
+        },
+        {
+          "label": "C",
+          "text": "Bglh"
+        },
+        {
+          "label": "D",
+          "text": "Bghl"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 23,
+      "token_count": 45,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": " Select the best English interpretation of the given arguments in predicate logic.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marina is a dancer. Some weaklings are not dancers. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball."
+        },
+        {
+          "label": "B",
+          "text": "Marina is a dancer. No weakling is a dancer. Everything is either a weakling or plays volleyball. So something plays volleyball."
+        },
+        {
+          "label": "C",
+          "text": "Marina is a dancer. Some weaklings are not dancers. Everything is either a weakling or plays volleyball. So something plays volleyball."
+        },
+        {
+          "label": "D",
+          "text": "Marina is a dancer. No weakling is a dancer. Either everything is a weakling or Georgia plays volleyball. So something plays volleyball."
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 21,
+      "token_count": 46,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nE ⊃ (F · E) and ~E · F",
+      "options": [
+        {
+          "label": "A",
+          "text": "Logically equivalent"
+        },
+        {
+          "label": "B",
+          "text": "Contradictory"
+        },
+        {
+          "label": "C",
+          "text": "Neither logically equivalent nor contradictory, but consistent"
+        },
+        {
+          "label": "D",
+          "text": "Inconsistent"
+        }
+      ],
+      "correct_label": "C",
+      "split": "dev",
+      "question_word_count": 46,
+      "token_count": 58,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": " Which of the given formulas of PL is the best symbolization of the following sentence?\nTurtles live long lives and are happy creatures, unless they are injured.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(L • H) ≡ I"
+        },
+        {
+          "label": "B",
+          "text": "(L • H) ∨ I"
+        },
+        {
+          "label": "C",
+          "text": "L • (H ∨ I)"
+        },
+        {
+          "label": "D",
+          "text": "L • (H ⊃ R)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "dev",
+      "question_word_count": 27,
+      "token_count": 32,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 25.8,
+    "avg_token_count": 39.0,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.35353711247444153
+  }
+}

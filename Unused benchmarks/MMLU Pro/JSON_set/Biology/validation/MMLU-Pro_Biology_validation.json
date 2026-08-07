@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_biology_validation",
+  "description": "MMLU-Pro benchmark items, category: biology, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 20,
+      "text": "Which of the following represents an accurate statement concerning arthropods?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They possess an exoskeleton composed primarily of peptidoglycan."
+        },
+        {
+          "label": "B",
+          "text": "They possess an open circulatory system with a dorsal heart."
+        },
+        {
+          "label": "C",
+          "text": "They are members of a biologically unsuccessful phylum incapable of exploiting diverse habitats and nutrition sources."
+        },
+        {
+          "label": "D",
+          "text": "They lack paired, jointed appendages."
+        },
+        {
+          "label": "E",
+          "text": "N/A"
+        },
+        {
+          "label": "F",
+          "text": "N/A"
+        },
+        {
+          "label": "G",
+          "text": "N/A"
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 21,
+      "text": "In a given population, 1 out of every 400 people has a cancer caused by a completely recessive allele, b. Assuming the population is in Hardy-Weinberg equilibrium, which of the following is the expected proportion of individuals who carry the b allele but are not expected to develop the cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "19/400"
+        },
+        {
+          "label": "B",
+          "text": "1/400"
+        },
+        {
+          "label": "C",
+          "text": "40/400"
+        },
+        {
+          "label": "D",
+          "text": "38/400"
+        },
+        {
+          "label": "E",
+          "text": "2/400"
+        },
+        {
+          "label": "F",
+          "text": "1/200"
+        },
+        {
+          "label": "G",
+          "text": "20/400"
+        },
+        {
+          "label": "H",
+          "text": "50/400"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "D",
+      "split": "validation"
+    },
+    {
+      "item_id": 22,
+      "text": "A mutation in a bacterial enzyme changed a previously polar amino acid into a nonpolar amino acid. This amino acid was located at a site distant from the enzyme’s active site. How might this mutation alter the enzyme’s substrate specificity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By changing the enzyme’s pH optimum"
+        },
+        {
+          "label": "B",
+          "text": "By changing the enzyme's molecular weight"
+        },
+        {
+          "label": "C",
+          "text": "An amino acid change away from the active site increases the enzyme's substrate specificity."
+        },
+        {
+          "label": "D",
+          "text": "By changing the shape of the protein"
+        },
+        {
+          "label": "E",
+          "text": "By changing the enzyme's temperature optimum"
+        },
+        {
+          "label": "F",
+          "text": "By altering the enzyme's ability to be denatured"
+        },
+        {
+          "label": "G",
+          "text": "By changing the enzyme’s location in the cell"
+        },
+        {
+          "label": "H",
+          "text": "By changing the enzyme's color"
+        },
+        {
+          "label": "I",
+          "text": "An amino acid change away from the active site cannot alter the enzyme’s substrate specificity."
+        },
+        {
+          "label": "J",
+          "text": "By altering the enzyme's rate of reaction"
+        }
+      ],
+      "correct_label": "D",
+      "split": "validation"
+    },
+    {
+      "item_id": 23,
+      "text": "Which of the following is not a way to form recombinant DNA?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Translation"
+        },
+        {
+          "label": "B",
+          "text": "Conjugation"
+        },
+        {
+          "label": "C",
+          "text": "Specialized transduction"
+        },
+        {
+          "label": "D",
+          "text": "Transformation"
+        },
+        {
+          "label": "E",
+          "text": "N/A"
+        },
+        {
+          "label": "F",
+          "text": "N/A"
+        },
+        {
+          "label": "G",
+          "text": "N/A"
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 24,
+      "text": "Which of the following is not known to be involved in the control of cell division?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Microtubules"
+        },
+        {
+          "label": "B",
+          "text": "Checkpoints"
+        },
+        {
+          "label": "C",
+          "text": "DNA polymerase"
+        },
+        {
+          "label": "D",
+          "text": "Centrosomes"
+        },
+        {
+          "label": "E",
+          "text": "Cyclins"
+        },
+        {
+          "label": "F",
+          "text": "Mitochondria"
+        },
+        {
+          "label": "G",
+          "text": "Protein kinases"
+        },
+        {
+          "label": "H",
+          "text": "Fibroblast cells"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "H",
+      "split": "validation"
+    }
+  ]
+}

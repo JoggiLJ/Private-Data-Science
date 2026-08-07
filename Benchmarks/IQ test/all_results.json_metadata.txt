@@ -1,0 +1,31 @@
+Question: question-01.png, Word Count: 766, Token Count: 1234, Number of Alternatives: 8
+Question: question-02.png, Word Count: 790, Token Count: 1339, Number of Alternatives: 8
+Question: question-03.png, Word Count: 835, Token Count: 1558, Number of Alternatives: 8
+Question: question-04.png, Word Count: 808, Token Count: 1419, Number of Alternatives: 8
+Question: question-05.png, Word Count: 796, Token Count: 1384, Number of Alternatives: 8
+Question: question-06.png, Word Count: 838, Token Count: 1562, Number of Alternatives: 8
+Question: question-07.png, Word Count: 788, Token Count: 1331, Number of Alternatives: 8
+Question: question-08.png, Word Count: 798, Token Count: 1376, Number of Alternatives: 8
+Question: question-09.png, Word Count: 798, Token Count: 1370, Number of Alternatives: 8
+Question: question-10.png, Word Count: 832, Token Count: 1540, Number of Alternatives: 8
+Question: question-11.png, Word Count: 830, Token Count: 1515, Number of Alternatives: 8
+Question: question-12.png, Word Count: 836, Token Count: 1553, Number of Alternatives: 8
+Question: question-13.png, Word Count: 792, Token Count: 1339, Number of Alternatives: 8
+Question: question-14.png, Word Count: 846, Token Count: 1624, Number of Alternatives: 8
+Question: question-15.png, Word Count: 830, Token Count: 1514, Number of Alternatives: 8
+Question: question-16.png, Word Count: 796, Token Count: 1367, Number of Alternatives: 8
+Question: question-17.png, Word Count: 878, Token Count: 1746, Number of Alternatives: 8
+Question: question-18.png, Word Count: 844, Token Count: 1592, Number of Alternatives: 8
+Question: question-19.png, Word Count: 798, Token Count: 1376, Number of Alternatives: 8
+Question: question-20.png, Word Count: 910, Token Count: 1898, Number of Alternatives: 8
+Question: question-21.png, Word Count: 894, Token Count: 1818, Number of Alternatives: 8
+Question: question-22.png, Word Count: 834, Token Count: 1548, Number of Alternatives: 8
+Question: question-23.png, Word Count: 798, Token Count: 1378, Number of Alternatives: 8
+Question: question-24.png, Word Count: 862, Token Count: 1704, Number of Alternatives: 8
+Question: question-25.png, Word Count: 798, Token Count: 1394, Number of Alternatives: 8
+
+Avg word count: 823.8
+Avg token count: 1499.16
+Avg alternatives count: 8.0
+
+Average similarity (excluding self-similarity): 1.0000001192092896

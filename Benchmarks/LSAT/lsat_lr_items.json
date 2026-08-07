@@ -1,0 +1,3042 @@
+{
+  "version": "lsat-lr-v1",
+  "source": "LSAT Logical Reasoning corpus (101 items: Jan 2023, Feb 2024, Apr 2025 official sections). Official answer keys. word_count = words in text (context + question prompt), options excluded.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Montoya: Many industrial chemical processes that currently use organic solvents could use ionic liquids instead. Ionic liquids are less hazardous to workers and generate less air pollution. Moreover, some reactions occur at a faster rate or yield smaller quantities of unwanted by-products when ionic liquids are used. So chemical companies should begin using ionic liquids for many reactions that currently use organic solvents. Peterson: Ionic liquids cost many times as much as organic solvents, so they are currently not practical for the chemical industry. Of the following, which one, if true, is the strongest counter Montoya could make to Peterson's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cost of organic solvents is only one of many expenses involved in industrial production of chemicals."
+        },
+        {
+          "label": "B",
+          "text": "New methods for removing by-products of chemical reactions have recently been developed."
+        },
+        {
+          "label": "C",
+          "text": "The chemical industry has historically been quick to adopt new techniques that increase the rate at which reactions occur."
+        },
+        {
+          "label": "D",
+          "text": "Ionic liquids can be reused many times, whereas organic solvents can be used only once."
+        },
+        {
+          "label": "E",
+          "text": "For the sake of public relations, companies will sometimes use a more environmentally friendly process even if it is slightly more expensive."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 101,
+      "token_count": 124,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 2,
+      "text": "The relationship between money and the things it allows one to purchase is like that between a tool and the tasks it enables its user to accomplish. Therefore, since tools are useless if there is no task that needs to be done, _______. Which one of the following most logically completes the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "money should be thought of as no more useful than a tool"
+        },
+        {
+          "label": "B",
+          "text": "any tool that enables its user to accomplish a task is valuable"
+        },
+        {
+          "label": "C",
+          "text": "money is valueless in a world where nothing is for sale"
+        },
+        {
+          "label": "D",
+          "text": "money should be regarded as a tool rather than a commodity"
+        },
+        {
+          "label": "E",
+          "text": "the value of money derives from the tasks it allows one to accomplish"
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 53,
+      "token_count": 58,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 3,
+      "text": "James: The world is increasingly divided between the computer literate and the computer illiterate. The economic gap between rich and poor is partly responsible for causing this division, but the economic gap will widen because of the increasing importance of computer literacy. Ariel: I disagree. Because of businesses' increasing need for computer-literate employees, companies will have to train nearly all workers in computer skills. This will lessen the division between the computer literate and the computer illiterate. So whatever might cause the economic gap between rich and poor to widen in the future, it won't be the importance of computer literacy. James and Ariel disagree over whether",
+      "options": [
+        {
+          "label": "A",
+          "text": "the economic gap between rich and poor will widen"
+        },
+        {
+          "label": "B",
+          "text": "the economic gap between rich and poor is now partly responsible for causing the division between the computer literate and the computer illiterate"
+        },
+        {
+          "label": "C",
+          "text": "businesses' need for computer-literate employees will increase"
+        },
+        {
+          "label": "D",
+          "text": "the economic gap between rich and poor will widen as a result of the increasing importance of computer literacy"
+        },
+        {
+          "label": "E",
+          "text": "companies will have to train their employees in computer skills"
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 107,
+      "token_count": 126,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 4,
+      "text": "Overcrowding inclines human beings toward aggressive, competitive behavior. Just consider the behavior of normally considerate people driving in rush-hour traffic or attending crowded sporting events. This shows that, as world population continues to grow, aggressive behavior, including war and crime, will become more frequent and severe. Each of the following, if true, strengthens the argument EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The frequency and severity of overcrowding in the past have been roughly proportional to the size of world population."
+        },
+        {
+          "label": "B",
+          "text": "The frequency and severity of war and crime have generally increased in the past century, and world population also increased during that period."
+        },
+        {
+          "label": "C",
+          "text": "Some forms of aggressive, competitive behavior, including war, tend to occur even in situations in which human beings are not overcrowded."
+        },
+        {
+          "label": "D",
+          "text": "With respect to its effect on behavior, rush-hour traffic is an example of a situation in which human beings are overcrowded."
+        },
+        {
+          "label": "E",
+          "text": "Most mammals inhabiting a given region exhibit increasingly aggressive, competitive behavior as their population density in that region increases."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 56,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 5,
+      "text": "Gahagan's Greenstore sells a large volume of plants. The vast majority are sold wholesale to commercial buyers, most of them to landscape contractors. Gahagan's also sells gardening implements, most of which are purchased retail by home gardeners. Which one of the following is most strongly supported by the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gahagan's makes a larger profit from the sale of plants than from the sale of all other products combined."
+        },
+        {
+          "label": "B",
+          "text": "Most of those who make regular wholesale purchases from Gahagan's have never purchased gardening implements from Gahagan's."
+        },
+        {
+          "label": "C",
+          "text": "There are more commercial buyers than home gardeners among Gahagan's regular customers."
+        },
+        {
+          "label": "D",
+          "text": "Gahagan's sells a few gardening implements wholesale to landscape contractors."
+        },
+        {
+          "label": "E",
+          "text": "A plant purchased from Gahagan's is more likely to have been purchased by a landscape contractor than by a home gardener."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 50,
+      "token_count": 64,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 6,
+      "text": "Anthropologist: During the last ice age, nomadic communities probably needed at least 15 or 20 members to survive, and they were generally not much larger than this. Ice-age nomads are commonly portrayed as primarily big-game hunters, but most of their food must have in fact come from other sources, such as small game and plants. Hunting large animals is a dangerous activity that would have risked the lives of several members of the community. Which one of the following most accurately describes the role played in the argumentation by the statement that ice-age nomads are commonly portrayed as primarily big-game hunters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a premise used as support for the overall conclusion of the anthropologist's argument."
+        },
+        {
+          "label": "B",
+          "text": "It is a clarification of one of the premises of the anthropologist's argument."
+        },
+        {
+          "label": "C",
+          "text": "It is an objection that the anthropologist raises against an opposing theory."
+        },
+        {
+          "label": "D",
+          "text": "It is the overall conclusion of the anthropologist's argument."
+        },
+        {
+          "label": "E",
+          "text": "It describes a claim that the anthropologist attempts to refute."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 101,
+      "token_count": 123,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 7,
+      "text": "A truly visual art form—for example, painting—is one in which time plays no essential role. Though it takes time to look at a painting, there is no fixed order in which one must look at its parts, and no fixed amount of time one must spend examining it. In contrast, most art forms, such as poetry and music, are essentially temporal; that is, they require performance, which means they must be experienced in a fixed order and over a roughly fixed amount of time. Poetry, for instance, though often written down and thus seemingly a visual art, actually must be performed, even if the performance is only a silent reading to oneself. If the statements above are true, then on the basis of them which one of the following must be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Truly visual art forms do not essentially involve performance."
+        },
+        {
+          "label": "B",
+          "text": "Poetry is less like music than it is like painting."
+        },
+        {
+          "label": "C",
+          "text": "Spatiality and temporality are mutually exclusive components of art forms."
+        },
+        {
+          "label": "D",
+          "text": "Art forms that must be examined for an extended period of time in order to be understood are essentially temporal."
+        },
+        {
+          "label": "E",
+          "text": "Anything capable of being performed is either musical or poetic, or both musical and poetic."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 132,
+      "token_count": 153,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 8,
+      "text": "Actors generally learn their lines by focusing on the meanings of the words, the motivations of the characters uttering them, and the physical and emotional dimensions of their own performances. It seems likely that memory can be enhanced by factors such as emotion, action, and context, so this approach is probably more effective than mere rote memorization. Each of the following, if true, adds support for the conclusion drawn above EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Test subjects are best able to remember items on a shopping list when they are also told how those items will be used."
+        },
+        {
+          "label": "B",
+          "text": "The actors who are able to deliver the greatest amount of dialogue most effortlessly are those who have spent the most time learning their lines."
+        },
+        {
+          "label": "C",
+          "text": "Actors are more readily able to remember lines learned while making an appropriate motion—for example, walking across a stage—than lines learned without an accompanying action."
+        },
+        {
+          "label": "D",
+          "text": "People who try to memorize information by imagining that they are conveying it to somebody else who needs the information show higher retention than those who try to memorize the material by rote."
+        },
+        {
+          "label": "E",
+          "text": "People with no acting experience are able to memorize and deliver lines from a play more accurately after they have read and understood the entire play."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 71,
+      "token_count": 86,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 9,
+      "text": "Journalists often claim that their investigation of the private lives of political leaders is an effort to improve society by forcing the powerful to conform to the same standards of conduct as the less powerful. In reality, however, the tactic is detrimental to society. It makes public figures more concerned with mere appearances, and makes everyone else cynical about the character of their leaders. The claim that journalistic investigation of the private lives of political leaders is an effort to improve society plays which one of the following roles in the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a claim that the argument attempts to refute."
+        },
+        {
+          "label": "B",
+          "text": "It mentions a justification that is sometimes offered for a practice that, the argument concludes, has undesirable consequences."
+        },
+        {
+          "label": "C",
+          "text": "It is cited as evidence often given for an assertion that the argument concludes is false."
+        },
+        {
+          "label": "D",
+          "text": "It describes a phenomenon that, according to the argument, is much less damaging to society than journalists often assume."
+        },
+        {
+          "label": "E",
+          "text": "It gives an example of a phenomenon that the argument contends has very different effects from those it is generally assumed by everyone to have."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 92,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 10,
+      "text": "While the population of city X is approximately one-half that of city Y, the number of city X residents who are patients in hospitals is only one-fourth that of the number of city Y residents who are patients in hospitals. Each of the following, if true, contributes to an explanation of the difference in the number of residents who are patients in hospitals EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Preventive health programs are more prevalent in city X than in city Y."
+        },
+        {
+          "label": "B",
+          "text": "The hospitals in city X are noted as leaders in employing outpatient treatment wherever possible."
+        },
+        {
+          "label": "C",
+          "text": "The drinking water of city Y has dangerously high levels of pollutants, whereas this is not the case for city X."
+        },
+        {
+          "label": "D",
+          "text": "The hospitals in city Y are of very high quality, and residents of city X are often sent there for treatment."
+        },
+        {
+          "label": "E",
+          "text": "The lifestyle in city X is significantly less stressful than the lifestyle in city Y."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 64,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 11,
+      "text": "A law is futile unless most of the parties subject to it abide by it willingly. Thus, there can be no comprehensive international solution to the problem of pollution, since few nations would willingly give up their power over their own industries. Which one of the following is an assumption required by the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A comprehensive solution to the problems of pollution would require major changes in international law."
+        },
+        {
+          "label": "B",
+          "text": "Some nations would be required to give up some of their power over their own industries as part of any comprehensive solution to the problem of pollution."
+        },
+        {
+          "label": "C",
+          "text": "If most nations were willing to abide by international law, then there could be a comprehensive solution to the problem of pollution."
+        },
+        {
+          "label": "D",
+          "text": "The problems created by pollution affect most of the world's nations, but the pollution itself is produced by the industries of relatively few nations."
+        },
+        {
+          "label": "E",
+          "text": "Most of the current international laws concerning pollution do not require nations to give up any of their power over their own industries."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 54,
+      "token_count": 59,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 12,
+      "text": "Ecologist: El Niño, a global weather phenomenon that occurs once every several years, is expected to become more frequent in coming decades due to the global warming caused by air pollution. In region T, El Niño causes heavy winter rainfall. Since rodent populations typically increase during long periods of sustained rain, it is likely that average rodent populations in region T will also increase in coming decades. Which one of the following, if true, would most weaken the ecologist's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In region T, there is typically much less rainfall in summer than there is in winter."
+        },
+        {
+          "label": "B",
+          "text": "Rodent populations in region T often diminish during long periods in which there are no heavy rains."
+        },
+        {
+          "label": "C",
+          "text": "In many regions that, on average, experience substantially more winter rainfall than region T does, average rodent populations are considerably lower than they are in region T."
+        },
+        {
+          "label": "D",
+          "text": "In region T, winters marked by relatively high rainfall have usually not been marked by long periods of sustained rain."
+        },
+        {
+          "label": "E",
+          "text": "The global warming caused by air pollution produces a number of effects, other than the increase in the frequency of El Niño, that could affect rodent populations."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 80,
+      "token_count": 98,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 13,
+      "text": "If the natural history museum stays within this year's budget, it will be unable to stay within next year's budget, for renovating next year will make the museum's expenditures exceed next year's very tight budget. After all, the museum will have to renovate next year if it does not do so this year, because work from previous renovations is deteriorating rapidly. The argument's conclusion can be properly inferred if which one of the following is assumed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The museum will stay within this year's budget."
+        },
+        {
+          "label": "B",
+          "text": "This year's budget is less than next year's budget."
+        },
+        {
+          "label": "C",
+          "text": "The museum will not renovate next year."
+        },
+        {
+          "label": "D",
+          "text": "The museum will exceed this year's budget if it renovates this year."
+        },
+        {
+          "label": "E",
+          "text": "The museum will stay within this year's budget if it does not renovate this year."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 76,
+      "token_count": 91,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 14,
+      "text": "Science writer: Scientists often accept a scientific argument largely for social reasons, such as the argument's acceptance by other scientists or the prestige of the scientist making the argument. But this is not at all to the sciences' detriment, for similar social factors strongly influence every human endeavor. The science writer's argument is most vulnerable to criticism on the grounds that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "takes for granted that the only legitimate reasons for accepting an argument are social reasons"
+        },
+        {
+          "label": "B",
+          "text": "takes for granted that whether a behavior obstructs the achievement of a particular endeavor's goals depends on the prevalence of comparable behaviors in other endeavors"
+        },
+        {
+          "label": "C",
+          "text": "fails to consider the possibility that scientists who accept an argument largely for social reasons also generally consider relevant scientific evidence before accepting the argument"
+        },
+        {
+          "label": "D",
+          "text": "fails to consider the possibility that many scientists are unaware that they usually accept scientific arguments largely for social reasons"
+        },
+        {
+          "label": "E",
+          "text": "takes for granted that a behavior that is not detrimental to the sciences will not be detrimental to any other human endeavor"
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 62,
+      "token_count": 70,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 15,
+      "text": "Historian: Scholars writing histories of an era's business practices must, of course, analyze the practices and strategies employed by firms of that era. But historians probably study successful firms more frequently than they do unsuccessful firms. Therefore, it is reasonable to think that business histories overestimate the successes of past businesses. Which one of the following would, if true, most support the historian's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The specific factors that cause businesses to do poorly are often not inferable from historical records of business activity."
+        },
+        {
+          "label": "B",
+          "text": "Those who study past first-person accounts of business strategies inevitably approach them with certain present-day cultural assumptions."
+        },
+        {
+          "label": "C",
+          "text": "The many public legal documents that firms have had to file provide a record that is more objective than that provided by the firms' own internal documents."
+        },
+        {
+          "label": "D",
+          "text": "The records of businesses that have gone bankrupt are destroyed more frequently than the records of other businesses."
+        },
+        {
+          "label": "E",
+          "text": "Scholars who study businesses of the past are usually trained in the effective techniques of business administration."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 64,
+      "token_count": 78,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 16,
+      "text": "Manager: I plan to put together a successful marketing team by choosing highly skilled, independent workers who prefer not to work as part of a tightly knit group. This strategy is bound to succeed because recent research shows that when a common purpose is shared, the flexibility of loosely bound groups enables them to function better than tightly knit ones. The reasoning in the manager's argument is most vulnerable to criticism on the grounds that the argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "presumes that factors that are collectively sufficient for success are also individually necessary for success"
+        },
+        {
+          "label": "B",
+          "text": "relies on research that has no apparent relevance to the manager's proposed plan"
+        },
+        {
+          "label": "C",
+          "text": "takes for granted that flexible teams always function significantly better than inflexible teams"
+        },
+        {
+          "label": "D",
+          "text": "overlooks the possibility that people who prefer not to work in tightly knit groups may have difficulty committing to a common purpose"
+        },
+        {
+          "label": "E",
+          "text": "confuses the goals that the manager is seeking to achieve with the goals that must be held in common by the members of the marketing team"
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 77,
+      "token_count": 83,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 17,
+      "text": "Different cultures have independently reached the conclusion that ingesting honey daily promotes vigor and longevity. Thus, unless strong evidence emerges contradicting this conclusion, we should assume that it is true. The pattern of reasoning in which one of the following is most similar to that in the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Three engineers have inspected the bridge, and each has independently concluded that it is safe. So unless good evidence emerges that the bridge is unsafe, it should be considered safe."
+        },
+        {
+          "label": "B",
+          "text": "Numerous studies have concluded that most people benefit from weight-training exercises. Thus, since no other form of exercise has been shown to be more beneficial, most people should be encouraged to exercise with weights."
+        },
+        {
+          "label": "C",
+          "text": "The members of an independent group of scientists have concluded that human activities over the last century have disrupted global weather patterns. Thus, unless these scientists are working from questionable assumptions, we should conclude that their assessment is correct."
+        },
+        {
+          "label": "D",
+          "text": "Three theater critics, none of whom had any influence on the others, said that Tales in Tokyo was not worth the price of admission. Thus, unless each of these critics happened to attend the play on the same night, it is unlikely that the play will be successful."
+        },
+        {
+          "label": "E",
+          "text": "Several different physicians examined Janet, and none could agree on a diagnosis. Therefore, unless new evidence shows that Janet is unhealthy, she should instead assume that she is healthy."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 49,
+      "token_count": 56,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 18,
+      "text": "Land developer: In a certain nation, stringent regulations prevent private landowners from building on their land if any endangered species is present on it. These regulations make the presence of endangered species a severe financial liability for many landowners and thereby discourage the landowners from protecting the endangered species on their land. Therefore, endangered species would very likely not be harmed by removal of the regulations on land development. The reasoning in the land developer's argument is most vulnerable to criticism on which one of the following grounds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It confuses a condition whose presence would be required in order for a certain result to be produced with a condition whose presence would be required to prevent that result from occurring."
+        },
+        {
+          "label": "B",
+          "text": "It justifies a claim containing a value judgment solely on the basis of factual claims that do not in themselves entail that value judgment."
+        },
+        {
+          "label": "C",
+          "text": "It unjustifiably overlooks the possibility that even if certain factors tend to produce a given effect, they may be likely to produce stronger countervailing effects as well."
+        },
+        {
+          "label": "D",
+          "text": "It fails to take into account the possibility that policies that are not in the interest of land developers may well be in the interest of landowners."
+        },
+        {
+          "label": "E",
+          "text": "It fails to account for potential reactions from private landowners who do not have any endangered species on their land."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 88,
+      "token_count": 99,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 19,
+      "text": "I promised Bernie that I would answer his question. He asked me whether his project had been approved. I misunderstood and thought he had asked whether I had approved it. I said, truthfully, \"I would approve it if I could, but I don't have the authority to do so—that is up to Dorothy, and she hasn't yet made a decision.\" Thus, I fulfilled my promise to Bernie. Which one of the following, if assumed, enables the conclusion above to be properly drawn?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All there is to answering a question is giving the questioner the information requested."
+        },
+        {
+          "label": "B",
+          "text": "No person can be held accountable for another person's decisions."
+        },
+        {
+          "label": "C",
+          "text": "The person responsible for a decision is the one who should explain the decision."
+        },
+        {
+          "label": "D",
+          "text": "One need not fulfill a promise in order to do the best that could be done to fulfill it."
+        },
+        {
+          "label": "E",
+          "text": "Making a promise always obliges a person to keep it."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 82,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 20,
+      "text": "Azalea bushes flourish in acidic soil. Clay soil, while rarely acidic, can be mixed with other types of soil to create a soil that is acidic. Hence, azalea bushes can be made to flourish in clay soil. Which one of the following is an assumption on which the argument depends?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mixing an acidic soil with another type of soil always results in an acidic soil."
+        },
+        {
+          "label": "B",
+          "text": "Clay soil that is mixed with certain other types of soil is still clay soil."
+        },
+        {
+          "label": "C",
+          "text": "Whenever clay soil is mixed with other types of soil, an acidic soil results."
+        },
+        {
+          "label": "D",
+          "text": "Some plants do not flourish in acidic soil."
+        },
+        {
+          "label": "E",
+          "text": "Azalea bushes do as well in treated clay soils as in naturally acidic soils."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 50,
+      "token_count": 61,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 21,
+      "text": "Company policy: Eligible employees will be granted up to six weeks of paid parental leave following the birth or adoption of a child. To be eligible, an employee must apply for the benefit at least three months prior to the beginning of the leave period and must have at least one year of full-time employment with the company at the time of application. Which one of the following judgments most closely conforms to the company policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mac is a full-time employee who has been with the company for exactly one year. He just adopted a child, and he applied for parental leave three months ago, so Mac should be granted the leave."
+        },
+        {
+          "label": "B",
+          "text": "Sara has worked full-time for the company for three years, and she applied for parental leave four months before the recent birth of her child. However, she should not be granted the leave because she took a leave of absence within the past year."
+        },
+        {
+          "label": "C",
+          "text": "Hal, a second-year, full-time employee, applied for parental leave three months ago. He wishes to stay at home for only two weeks following the impending birth of his child, so the company should not grant him parental leave."
+        },
+        {
+          "label": "D",
+          "text": "Dudley has worked part-time for the company for the past seven years. He applied for parental leave over three months before the birth of his child, so it should be granted to him."
+        },
+        {
+          "label": "E",
+          "text": "Maria has worked full-time for the company for the past two years and applied for parental leave six months prior to her adoption of a child, so she should be granted parental leave."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 76,
+      "token_count": 83,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 22,
+      "text": "An effective acting performance does not call the audience's attention to the fact that it is a performance. That would make it more difficult for the audience to empathize with the character the actor is playing, and effective dramatic performances do not detract from the audience's appreciation of a play. The argument's conclusion follows logically from the premises if which one of the following is assumed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An audience will not completely appreciate a play unless all of the acting performances in the play are effective."
+        },
+        {
+          "label": "B",
+          "text": "As long as an acting performance does not call the audience's attention to the fact that it is a performance, it will not detract from the audience's appreciation of a play."
+        },
+        {
+          "label": "C",
+          "text": "If a performance by an actor in a play enhances the audience's appreciation of the play, then the play as a whole is better as a result."
+        },
+        {
+          "label": "D",
+          "text": "An effective dramatic performance in a play will enhance the audience's appreciation of the play."
+        },
+        {
+          "label": "E",
+          "text": "A dramatic performance that makes it more difficult for the audience to empathize with the actor's character detracts from the audience's appreciation of the play."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 66,
+      "token_count": 75,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 23,
+      "text": "The computer software industry is rapidly growing and has been for some time. For a company to grow rapidly, it must be innovative, which means it must have creative employees or a management that is open to new ideas. Logichut is a software company that is said to have no creative employees. If so, its management is evidently open to new ideas. The reasoning in the argument is flawed in that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "illicitly presumes that because a set of things has a certain property, each member of that set has the property"
+        },
+        {
+          "label": "B",
+          "text": "confuses a necessary condition for a company's being innovative with a sufficient condition for a company's being innovative"
+        },
+        {
+          "label": "C",
+          "text": "illicitly concludes that because many people believe something, it must be true"
+        },
+        {
+          "label": "D",
+          "text": "confuses a necessary condition for a company to grow rapidly with a sufficient condition for a company to grow rapidly"
+        },
+        {
+          "label": "E",
+          "text": "overlooks the possibility that a software company could have both creative employees and a management that is open to new ideas"
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 72,
+      "token_count": 81,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 24,
+      "text": "A movie studio's script readers discard all proposed scripts that are not submitted by agents, and they discard all scripts that are incorrectly formatted. So a script that is submitted by an agent and formatted correctly will not be discarded by the studio's script readers. Which one of the following exhibits a flawed pattern of reasoning that most closely parallels that in the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To be accepted, entries in the essay contest must be postmarked by the deadline and accompanied by a completed entry form. March 21 was the deadline. Thus, an entry that is accompanied by a completed entry form but postmarked March 22 will not be accepted."
+        },
+        {
+          "label": "B",
+          "text": "If your kitchen is well organized and you are a good cook, the meals you prepare will be delicious. The dinner Jon prepared last week was not at all tasty, so his kitchen must not be well organized."
+        },
+        {
+          "label": "C",
+          "text": "If Bob starts exercising daily, he will improve his fitness level. His fitness level will also improve if he quits smoking. So if he refuses to exercise and continues to smoke, his fitness level is not going to improve."
+        },
+        {
+          "label": "D",
+          "text": "The police are allowed to ticket any parked car that does not have a parking permit. They are also allowed to ticket any parked car whose parking permit has expired. Thus, the police are going to ticket Ruta's car, for her parking permit has expired."
+        },
+        {
+          "label": "E",
+          "text": "Most dogs that have attended obedience classes respond correctly to basic commands, but only some are able to perform advanced tricks. Thus, any dog that has attended obedience classes and performs advanced tricks will be able to respond correctly to basic commands."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 65,
+      "token_count": 71,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 25,
+      "text": "Translator: Dr. Abner, apparently scornful of my translation of an ancient poem on the grounds that it is inaccurate, says that my translation produces in most readers feelings other than those the original text was intended to produce. However, as Dr. Abner should realize, we do not know how people originally responded to the poem or how its author intended them to respond. So Dr. Abner's criticism is unjustified. The translator's argument is flawed in that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "fails to adequately address the possibility that the original poem had more than one author"
+        },
+        {
+          "label": "B",
+          "text": "draws a conclusion purely on the basis of an appeal to popular opinion"
+        },
+        {
+          "label": "C",
+          "text": "fails to adequately address the possibility that the original text was not intended to produce any particular feelings in the reader"
+        },
+        {
+          "label": "D",
+          "text": "rejects an argument merely because of the circumstances of the person who offered it"
+        },
+        {
+          "label": "E",
+          "text": "concludes that we cannot know that certain effects were not what the author intended merely because we do not know what specific effects the author did intend"
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 77,
+      "token_count": 95,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 26,
+      "text": "Letter to the editor: In calling on antinuclear activists to \"live up to their own ideals\" and help find better ways of disposing of nuclear waste, advocates of nuclear power merely prove their own dishonesty. Everyone knows that antinuclear activists want the world rid of nuclear power as soon as possible, and they believe any other option is environmentally irresponsible. But finding better ways of disposing of nuclear waste would probably make nuclear power acceptable to more people and thus likelier to continue. Which one of the following principles, if valid, most helps to justify the reasoning in the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If other options are available, it is irresponsible to take a possibly beneficial course of action that has the potential of causing harm."
+        },
+        {
+          "label": "B",
+          "text": "It is better to eliminate a potentially harmful practice than to try to improve it, if improving it will not significantly reduce its capacity to cause harm."
+        },
+        {
+          "label": "C",
+          "text": "If one is calling on people to act in a way that will possibly undermine their goals, it is dishonest to ask that they do so for the sake of their ideals."
+        },
+        {
+          "label": "D",
+          "text": "It is irresponsible to try to induce others to find a practice acceptable if it is not one's own belief that that practice is acceptable."
+        },
+        {
+          "label": "E",
+          "text": "It is dishonest to ask people to live up to their ideals without revealing whether one's own ideals conflict with theirs."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 100,
+      "token_count": 117,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 27,
+      "text": "Columnist: The dangers of drinking are greatly exaggerated in the medical press. We are always hearing about the extent to which alcohol can shorten one's life, but my grandfather drank heavily his entire life and lived to be 95. The reasoning in the columnist's argument is most vulnerable to criticism on the grounds that the argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "does not address moral objections to alcohol consumption"
+        },
+        {
+          "label": "B",
+          "text": "fails to consider factors other than alcohol consumption that can shorten one's life"
+        },
+        {
+          "label": "C",
+          "text": "only addresses the length of a life, and not the quality of that life"
+        },
+        {
+          "label": "D",
+          "text": "confuses the cause of a phenomenon with an effect of that phenomenon"
+        },
+        {
+          "label": "E",
+          "text": "relies merely on anecdotal evidence to challenge a general claim"
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 56,
+      "token_count": 64,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 28,
+      "text": "Some have argued that using food crops to produce fuel represents an unprecedented attack on the food supply. It seems immoral to divert crops from the food supply while there is a need for food. But we currently divert crops from the human food supply to feed livestock. So the diversion of food to fuel is not actually a radical break with traditional practices. The argument proceeds by",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that the bad consequences of a practice are outweighed by the good consequences of that practice"
+        },
+        {
+          "label": "B",
+          "text": "countering the charge that a practice has a bad consequence by trying to show that the practice does not actually have that consequence"
+        },
+        {
+          "label": "C",
+          "text": "rebutting a charge that a practice is radical by contending that the practice is analogous with an existing one"
+        },
+        {
+          "label": "D",
+          "text": "rejecting the charge that a practice is immoral by trying to undercut the moral foundation of the charge"
+        },
+        {
+          "label": "E",
+          "text": "supporting a moral objection to a practice by trying to show that the practice is actually different from practices that might seem similar"
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 68,
+      "token_count": 72,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 29,
+      "text": "Hernandez: Celebrities' public pronouncements can warp a debate because people grant more weight to celebrities' opinions than to ordinary people's. For that reason, celebrities should avoid talking publicly about controversial issues on which they have no expertise. Liu: But celebrities are full members of their communities. It is not their fault if people give their opinions more credence than they should. So it is absurd that they should not feel free to join controversial debates. Hernandez and Liu disagree with each other about which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "People grant more weight to celebrities' opinions than to ordinary people's."
+        },
+        {
+          "label": "B",
+          "text": "Celebrities should avoid talking publicly about controversial issues on which they have no expertise."
+        },
+        {
+          "label": "C",
+          "text": "Celebrities' pronouncements on controversial issues can warp debates on those issues."
+        },
+        {
+          "label": "D",
+          "text": "The public should disregard what celebrities say about controversial issues."
+        },
+        {
+          "label": "E",
+          "text": "Celebrities are responsible for the fact that people give their opinions more credence than they should."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 88,
+      "token_count": 105,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 30,
+      "text": "A process of extracting caffeine from coffee without seriously compromising the coffee's taste was introduced a number of years ago. When this decaffeinated coffee first came on the market, however, many coffee drinkers reported that it tasted rather bad. Which one of the following, if true, most helps to resolve the apparent discrepancy in the statements above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The percentage of coffee drinkers who drink only decaffeinated coffee is much larger today than it was at the time the process was introduced."
+        },
+        {
+          "label": "B",
+          "text": "Many coffee drinkers would not drink decaffeinated coffee even if they believed that it tasted as good as regular coffee."
+        },
+        {
+          "label": "C",
+          "text": "The taste of any kind of coffee can be affected by the foods that are consumed along with it."
+        },
+        {
+          "label": "D",
+          "text": "Coffee that is decaffeinated through this process generally costs more than regular coffee."
+        },
+        {
+          "label": "E",
+          "text": "During the years in which the process was introduced, coffee processors used only low-quality coffee beans for their decaffeinated products."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 57,
+      "token_count": 67,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 31,
+      "text": "Researchers gave each of eighteen subjects a playing card, then offered them money to lie to a computer about the identity of the card while undergoing a scan by functional magnetic resonance imaging (fMRI). When subjects lied, the scans revealed increased activity in several regions of the brain known to be stimulated by stress. This supports the idea that fMRI can eventually form the basis of an effective lie detector. Which one of the following would, if true, most weaken the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Existing methods of lie detection, including the polygraph, have not been shown to be reliable."
+        },
+        {
+          "label": "B",
+          "text": "The majority of people regard lying in an experimental situation as unethical."
+        },
+        {
+          "label": "C",
+          "text": "The amount of stress that accompanies lying varies widely from person to person and is also affected by the circumstances in which the lie is told."
+        },
+        {
+          "label": "D",
+          "text": "Telling a carefully planned lie causes less stress than telling a lie spontaneously."
+        },
+        {
+          "label": "E",
+          "text": "Stress reactions in the brains of subjects who are being truthful are similar to those that occur in the brains of subjects who are lying."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 83,
+      "token_count": 94,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 32,
+      "text": "Prominent government officials have denied that their policies have produced serious environmental degradation. But the facts show otherwise. Last year, at the urging of certain mining companies, the government repealed a long-standing provision prohibiting the dumping of mining wastes into streams. Since that time, hundreds of miles of vital streams have been buried under bulldozed mining wastes. The argument relies on which one of the following assumptions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Without the urging of certain mining companies, the government would not have lifted the ban on dumping mining wastes into streams."
+        },
+        {
+          "label": "B",
+          "text": "The prominent government officials who deny that government policies have produced serious environmental degradation do not really believe what they are claiming."
+        },
+        {
+          "label": "C",
+          "text": "The mining companies that urged repeal of the ban on dumping mining wastes in streams were among those that buried hundreds of miles of streams under mining wastes."
+        },
+        {
+          "label": "D",
+          "text": "The government is generally more responsive to pressures from the mining industry than from environmentalists."
+        },
+        {
+          "label": "E",
+          "text": "If the ban on dumping mining wastes in streams had not been repealed, considerably less mining waste would have found its way into streams."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 67,
+      "token_count": 79,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 33,
+      "text": "Critic: It generally holds true of concert pianists that the more famous the musician, the greater the pleasure of his or her audience. In my view, this is only fair and should give no cause for cynicism about the ability of audiences to distinguish good playing from bad. Which one of the following, if true, most strongly supports the critic's view?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The fame of concert pianists usually reflects their talent as musicians."
+        },
+        {
+          "label": "B",
+          "text": "Some of the finest concert pianists are unknown to the general public."
+        },
+        {
+          "label": "C",
+          "text": "In general, the more famous the pianist, the larger the audiences that he or she can draw."
+        },
+        {
+          "label": "D",
+          "text": "Even the finest concert pianists cannot play consistently well at every performance."
+        },
+        {
+          "label": "E",
+          "text": "The very best concert pianists often perform works that are difficult for audiences to appreciate."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 61,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 34,
+      "text": "Scientists found the remains of several species of mites trapped in rocks in a high-altitude cave. Radioactive dating shows that the mites were trapped about 2,000 years ago. The mite species in the rocks no longer live in the vicinity of the cave, but they are found a few miles away in a cooler area. Therefore, the area around the cave was probably cooler 2,000 years ago, since _______. The conclusion of the argument is most strongly supported if which one of the following completes the passage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the mite species found in the rocks can only survive in very specific climates"
+        },
+        {
+          "label": "B",
+          "text": "the cooler area a few miles away from the cave also has a somewhat wetter climate"
+        },
+        {
+          "label": "C",
+          "text": "the mite species that were trapped in the rocks did not live in the vicinity of the cave much earlier than 2,000 years ago"
+        },
+        {
+          "label": "D",
+          "text": "the mite species found in the rocks only live at high altitudes"
+        },
+        {
+          "label": "E",
+          "text": "there are fewer mite species living in the vicinity of the cave today than there were 2,000 years ago"
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 87,
+      "token_count": 107,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 35,
+      "text": "Market studies confirm that consumers shopping for automobiles primarily seek those that are most reliable. An automobile is reliable if it very rarely breaks down and it does not require significantly more maintenance than average. Strangely enough, however, some of the most reliable models do not sell well with those who say they care most about reliability. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Consumers who are shopping for an automobile claim to care more about reliability than about fuel efficiency."
+        },
+        {
+          "label": "B",
+          "text": "Consumers often choose automobile models based on a reputation for reliability, and reputations can be out of date."
+        },
+        {
+          "label": "C",
+          "text": "Some owners of reliable automobiles are reluctant to trade them in for newer vehicles and tend to hold on to them for the life of the automobile."
+        },
+        {
+          "label": "D",
+          "text": "Some automobile models that have been shown to require a lot of maintenance very rarely break down."
+        },
+        {
+          "label": "E",
+          "text": "Some of the most stylish automobiles are some of the most unreliable."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 75,
+      "token_count": 85,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 36,
+      "text": "A recent study found that most individuals believe that they sleep less than most other people. However, it is obviously not possible that most people sleep less than most other people. Therefore, _______. Which one of the following most logically completes the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "some people believe things that could not possibly be true even in principle"
+        },
+        {
+          "label": "B",
+          "text": "most people are not aware of how much they sleep"
+        },
+        {
+          "label": "C",
+          "text": "most people underestimate how much they sleep in comparison to others"
+        },
+        {
+          "label": "D",
+          "text": "most people think that they do not sleep as much as they should"
+        },
+        {
+          "label": "E",
+          "text": "some people incorrectly believe that they sleep less than most other people"
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 43,
+      "token_count": 49,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 37,
+      "text": "Ross: Many governments have attempted to regulate strictly or even outlaw theater because of its subversive power. Such strategies have rarely succeeded, probably because people strongly desire theater for entertainment and dramatists always find subtle ways to criticize authorities who treat them harshly. Thus, since dramatists will not criticize governments of which they are honored employees, an effective strategy for controlling theater and satisfying the public is to make dramatists and performers honored employees of the government. Which one of the following, if true, would most weaken Ross's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Few governments are willing to shoulder the expense of employing dramatists and performers."
+        },
+        {
+          "label": "B",
+          "text": "Even when completely unregulated, theater rarely leads to the overthrow of a government."
+        },
+        {
+          "label": "C",
+          "text": "Some dramatists criticize their governments even though those governments do not treat them harshly."
+        },
+        {
+          "label": "D",
+          "text": "Most theatrical productions neither criticize government nor support it."
+        },
+        {
+          "label": "E",
+          "text": "The public generally dislikes plays written or performed by government employees."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 89,
+      "token_count": 109,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 38,
+      "text": "Many hikers now carry cell phones so they can call for emergency assistance from remote areas. Many also use their cell phones to call wildlife offices when they see poachers breaking game laws, enabling wildlife agents to reach the scene before the lawbreakers leave. Poachers, however, avoid areas they know to be frequented by hikers. Which one of the following is most strongly supported by the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Most hikers can afford cell phones."
+        },
+        {
+          "label": "B",
+          "text": "Poaching has decreased as cell phone use has increased."
+        },
+        {
+          "label": "C",
+          "text": "Wildlife agents do not usually carry cell phones."
+        },
+        {
+          "label": "D",
+          "text": "Some hikers hike in areas that are not known by poachers to be frequented by hikers."
+        },
+        {
+          "label": "E",
+          "text": "Cell phones are becoming one of the most effective tools in the effort to protect wildlife from poachers."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 68,
+      "token_count": 82,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 39,
+      "text": "A cognitive psychologist has claimed that intelligence is the ability to figure out how things work in order to overcome obstacles. If, however, we were to become convinced that a particular being had acquired an understanding of how things work, we would certainly not deny that that being possessed intelligence, even if we were sure that its acquisition of this understanding was not prompted by the desire to overcome some specific obstacle. Clearly, then, the cognitive psychologist's definition is inadequate. In the passage the author does which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "rejects a definition on the grounds that the terms employed in the definition would make it impractical to determine which cases it covers"
+        },
+        {
+          "label": "B",
+          "text": "uses a hypothetical application of a definition to argue that the definition would have unacceptably counterintuitive consequences"
+        },
+        {
+          "label": "C",
+          "text": "argues that a proposed definition does not specify the meaning of the concept being defined narrowly enough for the definition to be applied"
+        },
+        {
+          "label": "D",
+          "text": "rejects a definition on the grounds that if it were accepted as correct, the term being defined would apply to things to which it normally does not apply"
+        },
+        {
+          "label": "E",
+          "text": "argues against a proposed definition on the grounds that those who support it do so at least partly on an inappropriate appeal to authority"
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 91,
+      "token_count": 102,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 40,
+      "text": "Environmentalist: The adoption of genetically engineered crops in agriculture is moving so rapidly and is monitored so loosely that it poses a significant risk of damaging sensitive ecosystems. One such crop had already been widely planted when a study found that it could threaten monarch butterflies. Therefore, before any new genetically engineered crop is put into agricultural production, rigorous testing of its safety should be required. Which one of the following principles, if valid, most helps to justify the environmentalist's reasoning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A genetically engineered crop should not be put into agricultural production if rigorous testing has shown it to be risky."
+        },
+        {
+          "label": "B",
+          "text": "If a crop has no potential for posing environmental risks, it may be put into agricultural production without testing of its safety."
+        },
+        {
+          "label": "C",
+          "text": "No crop that might present risks to the environment should be allowed into agricultural production unless its safety has been thoroughly tested."
+        },
+        {
+          "label": "D",
+          "text": "If rigorous testing of any genetically engineered crop that is in agricultural production shows that that crop poses environmental risks, production of that crop should be discontinued."
+        },
+        {
+          "label": "E",
+          "text": "If rigorous studies do not find evidence that a crop would present risks if it is brought into agricultural production, no further testing of that crop's safety is required."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 81,
+      "token_count": 93,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 41,
+      "text": "Faculty member: The university's financially minded president holds that some academic programs should be eliminated because they do not serve student demands. According to him, the university is a business and the students are consumers, and it is the responsibility of any business to satisfy consumer demand. But the education of students is not analogous to the providing of consumer goods. Therefore, the president is mistaken in claiming that academic programs should be tailored to suit student demand. The faculty member's argument is most vulnerable to the criticism that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "argues for a view without showing that an argument against that view fails"
+        },
+        {
+          "label": "B",
+          "text": "appeals to popular opinion to justify a conclusion"
+        },
+        {
+          "label": "C",
+          "text": "treats merely analogous things as identical"
+        },
+        {
+          "label": "D",
+          "text": "improperly attacks the university president's moral character"
+        },
+        {
+          "label": "E",
+          "text": "rejects a view on the grounds that someone has given inadequate reasons for accepting that view"
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 90,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 42,
+      "text": "A recent study carefully tracked the specific behaviors of five East African chimpanzee groups of one subspecies, and of two West African groups of another subspecies, in activities such as grooming and foraging. The study found that one of the East African groups was behaviorally more similar to the West African groups than to the other East African groups. It is therefore likely that these behaviors are determined by cultural factors rather than by genetics. Which one of the following, if true, provides the most support for the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chimpanzees sometimes copy the behavior of other chimpanzees, whether or not they are closely related genetically."
+        },
+        {
+          "label": "B",
+          "text": "Chimpanzees that are new to a group sometimes bring with them new behaviors as well as new genetic characteristics."
+        },
+        {
+          "label": "C",
+          "text": "The chimpanzee groups studied face different environmental challenges due to their different locations in Africa."
+        },
+        {
+          "label": "D",
+          "text": "The behavioral differences in the chimpanzee groups studied are sufficient to make each group recognizably distinct from all the others."
+        },
+        {
+          "label": "E",
+          "text": "Of the chimpanzee groups studied, the five East African groups live in closer proximity to each other than do the two West African groups."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 89,
+      "token_count": 102,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 43,
+      "text": "Essayist: It would be wrong to defend current testing procedures for new medications simply by appealing to the fact that test subjects are volunteers who are both apprised of and compensated for the risks involved. For while it is not wrong to pay people to do something if they are freely choosing to do it, the same cannot be said if the choice is made under duress. Which one of the following is an assumption required by the essayist's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Possessing information about the possible consequences of the choices one makes does not ensure that one's choices are free."
+        },
+        {
+          "label": "B",
+          "text": "No transaction can be justified merely on the grounds that those participating in the transaction do so voluntarily."
+        },
+        {
+          "label": "C",
+          "text": "Anyone who acts without complete freedom is acting under some form of externally imposed duress."
+        },
+        {
+          "label": "D",
+          "text": "There is nothing wrong with accepting money for putting oneself at risk."
+        },
+        {
+          "label": "E",
+          "text": "People should be permitted to perform any action so long as that action is freely chosen."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 80,
+      "token_count": 91,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 44,
+      "text": "Putting a tap in a healthy maple that has a trunk 12 or more inches in diameter will not harm the tree. Silver maples, red maples, and Manitoba maples can all be tapped for making maple syrup. The sugar maple, however, is best for syrup making, because of all the maples its sap has the highest concentration of sugar. If the statements above are true, which one of the following must also be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A maple whose trunk is more than 12 inches in diameter is unhealthy if it is harmed by tapping."
+        },
+        {
+          "label": "B",
+          "text": "The healthiest maple trees are usually those with the largest trunks."
+        },
+        {
+          "label": "C",
+          "text": "A maple tree that has been harmed will produce very little sap."
+        },
+        {
+          "label": "D",
+          "text": "Putting a tap into an unhealthy maple tree that is less than 12 inches in diameter will harm it."
+        },
+        {
+          "label": "E",
+          "text": "The maple trees most commonly used for making syrup are sugar maples."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 74,
+      "token_count": 89,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 45,
+      "text": "Company spokesperson: Although our products are the most expensive in our industry, they are also the best available. After all, consider any less expensive product made by one of our competitors. If it were as good as, or better than, our product, it would cost as much, or more. The reasoning in the company spokesperson's argument is flawed in that the argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "contains a premise that presupposes the truth of the conclusion"
+        },
+        {
+          "label": "B",
+          "text": "fails to make a needed distinction between the best product currently available and the best product that could be produced"
+        },
+        {
+          "label": "C",
+          "text": "treats a cause of a product being the most expensive as an effect of its being the most expensive"
+        },
+        {
+          "label": "D",
+          "text": "presumes that because something is true of each of a company's products it is also true of the company as a whole"
+        },
+        {
+          "label": "E",
+          "text": "bases a conclusion on claims that are inconsistent with each other"
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 62,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 46,
+      "text": "It should be illegal to patent an organism's genes, for a person should not be regarded as the inventor of something he or she merely discovered. Moreover, exploitation of genetic information for profit is selfish and irresponsible. Which one of the following principles, if valid, most helps to justify the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Any person who exploits genetic information for profit should be considered selfish."
+        },
+        {
+          "label": "B",
+          "text": "Discovering something should not entitle one to patent it."
+        },
+        {
+          "label": "C",
+          "text": "Discovering something does not always constitute inventing it."
+        },
+        {
+          "label": "D",
+          "text": "No person should be allowed to profit from something that was invented by another person."
+        },
+        {
+          "label": "E",
+          "text": "A person or corporation who invents something should be entitled to patent it."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 51,
+      "token_count": 59,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 47,
+      "text": "Professor O'Brien: Any of my students who heard Mercado's lecture from the beginning would have thought it was fascinating, and I know that some of my students did think it was fascinating, so some of my students must have heard it from the beginning. Professor O'Brien's argument does not follow logically from its premises because of the possibility that",
+      "options": [
+        {
+          "label": "A",
+          "text": "some of Professor O'Brien's students are very interested in Mercado's work but were unable to attend the lecture"
+        },
+        {
+          "label": "B",
+          "text": "many people who are not Professor O'Brien's students did not think that the lecture was fascinating, even though they heard it from the beginning"
+        },
+        {
+          "label": "C",
+          "text": "some of Professor O'Brien's students were a few minutes late for the lecture and did not find the lecture fascinating"
+        },
+        {
+          "label": "D",
+          "text": "no one who heard the lecture from the beginning and thought that it was fascinating was one of Professor O'Brien's students"
+        },
+        {
+          "label": "E",
+          "text": "not everyone who arrived at the lecture on time was able to hear the entire lecture because of disruptions caused by those who were late in arriving"
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 59,
+      "token_count": 68,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 48,
+      "text": "Some moral virtues, such as honesty, tend to benefit one who has them; others, such as generosity, do not. A personal characteristic is not a moral virtue if it tends to be detrimental to other people. If the statements above are true, which one of the following must also be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A person totally lacking in moral virtue will tend not to have characteristics that benefit others."
+        },
+        {
+          "label": "B",
+          "text": "Being honest tends not to be detrimental to other people."
+        },
+        {
+          "label": "C",
+          "text": "A morally virtuous person tends to be a greater benefit to other people than a person who is not morally virtuous."
+        },
+        {
+          "label": "D",
+          "text": "Being generous tends to be to one's own detriment but not to the detriment of others."
+        },
+        {
+          "label": "E",
+          "text": "If a personal characteristic that one has tends to benefit others, then that personal characteristic is a moral virtue."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 51,
+      "token_count": 60,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 49,
+      "text": "During last year's flu season no one who was vaccinated contracted the flu. This year every student at South High School has been vaccinated. So this flu season none of the students at South High School will contract the flu. Which one of the following arguments is most similar in its reasoning to the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No camper who used insect repellent last month was disturbed by mosquitoes. Since everyone in our campsite has applied insect repellent tonight, none of us will be disturbed by mosquitoes tonight."
+        },
+        {
+          "label": "B",
+          "text": "Last year, Marie purchased a car that had been well maintained. Since Marie will certainly continue to maintain the car this year, the car is unlikely to have mechanical problems this year."
+        },
+        {
+          "label": "C",
+          "text": "Last year, no student with perfect attendance failed a class, and all students in advanced history had perfect attendance. So no student in advanced history last year failed the class."
+        },
+        {
+          "label": "D",
+          "text": "All the fruit we purchased yesterday was fresh. All the fruit we bought yesterday is in the refrigerator. Therefore, all the fruit in the refrigerator is fresh."
+        },
+        {
+          "label": "E",
+          "text": "No sparrow eats seeds with hard shells. All seeds of this tree have hard shells. So no sparrow will eat the seeds of this tree."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 56,
+      "token_count": 61,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 50,
+      "text": "Advertising agencies are often wrongly criticized for causing people to desire, and thus purchase, products they do not really need. People actually buy what they buy mainly because they believe the product will satisfy their desires—a belief that, admittedly, it is the purpose of advertising agencies to induce. It is clear then that the desires that people believe products will satisfy _______. Which one of the following most logically completes the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "can be classified as needs if they actually prompt people to make a purchase"
+        },
+        {
+          "label": "B",
+          "text": "are created by false, but not by true, advertising claims"
+        },
+        {
+          "label": "C",
+          "text": "will rarely be satisfied by the purchases they prompt"
+        },
+        {
+          "label": "D",
+          "text": "are exploited rather than created by advertisers"
+        },
+        {
+          "label": "E",
+          "text": "are generally what induce people to believe claims made by advertisers"
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 72,
+      "token_count": 81,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 51,
+      "text": "Artist: I have never won a prize at the Art Competition, even though several of my submitted paintings have received widespread recognition and have sold thousands of copies as posters. I know six other popular artists who have submitted works to that competition and fared no better. Thus, winning the Art Competition proves that an artist is no good. The pattern of flawed reasoning in which one of the following arguments most closely resembles that in the artist's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Researcher: I have never won a prize at the Science Competition, although I have obtained patents for several of my inventions and they have been extremely lucrative. Other scientists have had similar experiences. Therefore, the judges are using some criterion other than marketability to judge the inventions."
+        },
+        {
+          "label": "B",
+          "text": "Cook: I always win a prize at the Cooking Competition, even though my entries are regarded by the general public as unusual and unappealing. Other cooks have reported similar experiences. Thus, winning proves that one's culinary creation is not to most people's taste."
+        },
+        {
+          "label": "C",
+          "text": "Professor: The same essays that have won nothing in some years at the Philosophical Essay Competition have won the grand prize in other years. So the essays are not judged entirely on quality."
+        },
+        {
+          "label": "D",
+          "text": "Student: The student government never takes my proposals seriously, even when these proposals have the support of most students. Others have also introduced widely supported proposals, but the student government has not seriously considered theirs either. So the student government takes only bad proposals seriously."
+        },
+        {
+          "label": "E",
+          "text": "Travel agent: When I do my most creative and dedicated work, the airlines reduce my commissions. And when I do rushed work, they send me fruit baskets in gratitude. I conclude that airlines want to discourage good ideas and hard work."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 79,
+      "token_count": 88,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 52,
+      "text": "Critic: While the political message in this short story is interesting enough that the author could have based an essay, or a different short story, around that message alone, it should not have been included in this story. The story's primary focus is humor, and the political message distracts from the story's humorous effect. Which one of the following principles, if valid, most strongly supports the critic's reasoning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Authors should not convey political messages in their short stories."
+        },
+        {
+          "label": "B",
+          "text": "Nothing in a short story should distract from the story's primary focus."
+        },
+        {
+          "label": "C",
+          "text": "Writers should not risk alienating readers who disagree with them politically."
+        },
+        {
+          "label": "D",
+          "text": "Political messages need to be developed differently in essays than in short stories."
+        },
+        {
+          "label": "E",
+          "text": "A short story's political message is irrelevant to its artistic merit."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 68,
+      "token_count": 83,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 53,
+      "text": "Entertainment reporter: Unlike most major motion pictures, the release of the upcoming film Escapade II has not been preceded by free, advance screenings that show the film to select audiences for promotional purposes. With movie research showing awareness of the film at 96 percent, and with around 60 percent of filmgoers indicating \"definite interest\" in the film, the film's distributors must have decided not to do anything that could reduce interest in the film. The entertainment reporter's explanation for why there have been no advance screenings of Escapade II relies on assuming that the distributors believe that",
+      "options": [
+        {
+          "label": "A",
+          "text": "advance screenings of Escapade II would cost them a significant amount that could much more effectively be spent on advertising"
+        },
+        {
+          "label": "B",
+          "text": "advance screenings of Escapade II might lead to a dampening of the enthusiasm of filmgoers who would otherwise have an interest in seeing the film"
+        },
+        {
+          "label": "C",
+          "text": "the select audiences who would normally be invited to free, advance screenings of a major motion picture would probably not enjoy Escapade II"
+        },
+        {
+          "label": "D",
+          "text": "if 96 percent of the public is aware of the upcoming release of Escapade II, it is probable that 96 percent of the public intends to see the film"
+        },
+        {
+          "label": "E",
+          "text": "the film Escapade II would most likely be viewed by approximately 60 percent of the public if no advance screenings are given"
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 97,
+      "token_count": 118,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 54,
+      "text": "Anthropology professor: The new class I'm offering has been listed in the course catalog as a literature class, but it should be listed instead as an anthropology class. The texts we will study are all novels, but we will be examining them as sources of information about different cultures. Dean: The class is listed as it should be. All the readings in the class are works of literature. The dialogue provides the most support for the claim that the anthropology professor and the dean disagree over whether",
+      "options": [
+        {
+          "label": "A",
+          "text": "all of the books that will be read in the new class are novels"
+        },
+        {
+          "label": "B",
+          "text": "a class can be listed as both an anthropology class and a literature class"
+        },
+        {
+          "label": "C",
+          "text": "the approach taken to the readings should be a crucial determinant of how a class is listed"
+        },
+        {
+          "label": "D",
+          "text": "the dean has the power to decide how a new class is to be listed"
+        },
+        {
+          "label": "E",
+          "text": "an anthropology professor should be permitted to teach a literature class"
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 87,
+      "token_count": 98,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 55,
+      "text": "Toy manufacturer: Our competitors argue that we should withdraw our KlopperKidz toys from stores because several children have allegedly been injured by them, and manufacturers should voluntarily withdraw toys that can lead to injury. Their allegations, however, have not been proved. Furthermore, even if they were proved, our competitors' argument would still not merit serious attention, because their toys have caused injuries, and they have not volunteered to withdraw them from stores. The toy manufacturer's argument is most vulnerable to the criticism that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "attempts to justify a conclusion by offering reasons that are mutually exclusive"
+        },
+        {
+          "label": "B",
+          "text": "rejects an argument on the grounds that those making it have a vested interest in convincing people of the truth of the conclusion"
+        },
+        {
+          "label": "C",
+          "text": "assumes that merely because something has not been proved to be true, it must therefore be false"
+        },
+        {
+          "label": "D",
+          "text": "rejects an argument on the grounds that those making it have failed to abide by what the argument recommends"
+        },
+        {
+          "label": "E",
+          "text": "takes a necessary condition for a toy's being unsafe to be a sufficient condition for its being unsafe"
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 84,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 56,
+      "text": "Researcher: Some scholars maintain that the first government other than China to issue any form of paper currency was the Massachusetts colony in 1690. But these scholars are incorrect. During a coin shortage in New France in 1685, its government was unable to use coins to pay soldiers stationed in Quebec. Instead, playing cards were assigned an official value and issued as pay. These cards, which could be used to buy goods, were convertible to coins, which later arrived on supply ships from France. The researcher's conclusion is properly drawn if which one of the following is assumed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The playing cards in use in Quebec in the late 1600s were made of paper."
+        },
+        {
+          "label": "B",
+          "text": "The Chinese government did not issue paper currency during the 1600s."
+        },
+        {
+          "label": "C",
+          "text": "Playing cards were not available to inhabitants of the Massachusetts colony before 1690."
+        },
+        {
+          "label": "D",
+          "text": "The Massachusetts colony's issue of paper currency was not prompted by a coin shortage."
+        },
+        {
+          "label": "E",
+          "text": "Every government that issued paper currency in the 1600s left records pertaining to that currency."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 98,
+      "token_count": 116,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 57,
+      "text": "A tiny crab that lives 550 meters below the surface of the Gulf of Mexico has been found to have eyes that are sensitive to ultraviolet light. But ultraviolet light from the sun cannot penetrate to that depth. If the crab's ultraviolet receptors developed as an adaptation to the depths, they are probably for detecting light from bioluminescent organisms. In that case, since the crab is not itself bioluminescent, it probably hunts bioluminescent prey. Which one of the following, if true, would most weaken the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A trait that serves no function tends to be lost over time."
+        },
+        {
+          "label": "B",
+          "text": "Prey is not plentiful at the depth at which the crabs are found."
+        },
+        {
+          "label": "C",
+          "text": "The crabs can detect each other by nonvisual means."
+        },
+        {
+          "label": "D",
+          "text": "It takes many generations to develop sensitivity to ultraviolet light."
+        },
+        {
+          "label": "E",
+          "text": "The crab's most dangerous predators are bioluminescent."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 86,
+      "token_count": 110,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 58,
+      "text": "Last year a local advertising agency produced many of its television commercials in a studio with improperly installed equipment. As a result, the sound in these commercials was not perfectly synchronized with the picture; this was particularly noticeable when people were shown talking, and it even prompted complaints from some viewers. However, local automobile dealerships that relied on television commercials from this agency tended to have greater sales increases during this period than did local dealerships using television commercials from other agencies instead. Which one of the following, if true, most helps to explain the sales discrepancy described above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Most viewers turned off the sound on their televisions when local automobile-dealership commercials aired during this period."
+        },
+        {
+          "label": "B",
+          "text": "People are more likely to recall a television commercial they have seen if the sound and pictures were not properly synchronized."
+        },
+        {
+          "label": "C",
+          "text": "Most of the advertisers that relied on commercials produced at the studio with improperly installed equipment were automobile dealerships."
+        },
+        {
+          "label": "D",
+          "text": "Not all of the commercials produced for automobile dealerships at this studio contained video of people talking."
+        },
+        {
+          "label": "E",
+          "text": "Most of the local automobile dealerships during this time did not rely heavily on television advertising."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 99,
+      "token_count": 111,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 59,
+      "text": "Sinking large, obsolete pieces of equipment in coral areas is said to provide much-needed habitats for marine life. This, proponents say, shows that the practice is ecologically sound. However, it may be that this practice is ecologically unsound even if it does provide much-needed habitats, for the practice may upset an area's ecological balance in unknown ways. Which one of the following most accurately describes the role played in the argument by the claim that the practice of sinking large, obsolete pieces of equipment in coral areas may upset an area's ecological balance in unknown ways?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is intended to be a summary of the argument."
+        },
+        {
+          "label": "B",
+          "text": "It is a claim that the argument purports to refute."
+        },
+        {
+          "label": "C",
+          "text": "It is a claim that the argument contends is insufficient to show what some have taken it to show."
+        },
+        {
+          "label": "D",
+          "text": "It is the main conclusion of the argument."
+        },
+        {
+          "label": "E",
+          "text": "It is a premise of the argument."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 96,
+      "token_count": 114,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 60,
+      "text": "Having cameras at traffic intersections to automatically ticket cars that run red lights might raise revenue for municipalities but does not increase traffic safety. Accidents actually increase at intersections that have cameras: There are fewer side-impact collisions but significantly more rear-impact collisions. Which one of the following, if true, most weakens the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The revenue raised through automatically generated tickets can be used to address issues other than traffic safety."
+        },
+        {
+          "label": "B",
+          "text": "Automatically generated tickets for running red lights have been shown to generate some undeserved tickets."
+        },
+        {
+          "label": "C",
+          "text": "Side-impact collisions are generally the fault of the driver who drives through the red light."
+        },
+        {
+          "label": "D",
+          "text": "Side-impact collisions are a much greater safety threat than rear-impact collisions."
+        },
+        {
+          "label": "E",
+          "text": "Automatically generated tickets can punish the owner of the car rather than the driver of the car at the time of the infraction."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 53,
+      "token_count": 65,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 61,
+      "text": "For years, Glenville had the highest apartment rents in the metropolitan region in which it is located. This year, Glenville has only the third highest apartment rents in the region. Therefore, it must cost less to rent an apartment in Glenville now than it used to. Which one of the following arguments demonstrates most effectively by parallel reasoning that the argument above is flawed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because Brenda's kitten's veterinary bills are lower than her puppy's veterinary bills, the kitten must be healthier than the puppy."
+        },
+        {
+          "label": "B",
+          "text": "Because Brenda's kitten was larger than her puppy a while ago but is now smaller than the puppy, the kitten must have shrunk."
+        },
+        {
+          "label": "C",
+          "text": "Because Brenda's kitten was born a week before her puppy was, Brenda must have gotten the kitten first."
+        },
+        {
+          "label": "D",
+          "text": "Because Brenda's kitten eats less than her puppy does, the kitten is unlikely to become overweight."
+        },
+        {
+          "label": "E",
+          "text": "Because Brenda's kitten has become more friendly toward her puppy recently, the puppy must have become more friendly toward the kitten."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 64,
+      "token_count": 74,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 62,
+      "text": "The crocodiles of Lake Victoria, in East Africa, sometimes attack humans that venture into their habitat. The number of attacks on people by these crocodiles has increased significantly in the last 20 years. This is despite the fact that the number of crocodiles in the lake has not increased in that time and the crocodiles have no less food available. Which one of the following, if true, most helps to explain the increase in the incidence of crocodile attacks on humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wildlife authorities on Lake Victoria sometimes destroy crocodiles that they believe to be responsible for attacks on humans."
+        },
+        {
+          "label": "B",
+          "text": "About 100 crocodiles inhabit the part of Lake Victoria where most of the attacks on humans have occurred."
+        },
+        {
+          "label": "C",
+          "text": "More attacks on humans by crocodiles occur in Lake Victoria than in any other part of Africa."
+        },
+        {
+          "label": "D",
+          "text": "Adult crocodiles in Lake Victoria are generally unafraid of humans or their boats."
+        },
+        {
+          "label": "E",
+          "text": "People now fish in more parts of Lake Victoria than they did in previous decades."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 81,
+      "token_count": 99,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 63,
+      "text": "When the annual period of daylight saving time begins, and clocks are set forward one hour, many people lose an hour of sleep. On the following day, according to government statistics, the incidence of traffic accidents is 7 percent greater than the average for that time of year. It is therefore likely that sleep deprivation is responsible for this spike in traffic accidents. Which one of the following, if true, most strengthens the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Many people forget to set their clocks forward when daylight saving time begins and are late for appointments on the following day as a result."
+        },
+        {
+          "label": "B",
+          "text": "Traffic accidents are less common in the spring, when the annual period of daylight saving time begins, than they are in the winter."
+        },
+        {
+          "label": "C",
+          "text": "The traffic accidents that occur on the day after daylight saving time begins are no more severe than normal."
+        },
+        {
+          "label": "D",
+          "text": "The higher incidence of accidents is most pronounced later in the day, when sleep-deprived people tend to be most drowsy."
+        },
+        {
+          "label": "E",
+          "text": "The effects of sleep deprivation can linger for several days."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 74,
+      "token_count": 85,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 64,
+      "text": "Every human's brain contains a mental representation of the external world. Yet, this representation necessarily leaves out much detail. After all, the external world is much larger and more complex than the human brain, and there is no way an object could completely represent something larger and more complex than itself. Which one of the following most accurately expresses the conclusion drawn in the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The human brain's representation of the external world leaves out much detail."
+        },
+        {
+          "label": "B",
+          "text": "The external world is much larger and more complex than a human brain."
+        },
+        {
+          "label": "C",
+          "text": "The human brain cannot completely represent something larger and more complex than itself."
+        },
+        {
+          "label": "D",
+          "text": "The human brain contains a mental representation of the external world."
+        },
+        {
+          "label": "E",
+          "text": "It is impossible for any entity to completely represent anything larger and more complicated than itself."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 65,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 65,
+      "text": "Generally, open discussion of a false and pernicious idea diminishes its appeal. Even in a flourishing democracy, however, certain misconceptions are so alluring that they tend to gain in popularity when they are debated. Which one of the following principles is most clearly illustrated by the statements above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Democratic governments should be allowed on occasion to suppress debate regarding certain misconceptions."
+        },
+        {
+          "label": "B",
+          "text": "Sometimes it is better to openly discuss an idea even though doing so will increase the popularity of a misconception."
+        },
+        {
+          "label": "C",
+          "text": "Not all pernicious ideas are misconceptions."
+        },
+        {
+          "label": "D",
+          "text": "Discussion and debate do not necessarily lead to a greater acceptance of the truth."
+        },
+        {
+          "label": "E",
+          "text": "One of the reasons some ideas are appealing is that they are false."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 48,
+      "token_count": 59,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 66,
+      "text": "Schmidt: In enforcing township rules on how homeowners maintain their property, it is a mistake to encourage residents to report violations by their neighbors. Doing so engenders bad feelings among neighbors and leads to tips based on spite. Chandha: It's not a mistake. Without rules on how homeowners maintain their property, a single homeowner could degrade the appearance of an entire neighborhood. Chandha's response is most vulnerable to criticism on the grounds that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "takes a criticism of the way in which certain rules are enforced to be a criticism of the rules themselves"
+        },
+        {
+          "label": "B",
+          "text": "challenges the motivation behind Schmidt's argument rather than Schmidt's reasoning"
+        },
+        {
+          "label": "C",
+          "text": "confuses a criticism of the consequences of having a set of rules with a criticism of the detailed provisions of the rules"
+        },
+        {
+          "label": "D",
+          "text": "takes for granted that just because something is likely to happen on some occasions, it will always happen"
+        },
+        {
+          "label": "E",
+          "text": "confuses the cause of bad feelings among neighbors with a consequence of bad feelings among neighbors"
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 74,
+      "token_count": 88,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 67,
+      "text": "Some have argued that once it becomes necessary for us to think about computers in terms of beliefs and desires in order to understand how they function, we can rightly say that computers have beliefs and desires. However, we already need to think about what computers believe and desire in order to understand how they function, and thus the suggested criterion for ascribing beliefs and desires to computers implies that the computers that exist now have beliefs and desires. So the suggested criterion is obviously flawed. The claim that the computers that exist now have beliefs and desires plays which one of the following roles in the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is held to be an unacceptable conclusion to which the suggested criterion would lead."
+        },
+        {
+          "label": "B",
+          "text": "It is a view the argument assumes is uncontroversial."
+        },
+        {
+          "label": "C",
+          "text": "It is an example given to clarify the criterion in question."
+        },
+        {
+          "label": "D",
+          "text": "It is the conclusion of the argument."
+        },
+        {
+          "label": "E",
+          "text": "It is a premise whose truth is necessary to the success of the argument."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 109,
+      "token_count": 117,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 68,
+      "text": "Manufacturer: If our biggest competitor were to go out of business, some of the specialized suppliers that we both use would be bankrupted. So, in order for us to stay in business, our biggest competitor must stay in business. The conclusion drawn above follows logically if which one of the following is assumed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The manufacturer's specialized suppliers will not be bankrupted."
+        },
+        {
+          "label": "B",
+          "text": "The manufacturer will stay in business if its biggest competitor stays in business."
+        },
+        {
+          "label": "C",
+          "text": "If the manufacturer goes out of business, its biggest competitor will go out of business."
+        },
+        {
+          "label": "D",
+          "text": "The manufacturer will stay in business if its specialized suppliers are not bankrupted."
+        },
+        {
+          "label": "E",
+          "text": "The manufacturer will stay in business only if its specialized suppliers are not bankrupted."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 53,
+      "token_count": 61,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 69,
+      "text": "Jack's dog howls whenever a train goes by. Occasionally a train goes by while Jack is washing his dog. So Jack's dog must sometimes howl while he is washing it. The pattern of reasoning in which one of the following arguments is most similar to that in the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Every serious jogger can benefit from good running shoes. But there must be a few serious joggers who prefer to run in ordinary sneakers, since some people who can benefit from good running shoes prefer to run in ordinary sneakers."
+        },
+        {
+          "label": "B",
+          "text": "Most serious joggers can benefit from good running shoes. But some serious joggers prefer to run in ordinary sneakers. So some people who prefer to run in ordinary sneakers can benefit from good running shoes."
+        },
+        {
+          "label": "C",
+          "text": "Any serious jogger can benefit from good running shoes. But a few serious joggers prefer to run in ordinary sneakers. So some people who can benefit from good running shoes prefer to run in ordinary sneakers."
+        },
+        {
+          "label": "D",
+          "text": "At least some serious joggers can benefit from good running shoes. But there are serious joggers who prefer to run in ordinary sneakers. So some people who prefer to run in ordinary sneakers can benefit from good running shoes."
+        },
+        {
+          "label": "E",
+          "text": "Any serious jogger can benefit from good running shoes. But some serious joggers occasionally prefer to run in ordinary sneakers. So anyone who can benefit from good running shoes occasionally prefers to run in ordinary sneakers."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 50,
+      "token_count": 58,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 70,
+      "text": "When plants are growing quickly, they take more carbon dioxide out of the atmosphere than they release into it. But when they are growing very slowly, the reverse is true. Any substantial increase in the amount of carbon dioxide released into the atmosphere causes temperatures to increase in the tropics, where the bulk of Earth's plants are found. And the more temperatures increase in the tropics, the more slowly, on average, the plants there grow. Which one of the following is most strongly supported by the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The amount of carbon dioxide released into the atmosphere will inevitably increase at a gradually accelerating rate of speed."
+        },
+        {
+          "label": "B",
+          "text": "If the amount of carbon dioxide released into the atmosphere increases substantially, the bulk of Earth's plants will release more carbon dioxide into the atmosphere than they take out of it."
+        },
+        {
+          "label": "C",
+          "text": "Plants in the tropics will grow more slowly, on average, if they release enough carbon dioxide to increase substantially the total amount of carbon dioxide released into the atmosphere."
+        },
+        {
+          "label": "D",
+          "text": "If the plants in the tropics begin to grow more slowly, on average, the temperatures in the tropics will increase substantially as a result."
+        },
+        {
+          "label": "E",
+          "text": "Any increase in temperatures in the tropics will be associated with a substantial increase in the amount of carbon dioxide released into the atmosphere."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 88,
+      "token_count": 102,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 71,
+      "text": "Essayist: Since ancient times humans have relied on myths to try to explain our place in the cosmos. In this respect the claims of science are not different from stories about the gods of Homer. The question of the truth of science, as with myth, is merely the question of how well it helps us to cope with the human condition. So while science undoubtedly can count some successes, that it falls short of complete truth is amply demonstrated by the degree to which science is responsible for the breakdown of society's key institutions. Which one of the following most accurately states the main conclusion of the essayist's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Science is at least in part responsible for the breakdown of key institutions in society."
+        },
+        {
+          "label": "B",
+          "text": "Science is no more true than the myth of the gods of Homer."
+        },
+        {
+          "label": "C",
+          "text": "Science is only partially true."
+        },
+        {
+          "label": "D",
+          "text": "Science is merely a myth."
+        },
+        {
+          "label": "E",
+          "text": "Science, like stories about the gods of Homer, attempts to explain our place in the cosmos."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 109,
+      "token_count": 123,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 72,
+      "text": "Sodium nitrate is frequently added to sausages to make them pink. However, sodium nitrate does not contribute to preventing spoilage of the meat, and excessive use of it increases the level of sodium in the sausages beyond what is necessary for good taste. Because consumption of an excessive level of sodium can lead to health problems, clearly sodium nitrate should never be added to sausages. The reasoning in the argument is most vulnerable to criticism on which one of the following grounds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The argument makes a recommendation based on evidence from an insufficient sample."
+        },
+        {
+          "label": "B",
+          "text": "The argument does not address possible risks associated with the proposed recommendation."
+        },
+        {
+          "label": "C",
+          "text": "The argument presumes, without providing justification, that it is appropriate for the government to protect people from possible health threats without their consent."
+        },
+        {
+          "label": "D",
+          "text": "The argument does not provide sufficient justification for preferring the solution it recommends over more moderate alternatives."
+        },
+        {
+          "label": "E",
+          "text": "The argument does not distinguish adequately between medical and economic justifications for a policy."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 82,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 73,
+      "text": "For a zoo to make a valuable contribution to the community, it must be well run. All large zoos that are well run have some full-time veterinarians on staff, but many small zoos that are well run have only part-time veterinarians. In addition, there are many large zoos that make valuable contributions to their communities and are open all year, while most small zoos are closed in winter. If the statements above are true, then which one of the following must also be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Most large zoos are well run."
+        },
+        {
+          "label": "B",
+          "text": "No large, well-run zoos have any part-time veterinarians on staff."
+        },
+        {
+          "label": "C",
+          "text": "Some zoos that make valuable contributions to their communities have only part-time veterinarians on staff."
+        },
+        {
+          "label": "D",
+          "text": "Some zoos that are open all year have full-time veterinarians on staff."
+        },
+        {
+          "label": "E",
+          "text": "Most small zoos make valuable contributions to their communities."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 84,
+      "token_count": 101,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 74,
+      "text": "Principal: All of our school's rural students participate in the school's lunch program because they live too far away to go home for lunch, while roughly one half of their urban counterparts also take part in the program. Some participants in this program, including some of the school's strongest academic achievers, also participate in extracurricular activities such as sports and drama. Therefore, we know that some of the participants in extracurricular activities are rural students and some are urban students. The reasoning in the principal's argument is flawed because this argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "takes for granted that a greater number of strong academic achievers than those who are not strong academic achievers participate in extracurricular activities"
+        },
+        {
+          "label": "B",
+          "text": "takes for granted that a greater number of rural students than urban students participate in extracurricular activities"
+        },
+        {
+          "label": "C",
+          "text": "ignores the possibility that those who participate both in the lunch program and in extracurricular activities do not include both urban and rural students"
+        },
+        {
+          "label": "D",
+          "text": "ignores the possibility that both rural and urban students have many other ways of occupying their time besides extracurricular activities"
+        },
+        {
+          "label": "E",
+          "text": "at first uses the word \"participate\" in one sense and then illicitly allows the word's meaning to change"
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 91,
+      "token_count": 110,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 75,
+      "text": "Principle: An author of an article that has appeared in a magazine should be allowed to respond in that magazine to harsh criticism of the article if the criticism was published in the same magazine, or, alternatively, if the criticism was published in another magazine and is unfair. Application: McFinton should be allowed to publish a response in Speculator's Digest to Wallace's most recent article, because Wallace's article is harshly critical of McFinton's essay on self-deception. Which one of the following, if true, justifies the above application of the principle?",
+      "options": [
+        {
+          "label": "A",
+          "text": "McFinton's essay on self-deception appeared in Speculator's Digest as well as in other magazines."
+        },
+        {
+          "label": "B",
+          "text": "Wallace's most recent article was published in Speculator's Digest as well as in other magazines."
+        },
+        {
+          "label": "C",
+          "text": "McFinton's essay on self-deception appeared only in Speculator's Digest, while Wallace's article has been published in a wide array of other magazines."
+        },
+        {
+          "label": "D",
+          "text": "Both McFinton's essay on self-deception and Wallace's most recent article were published in Speculator's Digest."
+        },
+        {
+          "label": "E",
+          "text": "Wallace's most recent article appeared in Speculator's Digest and was unfair in its harsh criticism of McFinton's essay on self-deception."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 90,
+      "token_count": 115,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 76,
+      "text": "Paleontologist: Most biologists accept that birds evolved from dinosaurs known as maniraptors. Some biologists have not accepted this theory, because the oldest known bird fossils predate the oldest known maniraptor fossils by several million years. This reasoning is misguided, however; the fact that no maniraptor fossils of a certain age have been discovered hardly rules out the possibility that such fossils exist. The paleontologist's argument is most vulnerable to criticism on which one of the following grounds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It overlooks the possibility that even if a particular argument against a theory is misguided, that theory may nonetheless be untrue."
+        },
+        {
+          "label": "B",
+          "text": "It fails to address adequately the possibility that even if maniraptors existed before the first birds did, there may not be any maniraptor fossils older than the oldest known bird fossils."
+        },
+        {
+          "label": "C",
+          "text": "It takes for granted that if there are any maniraptor fossils older than the oldest known bird fossils, this itself proves that birds evolved from maniraptors."
+        },
+        {
+          "label": "D",
+          "text": "It overlooks the possibility that there may be substantial evidence that birds did not evolve from maniraptors, but that this evidence may be unrelated to the ages of any known or unknown bird and maniraptor fossils."
+        },
+        {
+          "label": "E",
+          "text": "It fails to address adequately the possibility that it can be reasonable to refuse to accept a theory solely on the grounds that the evidence yet discovered for the theory appears to be insufficient."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 77,
+      "token_count": 99,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 77,
+      "text": "Parikh: Jon has at least three unpaid parking tickets, so it's clear that he has no respect for the law. Atler: Although Jon does have too many unpaid parking tickets, these few minor infractions indicate nothing more than that he might be lazy or careless. The dialogue provides the most support for the claim that Parikh and Atler disagree over whether there is evidence that Jon",
+      "options": [
+        {
+          "label": "A",
+          "text": "has at least three unpaid parking tickets"
+        },
+        {
+          "label": "B",
+          "text": "has no respect for the law"
+        },
+        {
+          "label": "C",
+          "text": "has committed a few minor infractions"
+        },
+        {
+          "label": "D",
+          "text": "has too many unpaid parking tickets"
+        },
+        {
+          "label": "E",
+          "text": "might be lazy or careless"
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 66,
+      "token_count": 78,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 78,
+      "text": "The nests inhabited by wood rats often contain nibbled bay and oak leaves. Since only the oak leaves are a known food source, the bay leaves are probably placed there to act as a fumigant to reduce parasites such as fleas. This view is backed by an experiment in which some flea larvae were incubated with torn bay leaves and some with torn oak leaves. The survival rate with oak leaves was close to 100 percent, but with bay leaves just one in four larvae survived. Which one of the following, if true, most strengthens the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wood rats that live near oak trees almost invariably have oak leaves in their nests."
+        },
+        {
+          "label": "B",
+          "text": "Wood rats are the only rodents that have been found to keep nibbled bay leaves in their nests."
+        },
+        {
+          "label": "C",
+          "text": "Most wood rat nests that do not contain nibbled bay leaves are infested with fleas."
+        },
+        {
+          "label": "D",
+          "text": "Fleas more commonly live on wood rats themselves than in the nests of wood rats."
+        },
+        {
+          "label": "E",
+          "text": "Bay leaves are generally more difficult for wood rats to gather than oak leaves are."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 97,
+      "token_count": 113,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 79,
+      "text": "Of all the commonly consumed foods, eggs contain the highest amount of dietary cholesterol, which contributes to people's blood cholesterol levels. Yet when people who stop eating eggs for breakfast are monitored over the course of a year, their blood cholesterol levels are often found to increase. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Although eggs are high in dietary cholesterol, they also contain substances such as protein and vitamins, which are beneficial to overall health."
+        },
+        {
+          "label": "B",
+          "text": "Among people with certain health conditions, there is a high correlation between egg consumption and elevated blood cholesterol."
+        },
+        {
+          "label": "C",
+          "text": "People who stop eating eggs for breakfast generally do so because of concern about their cholesterol levels."
+        },
+        {
+          "label": "D",
+          "text": "Many people who regularly eat eggs for breakfast have about the same level of cholesterol in their blood as people who have never eaten eggs for breakfast."
+        },
+        {
+          "label": "E",
+          "text": "Many people who stop eating eggs for breakfast start eating breakfast foods that are high in saturated fat, which has a greater effect on blood cholesterol than dietary cholesterol does."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 65,
+      "token_count": 74,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 80,
+      "text": "An enormous, recently completed resort is the largest project ever built to environmental building standards. However, the resort is an economic failure—most of its many hotel rooms are empty—and it is thus no great achievement in environmental sustainability either. Which one of the following principles, if valid, most helps to justify the reasoning in the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Environmental sustainability is no less difficult to achieve with resort facilities than with other kinds of facilities."
+        },
+        {
+          "label": "B",
+          "text": "Using resources to build things that the market does not demand compromises environmental sustainability."
+        },
+        {
+          "label": "C",
+          "text": "Buildings designed for recreational uses should be built to the same standards as buildings designed for industrial uses."
+        },
+        {
+          "label": "D",
+          "text": "To minimize risk, large construction projects should not be undertaken during a time of economic instability."
+        },
+        {
+          "label": "E",
+          "text": "Reducing energy used during operation of a building is more important than reducing energy used to construct the building."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 56,
+      "token_count": 66,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 81,
+      "text": "IlluminCo should focus its efforts on developing affordable light-emitting diode (LED) bulbs for widespread use. LED bulbs have many advantages over incandescent and fluorescent bulbs. Because their design is simpler, LED bulbs undergo less wear and tear than other bulbs and consequently last much longer. In addition, LED bulbs use significantly less energy than do other bulbs. However, because of their cost, LED bulbs are currently used only in limited applications. Which one of the following most accurately expresses the main conclusion drawn in the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "IlluminCo should focus on developing affordable LED bulbs for widespread use."
+        },
+        {
+          "label": "B",
+          "text": "LED bulbs have many advantages over incandescent and fluorescent bulbs."
+        },
+        {
+          "label": "C",
+          "text": "LED bulbs last much longer than incandescent and fluorescent bulbs."
+        },
+        {
+          "label": "D",
+          "text": "LED bulbs use significantly less energy than do other bulbs."
+        },
+        {
+          "label": "E",
+          "text": "Because of their cost, LED bulbs are currently used only in limited applications."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 86,
+      "token_count": 106,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 82,
+      "text": "Nguyen: The recently discovered structure at Aila, which dates from about 300 A.D., has been labeled \"the oldest Christian church.\" But it is not the oldest, for the Christian church at Doura-Europos, a city destroyed in 250 A.D., is at least half a century older. Parker: Well, the earliest Christians worshiped in private houses, not churches as such, and the Doura-Europos structure was a private house converted into a structure for Christian worship, whereas the Aila structure was built expressly as a Christian church. Which one of the following most accurately expresses the grounds on which Parker criticizes Nguyen's reasoning?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The term \"church\" can refer to an organization rather than a structure."
+        },
+        {
+          "label": "B",
+          "text": "The term \"church\" cannot be appropriately applied to the structure at Doura-Europos."
+        },
+        {
+          "label": "C",
+          "text": "Nguyen uses the term \"church\" to mean two different things."
+        },
+        {
+          "label": "D",
+          "text": "There is insufficient evidence for the existence of the structure at Aila."
+        },
+        {
+          "label": "E",
+          "text": "There is no evidence that the earliest Christians worshiped in structures built expressly as churches."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 100,
+      "token_count": 138,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 83,
+      "text": "Judith usually eats in Thai restaurants, because Thai food is her favorite kind. Thus, since Pablo usually eats in Italian restaurants, evidently Italian food is his favorite kind. The reasoning in the argument is most vulnerable to criticism on the grounds that the argument",
+      "options": [
+        {
+          "label": "A",
+          "text": "takes what is evidently a difference of degree to be a difference of kind"
+        },
+        {
+          "label": "B",
+          "text": "infers from the effect an action has that the action is intended to have that effect"
+        },
+        {
+          "label": "C",
+          "text": "infers that simply because a set of things taken as a whole has a certain property, each member of that set has the property"
+        },
+        {
+          "label": "D",
+          "text": "confuses an absence of evidence against a claim with the existence of evidence in support of that claim"
+        },
+        {
+          "label": "E",
+          "text": "proceeds as if a given kind of causal explanation can be generalized on the basis of a single instance"
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 44,
+      "token_count": 50,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 84,
+      "text": "Plaintiff's lawyer: The judge in this case recently went on a skiing weekend with a small group that included the defendant. Moreover, before the case arose, the judge's family occasionally received complimentary tickets to theater and sporting events from the defendant's company. So, even if the judge's avowal that the case was never discussed during the skiing weekend is accurate, her connections with the defendant raise doubts about whether she can decide it impartially. She should do the right thing and step down from the case. Which one of the following principles, if valid, most helps to justify the reasoning in the plaintiff's lawyer's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because they are human, judges should not ever be expected to be completely impartial in deciding a case."
+        },
+        {
+          "label": "B",
+          "text": "Judges should always disqualify themselves from cases in which any reasonable question can be raised about their impartiality."
+        },
+        {
+          "label": "C",
+          "text": "A judge's claim that she has not discussed a case with one of the parties to it should be viewed with suspicion if the judge has received something of value from that party."
+        },
+        {
+          "label": "D",
+          "text": "A judge should step down from a case if there is clear evidence that the judge has been unfairly influenced by one of the parties to it."
+        },
+        {
+          "label": "E",
+          "text": "A judge should never accept items of value from someone who is a defendant in a case over which she is presiding."
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 105,
+      "token_count": 128,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 85,
+      "text": "A recent experiment shows that chimpanzees sometimes act not out of self-interest, but altruistically. In this experiment, chimpanzees watched a person unknown to them reach through the bars of their enclosure for a stick. When the person was unable to reach it, most of the chimpanzees handed the stick to the person even though they had to make an effort to reach it. Since no reward was offered to the chimpanzees in the experiment, what it revealed was clearly altruism. Which one of the following is an assumption required by the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The chimpanzees in the experiment did not have an expectation that they would be rewarded."
+        },
+        {
+          "label": "B",
+          "text": "If a reward had been offered in the experiment, the chimpanzees would have behaved differently."
+        },
+        {
+          "label": "C",
+          "text": "Chimpanzees are the only nonhumans that have been shown to exhibit altruistic behavior."
+        },
+        {
+          "label": "D",
+          "text": "The chimpanzees in the experiment considered retrieving the stick to be a form of play."
+        },
+        {
+          "label": "E",
+          "text": "The chimpanzees would have behaved differently had they been familiar with the person who reached through the bars of their enclosure."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 92,
+      "token_count": 112,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 86,
+      "text": "Dr. Cortez: Dr. Brady claims her research shows that the best choice for people at risk for a heart attack is to avoid exercising outdoors on days when there are high levels of air pollution. This conclusion is obviously wrong. It would be far better to remove pollution from the air than to just avoid it. Dr. Cortez's reasoning is questionable in that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "criticizes an argument by attacking the person making the argument rather than the content of the argument being made"
+        },
+        {
+          "label": "B",
+          "text": "mistakes what is meant to be advice directed at individuals for a recommendation about public policy"
+        },
+        {
+          "label": "C",
+          "text": "infers that something is best for a group as a whole simply on the grounds that it is best for individual members of that group"
+        },
+        {
+          "label": "D",
+          "text": "presumes, without providing justification, that only those at risk for a heart attack should avoid exercising outdoors on days when there are high levels of air pollution"
+        },
+        {
+          "label": "E",
+          "text": "takes for granted that the removal of pollution from the air would be a good thing when that is one of the issues in dispute"
+        }
+      ],
+      "correct_label": "B",
+      "question_word_count": 64,
+      "token_count": 74,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 87,
+      "text": "When campaigning for office, politicians sometimes promise to do things that they believe would be contrary to the interests of the public. Once in office, however, a politician who gets elected should try to keep any campaign promises that the politician believes would not make the public worse off. The principle stated above, if valid, most helps to justify the reasoning in which one of the following arguments?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Greeley was elected to office on the promise to reduce taxes. Upon taking office it became apparent to Greeley that reducing taxes would require cuts in services that would be unpopular with the public. Thus, Greeley should not try to reduce taxes."
+        },
+        {
+          "label": "B",
+          "text": "Zamora believes that building the water treatment plant will not make the public better off, but that promising to do so will help Zamora get elected, and that electing Zamora will be in the public's best interest. Thus, it is not wrong for Zamora to make the promise."
+        },
+        {
+          "label": "C",
+          "text": "Najera campaigned on a promise to preserve funding for a new recycling center. Once in office, Najera came to doubt that fulfilling the promise would provide any benefit to the public. Thus, Najera should break the promise."
+        },
+        {
+          "label": "D",
+          "text": "Yan campaigned on the promise to increase spending on road maintenance despite believing that fulfilling the promise would be to the detriment of the public. But once elected, Yan concluded that fulfilling the promise would benefit the public. So Yan should keep the promise."
+        },
+        {
+          "label": "E",
+          "text": "Kourik campaigned on the promise to restructure the Housing Department. Once in office, Kourik concluded that attempting to restructure the Housing Department would be to the public's detriment. Thus, Kourik never should have promised to restructure the Housing Department."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 68,
+      "token_count": 76,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 88,
+      "text": "Suvaine is a drug that is prescribed to alleviate symptoms associated with a skin disorder. When it became known that the incidence of certain cancers is higher among people taking Suvaine than it is for people of the same age in the general population, some physicians hypothesized that taking Suvaine contributes to cancer risk. Which one of the following would be most useful to know in order to assess the support for the physicians' hypothesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "whether the incidence of the cancers is the same among people with the skin disorder as it is for people who do not have the skin disorder"
+        },
+        {
+          "label": "B",
+          "text": "whether any other drugs alleviate the symptoms of the skin disorder as well as Suvaine does"
+        },
+        {
+          "label": "C",
+          "text": "whether the number of people taking Suvaine increased significantly just before the discovery about the incidence of the cancers"
+        },
+        {
+          "label": "D",
+          "text": "whether there has recently been an increase in the overall incidence of the types of cancer found to have a relatively high incidence among people taking Suvaine"
+        },
+        {
+          "label": "E",
+          "text": "whether people ever use Suvaine for any purpose other than alleviating symptoms associated with the skin disorder"
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 75,
+      "token_count": 87,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 89,
+      "text": "Many toll roads have added methods of collecting tolls by automatically debiting the prepaid accounts of drivers whose vehicles pass by an electronic sensor rather than by making drivers stop to pay. Promoters claim that the savings involved allows tolls to remain lower than they otherwise would be. However, a recent study shows that when electronic payment systems are in place toll increases are 30 percent higher than they are on roads without electronic payment systems. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electronic payment systems have environmental advantages because they reduce the traffic delays associated with traditional toll collection."
+        },
+        {
+          "label": "B",
+          "text": "Not all drivers who use toll roads use them enough to make it worth their while to set up an account and acquire the equipment needed to use an electronic system."
+        },
+        {
+          "label": "C",
+          "text": "When drivers do not take time to pay the cost of each trip on a toll road separately, they are less likely to put pressure on the road's managers to keep toll charges down."
+        },
+        {
+          "label": "D",
+          "text": "By taking payment in advance of actual trips, electronic payment systems have a financial advantage through the accrual of interest."
+        },
+        {
+          "label": "E",
+          "text": "Toll increases are an effective strategy for encouraging drivers to carpool, thereby reducing congestion."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 94,
+      "token_count": 106,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 90,
+      "text": "By inserting genes from a certain common vegetable into the vines of wine grapes, researchers have created grapevines that survive very cold winters. This research is useless, however. Even if good wines can be made from these grapes, consumers will not accept wine made from grapes with vegetable genes. Which one of the following, if true, most weakens the argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Techniques developed in the course of the research could also be used to make wine grapes more cold tolerant by inserting genes from cold-tolerant wild grapes."
+        },
+        {
+          "label": "B",
+          "text": "Grapes from the vines that the researchers developed have not been tested to determine their suitability for wine making."
+        },
+        {
+          "label": "C",
+          "text": "Every year, grapevines at many vineyards are destroyed by cold weather."
+        },
+        {
+          "label": "D",
+          "text": "If winemakers ever make wine from grapes with genetic material from another type of fruit or vegetable, they will be obligated to disclose that information on their labels."
+        },
+        {
+          "label": "E",
+          "text": "Some very good wines are made from grapes grown in grape-growing regions with cool winters."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 60,
+      "token_count": 72,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 91,
+      "text": "Stephanie: The historic district should be expanded by several blocks immediately. The beauty of the nineteenth-century architecture on these blocks would draw more tourists to the city, and increased tourism would benefit all the residents due to the extra money coming into the community. Shirley: Caution needs to be exercised. Rents would go up in apartment buildings on the fringes of the present historic district if it is expanded. This increase would seriously disrupt the lives of the people affected. On the basis of their statements, Stephanie and Shirley are committed to disagreeing about the truth of which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The increased tourism in the expanded historic district would be a benefit to the city."
+        },
+        {
+          "label": "B",
+          "text": "Some of the residents of the expanded historic district would see their rents increase."
+        },
+        {
+          "label": "C",
+          "text": "Some people would be adversely affected by the expansion of the historic district."
+        },
+        {
+          "label": "D",
+          "text": "The historic district should not be expanded."
+        },
+        {
+          "label": "E",
+          "text": "The expansion of the historic district should be done without hesitation."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 102,
+      "token_count": 119,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 92,
+      "text": "Lawyer: In concluding that there were no witnesses to the crime, the investigators relied almost entirely on unverifiable claims. Thus, there is good reason to doubt the truth of their conclusion. But treating that reason for doubt as though it were proof that there were witnesses to the crime is equally unacceptable. Which one of the following conforms most closely to the principle illustrated above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A newspaper published an in-depth report of both sides of a dispute, without questioning the validity of either view. So, although the newspaper allowed each side to make its case, the report did not favor one side over the other."
+        },
+        {
+          "label": "B",
+          "text": "Although Ventola's proposal appears to be a viable solution to the problem, we should not yet adopt her solution. There are undoubtedly many other solutions available, and we cannot know which solution is best until we have considered all of them."
+        },
+        {
+          "label": "C",
+          "text": "If a salesperson would receive a commission from selling a product, then it is reasonable to assume that the salesperson's attitude toward the product might be biased. However, the mere possibility of bias should not be confused with actual bias."
+        },
+        {
+          "label": "D",
+          "text": "Ross has stated that he will never tell a lie, but that cannot be proven while Ross is still alive. After all, the truth of such a statement must be measured against actual events. Nonetheless, it would also be a mistake to take this to indicate that Ross will tell a lie."
+        },
+        {
+          "label": "E",
+          "text": "The makers of Ever Clean claim that Ever Clean is a better household cleaner than Total Clean because Total Clean is ineffective. It may be true that Total Clean is ineffective, but claims about Ever Clean's efficacy should be based on Ever Clean's performance."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 65,
+      "token_count": 75,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 93,
+      "text": "Gala award ceremonies for theater and film artists can never succeed at their most obvious purpose—rewarding the best artists of a particular year. After all, judgments about an artist's work are based largely on subjective preferences, and some brilliant artists who work outside the mainstream are not even considered for awards. Yet award ceremonies bring art to public awareness, a requirement for the advancement of culture in any society. Which one of the following is most strongly supported by the statements above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The advancement of culture in any society requires that there be award ceremonies for theater and film artists."
+        },
+        {
+          "label": "B",
+          "text": "Some subjective judgments interfere with the advancement of culture in a society."
+        },
+        {
+          "label": "C",
+          "text": "An award ceremony for artists who work outside the mainstream would not advance culture in a society."
+        },
+        {
+          "label": "D",
+          "text": "Gala award ceremonies for theater and film artists are justified only if they reward the best artists of the particular year."
+        },
+        {
+          "label": "E",
+          "text": "The most obvious purpose behind gala award ceremonies for theater and film artists is not the best reason for holding them."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 82,
+      "token_count": 94,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 94,
+      "text": "Can everything be reduced to what is studied by physics? Many scientists think that such a reduction is only a matter of time. They argue that all phenomena can be adequately explained by the laws of physics alone. However, the science that is often mentioned as affording the best evidence for physical reductionism—psychology—also furnishes the critics of physical reductionism with their best examples of heretofore unreduced phenomena. Which one of the following most accurately and completely characterizes the role of the reference to psychology in the passage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is presented as evidence that only in the distant future are reductions to what is studied by physics possible."
+        },
+        {
+          "label": "B",
+          "text": "It is given as an example of an area of science where reductions to what is studied by physics are common."
+        },
+        {
+          "label": "C",
+          "text": "It is used to show that attempts to effect a reduction to what is studied by physics, even in the best cases, are questionable."
+        },
+        {
+          "label": "D",
+          "text": "It is presented as an example of a scientific discipline that refutes the claims of the physical reductionists."
+        },
+        {
+          "label": "E",
+          "text": "It is used to illustrate the claim that the human sciences contain examples of unreduced phenomena."
+        }
+      ],
+      "correct_label": "C",
+      "question_word_count": 87,
+      "token_count": 107,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 95,
+      "text": "A minority political faction will gracefully accept the electoral victory of a majority if the two factions share many fundamental values. In such a case, the loss does not constitute a complete surrender of the losing faction's vital interests. Hence, the cases in which majority rule works best include those in which each minority faction shares many fundamental values with the majority. The conclusion of the argument follows logically if which one of the following is assumed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Majority rule is most successful when the political issues that are most widely discussed are not issues of fundamental values."
+        },
+        {
+          "label": "B",
+          "text": "If a minority political faction gracefully accepts the electoral victory of a majority, then the two factions share many fundamental values."
+        },
+        {
+          "label": "C",
+          "text": "Only if an electoral loss constitutes a complete surrender of a minority faction's vital interests does majority rule work poorly."
+        },
+        {
+          "label": "D",
+          "text": "The cases in which majority rule works best include those in which every minority faction gracefully accepts the majority's victory."
+        },
+        {
+          "label": "E",
+          "text": "Whenever minority and majority factions do not share many fundamental values, a minority faction's electoral loss will constitute a complete surrender of its vital interests."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 77,
+      "token_count": 84,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 96,
+      "text": "Advertisement: If you own a car, you need collision insurance. And anyone who needs collision insurance wants the best insurance bargain available. So if you own a car, you will want to take advantage of Acme's great rates on collision insurance. The questionable pattern of reasoning in which one of the following arguments is most similar to that in the advertisement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Columnist: If you are unhappy with your career, you should pursue a new one. Anyone whose career does not provide interesting challenges should pursue a new one. Hence, if you are unhappy with your career, you should go into computer programming."
+        },
+        {
+          "label": "B",
+          "text": "Columnist: If you are pursuing a new career, you should consider one that provides interesting challenges. Anyone who goes into computer programming will have interesting challenges. So if you are pursuing a new career, you should consider computer programming."
+        },
+        {
+          "label": "C",
+          "text": "Columnist: You do not need to pursue a new career if you are happy with your current one. Everyone who pursues a new career should consider the challenging career of computer programming. Therefore, if you are happy with your current career, you should not consider computer programming."
+        },
+        {
+          "label": "D",
+          "text": "Columnist: Everyone who pursues a new career should seek one that provides the most interesting challenges. If you are unhappy with your career, you should pursue a new one. Thus, if you pursue a new career, you should go into computer programming."
+        },
+        {
+          "label": "E",
+          "text": "Columnist: You should pursue a new career if you are unhappy with your current one. Everyone who pursues a new career should seek the one that provides the most interesting challenges. So if you are unhappy with your current career, you should go into the challenging career of computer programming."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 61,
+      "token_count": 70,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 97,
+      "text": "Editorial: Politicians who accept large contributions from corporations are very likely to show favoritism toward those corporations. Mayor Thompson has consistently shown clear favoritism toward the Wycombe Corporation. So the mayor very likely accepted one or more contributions from that corporation. Which one of the following most accurately describes a flaw in the reasoning of the editorial's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It proceeds as if the fact that people in a certain category are likely to be in another category establishes that a person in the latter category is likely to be in the former category."
+        },
+        {
+          "label": "B",
+          "text": "It fails to address the possibility that a specific member of a group is unrepresentative of that group in relevant respects."
+        },
+        {
+          "label": "C",
+          "text": "It treats a condition that is sufficient to establish the truth of the argument's conclusion as a condition that must hold in order for the conclusion to be true."
+        },
+        {
+          "label": "D",
+          "text": "It fails to distinguish between the claim that two phenomena are consistently associated with each other and the claim that one of those phenomena is always causally responsible for the other."
+        },
+        {
+          "label": "E",
+          "text": "It rejects a claim by attacking a proponent of the claim rather than by addressing the claim itself."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 58,
+      "token_count": 71,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 98,
+      "text": "Economist: Antagonism toward free trade and resulting attempts to restrict trade are on the rise in many countries of the world, primarily due to substantial increases in the inequality of incomes in those countries. Since free trade brings tremendous benefits to the economies of all participating countries, these countries should introduce reforms like more progressive income tax rates to achieve a significant redistribution of income. Which one of the following is an assumption required by the economist's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Substantial increases in inequality of incomes in countries are not directly due to free trade."
+        },
+        {
+          "label": "B",
+          "text": "In countries with substantially unequal incomes, people with lower incomes receive little or no benefit from free trade."
+        },
+        {
+          "label": "C",
+          "text": "Restrictions on trade are one effective way to bring about significant redistribution of income in a country."
+        },
+        {
+          "label": "D",
+          "text": "The proposed policies to redistribute income in certain countries will not significantly undermine the economic benefits of free trade to those countries."
+        },
+        {
+          "label": "E",
+          "text": "Substantial redistribution of income in a country will increase the economic benefits that country receives from free trade."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 78,
+      "token_count": 89,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 99,
+      "text": "Overall ketchup sales rose significantly when ketchup began to be sold in squeezable plastic containers, which made ketchup much easier to use. A paint manufacturer is considering packaging paint in plastic jugs. As was the case with ketchup in plastic containers, this is a smart marketing move. Which one of the following, if true, most strengthens the argument above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Before the introduction of squeezable ketchup containers, surveys showed that customers were dissatisfied with the difficulty of getting ketchup from the bottle."
+        },
+        {
+          "label": "B",
+          "text": "Many users find traditional paint cans difficult to store."
+        },
+        {
+          "label": "C",
+          "text": "Previous attempts to change paint packaging have often been well accepted by consumers."
+        },
+        {
+          "label": "D",
+          "text": "Changing the packaging of paint will create no greater manufacturing difficulties than were created by changing the packaging of ketchup."
+        },
+        {
+          "label": "E",
+          "text": "Packaging paint in plastic jugs will make paint easier to use."
+        }
+      ],
+      "correct_label": "E",
+      "question_word_count": 59,
+      "token_count": 73,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 100,
+      "text": "Researchers have found that when rivers are dammed, the number of plant species along their banks falls by an average of 15 percent. Thus it follows that if the Chiawatchee River is dammed, some plant species will disappear from its banks as a result. The argument is most vulnerable to criticism on which one of the following grounds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It overlooks the possibility that even if damming rivers inevitably contributes to reductions of an average of 15 percent in plant species, other factors may counteract the reductions in this number in specific instances."
+        },
+        {
+          "label": "B",
+          "text": "It fails to address adequately the possibility that the total number of plant species along the banks of a river need not fall even if some individual plant species disappear from the banks of that river."
+        },
+        {
+          "label": "C",
+          "text": "It fails to address adequately the possibility that it is inevitable that at least some plant species on the banks of the Chiawatchee River will eventually disappear even if the river is not dammed."
+        },
+        {
+          "label": "D",
+          "text": "It overlooks the possibility that the number of plant species along riverbanks could fall an average of 15 percent when those rivers are dammed even if the banks of some rivers lose no plant species after being dammed."
+        },
+        {
+          "label": "E",
+          "text": "It takes for granted that the dammed rivers studied by the researchers generally resembled one another with respect to the number and kinds of plant species along their banks."
+        }
+      ],
+      "correct_label": "D",
+      "question_word_count": 58,
+      "token_count": 69,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 101,
+      "text": "User's manual: If the main indicator light is either green or blue when every switch on the control panel is turned on, this indicates both that the system is functioning properly and that the pressure in the chamber is less than 170 kilopascals. Observation: The main indicator light is blue and the pressure in the chamber is 210 kilopascals. If the statement from the user's manual is true and the observation is accurate, which one of the following cannot be true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Every switch on the control panel is turned on."
+        },
+        {
+          "label": "B",
+          "text": "One switch on the control panel is not turned on."
+        },
+        {
+          "label": "C",
+          "text": "The system is functioning properly."
+        },
+        {
+          "label": "D",
+          "text": "The system is not functioning properly."
+        },
+        {
+          "label": "E",
+          "text": "The pressure in the chamber is rising."
+        }
+      ],
+      "correct_label": "A",
+      "question_word_count": 81,
+      "token_count": 98,
+      "num_alternatives": 5
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 75.53465346534654,
+    "avg_token_count": 88.6930693069307,
+    "avg_alternatives_count": 5.0,
+    "avg_similarity_excl_self": 0.15496738255023956
+  }
+}
