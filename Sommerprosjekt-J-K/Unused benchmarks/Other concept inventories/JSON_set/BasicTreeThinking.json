@@ -1,0 +1,179 @@
+{
+ "version": "basic-tree-thinking-v1",
+ "source": "Basic Tree Thinking Assessment, Baum, Smith & Donovan 2005, Science 310:979-980 (self-test quiz, no redistribution restriction) | 10 multiple-choice items; several reference phylogenetic tree diagrams not reproduced here (options omitted for items 4-8, which retain their stated correct answer). correct_label included from the published key. Transcribed from local md 2026-07-03.",
+ "items": [
+  {
+   "item_id": 1,
+   "orig_label": "1",
+   "text": "By reference to the tree above, which of the following is an accurate statement of relationships?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A green alga is more closely related to a red alga than to a moss"
+    },
+    {
+     "label": "B",
+     "text": "A green alga is more closely related to a moss than to a red alga"
+    },
+    {
+     "label": "C",
+     "text": "A green alga is equally related to a red alga and a moss"
+    },
+    {
+     "label": "D",
+     "text": "A green alga is related to a red alga, but is not related to a moss"
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 2,
+   "orig_label": "2",
+   "text": "By reference to the tree above, which of the following is an accurate statement of relationships?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A crocodile is more closely related to a lizard than to a bird"
+    },
+    {
+     "label": "B",
+     "text": "A crocodile is more closely related to a bird than to a lizard"
+    },
+    {
+     "label": "C",
+     "text": "A crocodile is equally related to a lizard and a bird"
+    },
+    {
+     "label": "D",
+     "text": "A crocodile is related to a lizard, but is not related to a bird"
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 3,
+   "orig_label": "3",
+   "text": "By reference to the tree above, which of the following is an accurate statement of relationships?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A seal is more closely related to a horse than to a whale"
+    },
+    {
+     "label": "B",
+     "text": "A seal is more closely related to a whale than to a horse"
+    },
+    {
+     "label": "C",
+     "text": "A seal is equally related to a horse and a whale"
+    },
+    {
+     "label": "D",
+     "text": "A seal is related to a whale, but is not related to a horse"
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 4,
+   "orig_label": "4",
+   "text": "Which of the five marks in the tree above corresponds to the most recent common ancestor of a mushroom and a sponge?",
+   "options": [],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 5,
+   "orig_label": "5",
+   "text": "If you were to add a trout to the phylogeny shown above, where would its lineage attach to the rest of the tree?",
+   "options": [],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 6,
+   "orig_label": "6",
+   "text": "Which of the trees below is false given the larger phylogeny above?",
+   "options": [],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 7,
+   "orig_label": "7",
+   "text": "Which of the four trees above depicts a different pattern of relationships than the others?",
+   "options": [],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 8,
+   "orig_label": "8",
+   "text": "Which of the four trees above depicts a different pattern of relationships than the others?",
+   "options": [],
+   "correct_label": "A",
+   "split": "test"
+  },
+  {
+   "item_id": 9,
+   "orig_label": "9",
+   "text": "In the above tree, assume the ancestor had a long tail, ear flaps, external testes, and fixed claws. Based on the tree (all evolutionary changes shown), what traits does a sea lion have?",
+   "options": [
+    {
+     "label": "A",
+     "text": "long tail, ear flaps, external testes, and fixed claws"
+    },
+    {
+     "label": "B",
+     "text": "short tail, no ear flaps, external testes, and fixed claws"
+    },
+    {
+     "label": "C",
+     "text": "short tail, no ear flaps, abdominal testes, and fixed claws"
+    },
+    {
+     "label": "D",
+     "text": "short tail, ear flaps, abdominal testes, and fixed claws"
+    },
+    {
+     "label": "E",
+     "text": "long tail, ear flaps, abdominal testes, and retractable claws"
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 10,
+   "orig_label": "10",
+   "text": "In the above tree, assume the ancestor was an herb (not a tree) without leaves or seeds. Based on the tree (all changes shown), which tip has a tree habit and lacks true leaves?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Lepidodendron"
+    },
+    {
+     "label": "B",
+     "text": "Clubmoss"
+    },
+    {
+     "label": "C",
+     "text": "Oak"
+    },
+    {
+     "label": "D",
+     "text": "Psilotum"
+    },
+    {
+     "label": "E",
+     "text": "Fern"
+    }
+   ],
+   "correct_label": "A",
+   "split": "test"
+  }
+ ]
+}

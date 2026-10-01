@@ -1,0 +1,764 @@
+{
+ "version": "bci-v2",
+ "source": "Biological Concepts Instrument (BCI.1), Klymkowsky MW, Underwood SM, Garvin-Doxas RK (2010). arXiv:1012.4501 (open access). 29 multiple-choice items with correct answers marked in the source text (✓). Question 23 was dropped from the trial 30-item version because its two-tiered structure confused online respondents, so item numbering runs 1-22, 24-30. Transcribed 2026-07-06 from the local PDF. Note: a revised, 30-item version of the BCI (with item 23 reinstated) is currently administered live via the LASSO platform (lassoeducation.org/biological-concepts-instrument), but its full item text is gated behind a LASSO login and not reproduced here. Item numbering matches the original BCI.1 question numbers (Q23 omitted); a \"category\" field on each item reflects the current LASSO/bioliteracy grouping of all 30 canonical BCI questions into 6 concept clusters.",
+ "items": [
+  {
+   "item_id": 1,
+   "orig_label": "Q1",
+   "category": "Stochastic processes",
+   "text": "Many types of house plants droop when they have not been watered and quickly \"straighten up\" after watering. The reason that they change shape after watering is because ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "Water reacts with, and stiffens, their cell walls."
+    },
+    {
+     "label": "B",
+     "text": "Water is used to generate energy that moves the plant."
+    },
+    {
+     "label": "C",
+     "text": "Water changes the concentration of salts within the plant."
+    },
+    {
+     "label": "D",
+     "text": "Water enters and expands their cells."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 2,
+   "orig_label": "Q2",
+   "category": "Energetics & molecular interactions",
+   "text": "In which way are plants and animals different in how they obtain energy?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Animals use ATP; plants do not."
+    },
+    {
+     "label": "B",
+     "text": "Plants capture energy from sunlight; animals capture chemical energy."
+    },
+    {
+     "label": "C",
+     "text": "Plants store energy in sugar molecules; animals do not."
+    },
+    {
+     "label": "D",
+     "text": "Animals can synthesize sugars from simpler molecules; plants cannot."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 3,
+   "orig_label": "Q3",
+   "category": "Energetics & molecular interactions",
+   "text": "In which way are plants and animals different in how they use energy?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Plants use energy to build molecules; animals cannot."
+    },
+    {
+     "label": "B",
+     "text": "Animals use energy to break down molecules; plants cannot."
+    },
+    {
+     "label": "C",
+     "text": "Animals use energy to move; plants cannot."
+    },
+    {
+     "label": "D",
+     "text": "Plants use energy directly, animals must transform it."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 4,
+   "orig_label": "Q4",
+   "category": "Evolution",
+   "text": "How can a catastrophic global event influence evolutionary change?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Undesirable versions of genes are removed."
+    },
+    {
+     "label": "B",
+     "text": "New genes are generated."
+    },
+    {
+     "label": "C",
+     "text": "Only some species may survive the event."
+    },
+    {
+     "label": "D",
+     "text": "There are short term effects that disappear over time."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 5,
+   "orig_label": "Q5",
+   "category": "Stochastic processes",
+   "text": "There exists a population in which there are three distinct versions of the gene A (a1, a2, and a3). Originally, each version was present in equal numbers of individuals. Which version of the gene an individual carries has no measurable effect on its reproductive success. As you follow the population over a number of generations, you find that the frequency of a1 and a3 drop to 0%. What is the most likely explanation?",
+   "options": [
+    {
+     "label": "A",
+     "text": "There was an increased rate of mutation in organisms that carry either a1 or a3."
+    },
+    {
+     "label": "B",
+     "text": "Mutations have occurred that changed a1 and a3 into a2."
+    },
+    {
+     "label": "C",
+     "text": "Individuals carrying a1 or a3 were removed by natural selection."
+    },
+    {
+     "label": "D",
+     "text": "Random variations led to a failure to produce individuals carrying a1 or a3."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 6,
+   "orig_label": "Q6",
+   "category": "Evolution",
+   "text": "Natural selection produces evolutionary change by…",
+   "options": [
+    {
+     "label": "A",
+     "text": "changing the frequency of various versions of genes."
+    },
+    {
+     "label": "B",
+     "text": "reducing the number of new mutations."
+    },
+    {
+     "label": "C",
+     "text": "producing genes needed for new environments."
+    },
+    {
+     "label": "D",
+     "text": "reducing the effects of detrimental versions of genes."
+    }
+   ],
+   "correct_label": "A",
+   "split": "test"
+  },
+  {
+   "item_id": 7,
+   "orig_label": "Q7",
+   "category": "Genetic behaviors",
+   "text": "If two parents display distinct forms of a trait and all their offspring (of which there are hundreds) display the same new form of the trait, you would be justified in concluding that ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "both parents were heterozygous for the gene that controls the trait."
+    },
+    {
+     "label": "B",
+     "text": "both parents were homozygous for the gene that controls the trait."
+    },
+    {
+     "label": "C",
+     "text": "one parent was heterozygous, the other was homozygous for the gene that controls the trait."
+    },
+    {
+     "label": "D",
+     "text": "a recombination event has occurred in one or both parents."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 8,
+   "orig_label": "Q8",
+   "category": "Experimental design",
+   "text": "You are doing experiments to test whether a specific type of acupuncture works. This type of acupuncture holds that specific needle insertion points influence specific parts of the body. As part of your experimental design, you randomize your treatments so that some people get acupuncture needles inserted into the \"correct\" sites and others into \"incorrect\" sites. What is the point of inserting needles into incorrect places?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It serves as a negative control."
+    },
+    {
+     "label": "B",
+     "text": "It serves as a positive control."
+    },
+    {
+     "label": "C",
+     "text": "It controls for whether the person can feel the needle."
+    },
+    {
+     "label": "D",
+     "text": "It controls for whether needles are necessary."
+    }
+   ],
+   "correct_label": "A",
+   "split": "test"
+  },
+  {
+   "item_id": 9,
+   "orig_label": "Q9",
+   "category": "Experimental design",
+   "text": "As part of your experiments on the scientific validity of this particular type of acupuncture, it would be important to ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "test only people who believe in acupuncture."
+    },
+    {
+     "label": "B",
+     "text": "test only people without opinions, pro or con, about acupuncture."
+    },
+    {
+     "label": "C",
+     "text": "have the study performed by researchers who believe in this form of acupuncture."
+    },
+    {
+     "label": "D",
+     "text": "determine whether placing needles in different places produces different results."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 10,
+   "orig_label": "Q10",
+   "category": "Molecular properties",
+   "text": "What makes DNA a good place to store information?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The hydrogen bonds that hold it together are very stable and difficult to break."
+    },
+    {
+     "label": "B",
+     "text": "The bases always bind to their correct partner."
+    },
+    {
+     "label": "C",
+     "text": "The sequence of bases does not greatly influence the structure of the molecule."
+    },
+    {
+     "label": "D",
+     "text": "The overall shape of the molecule reflects the information stored in it."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 11,
+   "orig_label": "Q11",
+   "category": "Molecular properties",
+   "text": "What is it about nucleic acids that makes copying genetic information straightforward?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hydrogen bonds are easily broken."
+    },
+    {
+     "label": "B",
+     "text": "The binding of bases to one another is specific."
+    },
+    {
+     "label": "C",
+     "text": "The sequence of bases encodes information."
+    },
+    {
+     "label": "D",
+     "text": "The shape of the molecule is determined by the information it contains."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 12,
+   "orig_label": "Q12",
+   "category": "Evolution",
+   "text": "It is often the case that a structure (such as a functional eye) is lost during the course of evolution. This is because ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "It is no longer actively used."
+    },
+    {
+     "label": "B",
+     "text": "Mutations accumulate that disrupt its function."
+    },
+    {
+     "label": "C",
+     "text": "It interferes with other traits and functions."
+    },
+    {
+     "label": "D",
+     "text": "The cost to maintain it is not justified by the benefits it brings."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 13,
+   "orig_label": "Q13",
+   "category": "Molecular properties",
+   "text": "When we want to know whether a specific molecule will pass through a biological membrane, we need to consider ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "the specific types of lipids present in the membrane."
+    },
+    {
+     "label": "B",
+     "text": "the degree to which the molecule is water soluble."
+    },
+    {
+     "label": "C",
+     "text": "whether the molecule is actively repelled by the lipid layer."
+    },
+    {
+     "label": "D",
+     "text": "whether the molecule is harmful to the cell."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 14,
+   "orig_label": "Q14",
+   "category": "Evolution",
+   "text": "How might a mutation be creative?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It could not be; all naturally occurring mutations are destructive."
+    },
+    {
+     "label": "B",
+     "text": "If the mutation inactivated a gene that was harmful."
+    },
+    {
+     "label": "C",
+     "text": "If the mutation altered the gene product's activity."
+    },
+    {
+     "label": "D",
+     "text": "If the mutation had no effect on the activity of the gene product."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 15,
+   "orig_label": "Q15",
+   "category": "Genetic behaviors",
+   "text": "An allele exists that is harmful when either homozygous or heterozygous. Over the course of a few generations the frequency of this allele increases. Which is a possible explanation? The allele ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "is located close to a favorable allele of another gene."
+    },
+    {
+     "label": "B",
+     "text": "has benefits that cannot be measured in terms of reproductive fitness."
+    },
+    {
+     "label": "C",
+     "text": "is resistant to change by mutation."
+    },
+    {
+     "label": "D",
+     "text": "encodes an essential protein."
+    }
+   ],
+   "correct_label": "A",
+   "split": "test"
+  },
+  {
+   "item_id": 16,
+   "orig_label": "Q16",
+   "category": "Genetic behaviors",
+   "text": "In a diploid organism, what do we mean when we say that a trait is dominant?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It is stronger than a recessive form of the trait."
+    },
+    {
+     "label": "B",
+     "text": "It is due to more, or a more active gene product than is the recessive trait."
+    },
+    {
+     "label": "C",
+     "text": "The trait associated with the allele is present whenever the allele is present."
+    },
+    {
+     "label": "D",
+     "text": "The allele associated with the trait inactivates the products of recessive alleles."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 17,
+   "orig_label": "Q17",
+   "category": "Energetics & molecular interactions",
+   "text": "How does a molecule bind to its correct partner and avoid \"incorrect\" interactions?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The two molecules send signals to each other."
+    },
+    {
+     "label": "B",
+     "text": "The molecules have sensors that check for \"incorrect\" bindings."
+    },
+    {
+     "label": "C",
+     "text": "Correct binding results in lower energy than incorrect binding."
+    },
+    {
+     "label": "D",
+     "text": "Correctly bound molecules fit perfectly, like puzzle pieces."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 18,
+   "orig_label": "Q18",
+   "category": "Energetics & molecular interactions",
+   "text": "Once two molecules bind to one another, how could they come back apart again?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A chemical reaction must change the structure of one of the molecules."
+    },
+    {
+     "label": "B",
+     "text": "Collisions with other molecules could knock them apart."
+    },
+    {
+     "label": "C",
+     "text": "The complex will need to be degraded."
+    },
+    {
+     "label": "D",
+     "text": "They would have to bind to yet another molecule."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 19,
+   "orig_label": "Q19",
+   "category": "Molecular properties",
+   "text": "Why is double-stranded DNA not a good catalyst?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It is stable and does not bind to other molecules."
+    },
+    {
+     "label": "B",
+     "text": "It isn't very flexible and can't fold into different shapes."
+    },
+    {
+     "label": "C",
+     "text": "It easily binds to other molecules."
+    },
+    {
+     "label": "D",
+     "text": "It is located in the nucleus."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 20,
+   "orig_label": "Q20",
+   "category": "Molecular properties",
+   "text": "Lipids can form structures like micelles and bilayers because of ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "their inability to bond with water molecules."
+    },
+    {
+     "label": "B",
+     "text": "their inability to interact with other molecules."
+    },
+    {
+     "label": "C",
+     "text": "their ability to bind specifically to other lipid molecules."
+    },
+    {
+     "label": "D",
+     "text": "the ability of parts of lipid molecules to interact strongly with water."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 21,
+   "orig_label": "Q21",
+   "category": "Genetic behaviors",
+   "text": "A mutation leads to a dominant trait; what can you conclude about the mutation's effect?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It results in an overactive gene product."
+    },
+    {
+     "label": "B",
+     "text": "It results in a normal gene product that accumulates to higher levels than normal."
+    },
+    {
+     "label": "C",
+     "text": "It results in a gene product with a new function."
+    },
+    {
+     "label": "D",
+     "text": "It depends upon the nature of the gene product and the mutation."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 22,
+   "orig_label": "Q22",
+   "category": "Genetic behaviors",
+   "text": "How similar is your genetic information to that of your parents?",
+   "options": [
+    {
+     "label": "A",
+     "text": "For each gene, one of your alleles is from one parent and the other is from the other parent."
+    },
+    {
+     "label": "B",
+     "text": "You have a set of genes similar to those your parents inherited from their parents."
+    },
+    {
+     "label": "C",
+     "text": "You contain the same genetic information as each of your parents, just half as much."
+    },
+    {
+     "label": "D",
+     "text": "Depending on how much crossing over happens, you could have a lot of one parent's genetic information and little of the other parent's genetic information."
+    }
+   ],
+   "correct_label": "A",
+   "split": "test"
+  },
+  {
+   "item_id": 24,
+   "orig_label": "Q24",
+   "category": "Genetic behaviors",
+   "text": "A mutation leads to a recessive trait; what can you conclude about the mutation's effect?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It results in a non-functional gene product."
+    },
+    {
+     "label": "B",
+     "text": "It results in a normal gene product that accumulates to lower levels than normal."
+    },
+    {
+     "label": "C",
+     "text": "It results in a gene product with a new function."
+    },
+    {
+     "label": "D",
+     "text": "It depends upon the nature of the gene product and the mutation."
+    }
+   ],
+   "correct_label": "D",
+   "split": "test"
+  },
+  {
+   "item_id": 25,
+   "orig_label": "Q25",
+   "category": "Stochastic processes",
+   "text": "Imagine an ADP molecule inside a bacterial cell. Which best describes how it would manage to \"find\" an ATP synthase so that it could become an ATP molecule?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It would follow the hydrogen ion flow."
+    },
+    {
+     "label": "B",
+     "text": "The ATP synthase would grab it."
+    },
+    {
+     "label": "C",
+     "text": "Its electronegativity would attract it to the ATP synthase."
+    },
+    {
+     "label": "D",
+     "text": "It would be actively pumped to the right area."
+    },
+    {
+     "label": "E",
+     "text": "Random movements would bring it to the ATP synthase."
+    }
+   ],
+   "correct_label": "E",
+   "split": "test"
+  },
+  {
+   "item_id": 26,
+   "orig_label": "Q26",
+   "category": "Evolution",
+   "text": "You follow the frequency of a particular version of a gene in a population of asexual organisms. Over time, you find that this version of the gene disappears from the population. Its disappearance is presumably due to …",
+   "options": [
+    {
+     "label": "A",
+     "text": "genetic drift."
+    },
+    {
+     "label": "B",
+     "text": "its effects on reproductive success."
+    },
+    {
+     "label": "C",
+     "text": "its mutation."
+    },
+    {
+     "label": "D",
+     "text": "the randomness of survival."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 27,
+   "orig_label": "Q27",
+   "category": "Genetic behaviors",
+   "text": "Consider a diploid organism that is homozygous for a particular gene. How might the deletion of this gene from one of the two chromosomes produce a phenotype?",
+   "options": [
+    {
+     "label": "A",
+     "text": "If the gene encodes a multifunctional protein."
+    },
+    {
+     "label": "B",
+     "text": "If one copy of the gene did not produce enough gene product."
+    },
+    {
+     "label": "C",
+     "text": "If the deleted allele were dominant."
+    },
+    {
+     "label": "D",
+     "text": "If the gene encoded a transcription factor."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 28,
+   "orig_label": "Q28",
+   "category": "Genetic behaviors",
+   "text": "Gene A and gene B are located on the same chromosome. Consider the following cross: AB/ab X ab/ab. Under what conditions would you expect to find 25% of the individuals with an Ab genotype?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It cannot happen because the A and B genes are linked."
+    },
+    {
+     "label": "B",
+     "text": "It will always occur, because of independent assortment."
+    },
+    {
+     "label": "C",
+     "text": "It will occur only when the genes are far away from one another."
+    },
+    {
+     "label": "D",
+     "text": "It will occur only when the genes are close enough for recombination to occur between them."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  },
+  {
+   "item_id": 29,
+   "orig_label": "Q29",
+   "category": "Stochastic processes",
+   "text": "Sexual reproduction leads to genetic drift because ...",
+   "options": [
+    {
+     "label": "A",
+     "text": "there is randomness associated with finding a mate."
+    },
+    {
+     "label": "B",
+     "text": "not all alleles are passed from parent to offspring."
+    },
+    {
+     "label": "C",
+     "text": "it is associated with an increase in mutation rate."
+    },
+    {
+     "label": "D",
+     "text": "it produces new combinations of alleles."
+    }
+   ],
+   "correct_label": "B",
+   "split": "test"
+  },
+  {
+   "item_id": 30,
+   "orig_label": "Q30",
+   "category": "Stochastic processes",
+   "text": "How is genetic drift like molecular diffusion?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Both are the result of directed movements."
+    },
+    {
+     "label": "B",
+     "text": "Both involve passing through a barrier."
+    },
+    {
+     "label": "C",
+     "text": "Both involve random events without regard to ultimate outcome."
+    },
+    {
+     "label": "D",
+     "text": "They are not alike. Genetic drift is random; diffusion typically has a direction."
+    }
+   ],
+   "correct_label": "C",
+   "split": "test"
+  }
+ ]
+}

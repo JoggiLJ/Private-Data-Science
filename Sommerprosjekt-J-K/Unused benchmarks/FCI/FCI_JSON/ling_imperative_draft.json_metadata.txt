@@ -1,0 +1,189 @@
+Question: 1, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 2, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 3, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 4, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 5, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 6, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 7, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 8, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 9, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 10, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 11, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 12, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 13, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 14, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 15, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 16, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 17, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 18, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 19, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 20, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 21, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 22, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 23, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 24, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 25, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 26, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 27, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 28, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 29, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+Question: 30, Word Count: 0, Token Count: 0, Number of Alternatives: 5
+
+Avg word count: 0.0
+Avg token count: 0.0
+Avg alternatives count: 5.0
+
+Average similarity (excluding self-similarity): 1.000000238418579
+--- Benchmark Results ---
+Warning: Model returned unexpected answer 'C' for question 1
+
+Question: 1, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 0/1 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 2
+
+Question: 2, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/2 (0.00%)
+
+Warning: Model returned unexpected answer 'C' for question 3
+
+Question: 3, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 0/3 (0.00%)
+
+Warning: Model returned unexpected answer 'E' for question 4
+
+Question: 4, qwen3:14b answer: E, Result: Incorrect
+Running accuracy: 0/4 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 5
+
+Question: 5, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/5 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 6
+
+Question: 6, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/6 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 7
+
+Question: 7, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/7 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 8
+
+Question: 8, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/8 (0.00%)
+
+Warning: Model returned unexpected answer 'E' for question 9
+
+Question: 9, qwen3:14b answer: E, Result: Incorrect
+Running accuracy: 0/9 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 10
+
+Question: 10, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/10 (0.00%)
+
+Warning: Model returned unexpected answer 'D' for question 11
+
+Question: 11, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 0/11 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 12
+
+Question: 12, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/12 (0.00%)
+
+Warning: Model returned unexpected answer 'D' for question 13
+
+Question: 13, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 0/13 (0.00%)
+
+Warning: Model returned unexpected answer 'D' for question 14
+
+Question: 14, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 0/14 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 15
+
+Question: 15, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/15 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 16
+
+Question: 16, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/16 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 17
+
+Question: 17, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/17 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 18
+
+Question: 18, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/18 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 19
+
+Question: 19, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/19 (0.00%)
+
+Warning: Model returned unexpected answer 'D' for question 20
+
+Question: 20, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 0/20 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 21
+
+Question: 21, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/21 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 22
+
+Question: 22, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/22 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 23
+
+Question: 23, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/23 (0.00%)
+
+Warning: Model returned unexpected answer 'A' for question 24
+
+Question: 24, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/24 (0.00%)
+
+Warning: Model returned unexpected answer 'C' for question 25
+
+Question: 25, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 0/25 (0.00%)
+
+Warning: Model returned unexpected answer 'D' for question 26
+
+Question: 26, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 0/26 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 27
+
+Question: 27, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/27 (0.00%)
+
+Warning: Model returned unexpected answer 'E' for question 28
+
+Question: 28, qwen3:14b answer: E, Result: Incorrect
+Running accuracy: 0/28 (0.00%)
+
+Warning: Model returned unexpected answer 'B' for question 29
+
+Question: 29, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 0/29 (0.00%)
+
+Warning: Model returned unexpected answer 'C' for question 30
+
+Question: 30, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 0/30 (0.00%)
+
+Final Score: 0/30
+Final Accuracy: 0.00%

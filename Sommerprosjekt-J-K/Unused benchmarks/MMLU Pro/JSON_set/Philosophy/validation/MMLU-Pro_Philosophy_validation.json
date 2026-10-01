@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_philosophy_validation",
+  "description": "MMLU-Pro benchmark items, category: philosophy, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 45,
+      "text": "Which of the given formulas of PL is the best symbolization of the following sentence?\nTurtles live long lives and are happy creatures, unless they are injured.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(L • H) ≡ I"
+        },
+        {
+          "label": "B",
+          "text": "(L • H) ∨ I"
+        },
+        {
+          "label": "C",
+          "text": "L • (H ∨ I)"
+        },
+        {
+          "label": "D",
+          "text": "L • (H ⊃ R)."
+        },
+        {
+          "label": "E",
+          "text": "N/A"
+        },
+        {
+          "label": "F",
+          "text": "N/A"
+        },
+        {
+          "label": "G",
+          "text": "N/A"
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 46,
+      "text": "Select the best translation into predicate logic.George borrows Hector's lawnmower. (g: George; h: Hector; l: Hector's lawnmower; Bxyx: x borrows y from z).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bhgh"
+        },
+        {
+          "label": "B",
+          "text": "Bggh"
+        },
+        {
+          "label": "C",
+          "text": "Bhlh"
+        },
+        {
+          "label": "D",
+          "text": "Bghl"
+        },
+        {
+          "label": "E",
+          "text": "Bhlg"
+        },
+        {
+          "label": "F",
+          "text": "Blhg"
+        },
+        {
+          "label": "G",
+          "text": "Bllg"
+        },
+        {
+          "label": "H",
+          "text": "Blgh"
+        },
+        {
+          "label": "I",
+          "text": "Bhhg"
+        },
+        {
+          "label": "J",
+          "text": "Bglh"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    },
+    {
+      "item_id": 47,
+      "text": "The study of reality in the broadest sense, an inquiry into the elemental nature of the universe and the things in it, is known as _____.",
+      "options": [
+        {
+          "label": "A",
+          "text": "quantum physics"
+        },
+        {
+          "label": "B",
+          "text": "metaphysics"
+        },
+        {
+          "label": "C",
+          "text": "ontology"
+        },
+        {
+          "label": "D",
+          "text": "phenomenology"
+        },
+        {
+          "label": "E",
+          "text": "cosmology"
+        },
+        {
+          "label": "F",
+          "text": "teleology"
+        },
+        {
+          "label": "G",
+          "text": "epistemology"
+        },
+        {
+          "label": "H",
+          "text": "axiology"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 48,
+      "text": "According to Moore’s “ideal utilitarianism,” the right action is the one that brings about the greatest amount of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "wealth."
+        },
+        {
+          "label": "B",
+          "text": "virtue."
+        },
+        {
+          "label": "C",
+          "text": "fairness."
+        },
+        {
+          "label": "D",
+          "text": "pleasure."
+        },
+        {
+          "label": "E",
+          "text": "peace."
+        },
+        {
+          "label": "F",
+          "text": "justice."
+        },
+        {
+          "label": "G",
+          "text": "happiness."
+        },
+        {
+          "label": "H",
+          "text": "power."
+        },
+        {
+          "label": "I",
+          "text": "good."
+        },
+        {
+          "label": "J",
+          "text": "knowledge."
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 49,
+      "text": "What is the sign of the covenant for Jewish males?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fasting on Yom Kippur"
+        },
+        {
+          "label": "B",
+          "text": "Lighting Shabbat candles"
+        },
+        {
+          "label": "C",
+          "text": "The rainbow"
+        },
+        {
+          "label": "D",
+          "text": "Circumcision"
+        },
+        {
+          "label": "E",
+          "text": "The Torah"
+        },
+        {
+          "label": "F",
+          "text": "Bar mitzvah"
+        },
+        {
+          "label": "G",
+          "text": "Keeping kosher"
+        },
+        {
+          "label": "H",
+          "text": "Wearing a kippah"
+        },
+        {
+          "label": "I",
+          "text": "A son"
+        },
+        {
+          "label": "J",
+          "text": "The Star of David"
+        }
+      ],
+      "correct_label": "D",
+      "split": "validation"
+    }
+  ]
+}

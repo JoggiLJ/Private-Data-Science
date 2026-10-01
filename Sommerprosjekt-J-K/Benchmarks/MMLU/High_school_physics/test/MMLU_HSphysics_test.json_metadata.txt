@@ -1,0 +1,615 @@
+Question: 1, Word Count: 28, Token Count: 35, Number of Alternatives: 4
+Question: 2, Word Count: 20, Token Count: 21, Number of Alternatives: 4
+Question: 3, Word Count: 29, Token Count: 32, Number of Alternatives: 4
+Question: 4, Word Count: 51, Token Count: 57, Number of Alternatives: 4
+Question: 5, Word Count: 42, Token Count: 51, Number of Alternatives: 4
+Question: 6, Word Count: 34, Token Count: 45, Number of Alternatives: 4
+Question: 7, Word Count: 49, Token Count: 54, Number of Alternatives: 4
+Question: 8, Word Count: 19, Token Count: 22, Number of Alternatives: 4
+Question: 9, Word Count: 51, Token Count: 56, Number of Alternatives: 4
+Question: 10, Word Count: 34, Token Count: 43, Number of Alternatives: 4
+Question: 11, Word Count: 51, Token Count: 57, Number of Alternatives: 4
+Question: 12, Word Count: 59, Token Count: 75, Number of Alternatives: 4
+Question: 13, Word Count: 45, Token Count: 50, Number of Alternatives: 4
+Question: 14, Word Count: 66, Token Count: 89, Number of Alternatives: 4
+Question: 15, Word Count: 35, Token Count: 40, Number of Alternatives: 4
+Question: 16, Word Count: 32, Token Count: 39, Number of Alternatives: 4
+Question: 17, Word Count: 39, Token Count: 52, Number of Alternatives: 4
+Question: 18, Word Count: 18, Token Count: 21, Number of Alternatives: 4
+Question: 19, Word Count: 28, Token Count: 33, Number of Alternatives: 4
+Question: 20, Word Count: 46, Token Count: 61, Number of Alternatives: 4
+Question: 21, Word Count: 32, Token Count: 45, Number of Alternatives: 4
+Question: 22, Word Count: 32, Token Count: 36, Number of Alternatives: 4
+Question: 23, Word Count: 18, Token Count: 26, Number of Alternatives: 4
+Question: 24, Word Count: 44, Token Count: 50, Number of Alternatives: 4
+Question: 25, Word Count: 37, Token Count: 47, Number of Alternatives: 4
+Question: 26, Word Count: 40, Token Count: 43, Number of Alternatives: 4
+Question: 27, Word Count: 52, Token Count: 64, Number of Alternatives: 4
+Question: 28, Word Count: 37, Token Count: 44, Number of Alternatives: 4
+Question: 29, Word Count: 27, Token Count: 31, Number of Alternatives: 4
+Question: 30, Word Count: 23, Token Count: 28, Number of Alternatives: 4
+Question: 31, Word Count: 43, Token Count: 50, Number of Alternatives: 4
+Question: 32, Word Count: 48, Token Count: 56, Number of Alternatives: 4
+Question: 33, Word Count: 24, Token Count: 26, Number of Alternatives: 4
+Question: 34, Word Count: 33, Token Count: 36, Number of Alternatives: 4
+Question: 35, Word Count: 66, Token Count: 81, Number of Alternatives: 4
+Question: 36, Word Count: 20, Token Count: 27, Number of Alternatives: 4
+Question: 37, Word Count: 49, Token Count: 69, Number of Alternatives: 4
+Question: 38, Word Count: 26, Token Count: 33, Number of Alternatives: 4
+Question: 39, Word Count: 27, Token Count: 32, Number of Alternatives: 4
+Question: 40, Word Count: 15, Token Count: 18, Number of Alternatives: 4
+Question: 41, Word Count: 31, Token Count: 34, Number of Alternatives: 4
+Question: 42, Word Count: 9, Token Count: 10, Number of Alternatives: 4
+Question: 43, Word Count: 49, Token Count: 55, Number of Alternatives: 4
+Question: 44, Word Count: 38, Token Count: 44, Number of Alternatives: 4
+Question: 45, Word Count: 27, Token Count: 29, Number of Alternatives: 4
+Question: 46, Word Count: 41, Token Count: 55, Number of Alternatives: 4
+Question: 47, Word Count: 29, Token Count: 31, Number of Alternatives: 4
+Question: 48, Word Count: 45, Token Count: 47, Number of Alternatives: 4
+Question: 49, Word Count: 39, Token Count: 45, Number of Alternatives: 4
+Question: 50, Word Count: 41, Token Count: 50, Number of Alternatives: 4
+Question: 51, Word Count: 36, Token Count: 46, Number of Alternatives: 4
+Question: 52, Word Count: 43, Token Count: 49, Number of Alternatives: 4
+Question: 53, Word Count: 31, Token Count: 36, Number of Alternatives: 4
+Question: 54, Word Count: 58, Token Count: 63, Number of Alternatives: 4
+Question: 55, Word Count: 43, Token Count: 50, Number of Alternatives: 4
+Question: 56, Word Count: 29, Token Count: 34, Number of Alternatives: 4
+Question: 57, Word Count: 71, Token Count: 83, Number of Alternatives: 4
+Question: 58, Word Count: 55, Token Count: 65, Number of Alternatives: 4
+Question: 59, Word Count: 11, Token Count: 13, Number of Alternatives: 4
+Question: 60, Word Count: 35, Token Count: 46, Number of Alternatives: 4
+Question: 61, Word Count: 35, Token Count: 47, Number of Alternatives: 4
+Question: 62, Word Count: 35, Token Count: 37, Number of Alternatives: 4
+Question: 63, Word Count: 34, Token Count: 42, Number of Alternatives: 4
+Question: 64, Word Count: 28, Token Count: 36, Number of Alternatives: 4
+Question: 65, Word Count: 54, Token Count: 66, Number of Alternatives: 4
+Question: 66, Word Count: 25, Token Count: 27, Number of Alternatives: 4
+Question: 67, Word Count: 51, Token Count: 73, Number of Alternatives: 4
+Question: 68, Word Count: 17, Token Count: 18, Number of Alternatives: 4
+Question: 69, Word Count: 10, Token Count: 11, Number of Alternatives: 4
+Question: 70, Word Count: 51, Token Count: 68, Number of Alternatives: 4
+Question: 71, Word Count: 25, Token Count: 30, Number of Alternatives: 4
+Question: 72, Word Count: 21, Token Count: 25, Number of Alternatives: 4
+Question: 73, Word Count: 36, Token Count: 47, Number of Alternatives: 4
+Question: 74, Word Count: 26, Token Count: 30, Number of Alternatives: 4
+Question: 75, Word Count: 17, Token Count: 18, Number of Alternatives: 4
+Question: 76, Word Count: 18, Token Count: 20, Number of Alternatives: 4
+Question: 77, Word Count: 57, Token Count: 71, Number of Alternatives: 4
+Question: 78, Word Count: 37, Token Count: 43, Number of Alternatives: 4
+Question: 79, Word Count: 55, Token Count: 67, Number of Alternatives: 4
+Question: 80, Word Count: 30, Token Count: 40, Number of Alternatives: 4
+Question: 81, Word Count: 26, Token Count: 29, Number of Alternatives: 4
+Question: 82, Word Count: 60, Token Count: 68, Number of Alternatives: 4
+Question: 83, Word Count: 36, Token Count: 41, Number of Alternatives: 4
+Question: 84, Word Count: 24, Token Count: 27, Number of Alternatives: 4
+Question: 85, Word Count: 48, Token Count: 56, Number of Alternatives: 4
+Question: 86, Word Count: 31, Token Count: 45, Number of Alternatives: 4
+Question: 87, Word Count: 23, Token Count: 27, Number of Alternatives: 4
+Question: 88, Word Count: 49, Token Count: 60, Number of Alternatives: 4
+Question: 89, Word Count: 12, Token Count: 16, Number of Alternatives: 4
+Question: 90, Word Count: 29, Token Count: 33, Number of Alternatives: 4
+Question: 91, Word Count: 66, Token Count: 83, Number of Alternatives: 4
+Question: 92, Word Count: 12, Token Count: 13, Number of Alternatives: 4
+Question: 93, Word Count: 34, Token Count: 49, Number of Alternatives: 4
+Question: 94, Word Count: 59, Token Count: 73, Number of Alternatives: 4
+Question: 95, Word Count: 24, Token Count: 33, Number of Alternatives: 4
+Question: 96, Word Count: 32, Token Count: 36, Number of Alternatives: 4
+Question: 97, Word Count: 38, Token Count: 49, Number of Alternatives: 4
+Question: 98, Word Count: 21, Token Count: 28, Number of Alternatives: 4
+Question: 99, Word Count: 14, Token Count: 16, Number of Alternatives: 4
+Question: 100, Word Count: 50, Token Count: 66, Number of Alternatives: 4
+Question: 101, Word Count: 48, Token Count: 54, Number of Alternatives: 4
+Question: 102, Word Count: 26, Token Count: 30, Number of Alternatives: 4
+Question: 103, Word Count: 23, Token Count: 28, Number of Alternatives: 4
+Question: 104, Word Count: 42, Token Count: 53, Number of Alternatives: 4
+Question: 105, Word Count: 44, Token Count: 54, Number of Alternatives: 4
+Question: 106, Word Count: 61, Token Count: 75, Number of Alternatives: 4
+Question: 107, Word Count: 23, Token Count: 25, Number of Alternatives: 4
+Question: 108, Word Count: 38, Token Count: 54, Number of Alternatives: 4
+Question: 109, Word Count: 37, Token Count: 43, Number of Alternatives: 4
+Question: 110, Word Count: 12, Token Count: 13, Number of Alternatives: 4
+Question: 111, Word Count: 29, Token Count: 38, Number of Alternatives: 4
+Question: 112, Word Count: 30, Token Count: 42, Number of Alternatives: 4
+Question: 113, Word Count: 35, Token Count: 37, Number of Alternatives: 4
+Question: 114, Word Count: 27, Token Count: 32, Number of Alternatives: 4
+Question: 115, Word Count: 22, Token Count: 25, Number of Alternatives: 4
+Question: 116, Word Count: 10, Token Count: 12, Number of Alternatives: 4
+Question: 117, Word Count: 99, Token Count: 109, Number of Alternatives: 4
+Question: 118, Word Count: 28, Token Count: 30, Number of Alternatives: 4
+Question: 119, Word Count: 48, Token Count: 68, Number of Alternatives: 4
+Question: 120, Word Count: 47, Token Count: 71, Number of Alternatives: 4
+Question: 121, Word Count: 35, Token Count: 46, Number of Alternatives: 4
+Question: 122, Word Count: 39, Token Count: 58, Number of Alternatives: 4
+Question: 123, Word Count: 23, Token Count: 25, Number of Alternatives: 4
+Question: 124, Word Count: 28, Token Count: 35, Number of Alternatives: 4
+Question: 125, Word Count: 54, Token Count: 63, Number of Alternatives: 4
+Question: 126, Word Count: 67, Token Count: 84, Number of Alternatives: 4
+Question: 127, Word Count: 33, Token Count: 44, Number of Alternatives: 4
+Question: 128, Word Count: 39, Token Count: 46, Number of Alternatives: 4
+Question: 129, Word Count: 54, Token Count: 72, Number of Alternatives: 4
+Question: 130, Word Count: 31, Token Count: 42, Number of Alternatives: 4
+Question: 131, Word Count: 48, Token Count: 57, Number of Alternatives: 4
+Question: 132, Word Count: 34, Token Count: 41, Number of Alternatives: 4
+Question: 133, Word Count: 28, Token Count: 29, Number of Alternatives: 4
+Question: 134, Word Count: 20, Token Count: 22, Number of Alternatives: 4
+Question: 135, Word Count: 31, Token Count: 35, Number of Alternatives: 4
+Question: 136, Word Count: 18, Token Count: 20, Number of Alternatives: 4
+Question: 137, Word Count: 35, Token Count: 44, Number of Alternatives: 4
+Question: 138, Word Count: 40, Token Count: 44, Number of Alternatives: 4
+Question: 139, Word Count: 59, Token Count: 65, Number of Alternatives: 4
+Question: 140, Word Count: 30, Token Count: 36, Number of Alternatives: 4
+Question: 141, Word Count: 42, Token Count: 50, Number of Alternatives: 4
+Question: 142, Word Count: 54, Token Count: 76, Number of Alternatives: 4
+Question: 143, Word Count: 31, Token Count: 38, Number of Alternatives: 4
+Question: 144, Word Count: 42, Token Count: 47, Number of Alternatives: 4
+Question: 145, Word Count: 37, Token Count: 47, Number of Alternatives: 4
+Question: 146, Word Count: 42, Token Count: 50, Number of Alternatives: 4
+Question: 147, Word Count: 65, Token Count: 74, Number of Alternatives: 4
+Question: 148, Word Count: 56, Token Count: 67, Number of Alternatives: 4
+Question: 149, Word Count: 35, Token Count: 42, Number of Alternatives: 4
+Question: 150, Word Count: 83, Token Count: 95, Number of Alternatives: 4
+Question: 151, Word Count: 52, Token Count: 61, Number of Alternatives: 4
+
+Avg word count: 37.04635761589404
+Avg token count: 44.847682119205295
+Avg alternatives count: 4.0
+
+Average similarity (excluding self-similarity): 0.19497835636138916
+--- Benchmark Results ---
+Question: 1, qwen3:14b answer: B, Result: Correct
+Running accuracy: 1/1 (100.00%)
+
+Question: 2, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 1/2 (50.00%)
+
+Question: 3, qwen3:14b answer: D, Result: Correct
+Running accuracy: 2/3 (66.67%)
+
+Question: 4, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 2/4 (50.00%)
+
+Question: 5, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 2/5 (40.00%)
+
+Question: 6, qwen3:14b answer: C, Result: Correct
+Running accuracy: 3/6 (50.00%)
+
+Question: 7, qwen3:14b answer: A, Result: Correct
+Running accuracy: 4/7 (57.14%)
+
+Question: 8, qwen3:14b answer: C, Result: Correct
+Running accuracy: 5/8 (62.50%)
+
+Question: 9, qwen3:14b answer: A, Result: Correct
+Running accuracy: 6/9 (66.67%)
+
+Question: 10, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 6/10 (60.00%)
+
+Question: 11, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 6/11 (54.55%)
+
+Question: 12, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 6/12 (50.00%)
+
+Question: 13, qwen3:14b answer: D, Result: Correct
+Running accuracy: 7/13 (53.85%)
+
+Question: 14, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 7/14 (50.00%)
+
+Question: 15, qwen3:14b answer: B, Result: Correct
+Running accuracy: 8/15 (53.33%)
+
+Question: 16, qwen3:14b answer: A, Result: Correct
+Running accuracy: 9/16 (56.25%)
+
+Question: 17, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 9/17 (52.94%)
+
+Question: 18, qwen3:14b answer: C, Result: Correct
+Running accuracy: 10/18 (55.56%)
+
+Question: 19, qwen3:14b answer: A, Result: Correct
+Running accuracy: 11/19 (57.89%)
+
+Question: 20, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 11/20 (55.00%)
+
+Question: 21, qwen3:14b answer: B, Result: Correct
+Running accuracy: 12/21 (57.14%)
+
+Question: 22, qwen3:14b answer: C, Result: Correct
+Running accuracy: 13/22 (59.09%)
+
+Question: 23, qwen3:14b answer: A, Result: Correct
+Running accuracy: 14/23 (60.87%)
+
+Question: 24, qwen3:14b answer: D, Result: Correct
+Running accuracy: 15/24 (62.50%)
+
+Question: 25, qwen3:14b answer: D, Result: Correct
+Running accuracy: 16/25 (64.00%)
+
+Question: 26, qwen3:14b answer: D, Result: Correct
+Running accuracy: 17/26 (65.38%)
+
+Question: 27, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 17/27 (62.96%)
+
+Question: 28, qwen3:14b answer: C, Result: Correct
+Running accuracy: 18/28 (64.29%)
+
+Question: 29, qwen3:14b answer: C, Result: Correct
+Running accuracy: 19/29 (65.52%)
+
+Question: 30, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 19/30 (63.33%)
+
+Question: 31, qwen3:14b answer: A, Result: Correct
+Running accuracy: 20/31 (64.52%)
+
+Question: 32, qwen3:14b answer: C, Result: Correct
+Running accuracy: 21/32 (65.62%)
+
+Question: 33, qwen3:14b answer: B, Result: Correct
+Running accuracy: 22/33 (66.67%)
+
+Question: 34, qwen3:14b answer: B, Result: Correct
+Running accuracy: 23/34 (67.65%)
+
+Question: 35, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 23/35 (65.71%)
+
+Question: 36, qwen3:14b answer: C, Result: Correct
+Running accuracy: 24/36 (66.67%)
+
+Question: 37, qwen3:14b answer: C, Result: Correct
+Running accuracy: 25/37 (67.57%)
+
+Question: 38, qwen3:14b answer: D, Result: Correct
+Running accuracy: 26/38 (68.42%)
+
+Question: 39, qwen3:14b answer: A, Result: Correct
+Running accuracy: 27/39 (69.23%)
+
+Question: 40, qwen3:14b answer: A, Result: Correct
+Running accuracy: 28/40 (70.00%)
+
+Question: 41, qwen3:14b answer: C, Result: Correct
+Running accuracy: 29/41 (70.73%)
+
+Question: 42, qwen3:14b answer: C, Result: Correct
+Running accuracy: 30/42 (71.43%)
+
+Question: 43, qwen3:14b answer: C, Result: Correct
+Running accuracy: 31/43 (72.09%)
+
+Question: 44, qwen3:14b answer: D, Result: Correct
+Running accuracy: 32/44 (72.73%)
+
+Question: 45, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 32/45 (71.11%)
+
+Question: 46, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 32/46 (69.57%)
+
+Question: 47, qwen3:14b answer: B, Result: Correct
+Running accuracy: 33/47 (70.21%)
+
+Question: 48, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 33/48 (68.75%)
+
+Question: 49, qwen3:14b answer: D, Result: Correct
+Running accuracy: 34/49 (69.39%)
+
+Question: 50, qwen3:14b answer: D, Result: Correct
+Running accuracy: 35/50 (70.00%)
+
+Question: 51, qwen3:14b answer: A, Result: Correct
+Running accuracy: 36/51 (70.59%)
+
+Question: 52, qwen3:14b answer: B, Result: Correct
+Running accuracy: 37/52 (71.15%)
+
+Question: 53, qwen3:14b answer: D, Result: Correct
+Running accuracy: 38/53 (71.70%)
+
+Question: 54, qwen3:14b answer: D, Result: Correct
+Running accuracy: 39/54 (72.22%)
+
+Question: 55, qwen3:14b answer: B, Result: Correct
+Running accuracy: 40/55 (72.73%)
+
+Question: 56, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 40/56 (71.43%)
+
+Question: 57, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 40/57 (70.18%)
+
+Question: 58, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 40/58 (68.97%)
+
+Question: 59, qwen3:14b answer: A, Result: Correct
+Running accuracy: 41/59 (69.49%)
+
+Question: 60, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 41/60 (68.33%)
+
+Question: 61, qwen3:14b answer: C, Result: Correct
+Running accuracy: 42/61 (68.85%)
+
+Question: 62, qwen3:14b answer: B, Result: Correct
+Running accuracy: 43/62 (69.35%)
+
+Question: 63, qwen3:14b answer: A, Result: Correct
+Running accuracy: 44/63 (69.84%)
+
+Question: 64, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 44/64 (68.75%)
+
+Question: 65, qwen3:14b answer: C, Result: Correct
+Running accuracy: 45/65 (69.23%)
+
+Question: 66, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 45/66 (68.18%)
+
+Question: 67, qwen3:14b answer: C, Result: Correct
+Running accuracy: 46/67 (68.66%)
+
+Question: 68, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 46/68 (67.65%)
+
+Question: 69, qwen3:14b answer: D, Result: Correct
+Running accuracy: 47/69 (68.12%)
+
+Question: 70, qwen3:14b answer: A, Result: Correct
+Running accuracy: 48/70 (68.57%)
+
+Question: 71, qwen3:14b answer: D, Result: Correct
+Running accuracy: 49/71 (69.01%)
+
+Question: 72, qwen3:14b answer: B, Result: Correct
+Running accuracy: 50/72 (69.44%)
+
+Question: 73, qwen3:14b answer: C, Result: Correct
+Running accuracy: 51/73 (69.86%)
+
+Question: 74, qwen3:14b answer: B, Result: Correct
+Running accuracy: 52/74 (70.27%)
+
+Question: 75, qwen3:14b answer: A, Result: Correct
+Running accuracy: 53/75 (70.67%)
+
+Question: 76, qwen3:14b answer: B, Result: Correct
+Running accuracy: 54/76 (71.05%)
+
+Question: 77, qwen3:14b answer: B, Result: Correct
+Running accuracy: 55/77 (71.43%)
+
+Question: 78, qwen3:14b answer: B, Result: Correct
+Running accuracy: 56/78 (71.79%)
+
+Question: 79, qwen3:14b answer: D, Result: Correct
+Running accuracy: 57/79 (72.15%)
+
+Question: 80, qwen3:14b answer: A, Result: Correct
+Running accuracy: 58/80 (72.50%)
+
+Question: 81, qwen3:14b answer: D, Result: Correct
+Running accuracy: 59/81 (72.84%)
+
+Question: 82, qwen3:14b answer: D, Result: Correct
+Running accuracy: 60/82 (73.17%)
+
+Question: 83, qwen3:14b answer: C, Result: Incorrect
+Running accuracy: 60/83 (72.29%)
+
+Question: 84, qwen3:14b answer: D, Result: Correct
+Running accuracy: 61/84 (72.62%)
+
+Question: 85, qwen3:14b answer: A, Result: Correct
+Running accuracy: 62/85 (72.94%)
+
+Question: 86, qwen3:14b answer: A, Result: Correct
+Running accuracy: 63/86 (73.26%)
+
+Question: 87, qwen3:14b answer: C, Result: Correct
+Running accuracy: 64/87 (73.56%)
+
+Question: 88, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 64/88 (72.73%)
+
+Question: 89, qwen3:14b answer: D, Result: Correct
+Running accuracy: 65/89 (73.03%)
+
+Question: 90, qwen3:14b answer: A, Result: Correct
+Running accuracy: 66/90 (73.33%)
+
+Question: 91, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 66/91 (72.53%)
+
+Question: 92, qwen3:14b answer: D, Result: Correct
+Running accuracy: 67/92 (72.83%)
+
+Question: 93, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 67/93 (72.04%)
+
+Question: 94, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 67/94 (71.28%)
+
+Question: 95, qwen3:14b answer: D, Result: Correct
+Running accuracy: 68/95 (71.58%)
+
+Question: 96, qwen3:14b answer: B, Result: Correct
+Running accuracy: 69/96 (71.88%)
+
+Question: 97, qwen3:14b answer: D, Result: Correct
+Running accuracy: 70/97 (72.16%)
+
+Question: 98, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 70/98 (71.43%)
+
+Question: 99, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 70/99 (70.71%)
+
+Question: 100, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 70/100 (70.00%)
+
+Question: 101, qwen3:14b answer: D, Result: Correct
+Running accuracy: 71/101 (70.30%)
+
+Question: 102, qwen3:14b answer: C, Result: Correct
+Running accuracy: 72/102 (70.59%)
+
+Question: 103, qwen3:14b answer: B, Result: Correct
+Running accuracy: 73/103 (70.87%)
+
+Question: 104, qwen3:14b answer: D, Result: Correct
+Running accuracy: 74/104 (71.15%)
+
+Question: 105, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 74/105 (70.48%)
+
+Question: 106, qwen3:14b answer: B, Result: Correct
+Running accuracy: 75/106 (70.75%)
+
+Question: 107, qwen3:14b answer: B, Result: Correct
+Running accuracy: 76/107 (71.03%)
+
+Question: 108, qwen3:14b answer: D, Result: Correct
+Running accuracy: 77/108 (71.30%)
+
+Question: 109, qwen3:14b answer: C, Result: Correct
+Running accuracy: 78/109 (71.56%)
+
+Question: 110, qwen3:14b answer: D, Result: Incorrect
+Running accuracy: 78/110 (70.91%)
+
+Question: 111, qwen3:14b answer: B, Result: Correct
+Running accuracy: 79/111 (71.17%)
+
+Question: 112, qwen3:14b answer: D, Result: Correct
+Running accuracy: 80/112 (71.43%)
+
+Question: 113, qwen3:14b answer: A, Result: Correct
+Running accuracy: 81/113 (71.68%)
+
+Question: 114, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 81/114 (71.05%)
+
+Question: 115, qwen3:14b answer: C, Result: Correct
+Running accuracy: 82/115 (71.30%)
+
+Question: 116, qwen3:14b answer: D, Result: Correct
+Running accuracy: 83/116 (71.55%)
+
+Question: 117, qwen3:14b answer: A, Result: Correct
+Running accuracy: 84/117 (71.79%)
+
+Warning: Model returned unexpected answer 'C) 3h' for question 118
+
+Question: 118, qwen3:14b answer: C) 3h, Result: Incorrect
+Running accuracy: 84/118 (71.19%)
+
+Question: 119, qwen3:14b answer: D, Result: Correct
+Running accuracy: 85/119 (71.43%)
+
+Question: 120, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 85/120 (70.83%)
+
+Question: 121, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 85/121 (70.25%)
+
+Question: 122, qwen3:14b answer: C, Result: Correct
+Running accuracy: 86/122 (70.49%)
+
+Question: 123, qwen3:14b answer: A, Result: Correct
+Running accuracy: 87/123 (70.73%)
+
+Question: 124, qwen3:14b answer: A, Result: Correct
+Running accuracy: 88/124 (70.97%)
+
+Question: 125, qwen3:14b answer: D, Result: Correct
+Running accuracy: 89/125 (71.20%)
+
+Question: 126, qwen3:14b answer: A, Result: Correct
+Running accuracy: 90/126 (71.43%)
+
+Question: 127, qwen3:14b answer: B, Result: Correct
+Running accuracy: 91/127 (71.65%)
+
+Question: 128, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 91/128 (71.09%)
+
+Question: 129, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 91/129 (70.54%)
+
+Question: 130, qwen3:14b answer: B, Result: Correct
+Running accuracy: 92/130 (70.77%)
+
+Question: 131, qwen3:14b answer: D, Result: Correct
+Running accuracy: 93/131 (70.99%)
+
+Question: 132, qwen3:14b answer: C, Result: Correct
+Running accuracy: 94/132 (71.21%)
+
+Question: 133, qwen3:14b answer: D, Result: Correct
+Running accuracy: 95/133 (71.43%)
+
+Question: 134, qwen3:14b answer: B, Result: Correct
+Running accuracy: 96/134 (71.64%)
+
+Question: 135, qwen3:14b answer: B, Result: Correct
+Running accuracy: 97/135 (71.85%)
+
+Question: 136, qwen3:14b answer: C, Result: Correct
+Running accuracy: 98/136 (72.06%)
+
+Question: 137, qwen3:14b answer: D, Result: Correct
+Running accuracy: 99/137 (72.26%)
+
+Question: 138, qwen3:14b answer: A, Result: Correct
+Running accuracy: 100/138 (72.46%)
+
+Question: 139, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 100/139 (71.94%)
+
+Question: 140, qwen3:14b answer: C, Result: Correct
+Running accuracy: 101/140 (72.14%)
+
+Question: 141, qwen3:14b answer: C, Result: Correct
+Running accuracy: 102/141 (72.34%)
+
+Question: 142, qwen3:14b answer: B, Result: Correct
+Running accuracy: 103/142 (72.54%)
+
+Question: 143, qwen3:14b answer: C, Result: Correct
+Running accuracy: 104/143 (72.73%)
+
+Question: 144, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 104/144 (72.22%)
+
+Question: 145, qwen3:14b answer: D, Result: Correct
+Running accuracy: 105/145 (72.41%)
+
+Question: 146, qwen3:14b answer: C, Result: Correct
+Running accuracy: 106/146 (72.60%)
+
+Question: 147, qwen3:14b answer: D, Result: Correct
+Running accuracy: 107/147 (72.79%)
+
+Question: 148, qwen3:14b answer: D, Result: Correct
+Running accuracy: 108/148 (72.97%)
+
+Question: 149, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 108/149 (72.48%)
+
+Question: 150, qwen3:14b answer: D, Result: Correct
+Running accuracy: 109/150 (72.67%)
+
+Question: 151, qwen3:14b answer: B, Result: Correct
+Running accuracy: 110/151 (72.85%)
+
+Final Score: 110/151
+Final Accuracy: 72.85%

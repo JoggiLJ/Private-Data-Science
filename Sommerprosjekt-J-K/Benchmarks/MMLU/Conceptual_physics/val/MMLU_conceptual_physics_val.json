@@ -1,0 +1,715 @@
+{
+  "variant_id": "conceptual_physics_val",
+  "description": "Conceptual physics multiple-choice questions from the MMLU benchmark (val split).",
+  "source": "MMLU (Hendrycks et al., 2021, arXiv:2009.03300) — conceptual_physics subject, val split.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "A real image can be cast on a screen by a",
+      "options": [
+        {
+          "label": "A",
+          "text": "converging lens"
+        },
+        {
+          "label": "B",
+          "text": "diverging lens"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 11,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "Consider a ball rolling down an inclined plane. The normal force on the ball (the force perpendicular to the plane).",
+      "options": [
+        {
+          "label": "A",
+          "text": "is mg"
+        },
+        {
+          "label": "B",
+          "text": "is greater than mg always"
+        },
+        {
+          "label": "C",
+          "text": "may be greater or less than mg"
+        },
+        {
+          "label": "D",
+          "text": "is less than mg always"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 20,
+      "token_count": 23,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "Which of these can NOT be deflected by electrical or magnetic means?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alpha rays"
+        },
+        {
+          "label": "B",
+          "text": "Beta rays"
+        },
+        {
+          "label": "C",
+          "text": "Gamma rays"
+        },
+        {
+          "label": "D",
+          "text": "All can"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 14,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "Immediately after two separated charged particles are released from rest both increase in speed. The particles therefore have",
+      "options": [
+        {
+          "label": "A",
+          "text": "the same sign of charge."
+        },
+        {
+          "label": "B",
+          "text": "opposite signs of charge."
+        },
+        {
+          "label": "C",
+          "text": "either the same or opposite signs of charge."
+        },
+        {
+          "label": "D",
+          "text": "Need more information."
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 18,
+      "token_count": 19,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "A high-temperature source radiates relatively",
+      "options": [
+        {
+          "label": "A",
+          "text": "short wavelengths"
+        },
+        {
+          "label": "B",
+          "text": "long wavelengths"
+        },
+        {
+          "label": "C",
+          "text": "low frequencies of radiation"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 5,
+      "token_count": 8,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 6,
+      "text": "According to the correspondence principle,",
+      "options": [
+        {
+          "label": "A",
+          "text": "new theory must agree with old theory where they overlap."
+        },
+        {
+          "label": "B",
+          "text": "Newton’s mechanics is as valid as Einstein’s mechanics."
+        },
+        {
+          "label": "C",
+          "text": "relativity equations apply to high speeds while Newton’s equations apply to low speeds."
+        },
+        {
+          "label": "D",
+          "text": "special relativity and general relativity are two sides of the same coin."
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 5,
+      "token_count": 6,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 7,
+      "text": "A magnetic force can act on an electron even when it",
+      "options": [
+        {
+          "label": "A",
+          "text": "is at rest"
+        },
+        {
+          "label": "B",
+          "text": "moves parallel to magnetic field lines"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 11,
+      "token_count": 11,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 8,
+      "text": "The sound waves that most humans cannot hear are",
+      "options": [
+        {
+          "label": "A",
+          "text": "infrasonic"
+        },
+        {
+          "label": "B",
+          "text": "ultrasonic"
+        },
+        {
+          "label": "C",
+          "text": "Both of these"
+        },
+        {
+          "label": "D",
+          "text": "Neither of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 9,
+      "token_count": 9,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 9,
+      "text": "A machine cannot multiply",
+      "options": [
+        {
+          "label": "A",
+          "text": "forces"
+        },
+        {
+          "label": "B",
+          "text": "distances"
+        },
+        {
+          "label": "C",
+          "text": "energy"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 4,
+      "token_count": 4,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 10,
+      "text": "Atmospheric pressure is due to the weight",
+      "options": [
+        {
+          "label": "A",
+          "text": "of the atmosphere"
+        },
+        {
+          "label": "B",
+          "text": "and volume of the atmosphere"
+        },
+        {
+          "label": "C",
+          "text": "density and volume of the atmosphere"
+        },
+        {
+          "label": "D",
+          "text": "of planet Earth itself"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 7,
+      "token_count": 9,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 11,
+      "text": "Einstein’s second postulate tells us that the speed of light",
+      "options": [
+        {
+          "label": "A",
+          "text": "depends on one’s frame of reference."
+        },
+        {
+          "label": "B",
+          "text": "is a constant in all frames of reference."
+        },
+        {
+          "label": "C",
+          "text": "provides accurate clocks."
+        },
+        {
+          "label": "D",
+          "text": "slows in a transparent medium."
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 10,
+      "token_count": 13,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 12,
+      "text": "Planck’s constant can be found by dividing the energy of a photon by its",
+      "options": [
+        {
+          "label": "A",
+          "text": "wavelength"
+        },
+        {
+          "label": "B",
+          "text": "frequency"
+        },
+        {
+          "label": "C",
+          "text": "amplitude"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 14,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 13,
+      "text": "The \"greenhouse gases\" that contribute to global warming absorb",
+      "options": [
+        {
+          "label": "A",
+          "text": "more visible radiation than infrared."
+        },
+        {
+          "label": "B",
+          "text": "more infrared radiation than visible."
+        },
+        {
+          "label": "C",
+          "text": "visible and infrared about equally."
+        },
+        {
+          "label": "D",
+          "text": "very little radiation of any kind."
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 9,
+      "token_count": 12,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 14,
+      "text": "Standing waves are the result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "interference"
+        },
+        {
+          "label": "B",
+          "text": "waves overlapping in phase and out of phase"
+        },
+        {
+          "label": "C",
+          "text": "waves reflecting upon themselves"
+        },
+        {
+          "label": "D",
+          "text": "All of these"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 6,
+      "token_count": 6,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 15,
+      "text": "Heat is simply another word for",
+      "options": [
+        {
+          "label": "A",
+          "text": "temperature."
+        },
+        {
+          "label": "B",
+          "text": "internal energy."
+        },
+        {
+          "label": "C",
+          "text": "internal energy that flows from hot to cold."
+        },
+        {
+          "label": "D",
+          "text": "radiant energy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 6,
+      "token_count": 6,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 16,
+      "text": "The greenhouse gases that contribute to global warming are",
+      "options": [
+        {
+          "label": "A",
+          "text": "water vapor"
+        },
+        {
+          "label": "B",
+          "text": "carbon dioxide"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "Neither"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 9,
+      "token_count": 9,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 17,
+      "text": "How many electrons are there in the third shell of sodium, Na (atomic number 11)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "None"
+        },
+        {
+          "label": "B",
+          "text": "One"
+        },
+        {
+          "label": "C",
+          "text": "Two"
+        },
+        {
+          "label": "D",
+          "text": "Three"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 15,
+      "token_count": 19,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 18,
+      "text": "Which process would release energy from gold: fission or fusion? From carbon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gold: fission; carbon: fusion"
+        },
+        {
+          "label": "B",
+          "text": "Gold: fusion; carbon: fission"
+        },
+        {
+          "label": "C",
+          "text": "Gold: fission; carbon: fission"
+        },
+        {
+          "label": "D",
+          "text": "Gold: fusion; carbon: fusion"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 16,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 19,
+      "text": "Immediately after two separated charged particles are released from rest, both increase in speed. The sign of charge of the particles is therefore",
+      "options": [
+        {
+          "label": "A",
+          "text": "the same"
+        },
+        {
+          "label": "B",
+          "text": "opposite"
+        },
+        {
+          "label": "C",
+          "text": "Either of these"
+        },
+        {
+          "label": "D",
+          "text": "Need more information"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 23,
+      "token_count": 25,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 20,
+      "text": "Sound will travel fastest in",
+      "options": [
+        {
+          "label": "A",
+          "text": "a steel beam"
+        },
+        {
+          "label": "B",
+          "text": "a wooden plank"
+        },
+        {
+          "label": "C",
+          "text": "ocean water"
+        },
+        {
+          "label": "D",
+          "text": "air in a balloon"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 5,
+      "token_count": 5,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 21,
+      "text": "When energy is released by the process of fusion, the total mass of the material after the event is",
+      "options": [
+        {
+          "label": "A",
+          "text": "less"
+        },
+        {
+          "label": "B",
+          "text": "the same"
+        },
+        {
+          "label": "C",
+          "text": "more"
+        },
+        {
+          "label": "D",
+          "text": "zero"
+        }
+      ],
+      "correct_label": "A",
+      "split": "val",
+      "question_word_count": 19,
+      "token_count": 20,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 22,
+      "text": "A 5.0 kg mass is placed in an elevator that is accelerating upwards at 4.0 m/s2. The apparent weight of this mass is",
+      "options": [
+        {
+          "label": "A",
+          "text": "20. N"
+        },
+        {
+          "label": "B",
+          "text": "29 N"
+        },
+        {
+          "label": "C",
+          "text": "49 N"
+        },
+        {
+          "label": "D",
+          "text": "69 N"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 23,
+      "token_count": 32,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 23,
+      "text": "An object that absorbs energy well also",
+      "options": [
+        {
+          "label": "A",
+          "text": "conducts well"
+        },
+        {
+          "label": "B",
+          "text": "convects well"
+        },
+        {
+          "label": "C",
+          "text": "radiates well"
+        },
+        {
+          "label": "D",
+          "text": "None of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "val",
+      "question_word_count": 7,
+      "token_count": 7,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 24,
+      "text": "When you breathe on your hand, the temperature of the exhaled air reaching your hand",
+      "options": [
+        {
+          "label": "A",
+          "text": "increases"
+        },
+        {
+          "label": "B",
+          "text": "decreases"
+        },
+        {
+          "label": "C",
+          "text": "remains unchanged"
+        },
+        {
+          "label": "D",
+          "text": "depends on how you blow"
+        }
+      ],
+      "correct_label": "D",
+      "split": "val",
+      "question_word_count": 15,
+      "token_count": 17,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 25,
+      "text": "A hologram best illustrates",
+      "options": [
+        {
+          "label": "A",
+          "text": "polarization"
+        },
+        {
+          "label": "B",
+          "text": "diffraction"
+        },
+        {
+          "label": "C",
+          "text": "superposition"
+        },
+        {
+          "label": "D",
+          "text": "electron interference"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 4,
+      "token_count": 5,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 26,
+      "text": "From quantum mechanics we learn that a radioactive nucleus is governed by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newton’s laws"
+        },
+        {
+          "label": "B",
+          "text": "probability"
+        },
+        {
+          "label": "C",
+          "text": "certainty"
+        },
+        {
+          "label": "D",
+          "text": "no laws at all"
+        }
+      ],
+      "correct_label": "B",
+      "split": "val",
+      "question_word_count": 12,
+      "token_count": 12,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 11.192307692307692,
+    "avg_token_count": 12.846153846153847,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.11355429142713547
+  }
+}

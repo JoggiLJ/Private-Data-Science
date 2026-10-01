@@ -1,0 +1,110 @@
+{
+ "source_file": "MMLU_high_school_physics_val.json",
+ "num_questions": 17,
+ "file_avg_question_words": 40.82,
+ "file_avg_answer_words": 6.72,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 67,
+   "num_answers": 4,
+   "avg_answer_words": 3.0
+  },
+  {
+   "item_id": 2,
+   "question_words": 49,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 3,
+   "question_words": 30,
+   "num_answers": 4,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 4,
+   "question_words": 34,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 5,
+   "question_words": 30,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 6,
+   "question_words": 30,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 7,
+   "question_words": 26,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 8,
+   "question_words": 72,
+   "num_answers": 4,
+   "avg_answer_words": 21.0
+  },
+  {
+   "item_id": 9,
+   "question_words": 55,
+   "num_answers": 4,
+   "avg_answer_words": 12.25
+  },
+  {
+   "item_id": 10,
+   "question_words": 37,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 11,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 12,
+   "question_words": 63,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 13,
+   "question_words": 41,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 14,
+   "question_words": 28,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 15,
+   "question_words": 15,
+   "num_answers": 4,
+   "avg_answer_words": 11.75
+  },
+  {
+   "item_id": 16,
+   "question_words": 50,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 17,
+   "question_words": 47,
+   "num_answers": 4,
+   "avg_answer_words": 3.0
+  }
+ ]
+}

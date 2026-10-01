@@ -1,0 +1,147 @@
+{
+  "version": "mmlu-high-school-physics-dev-v1",
+  "source": "MMLU (Measuring Massive Multitask Language Understanding), high_school_physics subject, dev split | dataset cais/mmlu on Hugging Face | exported 2026-07-01.",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which of the following conditions will ensure that angular momentum is conserved? I. Conservation of linear momentum II. Zero net external force III. Zero net external torque",
+      "options": [
+        {
+          "label": "A",
+          "text": "I and II only"
+        },
+        {
+          "label": "B",
+          "text": "I and III only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "III only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 27,
+      "token_count": 32,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 2,
+      "text": "A pipe full of air is closed at one end. A standing wave is produced in the pipe, causing the pipe to sound a note. Which of the following is a correct statement about the wave’s properties at the closed end of the pipe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The pressure is at a node, but the particle displacement is at an antinode."
+        },
+        {
+          "label": "B",
+          "text": "The pressure is at an antinode, but the particle displacement is at a node."
+        },
+        {
+          "label": "C",
+          "text": "The pressure and the particle displacement are both at nodes."
+        },
+        {
+          "label": "D",
+          "text": "The pressure and the particle displacement are both at antinodes."
+        }
+      ],
+      "correct_label": "B",
+      "split": "dev",
+      "question_word_count": 44,
+      "token_count": 49,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 3,
+      "text": "A photocell of work function ϕ = 2eV is connected to a resistor in series. Light of frequency f = 1 × 10^15 Hz hits a metal plate of the photocell. If the power of the light is P = 100 W, what is the current through the resistor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2:00 AM"
+        },
+        {
+          "label": "B",
+          "text": "6:00 AM"
+        },
+        {
+          "label": "C",
+          "text": "12:00 AM"
+        },
+        {
+          "label": "D",
+          "text": "24 A"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 49,
+      "token_count": 64,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 4,
+      "text": "A microwave oven is connected to an outlet, 120 V, and draws a current of 2 amps. At what rate is energy being used by the microwave oven?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10 W"
+        },
+        {
+          "label": "B",
+          "text": "30 W"
+        },
+        {
+          "label": "C",
+          "text": "60 W"
+        },
+        {
+          "label": "D",
+          "text": "240 W"
+        }
+      ],
+      "correct_label": "D",
+      "split": "dev",
+      "question_word_count": 28,
+      "token_count": 34,
+      "num_alternatives": 4
+    },
+    {
+      "item_id": 5,
+      "text": "A point charge, Q = +1 mC, is fixed at the origin. How much work is required to move a charge, Q = +8 µC, from the point (0, 4 meters) to the point (3 meters, 0)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.5 J"
+        },
+        {
+          "label": "B",
+          "text": "6.0 J"
+        },
+        {
+          "label": "C",
+          "text": "22.5 J"
+        },
+        {
+          "label": "D",
+          "text": "40 J"
+        }
+      ],
+      "correct_label": "B",
+      "split": "dev",
+      "question_word_count": 37,
+      "token_count": 54,
+      "num_alternatives": 4
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 37.0,
+    "avg_token_count": 46.6,
+    "avg_alternatives_count": 4.0,
+    "avg_similarity_excl_self": 0.19954606890678406
+  }
+}

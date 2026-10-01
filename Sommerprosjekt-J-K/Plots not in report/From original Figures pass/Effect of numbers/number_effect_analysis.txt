@@ -1,0 +1,40 @@
+Total questions with numbers: 1322
+Error questions with numbers: 30
+Accuracy for questions with numbers: 66.79%
+Accuracy for questions without numbers: 78.43%
+Share of error questions with numbers: 100.00% (n=30)
+Share of total questions with numbers: 35.33% (n=3742)
+
+--- Effect of numbers in the question on accuracy ---
+Accuracy difference (with - without numbers): -11.64%  (95% CI: -14.66% to -8.62%)
+Chi-square test of independence: chi2=60.053, p=9.235e-15
+Two-proportion z-test: z=-7.789, p=6.78e-15
+Linear regression (correct ~ has_numbers): slope=-0.1164, p=5.378e-15, R^2=0.0162
+Linear regression (correct ~ digit_count): slope=-0.00272, p=1.528e-27, R^2=0.0311
+
+--- Isolated effect (controlling for benchmark + model fixed effects) ---
+correct ~ has_numbers + benchmark + model: coef=-0.0761, se=0.0199, t=-3.819, p=0.0001362
+correct ~ digit_count + benchmark + model: coef=-0.00164, se=0.00062, t=-2.642, p=0.008271
+
+--- Per-benchmark accuracy: with vs without numbers ---
+SAT Math                        skipped (only one group present, n_with=308, n_without=0)
+SAT rw                          with=87.4% (n= 246)  without=77.9% (n= 154)  diff=+9.5%
+Cornell critical                skipped (only one group present, n_with=0, n_without=144)
+Statistics inventory            with=68.4% (n=  38)  without=100.0% (n=   4)  diff=-31.6%
+LSAT                            with=80.0% (n=  30)  without=73.3% (n= 172)  diff=+6.7%
+TruthfulQA                      with=75.0% (n=  40)  without=70.8% (n= 360)  diff=+4.2%
+IQ test                         skipped (only one group present, n_with=50, n_without=0)
+MMLU Logical fallacies          with=60.0% (n=  10)  without=83.2% (n= 316)  diff=-23.2%
+MMLU Formal logic               with=100.0% (n=   2)  without=62.4% (n= 250)  diff=+37.6%
+MMLU Us foreign policy          with=88.5% (n=  26)  without=83.9% (n= 174)  diff=+4.6%
+MMLU High school physics        with=63.2% (n= 190)  without=77.7% (n= 112)  diff=-14.5%
+MMLU Conceptual physics         with=81.6% (n=  76)  without=84.9% (n= 324)  diff=-3.3%
+MMLU College physics            with=45.5% (n= 154)  without=96.0% (n=  50)  diff=-50.5%
+GMAT                            with=58.3% (n=  84)  without=89.3% (n=  28)  diff=-31.0%
+ARC AI2                         with=79.4% (n=  68)  without=90.7% (n= 332)  diff=-11.3%
+
+--- Benchmark-adjusted 2x2 table (direct standardization + CMH test) ---
+Strata used: 12 benchmarks with both groups present (dropped 3 single-group benchmarks)
+Standardized accuracy: with numbers=75.84%, without numbers=80.68%, diff=-4.84%
+Cochran-Mantel-Haenszel test: chi2=15.285, p=9.243e-05
+Mantel-Haenszel common odds ratio: 0.642

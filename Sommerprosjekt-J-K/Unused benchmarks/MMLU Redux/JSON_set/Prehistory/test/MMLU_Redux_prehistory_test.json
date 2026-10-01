@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_prehistory_test",
+  "description": "Prehistory multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — prehistory subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which of the following is true about the first apes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There were a far greater number of genera than today."
+        },
+        {
+          "label": "B",
+          "text": "They flourished in a broader area of the world than today's apes."
+        },
+        {
+          "label": "C",
+          "text": "Some ancient species were larger than today's apes."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Which culture, previously-known as the temple-mound builders, based their subsistence primarily on maize and squash agriculture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ancestral Puebloan"
+        },
+        {
+          "label": "B",
+          "text": "Hohokam"
+        },
+        {
+          "label": "C",
+          "text": "Mississippian"
+        },
+        {
+          "label": "D",
+          "text": "Adena"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Researchers who study humans by residing in particular societies and observing the behaviors of the people are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "archaeologists."
+        },
+        {
+          "label": "B",
+          "text": "ethnographers."
+        },
+        {
+          "label": "C",
+          "text": "linguists."
+        },
+        {
+          "label": "D",
+          "text": "paleoanthropologists."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "What was NOT a deciding factor in the development of Mesopotamian civilization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the need to concentrate population away from arable lands near rivers"
+        },
+        {
+          "label": "B",
+          "text": "the need to construct monumental works, such as step-pyramids and temples"
+        },
+        {
+          "label": "C",
+          "text": "the need to develop a complex social system that would allow the construction of canals"
+        },
+        {
+          "label": "D",
+          "text": "the use of irrigation to produce enough food"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "The New World, “discovered” by Christopher Columbus, was filled with approximately how many people?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100,000"
+        },
+        {
+          "label": "B",
+          "text": "500,000"
+        },
+        {
+          "label": "C",
+          "text": "1,000,000"
+        },
+        {
+          "label": "D",
+          "text": "tens of millions"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "What did the Moche build at the heart of their urban center?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a vast complex of temples and artisan workshops"
+        },
+        {
+          "label": "B",
+          "text": "an enormous walled-in precinct of elite residences"
+        },
+        {
+          "label": "C",
+          "text": "the Pyramid of the Sun"
+        },
+        {
+          "label": "D",
+          "text": "the Temple of the Feathered Serpent"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Which culture was centered in the Ohio River valley around 2,800 years ago?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Adena"
+        },
+        {
+          "label": "B",
+          "text": "the Mogollon"
+        },
+        {
+          "label": "C",
+          "text": "the Kwakiutl"
+        },
+        {
+          "label": "D",
+          "text": "the Sinagua"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The revolution in food production that accelerated worldwide population growth is called the ________; it occurred _____ years ago.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Upper Paleolithic Transition; after 35,000 years ago"
+        },
+        {
+          "label": "B",
+          "text": "Mesolithic Demographic Transition; beginning 18,000 years ago"
+        },
+        {
+          "label": "C",
+          "text": "Neolithic Demographic Transition; beginning 11,000 years ago"
+        },
+        {
+          "label": "D",
+          "text": "Neolithic Revolution; after 5,000 years ago"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "The most prominent feature of the food resource base of post-Pleistocene Europe was its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "dependence on megafauna."
+        },
+        {
+          "label": "B",
+          "text": "hunting and gathering."
+        },
+        {
+          "label": "C",
+          "text": "dependence on fur-bearing animals."
+        },
+        {
+          "label": "D",
+          "text": "diversity."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Taphonomy is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a systematic classification based on similarities and differences."
+        },
+        {
+          "label": "B",
+          "text": "a dating technique based on the decay of a radioactive isotope of bone."
+        },
+        {
+          "label": "C",
+          "text": "a study of the spatial relationships among artifacts, ecofacts, and features."
+        },
+        {
+          "label": "D",
+          "text": "the study of how materials ended up in a particular place."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "In primates, the location of which of the following determines if it is a quadruped or biped?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the feet"
+        },
+        {
+          "label": "B",
+          "text": "the skull"
+        },
+        {
+          "label": "C",
+          "text": "the foramen magnum"
+        },
+        {
+          "label": "D",
+          "text": "the ulna"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "The evolutionary histories of different kinds of organisms and their relationships to each other are illustrated in a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "diastema."
+        },
+        {
+          "label": "B",
+          "text": "phylogeny."
+        },
+        {
+          "label": "C",
+          "text": "mosaic."
+        },
+        {
+          "label": "D",
+          "text": "genera,"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The Maya derived their writing and mathematics from the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mesopotamians."
+        },
+        {
+          "label": "B",
+          "text": "Chavin."
+        },
+        {
+          "label": "C",
+          "text": "Chinese."
+        },
+        {
+          "label": "D",
+          "text": "Olmec."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Of the following, which is the earliest example of the development of a complex society?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jericho in Israel"
+        },
+        {
+          "label": "B",
+          "text": "Caral in Peru"
+        },
+        {
+          "label": "C",
+          "text": "Stonehenge in England"
+        },
+        {
+          "label": "D",
+          "text": "Olmec along the Gulf Coast"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "What Mesopotamian institution was set apart and had powers before the advent of social complexity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the military"
+        },
+        {
+          "label": "B",
+          "text": "the state"
+        },
+        {
+          "label": "C",
+          "text": "the temple"
+        },
+        {
+          "label": "D",
+          "text": "the hunting association"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which best describes Stonehenge?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Megalithic monument"
+        },
+        {
+          "label": "B",
+          "text": "Halafian monumental center"
+        },
+        {
+          "label": "C",
+          "text": "Chavin ritual monument"
+        },
+        {
+          "label": "D",
+          "text": "Mesopotamian monument"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "The greatest Egyptian pyramids at Giza were built:",
+      "options": [
+        {
+          "label": "A",
+          "text": "as burial monuments for the pharaoh Khufu, Khufu's son Khafre, and Khufu's grandson Menkaure."
+        },
+        {
+          "label": "B",
+          "text": "by slaves who were coerced and worked under the threat of death, as described in the book of Exodus of the Old Testament."
+        },
+        {
+          "label": "C",
+          "text": "in the construction frenzy of the 6th dynasty."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "The belief that all of the characteristics of civilization developed in one place, such as Egypt, and from there spread out to the rest of the world is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cultural evolution"
+        },
+        {
+          "label": "B",
+          "text": "migrationism"
+        },
+        {
+          "label": "C",
+          "text": "diffusionism"
+        },
+        {
+          "label": "D",
+          "text": "anti-originalism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Pizarro was able to subdue the entire Inca empire largely because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "his horses and guns frightened the Incas into submission."
+        },
+        {
+          "label": "B",
+          "text": "he was such a brilliant military strategist."
+        },
+        {
+          "label": "C",
+          "text": "the empire had never won the allegiance of the peoples it had conquered."
+        },
+        {
+          "label": "D",
+          "text": "he arrived with a superior force of more than 80,000 soldiers."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "In Randall White's view, what do items of personal adornment imply during the Upper Paleolithic period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a willingness to travel great distances"
+        },
+        {
+          "label": "B",
+          "text": "a hobby done around the campfire at night"
+        },
+        {
+          "label": "C",
+          "text": "increasing awareness and importance of individual identity"
+        },
+        {
+          "label": "D",
+          "text": "greater intelligence and willingness to cooperate"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Why were the elite of state societies so conspicuous in their consumption?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Democracy and egalitarian states had not yet evolved."
+        },
+        {
+          "label": "B",
+          "text": "A monetary value was not placed on material possessions, making things effectively worthless."
+        },
+        {
+          "label": "C",
+          "text": "The elite had not yet been introduced to capitalism and so wasted their wealth on monuments and possessions."
+        },
+        {
+          "label": "D",
+          "text": "Monuments and possessions were used as symbols to reinforce the inequalities on which state societies are based."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Analysis of the teeth of a hominid species discovered in Malapa Cave in South Africa, dating just after 2 million years ago, indicates a diet that consisted primarily of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "fruits, leaves, and C3 plants."
+        },
+        {
+          "label": "B",
+          "text": "meat derived from carnivorous mammals."
+        },
+        {
+          "label": "C",
+          "text": "meat, fish, and some plants."
+        },
+        {
+          "label": "D",
+          "text": "C4 grasses that may have included wild wheat."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Which of the following is the Pleistocene ice mass in North America centered in the Rocky Mountains?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beringia"
+        },
+        {
+          "label": "B",
+          "text": "Laurentide"
+        },
+        {
+          "label": "C",
+          "text": "Cordilleran"
+        },
+        {
+          "label": "D",
+          "text": "McKenzie Corridor"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Charles Lyell argued that the Earth must be extremely old based on the fact that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "many processes that can be observed act extremely slowly."
+        },
+        {
+          "label": "B",
+          "text": "uniformitarianism can account for significant geological features."
+        },
+        {
+          "label": "C",
+          "text": "erosion works incredibly slowly."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "The record-keeping system used by the Inca in which a series of knotted strings were used as mnemonic devices is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "cuneiform."
+        },
+        {
+          "label": "B",
+          "text": "rachis."
+        },
+        {
+          "label": "C",
+          "text": "mit'a."
+        },
+        {
+          "label": "D",
+          "text": "khipu."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following is NOT an innovation of the Mesolithic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "canoes"
+        },
+        {
+          "label": "B",
+          "text": "domestication of animals"
+        },
+        {
+          "label": "C",
+          "text": "European use of bow and arrow"
+        },
+        {
+          "label": "D",
+          "text": "crop irrigation systems"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "There is evidence that the Hohokam borrowed which practice from Mesoamerican culture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ritual consumption of maize beer"
+        },
+        {
+          "label": "B",
+          "text": "ritual human sacrifice"
+        },
+        {
+          "label": "C",
+          "text": "playing ritual ball games"
+        },
+        {
+          "label": "D",
+          "text": "construction of stepped pyramids"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The Lake Forest Archaic tradition relied on ____________ resources; the Maritime Archaic hunted ___________ creatures.",
+      "options": [
+        {
+          "label": "A",
+          "text": "pelagic; midden"
+        },
+        {
+          "label": "B",
+          "text": "lacustrine; pelagic"
+        },
+        {
+          "label": "C",
+          "text": "midden; littoral"
+        },
+        {
+          "label": "D",
+          "text": "littoral; lacustrine"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Periods much colder than the present, which were characterized by widespread ice and snow cover, are known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "altricials."
+        },
+        {
+          "label": "B",
+          "text": "glacials."
+        },
+        {
+          "label": "C",
+          "text": "interstadials."
+        },
+        {
+          "label": "D",
+          "text": "interglacials."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Mayan art and iconography prominently feature depictions of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "infants and children."
+        },
+        {
+          "label": "B",
+          "text": "stars and comets."
+        },
+        {
+          "label": "C",
+          "text": "love and sex."
+        },
+        {
+          "label": "D",
+          "text": "mutilation and violence."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following most strongly indicates advances in the human intellect during the Upper Paleolithic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "parietal and mobiliary art"
+        },
+        {
+          "label": "B",
+          "text": "new stone-tool technologies"
+        },
+        {
+          "label": "C",
+          "text": "acquisition of non-local raw materials"
+        },
+        {
+          "label": "D",
+          "text": "changes in settlement patterns"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "The most obvious material symbols of ancient state societies are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "stone tablets."
+        },
+        {
+          "label": "B",
+          "text": "pyramids."
+        },
+        {
+          "label": "C",
+          "text": "monumental works."
+        },
+        {
+          "label": "D",
+          "text": "irrigation canals."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "The __________ tradition features finely made, leaf-shaped stone blades. The __________ tradition, which followed behind it, emphasizes bone and antler work.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Solutrean; Magdelanian"
+        },
+        {
+          "label": "B",
+          "text": "Gravettian; Solutrean"
+        },
+        {
+          "label": "C",
+          "text": "Magdelanian; Aurignacian"
+        },
+        {
+          "label": "D",
+          "text": "Aurignacian; Gravettian."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following is the name of the stone blade exhibiting a fluted point on both faces and associated with extinct elephants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thule"
+        },
+        {
+          "label": "B",
+          "text": "Lapita"
+        },
+        {
+          "label": "C",
+          "text": "Dorset"
+        },
+        {
+          "label": "D",
+          "text": "Clovis"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of the following are dating techniques based on the half-life of a radioactive isotope and are used to date the age of rock?",
+      "options": [
+        {
+          "label": "A",
+          "text": "argon/argon and potassium argon dating"
+        },
+        {
+          "label": "B",
+          "text": "archaeomagnetic and radiocarbon dating"
+        },
+        {
+          "label": "C",
+          "text": "luminescence dating and optically stimulated luminescence"
+        },
+        {
+          "label": "D",
+          "text": "X-ray fluorescence and paleomagnetic dating"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Which of the following was described as “the slow agency of existing causes”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "natural selection"
+        },
+        {
+          "label": "B",
+          "text": "catastrophism"
+        },
+        {
+          "label": "C",
+          "text": "uniformitarianism"
+        },
+        {
+          "label": "D",
+          "text": "unilineal evolution"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "What designation for a pottery style was eventually applied to an entire cultural complex that moved across the Pacific?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clovis"
+        },
+        {
+          "label": "B",
+          "text": "Nenana Complex"
+        },
+        {
+          "label": "C",
+          "text": "Lapita"
+        },
+        {
+          "label": "D",
+          "text": "Micronesian Pottery Tradition"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Evidence has been found at the Asikli Höyük site in Central Turkey for the domestication of which species within a few centuries after 10,400 years ago?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sheep"
+        },
+        {
+          "label": "B",
+          "text": "cattle"
+        },
+        {
+          "label": "C",
+          "text": "dogs"
+        },
+        {
+          "label": "D",
+          "text": "chickens"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "A celebration in which wealth is redistributed is called a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "potlatch."
+        },
+        {
+          "label": "B",
+          "text": "kiva parties."
+        },
+        {
+          "label": "C",
+          "text": "totem feasts."
+        },
+        {
+          "label": "D",
+          "text": "sinagua."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Which archaeological method is best for identifying large-scale land modifications?",
+      "options": [
+        {
+          "label": "A",
+          "text": "test pits"
+        },
+        {
+          "label": "B",
+          "text": "ground-penetrating radar"
+        },
+        {
+          "label": "C",
+          "text": "aerial photography"
+        },
+        {
+          "label": "D",
+          "text": "proton magnetometers"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "A genetic study comparing the bones of a 7,000-year-old skeleton found in Germany, eight human skeletons dating to 8,000 years ago in Luxembourg, and more than 2,300 living Europeans found that the modern European genome included contributions from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the earliest anatomically modern Homo sapiens who lived in Europe 45,000 years ago."
+        },
+        {
+          "label": "B",
+          "text": "people genetically traceable to the Middle East who moved into Europe about 9,000 years ago."
+        },
+        {
+          "label": "C",
+          "text": "people who moved there from west Asia less than 5,000 years ago."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Virtually all of the crops important in the European Neolithic:",
+      "options": [
+        {
+          "label": "A",
+          "text": "were domesticated at the same time at communal farms."
+        },
+        {
+          "label": "B",
+          "text": "were domesticated before groups became sedentary."
+        },
+        {
+          "label": "C",
+          "text": "were independently domesticated in Europe"
+        },
+        {
+          "label": "D",
+          "text": "were imported from other regions."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "How did Aurignacian technology differ from Mousterian technology?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mousterian technology produced more projectile points."
+        },
+        {
+          "label": "B",
+          "text": "Mousterian technology produced more usable blade surface."
+        },
+        {
+          "label": "C",
+          "text": "Aurignacian technology produced more usable blade surface."
+        },
+        {
+          "label": "D",
+          "text": "Aurignacian technology was focused on the production of hand axes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "A design that is not painted upon but is etched into a rock face is called a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "pictograph."
+        },
+        {
+          "label": "B",
+          "text": "petroglyph."
+        },
+        {
+          "label": "C",
+          "text": "pictorial."
+        },
+        {
+          "label": "D",
+          "text": "petrification."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "What occupation date do most archaeologists agree on for Australia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "no earlier than 80,000 years ago"
+        },
+        {
+          "label": "B",
+          "text": "soon after 60,000 years ago"
+        },
+        {
+          "label": "C",
+          "text": "soon after 40,000 years ago"
+        },
+        {
+          "label": "D",
+          "text": "no earlier than 20,000 years ago"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "The Pleistocene epoch lasted until how long ago?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1,000,000 years"
+        },
+        {
+          "label": "B",
+          "text": "100,000 years"
+        },
+        {
+          "label": "C",
+          "text": "10,000 years"
+        },
+        {
+          "label": "D",
+          "text": "1,000 years"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Upon exploring Rhode Island, the Italian navigator Giovanni de Verrazzano noted that the native people resembled:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Italians."
+        },
+        {
+          "label": "B",
+          "text": "Asians."
+        },
+        {
+          "label": "C",
+          "text": "Australians."
+        },
+        {
+          "label": "D",
+          "text": "Melanesians."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "A proposed explanation for some phenomenon that may be derived initially from empirical observation through a process called induction is a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "deduction."
+        },
+        {
+          "label": "B",
+          "text": "theory."
+        },
+        {
+          "label": "C",
+          "text": "hypothesis."
+        },
+        {
+          "label": "D",
+          "text": "scientific method."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "To which primate are humans most closely related?",
+      "options": [
+        {
+          "label": "A",
+          "text": "chimpanzees"
+        },
+        {
+          "label": "B",
+          "text": "gorillas"
+        },
+        {
+          "label": "C",
+          "text": "orangutans"
+        },
+        {
+          "label": "D",
+          "text": "gibbons"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "The population of the Valley of Mexico was supported by means of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "long-distance trade, salt mining, and stone masonry."
+        },
+        {
+          "label": "B",
+          "text": "hunting and gathering, fishing, and cultivation of root crops."
+        },
+        {
+          "label": "C",
+          "text": "advanced medical, artisanal, and metallurgical technologies."
+        },
+        {
+          "label": "D",
+          "text": "agricultural irrigation, terraces, and artificially raised fields called chinampas."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Following the classical period, which ended around A.D. 800, Mayan civilization:",
+      "options": [
+        {
+          "label": "A",
+          "text": "inexplicably disappeared, then began a slow development ending with Aztec civilization."
+        },
+        {
+          "label": "B",
+          "text": "entered the second classical period, lost a great war with Teotihuacán, and faded away."
+        },
+        {
+          "label": "C",
+          "text": "fell into decline, moved its center north, resurged, and fell into decline once again."
+        },
+        {
+          "label": "D",
+          "text": "fell into a sudden decline; the population disappeared and never again built monumental structures."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "The archaeological remains of foundations at Pilfershire were found:",
+      "options": [
+        {
+          "label": "A",
+          "text": "by taking a walk in the woods."
+        },
+        {
+          "label": "B",
+          "text": "by carefully excavating an entire region."
+        },
+        {
+          "label": "C",
+          "text": "using satellite imaging."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Unequivocal evidence for art as symbolic expression dates from as early as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "95,000 BP, at Dolni Vestonice."
+        },
+        {
+          "label": "B",
+          "text": "77,000 BP, at Blombos Cave."
+        },
+        {
+          "label": "C",
+          "text": "50,000 BP, at Des Moines, IA."
+        },
+        {
+          "label": "D",
+          "text": "36,000 BP, at Wharton Hill."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "On which continent are most of the Venus figurines found?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Europe"
+        },
+        {
+          "label": "B",
+          "text": "Africa"
+        },
+        {
+          "label": "C",
+          "text": "Asia"
+        },
+        {
+          "label": "D",
+          "text": "Australia"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Which of the following are four of the characteristics of civilization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "food surpluses, specialists, urban settlements, and a system of record keeping"
+        },
+        {
+          "label": "B",
+          "text": "food surpluses, a standing army, artwork, and a system of plumbing"
+        },
+        {
+          "label": "C",
+          "text": "food surpluses, monumental architecture, religious buildings, and museums"
+        },
+        {
+          "label": "D",
+          "text": "museums, libraries, monumental architecture, and artwork"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Homo erectus differed from Homo habilis in which way?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erectus fossils are found only in Africa."
+        },
+        {
+          "label": "B",
+          "text": "Erectus possessed a smaller brain."
+        },
+        {
+          "label": "C",
+          "text": "Erectus possessed a larger brain."
+        },
+        {
+          "label": "D",
+          "text": "Erectus was a relatively short-lived species."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The influence of the Tiwanaku was eclipsed by the _________ culture, to the north and west.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moche"
+        },
+        {
+          "label": "B",
+          "text": "Inca"
+        },
+        {
+          "label": "C",
+          "text": "Wari"
+        },
+        {
+          "label": "D",
+          "text": "Aztec"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Which tool technology is associated with Neandertals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aurignacian"
+        },
+        {
+          "label": "B",
+          "text": "Acheulean"
+        },
+        {
+          "label": "C",
+          "text": "Mousterian"
+        },
+        {
+          "label": "D",
+          "text": "both b and c"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The fact that early excavators of Teotihuacán mistook ordinary housing compounds for palaces suggests:",
+      "options": [
+        {
+          "label": "A",
+          "text": "the general standard of living was high."
+        },
+        {
+          "label": "B",
+          "text": "commoners took over the residences of the elite."
+        },
+        {
+          "label": "C",
+          "text": "the city was a democracy, ruled by common farmers and artisans."
+        },
+        {
+          "label": "D",
+          "text": "the society was mostly egalitarian, with almost no social stratification."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The peak of Minoan civilization, from 3650 to 3420 B.P., was bracketed by what two events?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the founding of the Minos dynasty and the invasion of the Mycenaeans"
+        },
+        {
+          "label": "B",
+          "text": "an earthquake and a volcanic eruption"
+        },
+        {
+          "label": "C",
+          "text": "the discovery of bronze on the island, and the replacement of bronze by iron"
+        },
+        {
+          "label": "D",
+          "text": "the invasion of Troy, and the surrender to the Romans"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of the following first described human culture according to a predictable chronology of a Stone Age, Bronze Age, and Iron Age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "uniformitarianism"
+        },
+        {
+          "label": "B",
+          "text": "multilinear evolution"
+        },
+        {
+          "label": "C",
+          "text": "three-age system"
+        },
+        {
+          "label": "D",
+          "text": ". triple-age catastrophism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Palynology is the study of _________, which allows scientists to reconstruct ______.",
+      "options": [
+        {
+          "label": "A",
+          "text": "foraminifera; a master sequence of tree rings."
+        },
+        {
+          "label": "B",
+          "text": "coprolites; paleopathology and sexual dimorphism."
+        },
+        {
+          "label": "C",
+          "text": "pollen; plant communities and climate."
+        },
+        {
+          "label": "D",
+          "text": "phytoliths; artificial selection and photosynthesis pathways."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "In comparison to the Middle Paleolithic, Upper Paleolithic tool technologies:",
+      "options": [
+        {
+          "label": "A",
+          "text": "emphasized flakes over blades."
+        },
+        {
+          "label": "B",
+          "text": "changed rapidly."
+        },
+        {
+          "label": "C",
+          "text": "involved elaborate preparation of core tools."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "The ancient city of Cahokia contained more than _______ and a population of around _______.",
+      "options": [
+        {
+          "label": "A",
+          "text": "120 earthen mounds; 10,000"
+        },
+        {
+          "label": "B",
+          "text": "60 burial mounds; 2,000"
+        },
+        {
+          "label": "C",
+          "text": "50 religious monuments; 5,000"
+        },
+        {
+          "label": "D",
+          "text": "200 pyramidal mounds; 200,000"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Machu Picchu was built in the mountains as a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "defensive stronghold."
+        },
+        {
+          "label": "B",
+          "text": "shrine to the Inca rain god."
+        },
+        {
+          "label": "C",
+          "text": "relaxing getaway for elites."
+        },
+        {
+          "label": "D",
+          "text": "astronomical observatory."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Up to 50,000 years ago, what was the relationship between anatomically modern humans and us?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They looked and thought like us."
+        },
+        {
+          "label": "B",
+          "text": "They looked like us but did not think like us."
+        },
+        {
+          "label": "C",
+          "text": "They thought like us but did not look like us."
+        },
+        {
+          "label": "D",
+          "text": "They did not look or think like us."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which species is most typically first associated with the fashioning and use of stone tools?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Homo habilis"
+        },
+        {
+          "label": "B",
+          "text": "Ardipithecus ramidus"
+        },
+        {
+          "label": "C",
+          "text": "Homo sapiens"
+        },
+        {
+          "label": "D",
+          "text": "Australopithecus robustus"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "The Chimu civilization was one of the ___________ kingdoms of the ancient New World.",
+      "options": [
+        {
+          "label": "A",
+          "text": "richest"
+        },
+        {
+          "label": "B",
+          "text": "strongest"
+        },
+        {
+          "label": "C",
+          "text": "largest"
+        },
+        {
+          "label": "D",
+          "text": "highest"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "The development of civilization in Mesopotamia is associated with the _______, during the ______.",
+      "options": [
+        {
+          "label": "A",
+          "text": "first writing; Amratian Period"
+        },
+        {
+          "label": "B",
+          "text": "first cities; Uruk Period]"
+        },
+        {
+          "label": "C",
+          "text": "first religious specialists; New Temple Period"
+        },
+        {
+          "label": "D",
+          "text": "first permanent military; Nagada I Period"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Research on C3 and C4 pathways indicates that changes in plant communities were associated with a transition in the diets of ancient hominids from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "species focused on grasses to nuts and fruits."
+        },
+        {
+          "label": "B",
+          "text": "meat to fruits and vegetables."
+        },
+        {
+          "label": "C",
+          "text": "fruits and vegetables to fish."
+        },
+        {
+          "label": "D",
+          "text": "nuts and fruits to species more focused on grasses."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which of the following dating techniques are based on the measurement of the amount of energy trapped in materials that have been heated at archaeological sites?",
+      "options": [
+        {
+          "label": "A",
+          "text": "argon/argon and potassium argon dating"
+        },
+        {
+          "label": "B",
+          "text": "archaeomagnetic and radiocarbon dating"
+        },
+        {
+          "label": "C",
+          "text": "luminescence dating and optically stimulated luminescence"
+        },
+        {
+          "label": "D",
+          "text": "X-ray fluorescence and paleomagnetic dating"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "That modern Africans do not possess any Neandertal DNA indicates that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gene flow between Neandertals and anatomically modern humans must have occurred before Neandertals migrated out of Africa."
+        },
+        {
+          "label": "B",
+          "text": "Gene flow between Neandertals and anatomically modern humans occurred after anatomically modern humans migrated out of Africa."
+        },
+        {
+          "label": "C",
+          "text": "Neandertals who lived in Africa did not interbreed with anatomically modern humans, but must have followed them when they migrated out of Africa."
+        },
+        {
+          "label": "D",
+          "text": "Interbreeding between anatomically modern humans and Neandertals never occurred."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "During which time frame is there evidence for anatomically modern Homo sapiens?",
+      "options": [
+        {
+          "label": "A",
+          "text": "800,000 to 10,000 years ago"
+        },
+        {
+          "label": "B",
+          "text": "800,000 years ago to present"
+        },
+        {
+          "label": "C",
+          "text": "400,000 years ago to present"
+        },
+        {
+          "label": "D",
+          "text": "200,000 to present"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "The idea that cultures change through time in relation to their environments, along many different paths, is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "unilineal evolution."
+        },
+        {
+          "label": "B",
+          "text": "environmental uniformitarianism."
+        },
+        {
+          "label": "C",
+          "text": "multicultural adaptation."
+        },
+        {
+          "label": "D",
+          "text": "multilineal evolution."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "What is the name of the largest structure at Teotihuacán and around how many platform monuments and pyramids were built there?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pyramid of the Moon; 250"
+        },
+        {
+          "label": "B",
+          "text": "Temple of the Feathered Serpent; 400"
+        },
+        {
+          "label": "C",
+          "text": "Pyramid of the Sun; 600"
+        },
+        {
+          "label": "D",
+          "text": "Temple of the Inscriptions; 700"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "The royal graves of the Shang Dynasty consisted of enormous cruciform-shaped tombs, where the deceased kings were buried with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "jade, bronze, and ceramic artifacts."
+        },
+        {
+          "label": "B",
+          "text": "chariots and horses."
+        },
+        {
+          "label": "C",
+          "text": "the headless bodies of humans who had been sacrificed."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "The native peoples of the northwest coast of North America were:",
+      "options": [
+        {
+          "label": "A",
+          "text": "maize agriculturalists."
+        },
+        {
+          "label": "B",
+          "text": "simple foragers."
+        },
+        {
+          "label": "C",
+          "text": "affluent foragers."
+        },
+        {
+          "label": "D",
+          "text": "conquered by the Aztec."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "What evidence is there that Neandertals were hunters?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neandertal canine teeth showed that they relied only on meat for their subsistence."
+        },
+        {
+          "label": "B",
+          "text": "Animal bones were found showing stone tool cut marks and no animal teeth marks."
+        },
+        {
+          "label": "C",
+          "text": "Bones of large animals, such as elephant and horse, were found in caves."
+        },
+        {
+          "label": "D",
+          "text": "Both A and C."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "A person who believes that the current appearance of the earth can be best explained as having resulted from a series of natural disasters is known as a(n):",
+      "options": [
+        {
+          "label": "A",
+          "text": "paleoanthropologist."
+        },
+        {
+          "label": "B",
+          "text": "natural scientist."
+        },
+        {
+          "label": "C",
+          "text": "evolutionist."
+        },
+        {
+          "label": "D",
+          "text": "catastrophist."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "The controversial theory that people from present-day Europe colonized North America at the end of Pleistocene is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "supported by genetic evidence that establishes close connections between the oldest skeletons in the Americas and the European genome."
+        },
+        {
+          "label": "B",
+          "text": "refuted by genetic evidence from the oldest skeletons in the Americas that establishes close connections between modern Native Americans and the native people of central Siberia."
+        },
+        {
+          "label": "C",
+          "text": "proven by genetic evidence that establishes close connections between the oldest skeletons in the Americas and Norse explorers who arrived in northeastern Canada around A.D. 1000."
+        },
+        {
+          "label": "D",
+          "text": "refuted by the complete absence of documents that record a migration of Europeans into the Americas."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "What made it possible to recover the nearly intact finely-made wooden spears from a 300,000-year-old site at Schöningen, Germany?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The soil was highly acidic and aerobic, which offers excellent preservation for organic artifacts."
+        },
+        {
+          "label": "B",
+          "text": "The soil was waterlogged and provided conditions that allowed for the preservation of organic material."
+        },
+        {
+          "label": "C",
+          "text": "The wooden spears were placed in a cache of artifacts in plain sight, where archaeologists would eventually find them."
+        },
+        {
+          "label": "D",
+          "text": "The wooden spears were covered with dried blood mixed with charcoal and mud, which allows for the preservation of wood."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of the following is NOT one of Joseph Tainter's proposed causes for the collapse of ancient civilizations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "resource depletion"
+        },
+        {
+          "label": "B",
+          "text": "economic decline"
+        },
+        {
+          "label": "C",
+          "text": "elite mismanagement"
+        },
+        {
+          "label": "D",
+          "text": "epidemic disease"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Indus Valley civilization is unmatched in comparison to other early civilizations in terms of what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the height and size of its monumental architecture"
+        },
+        {
+          "label": "B",
+          "text": "the amount and frequency of violence"
+        },
+        {
+          "label": "C",
+          "text": "the degree of urban planning"
+        },
+        {
+          "label": "D",
+          "text": "the amount of surplus wheat that was produced for storage"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "What is the earliest form of writing in the world and where did it develop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "cuneiform, in Mesopotamia"
+        },
+        {
+          "label": "B",
+          "text": "hieroglyphics, in Egypt"
+        },
+        {
+          "label": "C",
+          "text": "clay-tablets, at Knossos"
+        },
+        {
+          "label": "D",
+          "text": "runes, at Stonehenge"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "From which of the following primates do humans descend?",
+      "options": [
+        {
+          "label": "A",
+          "text": "chimpanzees"
+        },
+        {
+          "label": "B",
+          "text": "gorillas"
+        },
+        {
+          "label": "C",
+          "text": "orangutans"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "The Aztec Empire was based on the systematic expansion of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "tribute in the form of gold, jade, feathers, cloth, and jewels."
+        },
+        {
+          "label": "B",
+          "text": "oppressive social and religious control based on military conquest."
+        },
+        {
+          "label": "C",
+          "text": "ceramic production, a distinctive architectural style, and artistic expression."
+        },
+        {
+          "label": "D",
+          "text": "religious beliefs that required extensive and escalating human sacrifice."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which of the following is not a hypothesis for why hominids walked on two legs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "it freed the hands to carry things"
+        },
+        {
+          "label": "B",
+          "text": "it allowed for braincase expansion"
+        },
+        {
+          "label": "C",
+          "text": "it expended less energy than quadrupedalism for going long distances"
+        },
+        {
+          "label": "D",
+          "text": "it allowed hominids to see greater distances"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "At its peak, the population of the city of Teotihuacán may have reached:",
+      "options": [
+        {
+          "label": "A",
+          "text": "50,000 people."
+        },
+        {
+          "label": "B",
+          "text": "200,000 people."
+        },
+        {
+          "label": "C",
+          "text": "500,000 people."
+        },
+        {
+          "label": "D",
+          "text": "1,000,000 people."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "By analyzing the levels of 13C in bones, researchers can establish whether an individual ate:",
+      "options": [
+        {
+          "label": "A",
+          "text": "mostly grains or mostly nuts and fruits."
+        },
+        {
+          "label": "B",
+          "text": "mostly meat or mostly vegetables."
+        },
+        {
+          "label": "C",
+          "text": "no dairy or lots of dairy."
+        },
+        {
+          "label": "D",
+          "text": "a certain type of honey produced only in sub-Saharan Africa."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "How were the royal cemeteries of the Moche discovered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thieves raiding the tombs were caught by the police."
+        },
+        {
+          "label": "B",
+          "text": "A forest fire burned away the dense vegetation that concealed the cemetery."
+        },
+        {
+          "label": "C",
+          "text": "Archaeologists discovered an exact replica of the city in the map room."
+        },
+        {
+          "label": "D",
+          "text": "A flock of sheep that had been living there fell into a tomb."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The Younger Dryas was:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a warming period at the end of the Pleistocene."
+        },
+        {
+          "label": "B",
+          "text": "a period of glacial expansion between 12,900 and 11,600 years ago."
+        },
+        {
+          "label": "C",
+          "text": "a period of glacial retreat between 10,900 and 9,000 years ago."
+        },
+        {
+          "label": "D",
+          "text": "a period of environmental change that caused humans to temporarily abandon much of northern Europe."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "At its height, only about _______ of the Incan empire was composed of ethnic Inca.",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 percent"
+        },
+        {
+          "label": "B",
+          "text": "10 percent"
+        },
+        {
+          "label": "C",
+          "text": "30 percent"
+        },
+        {
+          "label": "D",
+          "text": "50 percent"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "How have archaeologists characterized the monuments built by the Olmec?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Halafian ritual monuments"
+        },
+        {
+          "label": "B",
+          "text": "megalithic chiefdoms"
+        },
+        {
+          "label": "C",
+          "text": "surplus food storage centers"
+        },
+        {
+          "label": "D",
+          "text": "regal-ritual centers"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Some of the oldest painted art in the world was recently discovered in caves on the island of Sulawesi in Indonesia. What do the images include and to when do they date?",
+      "options": [
+        {
+          "label": "A",
+          "text": "animals and human bodies from more than 15,000 to about 20,000 years ago"
+        },
+        {
+          "label": "B",
+          "text": "animals and hand stencils from more than 35,000 to about 40,000 years ago"
+        },
+        {
+          "label": "C",
+          "text": "animals and hand stencils from more than 45,000 to about 100,000 years ago"
+        },
+        {
+          "label": "D",
+          "text": "animals and abstract geometric shapes from 15,000 to more than 100,000 years ago"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Lewis Henry Morgan conceived of progress in human culture according to the stages of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Savagery, Barbarism, and Civilization."
+        },
+        {
+          "label": "B",
+          "text": "Savagery, Civilization, and Collapse."
+        },
+        {
+          "label": "C",
+          "text": "Barbarism, Primitivism, and Civilization."
+        },
+        {
+          "label": "D",
+          "text": "Stone Age, Bronze Age, and Iron Age."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "What is the name of the lithic technology seen in the Arctic and consisting of wedge-shaped cores, micro-blades, bifacial knives, and burins?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clovis Complex"
+        },
+        {
+          "label": "B",
+          "text": "Denali Complex"
+        },
+        {
+          "label": "C",
+          "text": "Folsom Complex"
+        },
+        {
+          "label": "D",
+          "text": "Nenana Complex"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "How long ago did human groups begin actively controlling their food sources by artificially producing conditions under which these sources would grow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "within the past 6,000 years"
+        },
+        {
+          "label": "B",
+          "text": "within the past 12,000 years"
+        },
+        {
+          "label": "C",
+          "text": "within the past 18,000 years"
+        },
+        {
+          "label": "D",
+          "text": "within the past 28,000 years"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Which of the following describes a key change in hominids beginning at least as early as Homo erectus that is probably related to increasingly larger brain size?",
+      "options": [
+        {
+          "label": "A",
+          "text": "microcephaly"
+        },
+        {
+          "label": "B",
+          "text": "neoteny"
+        },
+        {
+          "label": "C",
+          "text": "prognathism"
+        },
+        {
+          "label": "D",
+          "text": "supraorbital cortex"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "At its peak, the palace at Knossos is thought to have had over _________ rooms.",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "500"
+        },
+        {
+          "label": "C",
+          "text": "1,000"
+        },
+        {
+          "label": "D",
+          "text": "5,000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "There is general consensus among paleoanthropologists that anatomically modern humans:",
+      "options": [
+        {
+          "label": "A",
+          "text": "migrated out of Africa into western Europe between 150,000 and 200,000 years ago and then spread into Asia, Australia, and the Americas."
+        },
+        {
+          "label": "B",
+          "text": "evolved in Asia between 100,000 and 50,000 years ago, and then migrated into Africa, Europe, Australia, and the Americas."
+        },
+        {
+          "label": "C",
+          "text": "evolved independently and simultaneously in Africa, Europe, and Asia and then migrated into Australia and the Americas."
+        },
+        {
+          "label": "D",
+          "text": "migrated out of Africa into Southwest Asia between 150,000 and 100,000 years ago and then spread into Europe, Asia, Australia, and the Americas."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

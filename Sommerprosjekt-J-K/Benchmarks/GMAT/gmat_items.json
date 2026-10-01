@@ -1,0 +1,1570 @@
+[
+  {
+    "item_id": 1,
+    "text": "If a committee of 3 people is to be selected from among 5 married couples so that the committee does not include two people who are married to each other, how many such committees are possible?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "40"
+      },
+      {
+        "label": "C",
+        "text": "50"
+      },
+      {
+        "label": "D",
+        "text": "80"
+      },
+      {
+        "label": "E",
+        "text": "120"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 36
+  },
+  {
+    "item_id": 2,
+    "text": "If y = 4 + (x - 3)^2, then y is least when x =",
+    "options": [
+      {
+        "label": "A",
+        "text": "14"
+      },
+      {
+        "label": "B",
+        "text": "13"
+      },
+      {
+        "label": "C",
+        "text": "0"
+      },
+      {
+        "label": "D",
+        "text": "3"
+      },
+      {
+        "label": "E",
+        "text": "4"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 15
+  },
+  {
+    "item_id": 3,
+    "text": "Products sold under a brand name used to command premium prices because, in general, they were superior to nonbrand rival products. Technical expertise in product development has become so widespread, however, that special quality advantages are very hard to obtain these days and even harder to maintain. As a consequence, brand-name products generally neither offer higher quality nor sell at higher prices. Paradoxically, brand names are a bigger marketing advantage than ever. Which of the following, if true, most helps to resolve the paradox outlined above?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Brand names are taken by consumers as a guarantee of getting a product as good as the best rival products."
+      },
+      {
+        "label": "B",
+        "text": "Consumers recognize that the quality of products sold under invariant brand names can drift over time."
+      },
+      {
+        "label": "C",
+        "text": "In many acquisitions of one corporation by another, the acquiring corporation is interested more in acquiring the right to use certain brand names than in acquiring existing production facilities."
+      },
+      {
+        "label": "D",
+        "text": "In the days when special quality advantages were easier to obtain than they are now, it was also easier to get new brand names established."
+      },
+      {
+        "label": "E",
+        "text": "The advertising of a company's brand-name products is at times transferred to a new advertising agency, especially when sales are declining."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 86
+  },
+  {
+    "item_id": 4,
+    "text": "The function f is defined by f(x) = 2^x - 3. If f(x) = 31, then the value of x is between",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 and 2"
+      },
+      {
+        "label": "B",
+        "text": "2 and 3"
+      },
+      {
+        "label": "C",
+        "text": "3 and 4"
+      },
+      {
+        "label": "D",
+        "text": "4 and 5"
+      },
+      {
+        "label": "E",
+        "text": "5 and 6"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 22
+  },
+  {
+    "item_id": 5,
+    "text": "A certain company currently has how many employees? (1) If 3 additional employees are hired by the company and all of the present employees remain, there will be at least 20 employees in the company. (2) If no additional employees are hired by the company and 3 of the present employees resign, there will be fewer than 15 employees in the company.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 62
+  },
+  {
+    "item_id": 6,
+    "text": "If x^2 = 2y^3 and 2y = 4, what is the value of x^2 + y?",
+    "options": [
+      {
+        "label": "A",
+        "text": "-14"
+      },
+      {
+        "label": "B",
+        "text": "-2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      },
+      {
+        "label": "E",
+        "text": "18"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 16
+  },
+  {
+    "item_id": 7,
+    "text": "Simon and Tara, who live in Neighborhood Z, wish to watch a movie together in a theater tonight. Simon only watches a movie in a theater if it is close to home and is one of three genres: P, Q, and R. Tara does not watch movies of genres R or T in theaters. All movies playing in town tonight are of genre P, Q, or T. Will Simon and Tara watch a movie together in a theater tonight? (1) All movies of genre P or Q playing in town tonight are in theaters far from Neighborhood Z. (2) All movies in theaters close to Neighborhood Z are of genre T.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 111
+  },
+  {
+    "item_id": 8,
+    "text": "1/(1 + 1/(2 + 1/3)) =",
+    "options": [
+      {
+        "label": "A",
+        "text": "3/10"
+      },
+      {
+        "label": "B",
+        "text": "7/10"
+      },
+      {
+        "label": "C",
+        "text": "6/7"
+      },
+      {
+        "label": "D",
+        "text": "10/7"
+      },
+      {
+        "label": "E",
+        "text": "10/3"
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 6
+  },
+  {
+    "item_id": 9,
+    "text": "Correctly measuring the productivity of service workers is complex. Consider, for example, postal workers: they are often said to be more productive if more letters are delivered per postal worker. But is this really true? What if more letters are lost or delayed per worker at the same time that more are delivered? The objection implied above to the productivity measure described is based on doubts about the truth of which of the following statements?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Postal workers are representative of service workers in general."
+      },
+      {
+        "label": "B",
+        "text": "The delivery of letters is the primary activity of the postal service."
+      },
+      {
+        "label": "C",
+        "text": "Productivity should be ascribed to categories of workers, not to individuals."
+      },
+      {
+        "label": "D",
+        "text": "The quality of services rendered can appropriately be ignored in computing productivity."
+      },
+      {
+        "label": "E",
+        "text": "The number of letters delivered is relevant to measuring the productivity of postal workers."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 75
+  },
+  {
+    "item_id": 10,
+    "text": "Each time Meg has visited a certain ice cream parlor with friends, she has bought chocolate ice cream, unless half or a majority of her accompanying friends all bought the same flavor of ice cream and that flavor was not chocolate, in which case Meg bought that flavor. Yesterday, Meg visited the parlor with four friends: Ann, Bart, Cathy, and Derek. Ann bought chocolate ice cream. Did Meg buy chocolate ice cream? (1) Bart bought either vanilla or chocolate ice cream, and Cathy bought neither vanilla nor chocolate ice cream. (2) Derek did not buy the same flavor as Bart.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 100
+  },
+  {
+    "item_id": 11,
+    "text": "Which of the following best completes the passage below? People buy prestige when they buy a premium product. They want to be associated with something special. Mass-marketing techniques and price reduction strategies should not be used because ____________.",
+    "options": [
+      {
+        "label": "A",
+        "text": "affluent purchasers currently represent a shrinking portion of the population of all purchasers"
+      },
+      {
+        "label": "B",
+        "text": "continued sales depend directly on the maintenance of an aura of exclusivity"
+      },
+      {
+        "label": "C",
+        "text": "purchasers of premium products are concerned with the quality as well as with the price of the products"
+      },
+      {
+        "label": "D",
+        "text": "expansion of the market niche to include a broader spectrum of consumers will increase profits"
+      },
+      {
+        "label": "E",
+        "text": "manufacturing a premium brand is not necessarily more costly than manufacturing a standard brand of the same product"
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 38
+  },
+  {
+    "item_id": 12,
+    "text": "A bookstore that sells used books sells each of its paperback books for a certain price and each of its hardcover books for a certain price. If Joe, Maria, and Paul bought books in this store, how much did Maria pay for 1 paperback book and 1 hardcover book? (1) Joe bought 2 paperback books and 3 hardcover books for $12.50. (2) Paul bought 4 paperback books and 6 hardcover books for $25.00.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 73
+  },
+  {
+    "item_id": 13,
+    "text": "If 1/2 of the money in a certain trust fund was invested in stocks, 1/4 in bonds, 1/5 in a mutual fund, and the remaining $10,000 in a government certificate, what was the total amount of the trust fund?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$100,000"
+      },
+      {
+        "label": "B",
+        "text": "$150,000"
+      },
+      {
+        "label": "C",
+        "text": "$200,000"
+      },
+      {
+        "label": "D",
+        "text": "$500,000"
+      },
+      {
+        "label": "E",
+        "text": "$2,000,000"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 39
+  },
+  {
+    "item_id": 14,
+    "text": "Reviewer: The book Art's Decline argues that European painters today lack skills that were common among European painters of preceding centuries. In this the book must be right, since its analysis of 100 paintings, 50 old and 50 contemporary, demonstrates convincingly that none of the contemporary paintings are executed as skillfully as the older paintings. Which of the following points to the most serious logical flaw in the reviewer's argument?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The paintings chosen by the book's author for analysis could be those that most support the book's thesis."
+      },
+      {
+        "label": "B",
+        "text": "There could be criteria other than the technical skill of the artist by which to evaluate a painting."
+      },
+      {
+        "label": "C",
+        "text": "The title of the book could cause readers to accept the book's thesis even before they read the analysis of the paintings that supports it."
+      },
+      {
+        "label": "D",
+        "text": "The particular methods currently used by European painters could require less artistic skill than do methods used by painters in other parts of the world."
+      },
+      {
+        "label": "E",
+        "text": "A reader who was not familiar with the language of art criticism might not be convinced by the book's analysis of the 100 paintings."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 70
+  },
+  {
+    "item_id": 15,
+    "text": "A stretch of highway, Segment X, has no traffic signals and comprises three speed zones: One with a speed limit of 55 miles per hour (mph) followed by a 75-mph zone and a second 55-mph zone. Leslie is at a certain point on Segment X, driving at a speed she will exactly maintain until after she has reached the end of Segment X and has entered the next highway segment. Is she driving faster than 55 mph? (1) Leslie's speed is at least 5 mph below the speed limit that currently applies to her. (2) Leslie will reach the end of Segment X without ever exceeding any speed limits.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 109
+  },
+  {
+    "item_id": 16,
+    "text": "If a is a positive integer, and if the units digit of a^2 is 9 and the units digit of (a+1)^2 is 4, what is the units digit of (a+2)^2?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "5"
+      },
+      {
+        "label": "D",
+        "text": "6"
+      },
+      {
+        "label": "E",
+        "text": "14"
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 30
+  },
+  {
+    "item_id": 17,
+    "text": "Increases in the level of high-density lipoprotein (HDL) in the human bloodstream lower bloodstream cholesterol levels by increasing the body's capacity to rid itself of excess cholesterol. Levels of HDL in the bloodstream of some individuals are significantly increased by a program of regular exercise and weight reduction. Which of the following can be correctly inferred from the statements above?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Individuals who are underweight do not run any risk of developing high levels of cholesterol in the bloodstream."
+      },
+      {
+        "label": "B",
+        "text": "Individuals who do not exercise regularly have a high risk of developing high levels of cholesterol in the bloodstream late in life."
+      },
+      {
+        "label": "C",
+        "text": "Exercise and weight reduction are the most effective methods of lowering bloodstream cholesterol levels in humans."
+      },
+      {
+        "label": "D",
+        "text": "A program of regular exercise and weight reduction lowers cholesterol levels in the bloodstream of some individuals."
+      },
+      {
+        "label": "E",
+        "text": "Only regular exercise is necessary to decrease cholesterol levels in the bloodstream of individuals of average weight."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 60
+  },
+  {
+    "item_id": 18,
+    "text": "A certain bakery has 6 employees. It pays annual salaries of $14,000 to each of 2 employees, $16,000 to 1 employee, and $17,000 to each of the remaining 3 employees. The average (arithmetic mean) annual salary of these employees is closest to which of the following?",
+    "options": [
+      {
+        "label": "A",
+        "text": "$15,200"
+      },
+      {
+        "label": "B",
+        "text": "$15,500"
+      },
+      {
+        "label": "C",
+        "text": "$15,800"
+      },
+      {
+        "label": "D",
+        "text": "$16,000"
+      },
+      {
+        "label": "E",
+        "text": "$16,400"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 46
+  },
+  {
+    "item_id": 19,
+    "text": "Company X has 50 employees and Company Y has 60 employees. Both companies have the same number of full-time employees, but Company Y has 3 more than twice the number of part-time employees that Company X has. How many part-time employees does Company Y have?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3"
+      },
+      {
+        "label": "B",
+        "text": "7"
+      },
+      {
+        "label": "C",
+        "text": "14"
+      },
+      {
+        "label": "D",
+        "text": "17"
+      },
+      {
+        "label": "E",
+        "text": "20"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 45
+  },
+  {
+    "item_id": 20,
+    "text": "A certain group of car dealerships agreed to donate x dollars to a Red Cross chapter for each car sold during a 30-day period. What was the total amount that was expected to be donated? (1) A total of 500 cars were expected to be sold. (2) 60 more cars were sold than expected, so that the total amount actually donated was $28,000.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 63
+  },
+  {
+    "item_id": 21,
+    "text": "Consumer advocate: It is generally true, at least in this state, that lawyers who advertise a specific service charge less for that service than lawyers who do not advertise. It is also true that each time restrictions on the advertising of legal services have been eliminated, the number of lawyers advertising their services has increased and legal costs to consumers have declined in consequence. However, eliminating the state requirement that legal advertisements must specify fees for specific services would almost certainly increase rather than further reduce consumers' legal costs. Lawyers would no longer have an incentive to lower their fees when they begin advertising and if no longer required to specify fee arrangements, many lawyers who now advertise would increase their fees. In the consumer advocate's argument, the two portions in boldface play which of the following roles?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The first is a generalization that the consumer advocate accepts as true; the second is presented as a consequence that follows from the truth of that generalization."
+      },
+      {
+        "label": "B",
+        "text": "The first is a pattern of cause and effect that the consumer advocate argues will be repeated in the case at issue; the second acknowledges a circumstance in which that pattern would not hold."
+      },
+      {
+        "label": "C",
+        "text": "The first is a pattern of cause and effect that the consumer advocate predicts will not hold in the case at issue; the second explains why it will not hold."
+      },
+      {
+        "label": "D",
+        "text": "The first is evidence that the consumer advocate offers in support of a certain prediction; the second is that prediction."
+      },
+      {
+        "label": "E",
+        "text": "The first acknowledges a consideration that weighs against the main position that the consumer advocate defends; the second is that position."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 138
+  },
+  {
+    "item_id": 22,
+    "text": "The Smiths take their children to a certain amusement park on exactly one Saturday every calendar month. Today is the 1st of July. Did the Smiths and their children make a trip to the amusement park on one of the past three days? (1) The Smiths made their June trip to the amusement park on one of the past seven days. (2) The 23rd of last month was a Sunday.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 70
+  },
+  {
+    "item_id": 23,
+    "text": "The technological conservatism of bicycle manufacturers is a reflection of the kinds of demand they are trying to meet. The only cyclists seriously interested in innovation and willing to pay for it are bicycle racers. Therefore, innovation in bicycle technology is limited by what authorities will accept as standard for purposes of competition in bicycle races. Which of the following is an assumption made in drawing the conclusion above?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The market for cheap, traditional bicycles cannot expand unless the market for high-performance competition bicycles expands."
+      },
+      {
+        "label": "B",
+        "text": "High-performance bicycles are likely to be improved more as a result of technological innovations developed in small workshops than as a result of technological innovations developed in major manufacturing concerns."
+      },
+      {
+        "label": "C",
+        "text": "Bicycle racers do not generate a strong demand for innovations that fall outside what is officially recognized as standard for purposes of competition."
+      },
+      {
+        "label": "D",
+        "text": "The technological conservatism of bicycle manufacturers results primarily from their desire to manufacture a product that can be sold without being altered to suit different national markets."
+      },
+      {
+        "label": "E",
+        "text": "The authorities who set standards for high-performance bicycle racing do not keep informed about innovative bicycle design."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 69
+  },
+  {
+    "item_id": 24,
+    "text": "Guitar strings often go \"dead\"\u2014become less responsive and bright in tone\u2014after a few weeks of intense use. A researcher whose son is a classical guitarist hypothesized that dirt and oil, rather than changes in the material properties of the string, were responsible. Which of the following investigations is most likely to yield significant information that would help evaluate the researcher's hypothesis?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Determining if a metal alloy is used to make the strings used by classical guitarists"
+      },
+      {
+        "label": "B",
+        "text": "Determining whether classical guitarists make their strings go dead faster than do folk guitarists"
+      },
+      {
+        "label": "C",
+        "text": "Determining whether identical lengths of string, of the same gauge, go dead at different rates when strung on various brands of guitars"
+      },
+      {
+        "label": "D",
+        "text": "Determining whether a dead string and a new string produce different qualities of sound"
+      },
+      {
+        "label": "E",
+        "text": "Determining whether smearing various substances on new guitar strings causes them to go dead"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 61
+  },
+  {
+    "item_id": 25,
+    "text": "The modern multinational corporation is described as having originated when the owner-managers of nineteenth-century British firms carrying on international trade were replaced by teams of salaried managers organized into hierarchies. Increases in the volume of transactions in such firms are commonly believed to have necessitated this structural change. Nineteenth-century inventions like the steamship and the telegraph, by facilitating coordination of managerial activities, are described as key factors. Sixteenth- and seventeenth-century chartered trading companies, despite the international scope of their activities, are usually considered irrelevant to this discussion: the volume of their transactions is assumed to have been too low and the communications and transport of their day too primitive to make comparisons with modern multinationals interesting. In reality, however, early trading companies successfully purchased and outfitted ships, built and operated offices and warehouses, manufactured trade goods for use abroad, maintained trading posts and production facilities overseas, procured goods for import, and sold those goods both at home and in other countries. The large volume of transactions associated with these activities seems to have necessitated hierarchical management structures well before the advent of modern communications and transportation. For example, in the Hudson's Bay Company, each far-flung trading outpost was managed by a salaried agent, who carried out the trade with the Native Americans, managed day-to-day operations, and oversaw the post's workers and servants. One chief agent, answerable to the Court of Directors in London through the correspondence committee, was appointed with control over all of the agents on the bay. The early trading companies did differ strikingly from modern multinationals in many respects. They depended heavily on the national governments of their home countries and thus characteristically acted abroad to promote national interests. Their top managers were typically owners with a substantial minority share, whereas senior managers' holdings in modern multinationals are usually insignificant. They operated in a preindustrial world, grafting a system of capitalist international trade onto a premodern system of artisan and peasant production. Despite these differences, however, early trading companies organized effectively in remarkably modern ways and merit further study as analogues of more modern structures. The author lists the various activities of early chartered trading companies in order to",
+    "options": [
+      {
+        "label": "A",
+        "text": "analyze the various ways in which these activities contributed to changes in management structure in such companies"
+      },
+      {
+        "label": "B",
+        "text": "demonstrate that the volume of business transactions of such companies exceeded that of earlier firms"
+      },
+      {
+        "label": "C",
+        "text": "refute the view that the volume of business undertaken by such companies was relatively low"
+      },
+      {
+        "label": "D",
+        "text": "emphasize the international scope of these companies' operations"
+      },
+      {
+        "label": "E",
+        "text": "support the argument that such firms coordinated such activities by using available means of communication and transport"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 362
+  },
+  {
+    "item_id": 26,
+    "text": "The modern multinational corporation is described as having originated when the owner-managers of nineteenth-century British firms carrying on international trade were replaced by teams of salaried managers organized into hierarchies. Increases in the volume of transactions in such firms are commonly believed to have necessitated this structural change. Nineteenth-century inventions like the steamship and the telegraph, by facilitating coordination of managerial activities, are described as key factors. Sixteenth- and seventeenth-century chartered trading companies, despite the international scope of their activities, are usually considered irrelevant to this discussion: the volume of their transactions is assumed to have been too low and the communications and transport of their day too primitive to make comparisons with modern multinationals interesting. In reality, however, early trading companies successfully purchased and outfitted ships, built and operated offices and warehouses, manufactured trade goods for use abroad, maintained trading posts and production facilities overseas, procured goods for import, and sold those goods both at home and in other countries. The large volume of transactions associated with these activities seems to have necessitated hierarchical management structures well before the advent of modern communications and transportation. For example, in the Hudson's Bay Company, each far-flung trading outpost was managed by a salaried agent, who carried out the trade with the Native Americans, managed day-to-day operations, and oversaw the post's workers and servants. One chief agent, answerable to the Court of Directors in London through the correspondence committee, was appointed with control over all of the agents on the bay. The early trading companies did differ strikingly from modern multinationals in many respects. They depended heavily on the national governments of their home countries and thus characteristically acted abroad to promote national interests. Their top managers were typically owners with a substantial minority share, whereas senior managers' holdings in modern multinationals are usually insignificant. They operated in a preindustrial world, grafting a system of capitalist international trade onto a premodern system of artisan and peasant production. Despite these differences, however, early trading companies organized effectively in remarkably modern ways and merit further study as analogues of more modern structures. The passage suggests that modern multinationals differ from early chartered trading companies in that",
+    "options": [
+      {
+        "label": "A",
+        "text": "the top managers of modern multinationals own stock in their own companies rather than simply receiving a salary"
+      },
+      {
+        "label": "B",
+        "text": "modern multinationals depend on a system of capitalist international trade rather than on less modern trading systems"
+      },
+      {
+        "label": "C",
+        "text": "modern multinationals have operations in a number of different foreign countries rather than merely in one or two"
+      },
+      {
+        "label": "D",
+        "text": "the operations of modern multinationals are highly profitable despite the more stringent environmental and safety regulations of modern governments"
+      },
+      {
+        "label": "E",
+        "text": "the overseas operations of modern multinationals are not governed by the national interests of their home countries"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 362
+  },
+  {
+    "item_id": 27,
+    "text": "The modern multinational corporation is described as having originated when the owner-managers of nineteenth-century British firms carrying on international trade were replaced by teams of salaried managers organized into hierarchies. Increases in the volume of transactions in such firms are commonly believed to have necessitated this structural change. Nineteenth-century inventions like the steamship and the telegraph, by facilitating coordination of managerial activities, are described as key factors. Sixteenth- and seventeenth-century chartered trading companies, despite the international scope of their activities, are usually considered irrelevant to this discussion: the volume of their transactions is assumed to have been too low and the communications and transport of their day too primitive to make comparisons with modern multinationals interesting. In reality, however, early trading companies successfully purchased and outfitted ships, built and operated offices and warehouses, manufactured trade goods for use abroad, maintained trading posts and production facilities overseas, procured goods for import, and sold those goods both at home and in other countries. The large volume of transactions associated with these activities seems to have necessitated hierarchical management structures well before the advent of modern communications and transportation. For example, in the Hudson's Bay Company, each far-flung trading outpost was managed by a salaried agent, who carried out the trade with the Native Americans, managed day-to-day operations, and oversaw the post's workers and servants. One chief agent, answerable to the Court of Directors in London through the correspondence committee, was appointed with control over all of the agents on the bay. The early trading companies did differ strikingly from modern multinationals in many respects. They depended heavily on the national governments of their home countries and thus characteristically acted abroad to promote national interests. Their top managers were typically owners with a substantial minority share, whereas senior managers' holdings in modern multinationals are usually insignificant. They operated in a preindustrial world, grafting a system of capitalist international trade onto a premodern system of artisan and peasant production. Despite these differences, however, early trading companies organized effectively in remarkably modern ways and merit further study as analogues of more modern structures. The author's main point is that",
+    "options": [
+      {
+        "label": "A",
+        "text": "modern multinationals originated in the sixteenth and seventeenth centuries with the establishment of chartered trading companies"
+      },
+      {
+        "label": "B",
+        "text": "the success of early chartered trading companies, like that of modern multinationals, depended primarily on their ability to carry out complex operations"
+      },
+      {
+        "label": "C",
+        "text": "early chartered trading companies should be more seriously considered by scholars studying the origins of modern multinationals"
+      },
+      {
+        "label": "D",
+        "text": "scholars are quite mistaken concerning the origins of modern multinationals"
+      },
+      {
+        "label": "E",
+        "text": "the management structures of early chartered trading companies are fundamentally the same as those of modern multinationals"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 354
+  },
+  {
+    "item_id": 28,
+    "text": "The modern multinational corporation is described as having originated when the owner-managers of nineteenth-century British firms carrying on international trade were replaced by teams of salaried managers organized into hierarchies. Increases in the volume of transactions in such firms are commonly believed to have necessitated this structural change. Nineteenth-century inventions like the steamship and the telegraph, by facilitating coordination of managerial activities, are described as key factors. Sixteenth- and seventeenth-century chartered trading companies, despite the international scope of their activities, are usually considered irrelevant to this discussion: the volume of their transactions is assumed to have been too low and the communications and transport of their day too primitive to make comparisons with modern multinationals interesting. In reality, however, early trading companies successfully purchased and outfitted ships, built and operated offices and warehouses, manufactured trade goods for use abroad, maintained trading posts and production facilities overseas, procured goods for import, and sold those goods both at home and in other countries. The large volume of transactions associated with these activities seems to have necessitated hierarchical management structures well before the advent of modern communications and transportation. For example, in the Hudson's Bay Company, each far-flung trading outpost was managed by a salaried agent, who carried out the trade with the Native Americans, managed day-to-day operations, and oversaw the post's workers and servants. One chief agent, answerable to the Court of Directors in London through the correspondence committee, was appointed with control over all of the agents on the bay. The early trading companies did differ strikingly from modern multinationals in many respects. They depended heavily on the national governments of their home countries and thus characteristically acted abroad to promote national interests. Their top managers were typically owners with a substantial minority share, whereas senior managers' holdings in modern multinationals are usually insignificant. They operated in a preindustrial world, grafting a system of capitalist international trade onto a premodern system of artisan and peasant production. Despite these differences, however, early trading companies organized effectively in remarkably modern ways and merit further study as analogues of more modern structures. It can be inferred from the passage that the author would characterize the activities engaged in by early chartered trading companies as being",
+    "options": [
+      {
+        "label": "A",
+        "text": "complex enough in scope to require a substantial amount of planning and coordination on the part of management"
+      },
+      {
+        "label": "B",
+        "text": "too simple to be considered similar to those of a modern multinational corporation"
+      },
+      {
+        "label": "C",
+        "text": "as intricate as those carried out by the largest multinational corporations today"
+      },
+      {
+        "label": "D",
+        "text": "often unprofitable due to slow communications and unreliable means of transportation"
+      },
+      {
+        "label": "E",
+        "text": "hampered by the political demands imposed on them by the governments of their home countries"
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 371
+  },
+  {
+    "item_id": 29,
+    "text": "The modern multinational corporation is described as having originated when the owner-managers of nineteenth-century British firms carrying on international trade were replaced by teams of salaried managers organized into hierarchies. Increases in the volume of transactions in such firms are commonly believed to have necessitated this structural change. Nineteenth-century inventions like the steamship and the telegraph, by facilitating coordination of managerial activities, are described as key factors. Sixteenth- and seventeenth-century chartered trading companies, despite the international scope of their activities, are usually considered irrelevant to this discussion: the volume of their transactions is assumed to have been too low and the communications and transport of their day too primitive to make comparisons with modern multinationals interesting. In reality, however, early trading companies successfully purchased and outfitted ships, built and operated offices and warehouses, manufactured trade goods for use abroad, maintained trading posts and production facilities overseas, procured goods for import, and sold those goods both at home and in other countries. The large volume of transactions associated with these activities seems to have necessitated hierarchical management structures well before the advent of modern communications and transportation. For example, in the Hudson's Bay Company, each far-flung trading outpost was managed by a salaried agent, who carried out the trade with the Native Americans, managed day-to-day operations, and oversaw the post's workers and servants. One chief agent, answerable to the Court of Directors in London through the correspondence committee, was appointed with control over all of the agents on the bay. The early trading companies did differ strikingly from modern multinationals in many respects. They depended heavily on the national governments of their home countries and thus characteristically acted abroad to promote national interests. Their top managers were typically owners with a substantial minority share, whereas senior managers' holdings in modern multinationals are usually insignificant. They operated in a preindustrial world, grafting a system of capitalist international trade onto a premodern system of artisan and peasant production. Despite these differences, however, early trading companies organized effectively in remarkably modern ways and merit further study as analogues of more modern structures. With which of the following generalizations regarding management structures would the author of the passage most probably agree?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hierarchical management structures are the most efficient management structures possible in a modern context."
+      },
+      {
+        "label": "B",
+        "text": "Firms that routinely have a high volume of business transactions find it necessary to adopt hierarchical management structures."
+      },
+      {
+        "label": "C",
+        "text": "Hierarchical management structures cannot be successfully implemented without modern communications and transportation."
+      },
+      {
+        "label": "D",
+        "text": "Modern multinational firms with a relatively small volume of business transactions usually do not have hierarchically organized management structures."
+      },
+      {
+        "label": "E",
+        "text": "Companies that adopt hierarchical management structures usually do so in order to facilitate expansion into foreign trade."
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 366
+  },
+  {
+    "item_id": 30,
+    "text": "If 2s > 8 and 3t < 9, which of the following could be the value of s - t? I. -1 II. 0 III. 1",
+    "options": [
+      {
+        "label": "A",
+        "text": "None"
+      },
+      {
+        "label": "B",
+        "text": "I only"
+      },
+      {
+        "label": "C",
+        "text": "II only"
+      },
+      {
+        "label": "D",
+        "text": "III only"
+      },
+      {
+        "label": "E",
+        "text": "II and III"
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 26
+  },
+  {
+    "item_id": 31,
+    "text": "A box contains 100 balls, numbered from 1 to 100. If three balls are selected at random and with replacement from the box, what is the probability that the sum of the three numbers on the balls selected from the box will be odd?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1/4"
+      },
+      {
+        "label": "B",
+        "text": "3/8"
+      },
+      {
+        "label": "C",
+        "text": "1/2"
+      },
+      {
+        "label": "D",
+        "text": "5/8"
+      },
+      {
+        "label": "E",
+        "text": "3/4"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 44
+  },
+  {
+    "item_id": 32,
+    "text": "A rabbit on a controlled diet is fed daily 300 grams of a mixture of two foods, food X and food Y. Food X contains 10 percent protein and food Y contains 15 percent protein. If the rabbit's diet provides exactly 38 grams of protein daily, how many grams of food X are in the mixture?",
+    "options": [
+      {
+        "label": "A",
+        "text": "100"
+      },
+      {
+        "label": "B",
+        "text": "140"
+      },
+      {
+        "label": "C",
+        "text": "150"
+      },
+      {
+        "label": "D",
+        "text": "160"
+      },
+      {
+        "label": "E",
+        "text": "200"
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 56
+  },
+  {
+    "item_id": 33,
+    "text": "Manufacturers of mechanical pencils make most of their profit on pencil leads rather than on the pencils themselves. The Write Company, which cannot sell its leads as cheaply as other manufacturers can, plans to alter the design of its mechanical pencil so that it will accept only a newly designed Write Company lead, which will be sold at the same price as the Write Company's current lead. Which of the following, if true, most strongly supports the Write Company's projection that its plan will lead to an increase in its sales of pencil leads?",
+    "options": [
+      {
+        "label": "A",
+        "text": "First-time buyers of mechanical pencils tend to buy the least expensive mechanical pencils available."
+      },
+      {
+        "label": "B",
+        "text": "Annual sales of mechanical pencils are expected to triple over the next five years."
+      },
+      {
+        "label": "C",
+        "text": "A Write Company executive is studying ways to reduce the cost of manufacturing pencil leads."
+      },
+      {
+        "label": "D",
+        "text": "A rival manufacturer recently announced similar plans to introduce a mechanical pencil that would accept only the leads produced by that manufacturer."
+      },
+      {
+        "label": "E",
+        "text": "In extensive test marketing, mechanical-pencil users found the new Write Company pencil markedly superior to other mechanical pencils they had used."
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 94
+  },
+  {
+    "item_id": 34,
+    "text": "The table lists five countries and their total 2021 spending, in billions of USD, on imports of finished electronic goods\u2014a category that includes cell phones. Country, Spending in 2021 (billions of USD): P, 90; Q, 120; R, 50; S, 40; T, 100 Which of these countries spent the most, in 2021, on cell phone imports? (1) For each of the two countries with the highest spending on imports of finished electronic goods, spending on cell phone imports was more than 10% of that country's total spending on imports of finished electronic goods. (2) For each of the three countries with the lowest spending on imports of finished electronic goods, spending on cell phone imports was less than 5% of that country's total spending on imports of finished electronic goods.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient"
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 129
+  },
+  {
+    "item_id": 35,
+    "text": "If x/y = 2/3, then (x - y)/x =",
+    "options": [
+      {
+        "label": "A",
+        "text": "-1/2"
+      },
+      {
+        "label": "B",
+        "text": "-1/3"
+      },
+      {
+        "label": "C",
+        "text": "1/3"
+      },
+      {
+        "label": "D",
+        "text": "1/2"
+      },
+      {
+        "label": "E",
+        "text": "5/2"
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 9
+  },
+  {
+    "item_id": 36,
+    "text": "Roland: The alarming fact is that 90 percent of the people in this country now report that they know someone who is unemployed. Sharon: But a normal, moderate level of unemployment is 5 percent, with 1 out of 20 workers unemployed. So at any given time if a person knows approximately 50 workers, 1 or more will very likely be unemployed. Sharon's argument is structured to lead to which of the following as a conclusion?",
+    "options": [
+      {
+        "label": "A",
+        "text": "The fact that 90% of the people know someone who is unemployed is not an indication that unemployment is abnormally high."
+      },
+      {
+        "label": "B",
+        "text": "The current level of unemployment is not moderate."
+      },
+      {
+        "label": "C",
+        "text": "If at least 5% of workers are unemployed, the result of questioning a representative group of people cannot be the percentage Roland cites."
+      },
+      {
+        "label": "D",
+        "text": "It is unlikely that the people whose statements Roland cites are giving accurate reports."
+      },
+      {
+        "label": "E",
+        "text": "If an unemployment figure is given as a certain percent, the actual percentage of those without jobs is even higher."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 75
+  },
+  {
+    "item_id": 37,
+    "text": "According to the Tristate Transportation Authority, making certain improvements to the main commuter rail line would increase ridership dramatically. The authority plans to finance these improvements over the course of five years by raising automobile tolls on the two highway bridges along the route the rail line serves. Although the proposed improvements are indeed needed, the authority's plan for securing the necessary funds should be rejected because it would unfairly force drivers to absorb the entire cost of something from which they receive no benefit. Which of the following, if true, would cast the most doubt on the effectiveness of the authority's plan to finance the proposed improvements by increasing bridge tolls?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Before the authority increases tolls on any of the area bridges, it is required by law to hold public hearings at which objections to the proposed increase can be raised."
+      },
+      {
+        "label": "B",
+        "text": "Whenever bridge tolls are increased, the authority must pay a private contractor to adjust the automated toll-collecting machines."
+      },
+      {
+        "label": "C",
+        "text": "Between the time a proposed toll increase is announced and the time the increase is actually put into effect, many commuters buy more tokens than usual to postpone the effects of the increase."
+      },
+      {
+        "label": "D",
+        "text": "When tolls were last increased on the two bridges in question, almost 20 percent of the regular commuter traffic switched to a slightly longer alternative route that has since been improved."
+      },
+      {
+        "label": "E",
+        "text": "The chairman of the authority is a member of the Tristate Automobile Club that has registered strong opposition to the proposed toll increase."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 112
+  },
+  {
+    "item_id": 38,
+    "text": "To prevent some conflicts of interest, Congress could prohibit high-level government officials from accepting positions as lobbyists for three years after such officials leave government service. One such official concluded, however, that such a prohibition would be unfortunate because it would prevent high-level government officials from earning a livelihood for three years. The official's conclusion logically depends on which of the following assumptions?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Laws should not restrict the behavior of former government officials."
+      },
+      {
+        "label": "B",
+        "text": "Lobbyists are typically people who have previously been high-level government officials."
+      },
+      {
+        "label": "C",
+        "text": "Low-level government officials do not often become lobbyists when they leave government service."
+      },
+      {
+        "label": "D",
+        "text": "High-level government officials who leave government service are capable of earning a livelihood only as lobbyists."
+      },
+      {
+        "label": "E",
+        "text": "High-level government officials who leave government service are currently permitted to act as lobbyists for only three years."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 63
+  },
+  {
+    "item_id": 39,
+    "text": "A meteor stream is composed of dust particles that have been ejected from a parent comet at a variety of velocities, but due to their differing velocities they slowly gain on or fall behind the disintegrating comet until a shroud of dust surrounds the same orbit as the parent comet. Astronomers have hypothesized that a meteor stream should broaden with time as the dust particles' individual orbits are perturbed by planetary gravitational fields. A recent computer-modeling experiment tested this hypothesis by tracking the influence of planetary gravitation over a projected 5,000-year period on the positions of a group of hypothetical dust particles. In the model, the particles were randomly distributed throughout a computer simulation of the orbit of an actual meteor stream, the Geminid. The researcher found, as expected, that the computer-model stream broadened with time. Conventional theories, however, predicted that the distribution of particles would be increasingly dense toward the center of a meteor stream. Surprisingly, the computer-model meteor stream gradually came to resemble a thick-walled, hollow pipe. Whenever the Earth passes through a meteor stream, a meteor shower occurs. Moving at a little over 1,500,000 miles per day around its orbit, the Earth would take, on average, just over a day to cross the hollow, computer-model Geminid stream if the stream were 5,000 years old. Two brief periods of peak meteor activity during the shower would be observed, one as the Earth entered the thick-walled \"pipe\" and one as it exited. There is no reason why the Earth should always pass through the stream's exact center, so the time interval between the two bursts of activity would vary from one year to the next. Has the predicted twin-peaked activity been observed for the actual yearly Geminid meteor shower? The Geminid data between 1970 and 1979 show just such a bifurcation, a secondary burst of meteor activity being clearly visible at an average of 19 hours (1,200,000 miles) after the first burst. The time intervals between the bursts suggest the actual Geminid stream is about 3,000 years old. The author states that the research described in the first paragraph was undertaken in order to",
+    "options": [
+      {
+        "label": "A",
+        "text": "determine the age of an actual meteor stream"
+      },
+      {
+        "label": "B",
+        "text": "identify the various structural features of meteor streams"
+      },
+      {
+        "label": "C",
+        "text": "explore the nature of a particularly interesting meteor stream"
+      },
+      {
+        "label": "D",
+        "text": "test the hypothesis that meteor streams become broader as they age"
+      },
+      {
+        "label": "E",
+        "text": "show that a computer model could help in explaining actual astronomical data"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 355
+  },
+  {
+    "item_id": 40,
+    "text": "A meteor stream is composed of dust particles that have been ejected from a parent comet at a variety of velocities, but due to their differing velocities they slowly gain on or fall behind the disintegrating comet until a shroud of dust surrounds the same orbit as the parent comet. Astronomers have hypothesized that a meteor stream should broaden with time as the dust particles' individual orbits are perturbed by planetary gravitational fields. A recent computer-modeling experiment tested this hypothesis by tracking the influence of planetary gravitation over a projected 5,000-year period on the positions of a group of hypothetical dust particles. In the model, the particles were randomly distributed throughout a computer simulation of the orbit of an actual meteor stream, the Geminid. The researcher found, as expected, that the computer-model stream broadened with time. Conventional theories, however, predicted that the distribution of particles would be increasingly dense toward the center of a meteor stream. Surprisingly, the computer-model meteor stream gradually came to resemble a thick-walled, hollow pipe. Whenever the Earth passes through a meteor stream, a meteor shower occurs. Moving at a little over 1,500,000 miles per day around its orbit, the Earth would take, on average, just over a day to cross the hollow, computer-model Geminid stream if the stream were 5,000 years old. Two brief periods of peak meteor activity during the shower would be observed, one as the Earth entered the thick-walled \"pipe\" and one as it exited. There is no reason why the Earth should always pass through the stream's exact center, so the time interval between the two bursts of activity would vary from one year to the next. Has the predicted twin-peaked activity been observed for the actual yearly Geminid meteor shower? The Geminid data between 1970 and 1979 show just such a bifurcation, a secondary burst of meteor activity being clearly visible at an average of 19 hours (1,200,000 miles) after the first burst. The time intervals between the bursts suggest the actual Geminid stream is about 3,000 years old. According to the passage, why do the dust particles in a meteor stream eventually surround a comet's original orbit?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are ejected by the comet at differing velocities."
+      },
+      {
+        "label": "B",
+        "text": "Their orbits are uncontrolled by planetary gravitational fields."
+      },
+      {
+        "label": "C",
+        "text": "They become part of the meteor stream at different times."
+      },
+      {
+        "label": "D",
+        "text": "Their velocity slows over time."
+      },
+      {
+        "label": "E",
+        "text": "Their ejection velocity is slower than that of the comet."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 358
+  },
+  {
+    "item_id": 41,
+    "text": "A meteor stream is composed of dust particles that have been ejected from a parent comet at a variety of velocities, but due to their differing velocities they slowly gain on or fall behind the disintegrating comet until a shroud of dust surrounds the same orbit as the parent comet. Astronomers have hypothesized that a meteor stream should broaden with time as the dust particles' individual orbits are perturbed by planetary gravitational fields. A recent computer-modeling experiment tested this hypothesis by tracking the influence of planetary gravitation over a projected 5,000-year period on the positions of a group of hypothetical dust particles. In the model, the particles were randomly distributed throughout a computer simulation of the orbit of an actual meteor stream, the Geminid. The researcher found, as expected, that the computer-model stream broadened with time. Conventional theories, however, predicted that the distribution of particles would be increasingly dense toward the center of a meteor stream. Surprisingly, the computer-model meteor stream gradually came to resemble a thick-walled, hollow pipe. Whenever the Earth passes through a meteor stream, a meteor shower occurs. Moving at a little over 1,500,000 miles per day around its orbit, the Earth would take, on average, just over a day to cross the hollow, computer-model Geminid stream if the stream were 5,000 years old. Two brief periods of peak meteor activity during the shower would be observed, one as the Earth entered the thick-walled \"pipe\" and one as it exited. There is no reason why the Earth should always pass through the stream's exact center, so the time interval between the two bursts of activity would vary from one year to the next. Has the predicted twin-peaked activity been observed for the actual yearly Geminid meteor shower? The Geminid data between 1970 and 1979 show just such a bifurcation, a secondary burst of meteor activity being clearly visible at an average of 19 hours (1,200,000 miles) after the first burst. The time intervals between the bursts suggest the actual Geminid stream is about 3,000 years old. According to the passage, why do the dust particles in a meteor stream eventually surround a comet's original orbit?",
+    "options": [
+      {
+        "label": "A",
+        "text": "They are ejected by the comet at differing velocities."
+      },
+      {
+        "label": "B",
+        "text": "Their orbits are uncontrolled by planetary gravitational fields."
+      },
+      {
+        "label": "C",
+        "text": "They become part of the meteor stream at different times."
+      },
+      {
+        "label": "D",
+        "text": "Their velocity slows over time."
+      },
+      {
+        "label": "E",
+        "text": "Their ejection velocity is slower than that of the comet."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 358
+  },
+  {
+    "item_id": 42,
+    "text": "A meteor stream is composed of dust particles that have been ejected from a parent comet at a variety of velocities, but due to their differing velocities they slowly gain on or fall behind the disintegrating comet until a shroud of dust surrounds the same orbit as the parent comet. Astronomers have hypothesized that a meteor stream should broaden with time as the dust particles' individual orbits are perturbed by planetary gravitational fields. A recent computer-modeling experiment tested this hypothesis by tracking the influence of planetary gravitation over a projected 5,000-year period on the positions of a group of hypothetical dust particles. In the model, the particles were randomly distributed throughout a computer simulation of the orbit of an actual meteor stream, the Geminid. The researcher found, as expected, that the computer-model stream broadened with time. Conventional theories, however, predicted that the distribution of particles would be increasingly dense toward the center of a meteor stream. Surprisingly, the computer-model meteor stream gradually came to resemble a thick-walled, hollow pipe. Whenever the Earth passes through a meteor stream, a meteor shower occurs. Moving at a little over 1,500,000 miles per day around its orbit, the Earth would take, on average, just over a day to cross the hollow, computer-model Geminid stream if the stream were 5,000 years old. Two brief periods of peak meteor activity during the shower would be observed, one as the Earth entered the thick-walled \"pipe\" and one as it exited. There is no reason why the Earth should always pass through the stream's exact center, so the time interval between the two bursts of activity would vary from one year to the next. Has the predicted twin-peaked activity been observed for the actual yearly Geminid meteor shower? The Geminid data between 1970 and 1979 show just such a bifurcation, a secondary burst of meteor activity being clearly visible at an average of 19 hours (1,200,000 miles) after the first burst. The time intervals between the bursts suggest the actual Geminid stream is about 3,000 years old. The passage suggests that which of the following is a prediction concerning meteor streams that can be derived from both the conventional theories mentioned in the highlighted text and the new computer derived theory?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dust particles in a meteor stream will usually be distributed evenly throughout any cross section of the stream."
+      },
+      {
+        "label": "B",
+        "text": "The orbits of most meteor streams should cross the orbit of the Earth at some point and give rise to a meteor shower."
+      },
+      {
+        "label": "C",
+        "text": "Over time the distribution of dust in a meteor stream will usually become denser at the outside edges of the stream than at the center."
+      },
+      {
+        "label": "D",
+        "text": "Meteor showers caused by older meteor streams should be, on average, longer in duration than those caused by very young meteor streams."
+      },
+      {
+        "label": "E",
+        "text": "The individual dust particles in older meteor streams should be, on average, smaller than those that compose younger meteor streams."
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 373
+  },
+  {
+    "item_id": 43,
+    "text": "A meteor stream is composed of dust particles that have been ejected from a parent comet at a variety of velocities, but due to their differing velocities they slowly gain on or fall behind the disintegrating comet until a shroud of dust surrounds the same orbit as the parent comet. Astronomers have hypothesized that a meteor stream should broaden with time as the dust particles' individual orbits are perturbed by planetary gravitational fields. A recent computer-modeling experiment tested this hypothesis by tracking the influence of planetary gravitation over a projected 5,000-year period on the positions of a group of hypothetical dust particles. In the model, the particles were randomly distributed throughout a computer simulation of the orbit of an actual meteor stream, the Geminid. The researcher found, as expected, that the computer-model stream broadened with time. Conventional theories, however, predicted that the distribution of particles would be increasingly dense toward the center of a meteor stream. Surprisingly, the computer-model meteor stream gradually came to resemble a thick-walled, hollow pipe. Whenever the Earth passes through a meteor stream, a meteor shower occurs. Moving at a little over 1,500,000 miles per day around its orbit, the Earth would take, on average, just over a day to cross the hollow, computer-model Geminid stream if the stream were 5,000 years old. Two brief periods of peak meteor activity during the shower would be observed, one as the Earth entered the thick-walled \"pipe\" and one as it exited. There is no reason why the Earth should always pass through the stream's exact center, so the time interval between the two bursts of activity would vary from one year to the next. Has the predicted twin-peaked activity been observed for the actual yearly Geminid meteor shower? The Geminid data between 1970 and 1979 show just such a bifurcation, a secondary burst of meteor activity being clearly visible at an average of 19 hours (1,200,000 miles) after the first burst. The time intervals between the bursts suggest the actual Geminid stream is about 3,000 years old. Which of the following is an assumption underlying the last sentence of the passage?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In each of the years between 1970 and 1979, the Earth took exactly 19 hours to cross the Geminid meteor stream."
+      },
+      {
+        "label": "B",
+        "text": "The comet associated with the Geminid meteor stream has totally disintegrated."
+      },
+      {
+        "label": "C",
+        "text": "The Geminid meteor stream should continue to exist for at least 5,000 years."
+      },
+      {
+        "label": "D",
+        "text": "The Geminid meteor stream has not broadened as rapidly as the conventional theories would have predicted."
+      },
+      {
+        "label": "E",
+        "text": "The computer-model Geminid meteor stream provides an accurate representation of the development of the actual Geminid stream."
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 353
+  },
+  {
+    "item_id": 44,
+    "text": "Two recent publications offer different assessments of the career of the famous British nurse Florence Nightingale. A book by Anne Summers seeks to debunk the idealizations and present a reality at odds with Nightingale's heroic reputation. According to Summers, Nightingale's importance during the Crimean War has been exaggerated: not until near the war's end did she become supervisor of the female nurses. Additionally, Summers writes that the contribution of the nurses to the relief of the wounded was at best marginal. The prevailing problems of military medicine were caused by army organizational practices, and the addition of a few nurses to the medical staff could be no more than symbolic. Nightingale's place in the national pantheon, Summers asserts, is largely due to the propagandistic efforts of contemporary newspaper reporters. By contrast, the editors of a new volume of Nightingale's letters view Nightingale as a person who significantly influenced not only her own age but also subsequent generations. They highlight her ongoing efforts to reform sanitary conditions after the war. For example, when she learned that peacetime living conditions in British barracks were so horrible that the death rate of enlisted men far exceeded that of neighboring civilian populations, she succeeded in persuading the government to establish a Royal Commission on the Health of the Army. She used sums raised through public contributions to found a nurses' training hospital in London. Even in administrative matters, the editors assert, her practical intelligence was formidable: as recently as 1947 the British Army's medical services were still using the cost-accounting system she had devised in the 1860's. I believe that the evidence of her letters supports continued respect for Nightingale's brilliance and creativity. When counseling a village schoolmaster to encourage children to use their faculties of observation, she sounds like a modern educator. Her insistence on classifying the problems of the needy in order to devise appropriate treatments is similar to the approach of modern social workers. In sum, although Nightingale may not have achieved all of her goals during the Crimean War, her breadth of vision and ability to realize ambitious projects have earned her an eminent place among the ranks of social pioneers. In the last paragraph, the author is primarily concerned with",
+    "options": [
+      {
+        "label": "A",
+        "text": "summarizing the arguments about Nightingale presented in the first two paragraphs"
+      },
+      {
+        "label": "B",
+        "text": "refuting the view of Nightingale's career presented in the preceding paragraph"
+      },
+      {
+        "label": "C",
+        "text": "analyzing the weaknesses of the evidence presented elsewhere in the passage"
+      },
+      {
+        "label": "D",
+        "text": "citing evidence to support a view of Nightingale's career"
+      },
+      {
+        "label": "E",
+        "text": "correcting a factual error occurring in one of the works under review"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 371
+  },
+  {
+    "item_id": 45,
+    "text": "Two recent publications offer different assessments of the career of the famous British nurse Florence Nightingale. A book by Anne Summers seeks to debunk the idealizations and present a reality at odds with Nightingale's heroic reputation. According to Summers, Nightingale's importance during the Crimean War has been exaggerated: not until near the war's end did she become supervisor of the female nurses. Additionally, Summers writes that the contribution of the nurses to the relief of the wounded was at best marginal. The prevailing problems of military medicine were caused by army organizational practices, and the addition of a few nurses to the medical staff could be no more than symbolic. Nightingale's place in the national pantheon, Summers asserts, is largely due to the propagandistic efforts of contemporary newspaper reporters. By contrast, the editors of a new volume of Nightingale's letters view Nightingale as a person who significantly influenced not only her own age but also subsequent generations. They highlight her ongoing efforts to reform sanitary conditions after the war. For example, when she learned that peacetime living conditions in British barracks were so horrible that the death rate of enlisted men far exceeded that of neighboring civilian populations, she succeeded in persuading the government to establish a Royal Commission on the Health of the Army. She used sums raised through public contributions to found a nurses' training hospital in London. Even in administrative matters, the editors assert, her practical intelligence was formidable: as recently as 1947 the British Army's medical services were still using the cost-accounting system she had devised in the 1860's. I believe that the evidence of her letters supports continued respect for Nightingale's brilliance and creativity. When counseling a village schoolmaster to encourage children to use their faculties of observation, she sounds like a modern educator. Her insistence on classifying the problems of the needy in order to devise appropriate treatments is similar to the approach of modern social workers. In sum, although Nightingale may not have achieved all of her goals during the Crimean War, her breadth of vision and ability to realize ambitious projects have earned her an eminent place among the ranks of social pioneers. The passage is primarily concerned with evaluating",
+    "options": [
+      {
+        "label": "A",
+        "text": "the importance of Florence Nightingale's innovations in the field of nursing"
+      },
+      {
+        "label": "B",
+        "text": "contrasting approaches to the writing of historical biography"
+      },
+      {
+        "label": "C",
+        "text": "contradictory accounts of Florence Nightingale's historical significance"
+      },
+      {
+        "label": "D",
+        "text": "the quality of health care in nineteenth century England"
+      },
+      {
+        "label": "E",
+        "text": "the effect of the Crimean War on developments in the field of health care"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 368
+  },
+  {
+    "item_id": 46,
+    "text": "Two recent publications offer different assessments of the career of the famous British nurse Florence Nightingale. A book by Anne Summers seeks to debunk the idealizations and present a reality at odds with Nightingale's heroic reputation. According to Summers, Nightingale's importance during the Crimean War has been exaggerated: not until near the war's end did she become supervisor of the female nurses. Additionally, Summers writes that the contribution of the nurses to the relief of the wounded was at best marginal. The prevailing problems of military medicine were caused by army organizational practices, and the addition of a few nurses to the medical staff could be no more than symbolic. Nightingale's place in the national pantheon, Summers asserts, is largely due to the propagandistic efforts of contemporary newspaper reporters. By contrast, the editors of a new volume of Nightingale's letters view Nightingale as a person who significantly influenced not only her own age but also subsequent generations. They highlight her ongoing efforts to reform sanitary conditions after the war. For example, when she learned that peacetime living conditions in British barracks were so horrible that the death rate of enlisted men far exceeded that of neighboring civilian populations, she succeeded in persuading the government to establish a Royal Commission on the Health of the Army. She used sums raised through public contributions to found a nurses' training hospital in London. Even in administrative matters, the editors assert, her practical intelligence was formidable: as recently as 1947 the British Army's medical services were still using the cost-accounting system she had devised in the 1860's. I believe that the evidence of her letters supports continued respect for Nightingale's brilliance and creativity. When counseling a village schoolmaster to encourage children to use their faculties of observation, she sounds like a modern educator. Her insistence on classifying the problems of the needy in order to devise appropriate treatments is similar to the approach of modern social workers. In sum, although Nightingale may not have achieved all of her goals during the Crimean War, her breadth of vision and ability to realize ambitious projects have earned her an eminent place among the ranks of social pioneers. According to the passage, the editors of Nightingale's letters credit her with contributing to which of the following?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Improvement of the survival rate for soldiers in British Army hospitals during the Crimean War"
+      },
+      {
+        "label": "B",
+        "text": "The development of a nurses' training curriculum that was far in advance of its day"
+      },
+      {
+        "label": "C",
+        "text": "The increase in the number of women doctors practicing in British Army hospitals"
+      },
+      {
+        "label": "D",
+        "text": "Establishment of the first facility for training nurses at a major British university"
+      },
+      {
+        "label": "E",
+        "text": "The creation of an organization for monitoring the peacetime living conditions of British soldiers"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 379
+  },
+  {
+    "item_id": 47,
+    "text": "Two recent publications offer different assessments of the career of the famous British nurse Florence Nightingale. A book by Anne Summers seeks to debunk the idealizations and present a reality at odds with Nightingale's heroic reputation. According to Summers, Nightingale's importance during the Crimean War has been exaggerated: not until near the war's end did she become supervisor of the female nurses. Additionally, Summers writes that the contribution of the nurses to the relief of the wounded was at best marginal. The prevailing problems of military medicine were caused by army organizational practices, and the addition of a few nurses to the medical staff could be no more than symbolic. Nightingale's place in the national pantheon, Summers asserts, is largely due to the propagandistic efforts of contemporary newspaper reporters. By contrast, the editors of a new volume of Nightingale's letters view Nightingale as a person who significantly influenced not only her own age but also subsequent generations. They highlight her ongoing efforts to reform sanitary conditions after the war. For example, when she learned that peacetime living conditions in British barracks were so horrible that the death rate of enlisted men far exceeded that of neighboring civilian populations, she succeeded in persuading the government to establish a Royal Commission on the Health of the Army. She used sums raised through public contributions to found a nurses' training hospital in London. Even in administrative matters, the editors assert, her practical intelligence was formidable: as recently as 1947 the British Army's medical services were still using the cost-accounting system she had devised in the 1860's. I believe that the evidence of her letters supports continued respect for Nightingale's brilliance and creativity. When counseling a village schoolmaster to encourage children to use their faculties of observation, she sounds like a modern educator. Her insistence on classifying the problems of the needy in order to devise appropriate treatments is similar to the approach of modern social workers. In sum, although Nightingale may not have achieved all of her goals during the Crimean War, her breadth of vision and ability to realize ambitious projects have earned her an eminent place among the ranks of social pioneers. The passage suggests which of the following about Nightingale's relationship with the British public of her day?",
+    "options": [
+      {
+        "label": "A",
+        "text": "She was highly respected, her projects receiving popular and governmental support."
+      },
+      {
+        "label": "B",
+        "text": "She encountered resistance both from the army establishment and the general public."
+      },
+      {
+        "label": "C",
+        "text": "She was supported by the working classes and opposed by the wealthier classes."
+      },
+      {
+        "label": "D",
+        "text": "She was supported by the military establishment but had to fight the governmental bureaucracy."
+      },
+      {
+        "label": "E",
+        "text": "After initially being received with enthusiasm, she was quickly forgotten."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 378
+  },
+  {
+    "item_id": 48,
+    "text": "Two recent publications offer different assessments of the career of the famous British nurse Florence Nightingale. A book by Anne Summers seeks to debunk the idealizations and present a reality at odds with Nightingale's heroic reputation. According to Summers, Nightingale's importance during the Crimean War has been exaggerated: not until near the war's end did she become supervisor of the female nurses. Additionally, Summers writes that the contribution of the nurses to the relief of the wounded was at best marginal. The prevailing problems of military medicine were caused by army organizational practices, and the addition of a few nurses to the medical staff could be no more than symbolic. Nightingale's place in the national pantheon, Summers asserts, is largely due to the propagandistic efforts of contemporary newspaper reporters. By contrast, the editors of a new volume of Nightingale's letters view Nightingale as a person who significantly influenced not only her own age but also subsequent generations. They highlight her ongoing efforts to reform sanitary conditions after the war. For example, when she learned that peacetime living conditions in British barracks were so horrible that the death rate of enlisted men far exceeded that of neighboring civilian populations, she succeeded in persuading the government to establish a Royal Commission on the Health of the Army. She used sums raised through public contributions to found a nurses' training hospital in London. Even in administrative matters, the editors assert, her practical intelligence was formidable: as recently as 1947 the British Army's medical services were still using the cost-accounting system she had devised in the 1860's. I believe that the evidence of her letters supports continued respect for Nightingale's brilliance and creativity. When counseling a village schoolmaster to encourage children to use their faculties of observation, she sounds like a modern educator. Her insistence on classifying the problems of the needy in order to devise appropriate treatments is similar to the approach of modern social workers. In sum, although Nightingale may not have achieved all of her goals during the Crimean War, her breadth of vision and ability to realize ambitious projects have earned her an eminent place among the ranks of social pioneers. With which of the following statements regarding the differing interpretations of Nightingale's importance would the author most likely agree?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Summers misunderstood both the importance of Nightingale's achievements during the Crimean War and her subsequent influence on British policy."
+      },
+      {
+        "label": "B",
+        "text": "The editors of Nightingale's letters made some valid points about her practical achievements, but they still exaggerated her influence on subsequent generations."
+      },
+      {
+        "label": "C",
+        "text": "Although Summers' account of Nightingale's role in the Crimean War may be accurate, she ignored evidence of Nightingale's subsequent achievement that suggests that her reputation as an eminent social reformer is well deserved."
+      },
+      {
+        "label": "D",
+        "text": "The editors of Nightingale's letters mistakenly propagated the outdated idealization of Nightingale that only impedes attempts to arrive at a balanced assessment of her true role."
+      },
+      {
+        "label": "E",
+        "text": "The evidence of Nightingale's letters supports Summers' conclusions both about Nightingale's activities and about her influence."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 380
+  },
+  {
+    "item_id": 49,
+    "text": "The table above shows the results of a recent school board election in which the candidate with the higher total number of votes from the five districts was declared the winner. District, Number of Votes, Percent of Votes for Candidate P, Percent of Votes for Candidate Q: 1, 800, 60, 40 2, 1,000, 50, 50 3, 1,500, 50, 50 4, 1,800, 40, 60 5, 1,200, 30, 70 Which district had the greatest number of votes for the winner?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 78
+  },
+  {
+    "item_id": 50,
+    "text": "In Asia, where palm trees are non-native, the trees' flowers have traditionally been pollinated by hand, which has kept palm fruit productivity unnaturally low. When weevils known to be efficient pollinators of palm flowers were introduced into Asia in 1980, palm fruit productivity increased\u2014by up to 50 percent in some areas\u2014but then decreased sharply in 1984. Which of the following statements, if true, would best explain the 1984 decrease in productivity?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Prices for palm fruit fell between 1980 and 1984 following the rise in production and a concurrent fall in demand."
+      },
+      {
+        "label": "B",
+        "text": "Imported trees are often more productive than native trees because the imported ones have left behind their pests and diseases in their native lands."
+      },
+      {
+        "label": "C",
+        "text": "Rapid increases in productivity tend to deplete trees of nutrients needed for the development of the fruit-producing female flowers."
+      },
+      {
+        "label": "D",
+        "text": "The weevil population in Asia remained at approximately the same level between 1980 and 1984."
+      },
+      {
+        "label": "E",
+        "text": "Prior to 1980 another species of insect pollinated the Asian palm trees, but not as efficiently as the species of weevil that was introduced in 1980."
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 71
+  },
+  {
+    "item_id": 51,
+    "text": "Of the 3,600 employees of Company X, 1/3 are clerical. If the clerical staff were to be reduced by 1/3, what percent of the total number of remaining employees would then be clerical?",
+    "options": [
+      {
+        "label": "A",
+        "text": "25%"
+      },
+      {
+        "label": "B",
+        "text": "22.2%"
+      },
+      {
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "label": "D",
+        "text": "12.5%"
+      },
+      {
+        "label": "E",
+        "text": "11.1%"
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 33
+  },
+  {
+    "item_id": 52,
+    "text": "Many breakfast cereals are fortified with vitamin supplements. Some of these cereals provide 100 percent of the recommended daily requirement of vitamins. Nevertheless, a well-balanced breakfast, including a variety of foods, is a better source of those vitamins than are such fortified breakfast cereals alone. Which of the following, if true, would most strongly support the position above?",
+    "options": [
+      {
+        "label": "A",
+        "text": "In many foods, the natural combination of vitamins with other nutrients makes those vitamins more usable by the body than are vitamins added in vitamin supplements."
+      },
+      {
+        "label": "B",
+        "text": "People who regularly eat cereals fortified with vitamin supplements sometimes neglect to eat the foods in which the vitamins occur naturally."
+      },
+      {
+        "label": "C",
+        "text": "Foods often must be fortified with vitamin supplements because naturally occurring vitamins are removed during processing."
+      },
+      {
+        "label": "D",
+        "text": "Unprocessed cereals are naturally high in several of the vitamins that are usually added to fortified breakfast cereals."
+      },
+      {
+        "label": "E",
+        "text": "Cereals containing vitamin supplements are no harder to digest than similar cereals without added vitamins."
+      }
+    ],
+    "correct_label": "A",
+    "word_count": 58
+  },
+  {
+    "item_id": 53,
+    "text": "There are 210 households in a certain residential complex. All households in the complex that have more than one dog also have at least one cat. All households that have at least one cat have a pet rodent. How many households in the complex have a pet rodent? (1) 18 households in the complex have two or more dogs. (2) 90% of households in the complex that have a pet rodent have at least one cat.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient"
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient"
+      }
+    ],
+    "correct_label": "E",
+    "word_count": 76
+  },
+  {
+    "item_id": 54,
+    "text": "A car traveling at a constant speed took 1 minute 48 seconds to travel the distance between a certain road sign and the beginning of a roadwork area. If the distance between the road sign and the beginning of the roadwork area was 2,400 meters, then the car was traveling at what speed, in kilometers per hour? (1 kilometer = 1,000 meters)",
+    "options": [
+      {
+        "label": "A",
+        "text": "50"
+      },
+      {
+        "label": "B",
+        "text": "60"
+      },
+      {
+        "label": "C",
+        "text": "80"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      },
+      {
+        "label": "E",
+        "text": "100"
+      }
+    ],
+    "correct_label": "C",
+    "word_count": 62
+  },
+  {
+    "item_id": 55,
+    "text": "The Earth travels around the Sun at a speed of approximately 18.5 miles per second. This approximate speed is how many miles per hour?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1,080"
+      },
+      {
+        "label": "B",
+        "text": "1,160"
+      },
+      {
+        "label": "C",
+        "text": "64,800"
+      },
+      {
+        "label": "D",
+        "text": "66,600"
+      },
+      {
+        "label": "E",
+        "text": "3,996,000"
+      }
+    ],
+    "correct_label": "D",
+    "word_count": 24
+  },
+  {
+    "item_id": 56,
+    "text": "A sum of $200,000 from a certain estate was divided among a spouse and three children. How much of the estate did the youngest child receive? (1) The spouse received 1/2 of the sum from the estate, and the oldest child received 1/4 of the remainder. (2) Each of the two younger children received $12,500 more than the oldest child and $62,500 less than the spouse.",
+    "options": [
+      {
+        "label": "A",
+        "text": "Statement (1) ALONE is sufficient, but statement (2) alone is not sufficient."
+      },
+      {
+        "label": "B",
+        "text": "Statement (2) ALONE is sufficient, but statement (1) alone is not sufficient."
+      },
+      {
+        "label": "C",
+        "text": "BOTH statements TOGETHER are sufficient, but NEITHER statement ALONE is sufficient."
+      },
+      {
+        "label": "D",
+        "text": "EACH statement ALONE is sufficient."
+      },
+      {
+        "label": "E",
+        "text": "Statements (1) and (2) TOGETHER are NOT sufficient."
+      }
+    ],
+    "correct_label": "B",
+    "word_count": 66
+  }
+]

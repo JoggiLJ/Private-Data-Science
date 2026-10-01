@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_electrical_engineering_test",
+  "description": "Electrical engineering multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — electrical_engineering subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which lamp has the best Colour Rendering Index (CRI)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LED"
+        },
+        {
+          "label": "B",
+          "text": "Fluorescent"
+        },
+        {
+          "label": "C",
+          "text": "Incandescent"
+        },
+        {
+          "label": "D",
+          "text": "High pressure sodium vapour"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "The number of output pins in 8085 microprocessors are",
+      "options": [
+        {
+          "label": "A",
+          "text": "27."
+        },
+        {
+          "label": "B",
+          "text": "40."
+        },
+        {
+          "label": "C",
+          "text": "21."
+        },
+        {
+          "label": "D",
+          "text": "19."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "In 8085 name/names of the 16 bit registers is/are",
+      "options": [
+        {
+          "label": "A",
+          "text": "stack pointer."
+        },
+        {
+          "label": "B",
+          "text": "program counter."
+        },
+        {
+          "label": "C",
+          "text": "both A and B."
+        },
+        {
+          "label": "D",
+          "text": "none of these."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "A microprocessor is ALU",
+      "options": [
+        {
+          "label": "A",
+          "text": "and control unit on a single chip."
+        },
+        {
+          "label": "B",
+          "text": "and memory on a single chip."
+        },
+        {
+          "label": "C",
+          "text": "register unit and I/O device on a single chip."
+        },
+        {
+          "label": "D",
+          "text": "register unit and control unit on a single chip."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "________ is the most detrimental impurity in the magnetic materials",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon."
+        },
+        {
+          "label": "B",
+          "text": "Sulphur."
+        },
+        {
+          "label": "C",
+          "text": "Oxygen."
+        },
+        {
+          "label": "D",
+          "text": "Nitrogen."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "A metal surface with 1 meter radius and surface charge density of 20 coulombs / m2 is enclosed in a 10 m side cube. The total outward electric displacement normal to the surface of the cube is",
+      "options": [
+        {
+          "label": "A",
+          "text": "40π coulombs."
+        },
+        {
+          "label": "B",
+          "text": "80π coulombs."
+        },
+        {
+          "label": "C",
+          "text": "10π coulombs."
+        },
+        {
+          "label": "D",
+          "text": "none of these."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "If P is the power of a star connected system then what will be power of an equivalent delta connected system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "P"
+        },
+        {
+          "label": "B",
+          "text": "3P"
+        },
+        {
+          "label": "C",
+          "text": "P/3"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Which of the following is a variable displacement transducer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "tachometer"
+        },
+        {
+          "label": "B",
+          "text": "potentiometer"
+        },
+        {
+          "label": "C",
+          "text": "synchros"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "1 F is theoretically equal to",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 ohm of resistance"
+        },
+        {
+          "label": "B",
+          "text": "ratio of 1 V to 1 C"
+        },
+        {
+          "label": "C",
+          "text": "ratio of 1 C to 1 V"
+        },
+        {
+          "label": "D",
+          "text": "none of these"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which system is also known as automatic control system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Open loop control system"
+        },
+        {
+          "label": "B",
+          "text": "Closed loop control system"
+        },
+        {
+          "label": "C",
+          "text": "Either A or B"
+        },
+        {
+          "label": "D",
+          "text": "Nether A nor B"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "The normal voltage used in directional heating is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.5 KV."
+        },
+        {
+          "label": "B",
+          "text": "15 KV."
+        },
+        {
+          "label": "C",
+          "text": "33 KV."
+        },
+        {
+          "label": "D",
+          "text": "66 KV."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "A step up chopper has input voltage 110 V and output voltage 150 V. The value of duty cycle is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.32."
+        },
+        {
+          "label": "B",
+          "text": "0.67."
+        },
+        {
+          "label": "C",
+          "text": "0.45."
+        },
+        {
+          "label": "D",
+          "text": "0.27."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "A Lissajous pattern on an oscilloscope has 5 horinzontal tangencies and 2 vertical tangencies. The frequency of horizontal input is 100 Hz. The frequency of the vertical will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "500 Hz."
+        },
+        {
+          "label": "B",
+          "text": "250 Hz."
+        },
+        {
+          "label": "C",
+          "text": "400 Hz."
+        },
+        {
+          "label": "D",
+          "text": "625 Hz."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "If a Hexadecimal number needs to convert to binary. For each hexadecimal digit, there will be how many bits",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "8"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Stability of a transmission line can be increased by",
+      "options": [
+        {
+          "label": "A",
+          "text": "shunt capacitor"
+        },
+        {
+          "label": "B",
+          "text": "series capacitor"
+        },
+        {
+          "label": "C",
+          "text": "shunt reactor"
+        },
+        {
+          "label": "D",
+          "text": "both A and B"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "The solid angle subtended by an area of 2400 cm^2 on the surface of a sphere of diameter 1.2 m is",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 / 2."
+        },
+        {
+          "label": "B",
+          "text": "1 / 3."
+        },
+        {
+          "label": "C",
+          "text": "2 / 3."
+        },
+        {
+          "label": "D",
+          "text": "2 / 5."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which of the following is not a sinusoidal oscillator?",
+      "options": [
+        {
+          "label": "A",
+          "text": "LC oscillator"
+        },
+        {
+          "label": "B",
+          "text": "RC phase shift oscillator"
+        },
+        {
+          "label": "C",
+          "text": "Relaxation oscillator"
+        },
+        {
+          "label": "D",
+          "text": "Crystal oscillator"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "The feedback factor of a Wien bridge oscillator using Op-Amp is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1/3"
+        },
+        {
+          "label": "B",
+          "text": "1/4"
+        },
+        {
+          "label": "C",
+          "text": "1/2"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Commutator in DC generator is used for",
+      "options": [
+        {
+          "label": "A",
+          "text": "collecting of current"
+        },
+        {
+          "label": "B",
+          "text": "reduce losses"
+        },
+        {
+          "label": "C",
+          "text": "increase efficiency"
+        },
+        {
+          "label": "D",
+          "text": "convert AC armature current in to DC"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "In a lap winding dc machine number of conductors are 100 and number of parallel paths are 10. Find the average pitch",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "100"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "The errors mainly caused by human mistakes are",
+      "options": [
+        {
+          "label": "A",
+          "text": "gross error."
+        },
+        {
+          "label": "B",
+          "text": "instrumental error."
+        },
+        {
+          "label": "C",
+          "text": "observational error."
+        },
+        {
+          "label": "D",
+          "text": "systematic error."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "The ROM programmed during manufacturing process itself is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "MROM"
+        },
+        {
+          "label": "B",
+          "text": "PROM"
+        },
+        {
+          "label": "C",
+          "text": "EPROM"
+        },
+        {
+          "label": "D",
+          "text": "EEPROM"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "FM stands for",
+      "options": [
+        {
+          "label": "A",
+          "text": "frequent modulation."
+        },
+        {
+          "label": "B",
+          "text": "frequency modulation."
+        },
+        {
+          "label": "C",
+          "text": "frequency moderator."
+        },
+        {
+          "label": "D",
+          "text": "frequent moderator."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Thin laminations are used in a machine in order to reduce",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eddy current losses"
+        },
+        {
+          "label": "B",
+          "text": "Hysteresis losses"
+        },
+        {
+          "label": "C",
+          "text": "Both A and B"
+        },
+        {
+          "label": "D",
+          "text": "Copper losses"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Speed control by variation of field flux results in",
+      "options": [
+        {
+          "label": "A",
+          "text": "constant power drive."
+        },
+        {
+          "label": "B",
+          "text": "constant torque drive."
+        },
+        {
+          "label": "C",
+          "text": "variable power drive."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Four capacitors each of 40 µF are connected in parallel, the equivalent capacitance of the system will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "160 µF"
+        },
+        {
+          "label": "B",
+          "text": "10 µF"
+        },
+        {
+          "label": "C",
+          "text": "40 µF"
+        },
+        {
+          "label": "D",
+          "text": "5 µF"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "In a dc machine 6 pole wave winding is used. The number of parallel paths are?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "1"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The output of the system has an effect upon the input quantity, then the system is a",
+      "options": [
+        {
+          "label": "A",
+          "text": "open loop control system."
+        },
+        {
+          "label": "B",
+          "text": "closed loop control system."
+        },
+        {
+          "label": "C",
+          "text": "either A or B."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Induction heating takes place in",
+      "options": [
+        {
+          "label": "A",
+          "text": "conducting but non-magnetic materials."
+        },
+        {
+          "label": "B",
+          "text": "conducting materials which may be either magnetic or non-magentic materials."
+        },
+        {
+          "label": "C",
+          "text": "insulating materials."
+        },
+        {
+          "label": "D",
+          "text": "conducting and magnetic materials."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "The number of rings in the Bohr model of any element is determined by what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Column number on periodic table."
+        },
+        {
+          "label": "B",
+          "text": "Atomic mass."
+        },
+        {
+          "label": "C",
+          "text": "Row number on periodic table."
+        },
+        {
+          "label": "D",
+          "text": "Atomic number."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Both the ALU and control section of CPU employ which special purpose storage location?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Buffers"
+        },
+        {
+          "label": "B",
+          "text": "Decoders"
+        },
+        {
+          "label": "C",
+          "text": "Accumulators"
+        },
+        {
+          "label": "D",
+          "text": "Registers"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "In balanced bridge, if the positions of detector and source are interchanged, the bridge will still remain balanced. This can be explained from which theorem",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reciprocity theorem"
+        },
+        {
+          "label": "B",
+          "text": "Thevinin's theorem"
+        },
+        {
+          "label": "C",
+          "text": "Norton's theorem"
+        },
+        {
+          "label": "D",
+          "text": "Compensation theorem"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Susceptibility is negative for",
+      "options": [
+        {
+          "label": "A",
+          "text": "non magnetic substances."
+        },
+        {
+          "label": "B",
+          "text": "diamagnetic substances."
+        },
+        {
+          "label": "C",
+          "text": "ferromagnetic substances."
+        },
+        {
+          "label": "D",
+          "text": "none of above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following is the analogous quantity for mass element in force-voltage analogy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resistance."
+        },
+        {
+          "label": "B",
+          "text": "Inductance."
+        },
+        {
+          "label": "C",
+          "text": "Capacitance."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "The resistance of a conductor of diameter d and length l is R Ω. If the diameter of the conductor is halved and its length is doubled, the resistance will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "R Ω"
+        },
+        {
+          "label": "B",
+          "text": "2R Ω"
+        },
+        {
+          "label": "C",
+          "text": "4R Ω"
+        },
+        {
+          "label": "D",
+          "text": "8R Ω"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Which of the following is/are the disadvantages of an open loop control system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inaccurate."
+        },
+        {
+          "label": "B",
+          "text": "Unreliable."
+        },
+        {
+          "label": "C",
+          "text": "both A and B."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "By using which of the following elements, mechanical translational systems are obtained?",
+      "options": [
+        {
+          "label": "A",
+          "text": "mass element"
+        },
+        {
+          "label": "B",
+          "text": "spring element"
+        },
+        {
+          "label": "C",
+          "text": "dash-pot"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "In Digital Logic Designs, GAL is abbreviated as",
+      "options": [
+        {
+          "label": "A",
+          "text": "General Advance Logic"
+        },
+        {
+          "label": "B",
+          "text": "General Array Logic"
+        },
+        {
+          "label": "C",
+          "text": "Generic Advance Logic"
+        },
+        {
+          "label": "D",
+          "text": "Generic Array Logic"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "What is used to protect the SCR from over current ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CB and fuse."
+        },
+        {
+          "label": "B",
+          "text": "Heat sink."
+        },
+        {
+          "label": "C",
+          "text": "Snubber circuit."
+        },
+        {
+          "label": "D",
+          "text": "Voltage clamping device."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Piezoelectric effect is carried out in",
+      "options": [
+        {
+          "label": "A",
+          "text": "composite filter."
+        },
+        {
+          "label": "B",
+          "text": "crystal filter."
+        },
+        {
+          "label": "C",
+          "text": "m derived."
+        },
+        {
+          "label": "D",
+          "text": "constant k prototype."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Electrical analogous quantity for dash-pot in force-current analogy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "resistance."
+        },
+        {
+          "label": "B",
+          "text": "conductance."
+        },
+        {
+          "label": "C",
+          "text": "inductance."
+        },
+        {
+          "label": "D",
+          "text": "capacitance."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "A D-flip-flop is said to be transparent when",
+      "options": [
+        {
+          "label": "A",
+          "text": "the output is LOW"
+        },
+        {
+          "label": "B",
+          "text": "the output is HIGH"
+        },
+        {
+          "label": "C",
+          "text": "the output follows clock"
+        },
+        {
+          "label": "D",
+          "text": "the output follow input"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "The metal surfaces for electrical resistance welding must be",
+      "options": [
+        {
+          "label": "A",
+          "text": "rough."
+        },
+        {
+          "label": "B",
+          "text": "clean."
+        },
+        {
+          "label": "C",
+          "text": "moistened"
+        },
+        {
+          "label": "D",
+          "text": "coloured"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "For intermittent work which of the following furnace is suitable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Core less furnace."
+        },
+        {
+          "label": "B",
+          "text": "Indirect arc furnace."
+        },
+        {
+          "label": "C",
+          "text": "Either of above."
+        },
+        {
+          "label": "D",
+          "text": "Nither of above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "The magnetisation and applied field in ferromagnetic materials are related",
+      "options": [
+        {
+          "label": "A",
+          "text": "sinusoidally."
+        },
+        {
+          "label": "B",
+          "text": "non linearly."
+        },
+        {
+          "label": "C",
+          "text": "linearly."
+        },
+        {
+          "label": "D",
+          "text": "parabolically."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "A null type instrument as compared to a deflected type instrument has",
+      "options": [
+        {
+          "label": "A",
+          "text": "a lower sensitivity."
+        },
+        {
+          "label": "B",
+          "text": "a faster response."
+        },
+        {
+          "label": "C",
+          "text": "a higher accuracy."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Materials used in heat sink should have",
+      "options": [
+        {
+          "label": "A",
+          "text": "high thermal conductivity."
+        },
+        {
+          "label": "B",
+          "text": "large surface area."
+        },
+        {
+          "label": "C",
+          "text": "high melting point."
+        },
+        {
+          "label": "D",
+          "text": "All of these."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "In two wattmeter method of power measurement if the total power is measured by one wattmeter only then power factor of the system is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0."
+        },
+        {
+          "label": "B",
+          "text": "0.5."
+        },
+        {
+          "label": "C",
+          "text": "1."
+        },
+        {
+          "label": "D",
+          "text": "none of above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "The moving coil-meters, damping is provided by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the aluminium frame of the coil."
+        },
+        {
+          "label": "B",
+          "text": "the coil spring attached to the moving."
+        },
+        {
+          "label": "C",
+          "text": "eddy current disk."
+        },
+        {
+          "label": "D",
+          "text": "damping vane in the airtight chamber."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Colpitts oscillator is also called as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tank circuit oscillator"
+        },
+        {
+          "label": "B",
+          "text": "LC oscillator"
+        },
+        {
+          "label": "C",
+          "text": "Resonant circuit oscillator"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Temperature variation is a/an",
+      "options": [
+        {
+          "label": "A",
+          "text": "Digital quantity"
+        },
+        {
+          "label": "B",
+          "text": "Analog quantity"
+        },
+        {
+          "label": "C",
+          "text": "Either Digital or Analog quantity"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "What are the sets of commands in a program which are not translated into machine instructions during assembly process, called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mnemonics"
+        },
+        {
+          "label": "B",
+          "text": "Directives"
+        },
+        {
+          "label": "C",
+          "text": "Identifiers"
+        },
+        {
+          "label": "D",
+          "text": "Operands"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "The supply frequency usually employed for high frequency eddy current heating is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 KHz."
+        },
+        {
+          "label": "B",
+          "text": "5 KHz."
+        },
+        {
+          "label": "C",
+          "text": "10 MHz."
+        },
+        {
+          "label": "D",
+          "text": "10 KHz to 400 KHz."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Lowest critical frequency is due to zero and it may be present at the origin or nearer to the origin, then the type of network is",
+      "options": [
+        {
+          "label": "A",
+          "text": "LC circuit."
+        },
+        {
+          "label": "B",
+          "text": "RC circuit."
+        },
+        {
+          "label": "C",
+          "text": "RLC circuit."
+        },
+        {
+          "label": "D",
+          "text": "RL Circuit."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "In the toggle mode a JK flip-flop has",
+      "options": [
+        {
+          "label": "A",
+          "text": "J = 0, K = 0."
+        },
+        {
+          "label": "B",
+          "text": "J = 1, K = 1."
+        },
+        {
+          "label": "C",
+          "text": "J = 0, K = 1."
+        },
+        {
+          "label": "D",
+          "text": "J = 1, K = 0."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "A latch is ________ sensitive",
+      "options": [
+        {
+          "label": "A",
+          "text": "both level and edge"
+        },
+        {
+          "label": "B",
+          "text": "edge"
+        },
+        {
+          "label": "C",
+          "text": "level"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Purely mechanical instrument cannot be used for dynamic measurements because they have",
+      "options": [
+        {
+          "label": "A",
+          "text": "high inertia."
+        },
+        {
+          "label": "B",
+          "text": "higher response time."
+        },
+        {
+          "label": "C",
+          "text": "large time constant."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Which of the following is used in SCR to protect from high dV / dt?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Snubber circuit."
+        },
+        {
+          "label": "B",
+          "text": "Fuse."
+        },
+        {
+          "label": "C",
+          "text": "Equalizing circuit."
+        },
+        {
+          "label": "D",
+          "text": "Circuit breaker."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "If holding current of a thyristor is 2 mA then latching current should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.01 A."
+        },
+        {
+          "label": "B",
+          "text": "0.002 A."
+        },
+        {
+          "label": "C",
+          "text": "0.009 A."
+        },
+        {
+          "label": "D",
+          "text": "0.004 A."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Potentiometer method of DC voltage measurement is more accurate than direct measurement using a voltmeter because",
+      "options": [
+        {
+          "label": "A",
+          "text": "It loads the circuit moderately."
+        },
+        {
+          "label": "B",
+          "text": "It loads the circuit to maximum extent."
+        },
+        {
+          "label": "C",
+          "text": "It uses centre zero galvanometer instead of voltmeter."
+        },
+        {
+          "label": "D",
+          "text": "It does not load the circuit at all."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "A single phase one pulse controlled circuit has a resistance R and counter emf E load 400 sin(314 t) as the source voltage. For a load counter emf of 200 V, the range of firing angle control is",
+      "options": [
+        {
+          "label": "A",
+          "text": "30° to 150°."
+        },
+        {
+          "label": "B",
+          "text": "30° to 180°."
+        },
+        {
+          "label": "C",
+          "text": "60° to 120°."
+        },
+        {
+          "label": "D",
+          "text": "60° to 180°."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Stack is also known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "FIFO memory"
+        },
+        {
+          "label": "B",
+          "text": "Flash memory"
+        },
+        {
+          "label": "C",
+          "text": "LIFO memory"
+        },
+        {
+          "label": "D",
+          "text": "LILO memory"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Power dissipation in ideal inductor is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maximum"
+        },
+        {
+          "label": "B",
+          "text": "Minimum"
+        },
+        {
+          "label": "C",
+          "text": "Zero"
+        },
+        {
+          "label": "D",
+          "text": "A finite value"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "A long wire composed of a smooth round conductor runs above and parallel to the ground (assumed to be a large conducting plane). A high voltage exists between the conductor and the ground. The maximum electric stress occurs at",
+      "options": [
+        {
+          "label": "A",
+          "text": "lower surface of the conductor."
+        },
+        {
+          "label": "B",
+          "text": "upper surface of the conductor."
+        },
+        {
+          "label": "C",
+          "text": "the ground surface."
+        },
+        {
+          "label": "D",
+          "text": "midway between the conductor and ground."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Poles and zeros are arranged alternatively on negative real axis, then type of network is/are",
+      "options": [
+        {
+          "label": "A",
+          "text": "LC network."
+        },
+        {
+          "label": "B",
+          "text": "RC network."
+        },
+        {
+          "label": "C",
+          "text": "RL network."
+        },
+        {
+          "label": "D",
+          "text": "Both 2 and 3."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "The main advantage of dielectric heating is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "heating occurs in the material itself."
+        },
+        {
+          "label": "B",
+          "text": "heating occurs due to high frequency."
+        },
+        {
+          "label": "C",
+          "text": "it can be used for drying the explosives."
+        },
+        {
+          "label": "D",
+          "text": "None of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Five capacitors each of 5 µF are connected in series, the equivalent capacitance of the system will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 µF"
+        },
+        {
+          "label": "B",
+          "text": "25 µF"
+        },
+        {
+          "label": "C",
+          "text": "10 µF"
+        },
+        {
+          "label": "D",
+          "text": "1 µF"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Magnetic flux has the unit of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Newton"
+        },
+        {
+          "label": "B",
+          "text": "Ampere turn"
+        },
+        {
+          "label": "C",
+          "text": "Weber"
+        },
+        {
+          "label": "D",
+          "text": "Tesla"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Deflection method direct measurements are most widely used as these are",
+      "options": [
+        {
+          "label": "A",
+          "text": "least time consuming."
+        },
+        {
+          "label": "B",
+          "text": "most simple."
+        },
+        {
+          "label": "C",
+          "text": "most simple and least time consuming."
+        },
+        {
+          "label": "D",
+          "text": "most accurate."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "In Ward-Leonard system, the lower limit of the speed imposed by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Field resistance."
+        },
+        {
+          "label": "B",
+          "text": "Armature resistance."
+        },
+        {
+          "label": "C",
+          "text": "Residual magnetism of the generator."
+        },
+        {
+          "label": "D",
+          "text": "None of above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Electrical analogous quantity for spring element (K) in force-voltage analogy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "L"
+        },
+        {
+          "label": "B",
+          "text": "R"
+        },
+        {
+          "label": "C",
+          "text": "1/C"
+        },
+        {
+          "label": "D",
+          "text": "C"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Electrons in p-type material of a semi-conductor are called as",
+      "options": [
+        {
+          "label": "A",
+          "text": "either minority carriers or majority carriers"
+        },
+        {
+          "label": "B",
+          "text": "minority carriers"
+        },
+        {
+          "label": "C",
+          "text": "majority carriers"
+        },
+        {
+          "label": "D",
+          "text": "valance carriers"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Advantages of open loop control system is/are",
+      "options": [
+        {
+          "label": "A",
+          "text": "simple and economical."
+        },
+        {
+          "label": "B",
+          "text": "accurate."
+        },
+        {
+          "label": "C",
+          "text": "reliable."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Which oscillators are easy to fabricate in a monolithic IC?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Crystal oscillator."
+        },
+        {
+          "label": "B",
+          "text": "Hartley oscillator."
+        },
+        {
+          "label": "C",
+          "text": "Wien bridge oscillator."
+        },
+        {
+          "label": "D",
+          "text": "Relaxation oscillator."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "The energy stored in the magnetic field in a solenoid 30 cm long and 3 cm diameter wound with 1000 turns of wire carrying a current at 10 amp, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.015 joule."
+        },
+        {
+          "label": "B",
+          "text": "0.15 joule."
+        },
+        {
+          "label": "C",
+          "text": "0.015 joule."
+        },
+        {
+          "label": "D",
+          "text": "1.15 joule."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "A Binary number system has how many digits.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "According to the Bohr model, an electron gains or losses energy only by",
+      "options": [
+        {
+          "label": "A",
+          "text": "moving faster or slower in an allowed orbit."
+        },
+        {
+          "label": "B",
+          "text": "jumping from one allowed orbit to another."
+        },
+        {
+          "label": "C",
+          "text": "being completely removed from an atom."
+        },
+        {
+          "label": "D",
+          "text": "jumping from one atom to another atom."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Inintel 8085A microprocessor ALE signal is made high to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enable the data bus to be used as low order address bus"
+        },
+        {
+          "label": "B",
+          "text": "To latch data D0-D7 from data bus"
+        },
+        {
+          "label": "C",
+          "text": "To disable data bus"
+        },
+        {
+          "label": "D",
+          "text": "To achieve all the functions listed above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "A 0 - 100 V voltmeter has a guaranteed accuracy of 2 % of full scale reading. The voltage measured by the voltmeter is 75 V. The limiting error is in percentage",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.33 %."
+        },
+        {
+          "label": "B",
+          "text": "2.66 %."
+        },
+        {
+          "label": "C",
+          "text": "2 %."
+        },
+        {
+          "label": "D",
+          "text": "1 %."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Relative error is same as",
+      "options": [
+        {
+          "label": "A",
+          "text": "ratio of absolute error and true value."
+        },
+        {
+          "label": "B",
+          "text": "absolute error."
+        },
+        {
+          "label": "C",
+          "text": "true error."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Systematic errors are",
+      "options": [
+        {
+          "label": "A",
+          "text": "environmental errors."
+        },
+        {
+          "label": "B",
+          "text": "observational errors."
+        },
+        {
+          "label": "C",
+          "text": "instrument errors."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "In an intel 8085A, which is the first machine cycle of an instruction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An op-code fetch cycle"
+        },
+        {
+          "label": "B",
+          "text": "A memory read cycle"
+        },
+        {
+          "label": "C",
+          "text": "A memory write cycle"
+        },
+        {
+          "label": "D",
+          "text": "An I/O read cycle"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following is a digital device",
+      "options": [
+        {
+          "label": "A",
+          "text": "Regulator of a fan"
+        },
+        {
+          "label": "B",
+          "text": "Microphone"
+        },
+        {
+          "label": "C",
+          "text": "Resistance of a material"
+        },
+        {
+          "label": "D",
+          "text": "Light switch"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "An SCR has half cycle surge current rating of 3000 A for 50 Hz supply. One cycle surge current will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "1500 A."
+        },
+        {
+          "label": "B",
+          "text": "6000 A."
+        },
+        {
+          "label": "C",
+          "text": "2121.32 A."
+        },
+        {
+          "label": "D",
+          "text": "4242.64 A."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Electric drive is becoming more and more popular because",
+      "options": [
+        {
+          "label": "A",
+          "text": "all of below."
+        },
+        {
+          "label": "B",
+          "text": "it provide smooth and easy control."
+        },
+        {
+          "label": "C",
+          "text": "it is cheaper in cost."
+        },
+        {
+          "label": "D",
+          "text": "it is simple and reliable."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Instantaneous power in inductor is proportional to the",
+      "options": [
+        {
+          "label": "A",
+          "text": "product of the instantaneous current and rate of change of current."
+        },
+        {
+          "label": "B",
+          "text": "square of instantaneous current."
+        },
+        {
+          "label": "C",
+          "text": "square of the rate of change of current."
+        },
+        {
+          "label": "D",
+          "text": "temperature of the inductor."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Two infinite parallel metal plates are charged with equal surface charge density of the same polarity. The electric field in the gap between the plates is",
+      "options": [
+        {
+          "label": "A",
+          "text": "same as that produced by one plate."
+        },
+        {
+          "label": "B",
+          "text": "double the field produced by one plate."
+        },
+        {
+          "label": "C",
+          "text": "dependent on coordinates of field points."
+        },
+        {
+          "label": "D",
+          "text": "zero."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "If all the elements in a particular network are linear, then the superposition theorem would hold, when the excitation is",
+      "options": [
+        {
+          "label": "A",
+          "text": "DC only"
+        },
+        {
+          "label": "B",
+          "text": "AC only"
+        },
+        {
+          "label": "C",
+          "text": "Either AC or DC"
+        },
+        {
+          "label": "D",
+          "text": "An Impulse"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "A combinational PLD with a fixed AND array and a programmable OR array is called a",
+      "options": [
+        {
+          "label": "A",
+          "text": "PLD"
+        },
+        {
+          "label": "B",
+          "text": "PROM"
+        },
+        {
+          "label": "C",
+          "text": "PAL"
+        },
+        {
+          "label": "D",
+          "text": "PLA"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Silicon and Germanium are ________ elements.",
+      "options": [
+        {
+          "label": "A",
+          "text": "trivalant"
+        },
+        {
+          "label": "B",
+          "text": "pentavalant"
+        },
+        {
+          "label": "C",
+          "text": "hexavalant"
+        },
+        {
+          "label": "D",
+          "text": "tetravalant"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The resistance in the circuit of the moving coil of a dynamometer wattmeter should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low."
+        },
+        {
+          "label": "B",
+          "text": "Very low."
+        },
+        {
+          "label": "C",
+          "text": "High."
+        },
+        {
+          "label": "D",
+          "text": "Almost zero."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "The change of cross sectional area of conductor in magnetic field will affect",
+      "options": [
+        {
+          "label": "A",
+          "text": "reluctance of conductor."
+        },
+        {
+          "label": "B",
+          "text": "resistance of conductor."
+        },
+        {
+          "label": "C",
+          "text": "(A) and (B) both in the same way."
+        },
+        {
+          "label": "D",
+          "text": "none of above."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "The illumination at a point 5 meters below a lamp in 6 lux. The candle power of the lamp is",
+      "options": [
+        {
+          "label": "A",
+          "text": "30"
+        },
+        {
+          "label": "B",
+          "text": "140."
+        },
+        {
+          "label": "C",
+          "text": "150."
+        },
+        {
+          "label": "D",
+          "text": "200."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which of the followings is/are active element?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voltage source"
+        },
+        {
+          "label": "B",
+          "text": "Current source"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "None of these."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "How many bits are required to store one BCD digit ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Feedback circuit in an oscillator can be accomplished by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resistive coupling between input and output"
+        },
+        {
+          "label": "B",
+          "text": "Capacitive coupling between input and output"
+        },
+        {
+          "label": "C",
+          "text": "Inductive coupling between input and output"
+        },
+        {
+          "label": "D",
+          "text": "Any one or combinations of the above methods"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Advantages of higher transmission voltage is/are",
+      "options": [
+        {
+          "label": "A",
+          "text": "Power transfer capability of the transmission line is increased"
+        },
+        {
+          "label": "B",
+          "text": "Transmission line losses are reduced"
+        },
+        {
+          "label": "C",
+          "text": "Area of cross section and volume of the conductor is reduced"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Snubber circuit is used with SCR",
+      "options": [
+        {
+          "label": "A",
+          "text": "in series."
+        },
+        {
+          "label": "B",
+          "text": "in parallel."
+        },
+        {
+          "label": "C",
+          "text": "either series or parallel."
+        },
+        {
+          "label": "D",
+          "text": "anti parallel."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which of the following are the passive elements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Resistor"
+        },
+        {
+          "label": "B",
+          "text": "Bulb"
+        },
+        {
+          "label": "C",
+          "text": "Both"
+        },
+        {
+          "label": "D",
+          "text": "None of these."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "To obtain a high value of capacitance, the permittivity of dielectric medium should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "low"
+        },
+        {
+          "label": "B",
+          "text": "zero"
+        },
+        {
+          "label": "C",
+          "text": "high"
+        },
+        {
+          "label": "D",
+          "text": "unity"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

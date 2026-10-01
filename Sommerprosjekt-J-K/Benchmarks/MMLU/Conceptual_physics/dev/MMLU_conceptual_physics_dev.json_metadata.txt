@@ -1,0 +1,11 @@
+Question: 1, Word Count: 19, Token Count: 23, Number of Alternatives: 4
+Question: 2, Word Count: 10, Token Count: 10, Number of Alternatives: 4
+Question: 3, Word Count: 8, Token Count: 8, Number of Alternatives: 4
+Question: 4, Word Count: 37, Token Count: 39, Number of Alternatives: 4
+Question: 5, Word Count: 11, Token Count: 13, Number of Alternatives: 4
+
+Avg word count: 17.0
+Avg token count: 18.6
+Avg alternatives count: 4.0
+
+Average similarity (excluding self-similarity): 0.09838249534368515

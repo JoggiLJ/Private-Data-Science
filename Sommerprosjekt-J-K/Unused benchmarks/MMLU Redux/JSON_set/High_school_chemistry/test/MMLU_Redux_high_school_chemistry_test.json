@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_chemistry_test",
+  "description": "High school chemistry multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_chemistry subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "What is the mass of one molecule of cholesterol (C27H46O, molecular mass = 386)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6.41 × 10^-22 g"
+        },
+        {
+          "label": "B",
+          "text": "1.5 × 10^-21 g"
+        },
+        {
+          "label": "C",
+          "text": "1.38 × 10^-21 g"
+        },
+        {
+          "label": "D",
+          "text": "3 × 10^-23 g"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Neutral atoms of chlorine are bombarded by high-energy photons, causing the ejection of electrons from the various filled subshells. Electrons originally from which subshell would have the highest velocity after being ejected?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1s"
+        },
+        {
+          "label": "B",
+          "text": "2p"
+        },
+        {
+          "label": "C",
+          "text": "3p"
+        },
+        {
+          "label": "D",
+          "text": "3d"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the following molecules is expected to have the highest normal boiling point?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CH2CH2CH3"
+        },
+        {
+          "label": "B",
+          "text": "CH3CH2CH2CH2OH"
+        },
+        {
+          "label": "C",
+          "text": "CH3CH2CH2CH2Cl"
+        },
+        {
+          "label": "D",
+          "text": "CH3CH2CH2CH2Br"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Chemists often ascribe the macroscopic properties of solids to the underlying microscopic structure. Silicon carbide is almost as hard and brittle as diamond. The solid state structure of silicon carbide is often described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "a molecular crystal"
+        },
+        {
+          "label": "B",
+          "text": "a covalent or network crystal"
+        },
+        {
+          "label": "C",
+          "text": "a metallic crystal"
+        },
+        {
+          "label": "D",
+          "text": "an ionic crystal"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Which of the following processes is an irreversible reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH4(g) + O2(g) → CO2(g) + H2O(l)"
+        },
+        {
+          "label": "B",
+          "text": "HCN(aq) + H2O(l) → CN-(aq) + H3O+(aq)"
+        },
+        {
+          "label": "C",
+          "text": "Al(NO3)3(s) → Al3+(aq) + 3NO3-(aq)"
+        },
+        {
+          "label": "D",
+          "text": "2Ag+(aq) + Ti(s) → 2Ag(s) + Ti2+(aq)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecules are best represented by multiple resonance structures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO2 and CO32-"
+        },
+        {
+          "label": "B",
+          "text": "NO2- and NO3-"
+        },
+        {
+          "label": "C",
+          "text": "CO32- and NO3-"
+        },
+        {
+          "label": "D",
+          "text": "CO32-, NO2- and NO3-"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "When using the ideal gas law, standard conditions for temperature and pressure are",
+      "options": [
+        {
+          "label": "A",
+          "text": "0 K and 0 torr"
+        },
+        {
+          "label": "B",
+          "text": "25 °C and 1 atmosphere pressure"
+        },
+        {
+          "label": "C",
+          "text": "0 °C and 760 torr"
+        },
+        {
+          "label": "D",
+          "text": "0 °F and 1 atmosphere pressure"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "NH4+(aq) + NO2- (aq) → N2(g) + 2H2O(l) Increasing the temperature of the above reaction will increase the rate of reaction. Which of the following is NOT a reason that increased temperature increases reaction rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The reactants will be more likely to overcome the activation energy."
+        },
+        {
+          "label": "B",
+          "text": "The number of collisions between reactant molecules will increase."
+        },
+        {
+          "label": "C",
+          "text": "A greater distribution of reactant molecules will have high velocities."
+        },
+        {
+          "label": "D",
+          "text": "Alternate reaction pathways become available at higher temperatures."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Identify the Brønsted-Lowry conjugate acid-base pair in the following list.",
+      "options": [
+        {
+          "label": "A",
+          "text": "H3O+ and OH-"
+        },
+        {
+          "label": "B",
+          "text": "H3PO4 and H3PO3"
+        },
+        {
+          "label": "C",
+          "text": "HC2H3O2 and C2H3O2-"
+        },
+        {
+          "label": "D",
+          "text": "SO32- and SO22-"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which of the following is expected to be the least soluble in water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NaBr"
+        },
+        {
+          "label": "B",
+          "text": "NiSO3"
+        },
+        {
+          "label": "C",
+          "text": "CrCl3"
+        },
+        {
+          "label": "D",
+          "text": "Mn(NO3)2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which following pair of substances can be used to make a buffer solution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NaCl and HCl"
+        },
+        {
+          "label": "B",
+          "text": "HC2H3O2 and KC2H3O2"
+        },
+        {
+          "label": "C",
+          "text": "NaBr and KBr"
+        },
+        {
+          "label": "D",
+          "text": "HIO3 and KClO3"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "A 25 g sample of a liquid was heated to 100 °C and then quickly transferred to an insulated container holding 100 g of water at 22 °C. The temperature of the mixture rose to reach a final temperature of 35 °C. Which of the following can be concluded?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The sample temperature changed more than the water temperature did; therefore the sample lost more heat energy than the water gained."
+        },
+        {
+          "label": "B",
+          "text": "The sample temperature changed more than the water temperature did, but the sample lost the same amount of heat energy as the water gained."
+        },
+        {
+          "label": "C",
+          "text": "The sample temperature changed more than the water temperature did; therefore the CP of the sample must be greater than the CP of the water."
+        },
+        {
+          "label": "D",
+          "text": "The final temperature is less than the average starting temperature of the sample and the water; therefore the total energy of the sample and water decreased."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "What is the work involved if a gas in a 2.0-liter container at 2.4 atmospheres pressure is allowed to expand against a pressure of 0.80 atmosphere?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-3.2 L atm"
+        },
+        {
+          "label": "B",
+          "text": "-9.62 L atm"
+        },
+        {
+          "label": "C",
+          "text": "-4.8 L atm"
+        },
+        {
+          "label": "D",
+          "text": "+14.4 L atm"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Chlorine gas reacts most readily with",
+      "options": [
+        {
+          "label": "A",
+          "text": "toluene"
+        },
+        {
+          "label": "B",
+          "text": "ethylene"
+        },
+        {
+          "label": "C",
+          "text": "ethanoic acid"
+        },
+        {
+          "label": "D",
+          "text": "ethane"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "The first ionization energy for a neutral atom of chlorine is 1.25 MJ/mol and the first ionization energy for a neutral atom of argon is 1.52 MJ/mol. How would the first ionization energy value for a neutral atom of potassum compare to those values?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It would be greater than both because potassium carries a greater nuclear charge then either chlorine or argon."
+        },
+        {
+          "label": "B",
+          "text": "It would be greater than both because the size of a potassium atom is smaller than an atom of either chlorine or argon."
+        },
+        {
+          "label": "C",
+          "text": "It would be less than both because there are more electrons in potassium, meaning they repel each other more effectively and less energy is needed to remove one."
+        },
+        {
+          "label": "D",
+          "text": "It would be less than both because a valence electron of potassium is farther from the nucleus than one of either chlorine or argon."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "PCl3(g) + Cl2(g) ↔ PCl5(g) ΔH = -92.5 kJ/mol In which of the following ways could the reaction above be manipulated to create more product?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing the concentration of PCl3"
+        },
+        {
+          "label": "B",
+          "text": "Increasing the pressure"
+        },
+        {
+          "label": "C",
+          "text": "Increasing the temperature"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which is correct about the calcium atom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It contains 20 protons and neutrons"
+        },
+        {
+          "label": "B",
+          "text": "It contains 20 protons and 20 electrons"
+        },
+        {
+          "label": "C",
+          "text": "It contains 20 protons, neutrons, and electrons"
+        },
+        {
+          "label": "D",
+          "text": "All atoms of calcium have a mass of 40.078 u"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Your supervisor asks you to determine the enthalpy of a certain chemical reaction. Which would you do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measure the ΔS and the ΔG for the reaction, and calculate the ΔH from the Gibbs free energy equation."
+        },
+        {
+          "label": "B",
+          "text": "Use a bomb calorimeter to measure the heat of the reaction."
+        },
+        {
+          "label": "C",
+          "text": "Use a solution calorimeter such as a coffee-cup calorimeter to measure the heat."
+        },
+        {
+          "label": "D",
+          "text": "Use a photoelectron spectrometer to measure the energies of all atoms in the compounds, and use Hess's law to add them."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Magnesium has an atomic radius of 160 pm and a first ionization energy of 737 kJ. Based on periodic trends and the data given above, what are the most probable values for the ionization energy and atomic radius of sodium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "186 pm, 496 kJ/mol"
+        },
+        {
+          "label": "B",
+          "text": "186 pm, 898 kJ/mol"
+        },
+        {
+          "label": "C",
+          "text": "135 pm, 523 kJ/mol"
+        },
+        {
+          "label": "D",
+          "text": "147 pm, 523 kJ/mol"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "When an ideal gas is allowed to expand isothermally, which one of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "q = 0"
+        },
+        {
+          "label": "B",
+          "text": "w = 0"
+        },
+        {
+          "label": "C",
+          "text": "E = 0"
+        },
+        {
+          "label": "D",
+          "text": "q = -w"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "The molar heat of vaporization of water is +43.9 kJ. What is the entropy change for the vaporization of water?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.49 J mol-1 K-1"
+        },
+        {
+          "label": "B",
+          "text": "4.184 J mol-1 K-1"
+        },
+        {
+          "label": "C",
+          "text": "2.78 J mol-1 K-1"
+        },
+        {
+          "label": "D",
+          "text": "118 J mol-1 K-1"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "The photoelectron spectrum of carbon has three equally sized peaks. What peak is at the lowest energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The 1s peak has the lowest energy."
+        },
+        {
+          "label": "B",
+          "text": "The 2s peak has the lowest energy."
+        },
+        {
+          "label": "C",
+          "text": "The 2p peak has the lowest energy."
+        },
+        {
+          "label": "D",
+          "text": "The 1p peak has the lowest energy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Substances whose Lewis structures must be drawn with an unpaired electron are called",
+      "options": [
+        {
+          "label": "A",
+          "text": "ionic compounds"
+        },
+        {
+          "label": "B",
+          "text": "free radicals"
+        },
+        {
+          "label": "C",
+          "text": "resonance structures"
+        },
+        {
+          "label": "D",
+          "text": "polar molecules"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Argon can be liquefied at low temperature because of",
+      "options": [
+        {
+          "label": "A",
+          "text": "dipole-dipole attractive forces"
+        },
+        {
+          "label": "B",
+          "text": "hydrogen bonding"
+        },
+        {
+          "label": "C",
+          "text": "instantaneous and induced dipoles"
+        },
+        {
+          "label": "D",
+          "text": "the very low temperature"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Atoms of four elements are examined: carbon, nitrogen, neon, and sulfur. Atoms of which element are most likely to form a structure with the formula XF6 (where X is one of the four atoms)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbon"
+        },
+        {
+          "label": "B",
+          "text": "Nitrogen"
+        },
+        {
+          "label": "C",
+          "text": "Neon"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "The reaction of Br2(g) with Cl2(g) to form BrCl(g) has an equilibrium constant of 15.0 at a certain temperature. If 10.0 grams of BrCl is initially present in a 15.0-liter reaction vessel, what will the concentration of BrCl be at equilibrium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.8 × 10^-3 mol/L"
+        },
+        {
+          "label": "B",
+          "text": "5.77 × 10^-3 mol/L"
+        },
+        {
+          "label": "C",
+          "text": "1.97 × 10^-3 M"
+        },
+        {
+          "label": "D",
+          "text": "9.9 × 10^-4 M"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Hypochlorous acid is an unstable compound, and one of the decomposition products is chlorine gas, Cl2. The decomposition of the acid lowers its concentration over time. What effect will the decomposition of one-fourth of the acid have on the agreement between the endpoint of the titration and the equivalence point during a titration with standard sodium hydroxide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The endpoint would still remain near the ideal equivalence point."
+        },
+        {
+          "label": "B",
+          "text": "The endpoint would be after the ideal equivalence point."
+        },
+        {
+          "label": "C",
+          "text": "The endpoint would be before the ideal equivalence point."
+        },
+        {
+          "label": "D",
+          "text": "It is impossible to determine."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "A 25 g sample of a liquid was heated to 95 °C and then quickly transferred to an insulated container holding 100 g of water at 26 °C. The temperature of the mixture rose to reach a final temperature of 37 °C. Which of the following can be concluded?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The sample lost more heat energy than the water gained because the sample temperature changed more than the water temperature did."
+        },
+        {
+          "label": "B",
+          "text": "The final temperature is less than the average starting temperatures; therefore the equilibrium constant must be less than 1."
+        },
+        {
+          "label": "C",
+          "text": "The sample temperature changed more than the water temperature did; therefore the heat capacity of the sample must be greater than the heat capacity of the water."
+        },
+        {
+          "label": "D",
+          "text": "Even though the sample temperature changed more than the water temperature did, the sample lost the same amount of heat energy as the water gained to obey the law of conservation of energy."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "0.0025 mol of a weak, monoprotic acid is dissolved in 0.250 L of distilled water. The pH was then measured as 4.26. What is the pKa of this weak acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4.26"
+        },
+        {
+          "label": "B",
+          "text": "8.52"
+        },
+        {
+          "label": "C",
+          "text": "7.92"
+        },
+        {
+          "label": "D",
+          "text": "6.52"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "The Pauli exclusion principle states that",
+      "options": [
+        {
+          "label": "A",
+          "text": "no two electrons can have the same energy"
+        },
+        {
+          "label": "B",
+          "text": "no two electrons can have the same four quantum numbers"
+        },
+        {
+          "label": "C",
+          "text": "no two electrons can occupy separate orbitals"
+        },
+        {
+          "label": "D",
+          "text": "no two electrons can pair up if there is an empty orbital available"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following pair of liquids is expected to be immiscible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2O and CH3OH"
+        },
+        {
+          "label": "B",
+          "text": "C6H6 and C5H12"
+        },
+        {
+          "label": "C",
+          "text": "C10H22 and CH2CH2CH2OH"
+        },
+        {
+          "label": "D",
+          "text": "CH3CH2NH2 and CH3CH2CH2OH"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "An ideal solution is a",
+      "options": [
+        {
+          "label": "A",
+          "text": "mixture where two solvents can be dissolved in all ratios"
+        },
+        {
+          "label": "B",
+          "text": "mixture that has the same physical properties as the individual solvents"
+        },
+        {
+          "label": "C",
+          "text": "mixture where the potential energy of the mixture is the same as that of the individual solvents"
+        },
+        {
+          "label": "D",
+          "text": "mixture that is colorless"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which net ionic equation below represents a possible reaction that takes place when a strip of magnesium metal is oxidized by a solution of chromium (III) nitrate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mg(s) + Cr(NO3)3(aq) → Mg2+(aq) + Cr3+(aq) + 3NO3-(aq)"
+        },
+        {
+          "label": "B",
+          "text": "3Mg(s) + 2Cr3+ → 3Mg2+ + 2Cr(s)"
+        },
+        {
+          "label": "C",
+          "text": "Mg(s) + Cr3+ → Mg2+ + Cr(s)"
+        },
+        {
+          "label": "D",
+          "text": "3Mg(s) + 2Cr(NO3)3(aq) → 3Mg2+(aq) + 2Cr(s) + NO3-(aq)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "London dispersion forces are caused by",
+      "options": [
+        {
+          "label": "A",
+          "text": "temporary dipoles created by the position of electrons around the nuclei in a molecule"
+        },
+        {
+          "label": "B",
+          "text": "the three-dimensional intermolecular bonding present in all covalent substances"
+        },
+        {
+          "label": "C",
+          "text": "the uneven electron-to-proton ratio found on individual atoms of a molecule"
+        },
+        {
+          "label": "D",
+          "text": "the electronegativity differences between the different atoms in a molecule"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "A mechanism is a sequence of elementary reactions that add up to the overall reaction stoichiometry. A substance that is produced in one elementary reaction and consumed in another is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "a catalyst"
+        },
+        {
+          "label": "B",
+          "text": "an intermediate"
+        },
+        {
+          "label": "C",
+          "text": "a reactant"
+        },
+        {
+          "label": "D",
+          "text": "a complex"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Which of the following geometries corresponds to a substance that has five sigma bonds and one nonbonding pair of electrons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tetrahedron"
+        },
+        {
+          "label": "B",
+          "text": "Square planar"
+        },
+        {
+          "label": "C",
+          "text": "Octahedron"
+        },
+        {
+          "label": "D",
+          "text": "Square pyramid"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "If 1.0 g of rubidium and 1.0 g of bromine are reacted, what will be left in measurable amounts (more than 0.10 mg) in the reaction vessel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "RbBr only"
+        },
+        {
+          "label": "B",
+          "text": "RbBr and Rb only"
+        },
+        {
+          "label": "C",
+          "text": "RbBr and Br2 only"
+        },
+        {
+          "label": "D",
+          "text": "RbBr, Rb, and Br2"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Carbon exists in various forms called allotropes. Which of the following is not an allotrope of carbon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "diamond"
+        },
+        {
+          "label": "B",
+          "text": "soot"
+        },
+        {
+          "label": "C",
+          "text": "buckminsterfullerene"
+        },
+        {
+          "label": "D",
+          "text": "graphite"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Which of the following may need to be balanced using the ion-electron method ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BaCl2 + Al2(SO4)3 → AlCl3 + BaSO4"
+        },
+        {
+          "label": "B",
+          "text": "H+ + OH- → H2O"
+        },
+        {
+          "label": "C",
+          "text": "NaOH + H3PO4 → Na2HPO4 + H2O"
+        },
+        {
+          "label": "D",
+          "text": "C2H2(g) + N2O(g) → CO2(g) + H2O(g) + N2(g)"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "A 2.35-gram sample was dissolved in water, and the chloride ions were precipitated by adding silver nitrate (Ag+ + Cl- → AgCl). If 0.435 g of precipitate was obtained, what is the percentage of chlorine in the sample?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10.80%"
+        },
+        {
+          "label": "B",
+          "text": "4.60%"
+        },
+        {
+          "label": "C",
+          "text": "43.50%"
+        },
+        {
+          "label": "D",
+          "text": "18%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Which of the following can form hydrogen bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3OCH2CH3"
+        },
+        {
+          "label": "B",
+          "text": "HCN"
+        },
+        {
+          "label": "C",
+          "text": "CH3OCH2Br"
+        },
+        {
+          "label": "D",
+          "text": "CH3NH2"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "The rate of a chemical reaction is determined by",
+      "options": [
+        {
+          "label": "A",
+          "text": "the equilibrium constant"
+        },
+        {
+          "label": "B",
+          "text": "the rate-determining or slow step of the mechanism"
+        },
+        {
+          "label": "C",
+          "text": "the reaction vessel pressure"
+        },
+        {
+          "label": "D",
+          "text": "the intermediates formed in the first step"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Identify the Brønsted-Lowry conjugate acid-base pair in the following list.",
+      "options": [
+        {
+          "label": "A",
+          "text": "H3O+ and OH-"
+        },
+        {
+          "label": "B",
+          "text": "H3PO4 and H2PO4-"
+        },
+        {
+          "label": "C",
+          "text": "HClO4 and ClO3-"
+        },
+        {
+          "label": "D",
+          "text": "SO32- and HSO2-"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which of the following is a radioactive element?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Na"
+        },
+        {
+          "label": "B",
+          "text": "Cr"
+        },
+        {
+          "label": "C",
+          "text": "Am"
+        },
+        {
+          "label": "D",
+          "text": "Al"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Of the following pairs of elements, which pair has the second element with the larger electronegativity based on its position in the periodic table?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oxygen, chromium"
+        },
+        {
+          "label": "B",
+          "text": "Chlorine, iodine"
+        },
+        {
+          "label": "C",
+          "text": "Calcium, cesium"
+        },
+        {
+          "label": "D",
+          "text": "Sulfur, nitrogen"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "A sample of oxygen gas at 50 °C is heated, reaching a final temperature of 100 °C. Which statement best describes the behavior of the gas molecules?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Their velocity increases by a factor of two."
+        },
+        {
+          "label": "B",
+          "text": "Their velocity increases by a factor of four."
+        },
+        {
+          "label": "C",
+          "text": "Their kinetic energy increases by a factor of 2."
+        },
+        {
+          "label": "D",
+          "text": "Their kinetic energy increases by a factor of less than 2."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Choose the reaction expected to have the greatest decrease in entropy.",
+      "options": [
+        {
+          "label": "A",
+          "text": "C(s) + CO2(g) → 2 CO(g)"
+        },
+        {
+          "label": "B",
+          "text": "2 Na(s) + O2(g) → Na2O2(s)"
+        },
+        {
+          "label": "C",
+          "text": "CH4(g) + 2 O2(g) → CO2(g) + 2 H2O(g)"
+        },
+        {
+          "label": "D",
+          "text": "2 NI3(s) → 3 I2(s) + N2(g)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Sulfur dioxide reacts with oxygen to form sulfur trioxide in the presence of a catalyst. The equilibrium constant, Kp, at a certain temperature is 3.0 × 10^22. A 2.0-liter flask has enough SO3 added to it to produce a pressure of 0.789 atm Hg. After the reaction comes to equilibrium, the expected partial pressure of O2 will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "2.88 × 10^-6 torr"
+        },
+        {
+          "label": "B",
+          "text": "3 × 10^-18 mm Hg"
+        },
+        {
+          "label": "C",
+          "text": "1100 mm Hg"
+        },
+        {
+          "label": "D",
+          "text": "1.32 × 10^-5 torr"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Chemical reactions can be classified as either heterogeneous or homogeneous. Which of the following equations below is best classified as a heterogeneous reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "2C2H2(g) + 5O2(g) → 4CO2(g) + 2H2O(g)"
+        },
+        {
+          "label": "B",
+          "text": "C2H5OH(aq) + O2(aq) → HC2H3O2(aq) + H2O(aq)"
+        },
+        {
+          "label": "C",
+          "text": "C(s) + H2O(g) → H2(g) + CO(g)"
+        },
+        {
+          "label": "D",
+          "text": "C2H2(g) + 5N2O(g) → CO2(g) + H2O(g) + 5N2(g)"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "2Ag+(aq) + Fe(s) → 2Ag(s) + Fe2+(aq) Which of the following would cause an increase in potential in the voltaic cell described by the above reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing [Fe2+]"
+        },
+        {
+          "label": "B",
+          "text": "Adding more Fe(s)"
+        },
+        {
+          "label": "C",
+          "text": "Decreasing [Fe2+]"
+        },
+        {
+          "label": "D",
+          "text": "Removing some Fe(s)"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "The subatomic particle with the most penetrating ability is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a beta particle"
+        },
+        {
+          "label": "B",
+          "text": "a neutron"
+        },
+        {
+          "label": "C",
+          "text": "a proton"
+        },
+        {
+          "label": "D",
+          "text": "an alpha particle"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Of the following, the most important experimental information used to deduce the structure of the atom was",
+      "options": [
+        {
+          "label": "A",
+          "text": "the density of each element"
+        },
+        {
+          "label": "B",
+          "text": "the specific heat capacity"
+        },
+        {
+          "label": "C",
+          "text": "the emission spectrum of the elements, particularly hydrogen"
+        },
+        {
+          "label": "D",
+          "text": "the X-rays emitted from each element"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "According to the kinetic-molecular theory of gases,",
+      "options": [
+        {
+          "label": "A",
+          "text": "the average kinetic energy of a gas particle is directly related to the Kelvin temperature"
+        },
+        {
+          "label": "B",
+          "text": "ideal gas particles do not attract or repel each other"
+        },
+        {
+          "label": "C",
+          "text": "the atoms or molecules of an ideal gas have no volume"
+        },
+        {
+          "label": "D",
+          "text": "(A), (B), and (C) are part of the theory"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following is the correct order of increasing acid strength?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2SeO3 < H2SO3 < HClO < HBrO"
+        },
+        {
+          "label": "B",
+          "text": "HClO < H2SeO3 < HBrO < H2SO3"
+        },
+        {
+          "label": "C",
+          "text": "HBrO < HClO < H2SeO3 < H2SO3"
+        },
+        {
+          "label": "D",
+          "text": "H2SO3 < H2SeO3 < HClO < HBrO"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The dimerization of NO2(g) to N2O4(g) is an endothermic process. Which of the following will, according to Le Châtelier's principle, increase the amount of N2O4 in a reaction vessel?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreasing the temperature"
+        },
+        {
+          "label": "B",
+          "text": "Increasing the size of the reaction vessel"
+        },
+        {
+          "label": "C",
+          "text": "Adding a selective catalyst"
+        },
+        {
+          "label": "D",
+          "text": "Making the reaction vessel smaller"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "A 50.0 mL sample of 0.0025 M HBr is mixed with 50.0 mL of 0.0023 M KOH. What is the pH of the resulting mixture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "4"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "11"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Hund's rule requires that",
+      "options": [
+        {
+          "label": "A",
+          "text": "no two electrons can have the same four quantum numbers"
+        },
+        {
+          "label": "B",
+          "text": "no two electrons with the same spin can occupy an orbital"
+        },
+        {
+          "label": "C",
+          "text": "no two electrons can occupy separate orbitals"
+        },
+        {
+          "label": "D",
+          "text": "no two electrons can pair up if there is an empty orbital at the same energy level available"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "The weight percent of sodium hydroxide dissolved in water is 50%. What is the mole fraction of sodium hydroxide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "31.00%"
+        },
+        {
+          "label": "B",
+          "text": "0.164"
+        },
+        {
+          "label": "C",
+          "text": "0.311"
+        },
+        {
+          "label": "D",
+          "text": "0.5"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The molecule with a tetrahedral shape is",
+      "options": [
+        {
+          "label": "A",
+          "text": "PCl4F"
+        },
+        {
+          "label": "B",
+          "text": "BF3"
+        },
+        {
+          "label": "C",
+          "text": "CO2"
+        },
+        {
+          "label": "D",
+          "text": "CBr4"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Monatomic ions of the representative elements are often",
+      "options": [
+        {
+          "label": "A",
+          "text": "very soluble"
+        },
+        {
+          "label": "B",
+          "text": "very electronegative"
+        },
+        {
+          "label": "C",
+          "text": "isoelectronic with a noble gas"
+        },
+        {
+          "label": "D",
+          "text": "highly colored"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "S(s) + O2(g) → SO2(g)",
+      "options": [
+        {
+          "label": "A",
+          "text": "one atom of S reacts with one molecule of O2 to yield one molecule of SO2"
+        },
+        {
+          "label": "B",
+          "text": "one mole of sulfur atoms reacts with one mole of oxygen molecules to yield one mole of sulfur dioxide molecules"
+        },
+        {
+          "label": "C",
+          "text": "this reaction goes to completion"
+        },
+        {
+          "label": "D",
+          "text": "adding S(s) will change the equilibrium constant"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "You cannot prepare a buffer by",
+      "options": [
+        {
+          "label": "A",
+          "text": "mixing a solution of a weak base with a strong acid"
+        },
+        {
+          "label": "B",
+          "text": "mixing a solution of a weak acid with a strong base"
+        },
+        {
+          "label": "C",
+          "text": "mixing a solution of a strong base with a strong acid"
+        },
+        {
+          "label": "D",
+          "text": "mixing a solution of a weak acid with its conjugate base"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Which of the following indicates that a reaction is spontaneous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "at equilibrium there are more products than reactants"
+        },
+        {
+          "label": "B",
+          "text": "the value of ΔG° is greater than zero"
+        },
+        {
+          "label": "C",
+          "text": "the value of ΔS° is greater than zero"
+        },
+        {
+          "label": "D",
+          "text": "the value of Keq is less than one"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Which would be the easiest way to burn an iron nail?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hold an iron nail with crucible tongs, and heat strongly in the flame of a Bunsen burner."
+        },
+        {
+          "label": "B",
+          "text": "Use the method in (A), but use an oxyacetylene torch to reach a higher temperature."
+        },
+        {
+          "label": "C",
+          "text": "Grind the nail into very small, dust-sized particles, and spray them into a flame"
+        },
+        {
+          "label": "D",
+          "text": "Dissolve the nail in acid to make the oxide."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Formation of a solution can often be visualized as a three-step process. Step 1. Solvent molecules are separated from each other to make space for the solute. Step 2. Solute molecules are separated so they fit into spaces in the solvent. Step 3. Separated solute and solvent are brought together, filling in the spaces. Which of the following statements about the energy involved in the above is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steps 1 and 2 are exothermic, and step 3 is endothermic."
+        },
+        {
+          "label": "B",
+          "text": "Steps 1 and 2 are endothermic, and step 3 is exothermic."
+        },
+        {
+          "label": "C",
+          "text": "All three steps are exothermic."
+        },
+        {
+          "label": "D",
+          "text": "All three steps are endothermic."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Helium effuses through a pinhole 5.33 times faster than an unknown gas. That gas is most likely",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO2"
+        },
+        {
+          "label": "B",
+          "text": "CH4"
+        },
+        {
+          "label": "C",
+          "text": "C5H12"
+        },
+        {
+          "label": "D",
+          "text": "C8H18"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Three steel containers hold gas samples. The containers are all the same size and at the same temperature. One container has 4.0 g of helium, another has 28.0 g of nitrogen, and the third has 44.0 g of carbon dioxide. Pick the FALSE statement from the following list:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The densities increase in the order helium < nitrogen < carbon dioxide."
+        },
+        {
+          "label": "B",
+          "text": "The number of molecules in all the containers is the same."
+        },
+        {
+          "label": "C",
+          "text": "The pressure in all three containers is the same."
+        },
+        {
+          "label": "D",
+          "text": "The average speed of all the molecules is the same."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Formation of a solution can often be visualized as a three-step process. Step 1. Solvent molecules are separated from each other to make space for the solute. Step 2. Solute molecules are separated so they fit into spaces in the solvent. Step 3. Separated solute and solvent are brought together filling in the spaces.All of the fundamental principles below are important in understanding the formation of solutions except which one?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Starting at equilibrium, moving particles apart while in the solid or equilibrium phases requires added energy proportional to the attractive forces."
+        },
+        {
+          "label": "B",
+          "text": "Bringing particles together releases energy in proportion to their attractive forces."
+        },
+        {
+          "label": "C",
+          "text": "The total of the energies in steps 1 to 3 indicates if a solution will form."
+        },
+        {
+          "label": "D",
+          "text": "Molecules with similar molecular masses are required to form solutions."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Using fundamental trends in electronegativity and bond strength, which of the following should be the strongest acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2S"
+        },
+        {
+          "label": "B",
+          "text": "HI"
+        },
+        {
+          "label": "C",
+          "text": "HBr"
+        },
+        {
+          "label": "D",
+          "text": "H2O"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Determine the final temperature, in °C, of a sample of helium gas. The sample initially occupied a volume of 5.00 L at 127°C and 875 mm Hg. The sample was heated, at constant pressure, until it occupied a volume of 10.00 L.",
+      "options": [
+        {
+          "label": "A",
+          "text": "454°C"
+        },
+        {
+          "label": "B",
+          "text": "527°C"
+        },
+        {
+          "label": "C",
+          "text": "45°C"
+        },
+        {
+          "label": "D",
+          "text": "181°C"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "A certain radioactive material has a half-life of 36 minutes. Starting with 10.00 grams of this material, how many grams will be left after 2 hours?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1.00 grams"
+        },
+        {
+          "label": "B",
+          "text": "1.5 × 10^-4 grams"
+        },
+        {
+          "label": "C",
+          "text": "3.33 grams"
+        },
+        {
+          "label": "D",
+          "text": "0.25 gram"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "To prepare a buffer, all of the following are needed except",
+      "options": [
+        {
+          "label": "A",
+          "text": "an acid with a pKa close to the desired pH"
+        },
+        {
+          "label": "B",
+          "text": "a conjugate acid along with its conjugate base"
+        },
+        {
+          "label": "C",
+          "text": "a buffer capacity sufficient to react with added acid or base"
+        },
+        {
+          "label": "D",
+          "text": "triple-distilled water"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "A certain reaction is nonspontaneous under standard conditions, but becomes spontaneous at higher temperatures. What conclusions may be drawn under standard conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ΔH < 0, ΔS < 0 and ΔG = 0"
+        },
+        {
+          "label": "B",
+          "text": "ΔH > 0, ΔS < 0 and ΔG > 0"
+        },
+        {
+          "label": "C",
+          "text": "ΔH < 0, ΔS < 0 and ΔG > 0"
+        },
+        {
+          "label": "D",
+          "text": "ΔH > 0, ΔS > 0 and ΔG > 0"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Nitrous acid is a weak acid, while nitric acid is a much stronger acid because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the nitrogen in nitric acid is more electronegative than the nitrogen in nitrous acid"
+        },
+        {
+          "label": "B",
+          "text": "nitric acid has more oxygen atoms in its formula"
+        },
+        {
+          "label": "C",
+          "text": "the –O–H bonds in nitric acid are much weaker than in nitrous acid due to the electron withdrawing of more oxygen atoms on nitric acid"
+        },
+        {
+          "label": "D",
+          "text": "nitric acid has the hydrogen atoms bound directly to the nitrogen atom"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "A 2.0 L flask holds 0.40 g of helium gas. If the helium is evacuated into a larger container while the temperature is held constant, what will the effect on the entropy of the helium be?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will remain constant as the number of helium molecules does not change."
+        },
+        {
+          "label": "B",
+          "text": "It will decrease as the gas will be more ordered in the larger flask."
+        },
+        {
+          "label": "C",
+          "text": "It will decrease because the molecules will collide with the sides of the larger flask less often than they did in the smaller flask."
+        },
+        {
+          "label": "D",
+          "text": "It will increase as the gas molecules will be more dispersed in the larger flask."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "In determining the order for reactant A in a certain reaction, the concentrations of all other reactants are held constant while the concentration of A is tripled from one experiment to another. The reaction rate is found to triple. The appropriate exponent for A in the rate law is",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which of the following molecules cannot hydrogen bond with molecules identical to itself but can hydrogen bond with one of the molecules above or below it in the following responses?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CH3CH2OH"
+        },
+        {
+          "label": "B",
+          "text": "CH3CH2COOH"
+        },
+        {
+          "label": "C",
+          "text": "CH3CH2CHO"
+        },
+        {
+          "label": "D",
+          "text": "C6H5CHO"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Fluorine has a normal boiling point of 85 K, and chlorine boils at 239 K. The Cl2 molecule is much larger than F2 (atomic radius is 99 pm for chlorine and is 64 pm for fluorine). Which is the best reason for the large difference in boiling points?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorine has a higher dipole moment than fluorine."
+        },
+        {
+          "label": "B",
+          "text": "The intramolecular bonds in Cl2 are much weaker than those in F2."
+        },
+        {
+          "label": "C",
+          "text": "The Cl2 electron clouds are much more polarizable than the F2 electron clouds, resulting in much stronger London forces."
+        },
+        {
+          "label": "D",
+          "text": "The mass of chlorine is much greater than the mass of fluorine."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "A solution contains a mixture of four different compounds: KCl(aq), Fe(NO3)3(aq), MgSO4(aq), and N2H4(aq). Which of these compounds would be easiest to separate via distillation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "KCl(aq)"
+        },
+        {
+          "label": "B",
+          "text": "Fe(NO3)3(aq)"
+        },
+        {
+          "label": "C",
+          "text": "MgSO4 (aq)"
+        },
+        {
+          "label": "D",
+          "text": "N2H4(aq)"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "The units for R, the ideal gas law equation constant, may be",
+      "options": [
+        {
+          "label": "A",
+          "text": "L atm mol-1 K-1"
+        },
+        {
+          "label": "B",
+          "text": "J mol-1 K-1"
+        },
+        {
+          "label": "C",
+          "text": "volt coulomb mol-1 K-1"
+        },
+        {
+          "label": "D",
+          "text": "(A), (B), and (C)"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "In acid solution the bromate ion, BrO3- can react with other substances, resulting in Br2. Balance the half-reaction for bromate ions forming bromine. The balanced half-reaction has",
+      "options": [
+        {
+          "label": "A",
+          "text": "6 electrons on the left"
+        },
+        {
+          "label": "B",
+          "text": "6 electrons on the right"
+        },
+        {
+          "label": "C",
+          "text": "3 electrons on the left"
+        },
+        {
+          "label": "D",
+          "text": "10 electrons on the left"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "A sample of a compound known to consist of only carbon, hydrogen, and oxygen is found to have a total mass of 29.05 g. If the mass of the carbon is 18.02 g and the mass of the hydrogen is 3.03 g, what is the empirical formula of the compound?",
+      "options": [
+        {
+          "label": "A",
+          "text": "C2H4O"
+        },
+        {
+          "label": "B",
+          "text": "C3H6O"
+        },
+        {
+          "label": "C",
+          "text": "C2H6O3"
+        },
+        {
+          "label": "D",
+          "text": "C3H8O2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "What is the molarity of a sodium hydroxide solution that requires 42.6 mL of 0.108 M HCl to neutralize 40.0 mL of the base?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.0641 M"
+        },
+        {
+          "label": "B",
+          "text": "1.64 M"
+        },
+        {
+          "label": "C",
+          "text": "0.115 M"
+        },
+        {
+          "label": "D",
+          "text": "0.400 mol/L"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "0.25 mol of a weak, monoprotic acid is dissolved in 0.25 L of distilled water. The pH was then measured as 4.26. What is the pKa of this weak acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4.26"
+        },
+        {
+          "label": "B",
+          "text": "8.52"
+        },
+        {
+          "label": "C",
+          "text": "7.52"
+        },
+        {
+          "label": "D",
+          "text": "3.66"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "In which of the following is the negative end of the bond written last?",
+      "options": [
+        {
+          "label": "A",
+          "text": "O—S"
+        },
+        {
+          "label": "B",
+          "text": "Br—N"
+        },
+        {
+          "label": "C",
+          "text": "N—C"
+        },
+        {
+          "label": "D",
+          "text": "P—Cl"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Three 25.00 mL samples of approximately 0.10 M phenol, C6H5OH, Ka = 1.0 × 10^-10 were removed from a container and placed in separate 250 mL beakers. The samples were titrated with standard potassium hydroxide, KOH, solution. Cresol red was the acid-base indicator used in the titration. The samples required 31.75, 32.38, and 41.75 mL to reach the endpoint. Which of the following might explain why one of the samples required significantly more base to reach the endpoint?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The indicator was added too late."
+        },
+        {
+          "label": "B",
+          "text": "The wrong indicator was used."
+        },
+        {
+          "label": "C",
+          "text": "There was a base contaminating the unclean beaker."
+        },
+        {
+          "label": "D",
+          "text": "There was an acid contaminating the unclean beaker."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "SO2Cl2 → SO2(g) + Cl2(g) At 600 K, SO2Cl2 will decompose to form sulfur dioxide and chlorine gas via the above equation. If the reaction is found to be first order overall, which of the following will cause an increase in the half life of SO2Cl2?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increasing the initial concentration of SO2Cl2"
+        },
+        {
+          "label": "B",
+          "text": "Increasing the temperature at which the reaction occurs"
+        },
+        {
+          "label": "C",
+          "text": "Decreasing the overall pressure in the container"
+        },
+        {
+          "label": "D",
+          "text": "None of these will increase the half life"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Which of the following is considered a metalloid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cr"
+        },
+        {
+          "label": "B",
+          "text": "Mn"
+        },
+        {
+          "label": "C",
+          "text": "Si"
+        },
+        {
+          "label": "D",
+          "text": "S"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "A student has a liter of a 0.100 M solution of a strong acid. To prepare a buffer, this should be mixed with",
+      "options": [
+        {
+          "label": "A",
+          "text": "a strong acid"
+        },
+        {
+          "label": "B",
+          "text": "a weak acid"
+        },
+        {
+          "label": "C",
+          "text": "a weak base"
+        },
+        {
+          "label": "D",
+          "text": "a strong base"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "A first-order reaction has a half-life of 34 minutes. What is the rate constant for this reaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3.4 × 10^-4 s-1"
+        },
+        {
+          "label": "B",
+          "text": "2.04 × 10^-2 s-1"
+        },
+        {
+          "label": "C",
+          "text": "2.9 × 10^-1 min-1"
+        },
+        {
+          "label": "D",
+          "text": "34 min"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "The oxidation number of chlorine in the perchlorate ion, ClO4–, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "2"
+        },
+        {
+          "label": "B",
+          "text": "-3"
+        },
+        {
+          "label": "C",
+          "text": "-1"
+        },
+        {
+          "label": "D",
+          "text": "7"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "There are a number of experiments for the determination of the molecular mass of a gas. One method begins by heating a solid or liquid in a flask to produce a gaseous product. The gas passes through a tube and displaces water in an inverted, water-filled bottle. The mass of the starting material is measured, along with the volume of the displaced water and the temperature of the system. The pressure in the inverted water-filled bottle is equal to the external pressure. Once the barometric pressure has been recorded, what other information is needed to finish the experiment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The heat of formation of the gas"
+        },
+        {
+          "label": "B",
+          "text": "The density of the water"
+        },
+        {
+          "label": "C",
+          "text": "The mass of the displaced water"
+        },
+        {
+          "label": "D",
+          "text": "The vapor pressure of the water"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Sulfurous acid is a weak acid, while sulfuric acid is a much stronger acid because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the sulfur in sulfuric acid is more electronegative than the sulfur in sulfurous acid"
+        },
+        {
+          "label": "B",
+          "text": "sulfuric acid has more oxygen atoms in its formula"
+        },
+        {
+          "label": "C",
+          "text": "the O–H bonds in sulfuric acid are much weaker than those in sulfurous acid"
+        },
+        {
+          "label": "D",
+          "text": "sulfurous acid has its hydrogen atoms bound directly to the sulfur atom"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which of the following is expected to have the largest bond polarity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "S–O"
+        },
+        {
+          "label": "B",
+          "text": "P–F"
+        },
+        {
+          "label": "C",
+          "text": "C–B"
+        },
+        {
+          "label": "D",
+          "text": "C–N"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "The net ionic equation expected when solutions of NH4Br and AgNO3 are mixed together is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ag+(aq) + Br-(aq) → AgBr(s)"
+        },
+        {
+          "label": "B",
+          "text": "NH4+(aq) + Ag+(aq) → Ag(NH4)3+2(aq)"
+        },
+        {
+          "label": "C",
+          "text": "Br-(aq) + NO3-(aq) → NO3Br(aq)"
+        },
+        {
+          "label": "D",
+          "text": "NH4Br(aq) + NO3-(aq) → NH4NO3(aq) + Br-(aq)"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "What is the pH of a solution prepared by dissolving 0.1665 mole of hypochlorous acid (HClO) in enough water to make 500 mL of solution? The Ka is 3.0 × 10^-4",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "5.4 × 10^-3"
+        },
+        {
+          "label": "D",
+          "text": "1.76"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "The symbol for antimony is",
+      "options": [
+        {
+          "label": "A",
+          "text": "W"
+        },
+        {
+          "label": "B",
+          "text": "Sb"
+        },
+        {
+          "label": "C",
+          "text": "Fe"
+        },
+        {
+          "label": "D",
+          "text": "An"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Consider the Lewis structures for the following molecules: CO2, CO32-, NO2-, and NO3-. Which molecule would have the shortest bonds?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CO2"
+        },
+        {
+          "label": "B",
+          "text": "CO32-"
+        },
+        {
+          "label": "C",
+          "text": "NO2-"
+        },
+        {
+          "label": "D",
+          "text": "NO3-"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "A sealed, rigid container contains three gases: 28.0 g of nitrogen, 40.0 g of argon, and 36.0 g of water vapor. If the total pressure exerted by the gases is 2.0 atm, what is the partial pressure of the nitrogen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.33 atm"
+        },
+        {
+          "label": "B",
+          "text": "0.40 atm"
+        },
+        {
+          "label": "C",
+          "text": "0.50 atm"
+        },
+        {
+          "label": "D",
+          "text": "2.0 atm"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "A metal is reacted with HCl to produce hydrogen gas. If 0.0623 gram of metal produces 28.3 mL of hydrogen at STP, the mass of the metal that reacts with one mole of hydrochloric acid is",
+      "options": [
+        {
+          "label": "A",
+          "text": "98.6 g"
+        },
+        {
+          "label": "B",
+          "text": "493 g"
+        },
+        {
+          "label": "C",
+          "text": "24.7 g"
+        },
+        {
+          "label": "D",
+          "text": "49.3 g"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

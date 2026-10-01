@@ -1,0 +1,733 @@
+{
+  "variant_id": "imperative",
+  "description": "Mood: the final question/completion clause becomes an imperative directive; scenario and options verbatim. DRAFT - requires construct-preservation review before entering any suite.",
+  "source": "drafted 2026-06-11 by assistant from fci/items.json v95; Leidinger 2023 linguistic-form axes",
+  "items": [
+    {
+      "item_id": 1,
+      "options": [
+        {
+          "text": "About half as long for the heavier ball as for the lighter one."
+        },
+        {
+          "text": "About half as long for the lighter ball as for the heavier one."
+        },
+        {
+          "text": "About the same for both balls."
+        },
+        {
+          "text": "Considerably less for the heavier ball, but not necessarily half as long."
+        },
+        {
+          "text": "Considerably less for the lighter ball, but not necessarily half as long."
+        }
+      ],
+      "text": "Two metal balls are the same size but one weighs twice as much as the other. The balls are dropped from the roof of a single story building at the same instant of time. State the time it takes the balls to reach the ground below.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 2,
+      "options": [
+        {
+          "text": "Both balls hit the floor at approximately the same horizontal distance from the base of the table."
+        },
+        {
+          "text": "The heavier ball hits the floor at about half the horizontal distance from the base of the table than does the lighter ball."
+        },
+        {
+          "text": "The lighter ball hits the floor at about half the horizontal distance from the base of the table than does the heavier ball."
+        },
+        {
+          "text": "The heavier ball hits the floor considerably closer to the base of the table than the lighter ball, but not necessarily at half the horizontal distance."
+        },
+        {
+          "text": "The lighter ball hits the floor considerably closer to the base of the table than the heavier ball, but not necessarily at half the horizontal distance."
+        }
+      ],
+      "text": "The two metal balls of the previous problem roll off a horizontal table with the same speed. Identify the correct statement about the balls.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 3,
+      "options": [
+        {
+          "text": "Reaches a maximum speed quite soon after release and then falls at a constant speed thereafter."
+        },
+        {
+          "text": "Speeds up as it falls because the gravitational attraction gets considerably stronger as the stone gets closer to the earth."
+        },
+        {
+          "text": "Speeds up because of an almost constant force of gravity acting upon it."
+        },
+        {
+          "text": "Falls because of the natural tendency of all objects to rest on the surface of the earth."
+        },
+        {
+          "text": "Falls because of the combined effects of the force of gravity pushing it downward and the force of the air pushing it downward."
+        }
+      ],
+      "text": "Describe the motion of a stone dropped from the roof of a single story building to the surface of the earth.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 4,
+      "options": [
+        {
+          "text": "The truck exerts a greater amount of force on the car than the car exerts on the truck."
+        },
+        {
+          "text": "The car exerts a greater amount of force on the truck than the truck exerts on the car."
+        },
+        {
+          "text": "Neither exerts a force on the other; the car gets smashed simply because it gets in the way of the truck."
+        },
+        {
+          "text": "The truck exerts a force on the car but the car does not exert a force on the truck."
+        },
+        {
+          "text": "The truck exerts the same amount of force on the car as the car exerts on the truck."
+        }
+      ],
+      "text": "A large truck collides head-on with a small compact car. Describe the forces during the collision.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 5,
+      "options": [
+        {
+          "text": "Force A only."
+        },
+        {
+          "text": "Forces A and B."
+        },
+        {
+          "text": "Forces A and C."
+        },
+        {
+          "text": "Forces A, B, and C."
+        },
+        {
+          "text": "Forces A, C, and D."
+        }
+      ],
+      "text": "A ball rolls smoothly through a curved track that forms a half-circle on top of a flat table. Consider the following distinct forces:\nA) A downward force of gravity.\nB) A force exerted by the channel directed from the ball's current position toward the center of the channel.\nC) A force in the direction of motion.\nD) A force directed from the center of the channel to the ball's current position.\n\nIdentify which of the above forces is (are) acting on the ball when it is in the frictionless channel at the halfway point.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 6,
+      "options": [
+        {
+          "text": "A path that would correspond to the arc of the channel if it formed a closed circle."
+        },
+        {
+          "text": "A straight-line path tangent to the circle at the exit point."
+        },
+        {
+          "text": "A path that curves outward away from the center of the channel."
+        },
+        {
+          "text": "A path that curves outward in a broad arc."
+        },
+        {
+          "text": "A path that is immediately deflected outward in a straight line from the center."
+        }
+      ],
+      "text": "A ball rolls through a curved track shaped like part of a circle and then exits onto a perfectly smooth, frictionless tabletop. Identify the path the ball will most closely follow after leaving the track.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 7,
+      "options": [
+        {
+          "text": "A path that continues along the arc of the circular path."
+        },
+        {
+          "text": "A straight-line path tangent to the circle at the break point."
+        },
+        {
+          "text": "A straight-line path at an angle between the tangent and the outward radial direction."
+        },
+        {
+          "text": "A path that initially curves outward then straightens in the direction of motion."
+        },
+        {
+          "text": "A straight-line path directed radially outward from the center."
+        }
+      ],
+      "text": "A steel ball is attached to a string and is swung in a circular path in a horizontal plane. At one point, the string suddenly breaks near the ball. If these events are observed from directly above, identify the path the ball would most closely follow after the string breaks.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 8,
+      "options": [
+        {
+          "text": "A straight-line path in the direction of the kick."
+        },
+        {
+          "text": "A straight-line path at an angle between the original direction and the kick direction."
+        },
+        {
+          "text": "A path in the original direction, shifted sideways in the kick direction."
+        },
+        {
+          "text": "A curved path that gradually bends in the direction of the kick."
+        },
+        {
+          "text": "A curved path that bends in the original direction of motion."
+        }
+      ],
+      "text": "Imagine a hockey puck sliding with constant speed v_0 in a straight line from point \"a\" to point \"b\" on a frictionless horizontal surface. Forces exerted by the air are negligible. You are looking down on the puck. When the puck reaches point \"b,\" it receives a swift horizontal kick in a direction perpendicular to the original direction of motion. Had the puck been at rest at point \"b,\" then the kick would have set the puck in horizontal motion with a speed v_k in the direction of the kick.\n\nIdentify the path below the puck would most closely follow after receiving the kick.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 9,
+      "options": [
+        {
+          "text": "Equal to the speed v_0 it had before it received the kick."
+        },
+        {
+          "text": "Equal to the speed v_k resulting from the kick and independent of the speed v_0."
+        },
+        {
+          "text": "Equal to the arithmetic sum of the speeds v_0 and v_k."
+        },
+        {
+          "text": "Smaller than either of the speeds v_0 or v_k."
+        },
+        {
+          "text": "Greater than either of the speeds v_0 or v_k, but less than the arithmetic sum of these two speeds."
+        }
+      ],
+      "text": "State the speed of the puck just after it receives the kick.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 10,
+      "options": [
+        {
+          "text": "Is constant."
+        },
+        {
+          "text": "Continuously increases."
+        },
+        {
+          "text": "Continuously decreases."
+        },
+        {
+          "text": "Increases for a while and decreases thereafter."
+        },
+        {
+          "text": "Is constant for a while and decreases thereafter."
+        }
+      ],
+      "text": "Along the frictionless path you have chosen in question 8, describe how the speed of the puck changes after receiving the kick.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 11,
+      "options": [
+        {
+          "text": "A downward force of gravity."
+        },
+        {
+          "text": "A downward force of gravity, and a horizontal force in the direction of motion."
+        },
+        {
+          "text": "A downward force of gravity, an upward force exerted by the surface, and a horizontal force in the direction of motion."
+        },
+        {
+          "text": "A downward force of gravity and an upward force exerted by the surface."
+        },
+        {
+          "text": "None. (No forces act on the puck.)"
+        }
+      ],
+      "text": "Along the frictionless path you have chosen in question 8, identify the main force(s) acting on the puck after receiving the kick.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 12,
+      "options": [
+        {
+          "text": "A straight diagonal line from the launch point to the landing point."
+        },
+        {
+          "text": "A smooth parabolic curve from the launch point to the landing point."
+        },
+        {
+          "text": "Horizontal for a short distance, then curving downward to the landing point."
+        },
+        {
+          "text": "Horizontal for some distance, then curved, then vertical before impact."
+        },
+        {
+          "text": "Horizontal until nearly above the landing point, then nearly vertical to the ground."
+        }
+      ],
+      "text": "A ball is fired by a cannon from the top of a cliff. The cannon is aimed horizontally. Air resistance is negligible. Identify the path the cannonball would most closely follow.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 13,
+      "options": [
+        {
+          "text": "A downward force of gravity along with a steadily decreasing upward force."
+        },
+        {
+          "text": "A steadily decreasing upward force from the moment it leaves the boy's hand until it reaches its highest point; on the way down there is a steadily increasing downward force of gravity as the object gets closer to the earth."
+        },
+        {
+          "text": "An almost constant downward force of gravity along with an upward force that steadily decreases until the ball reaches its highest point; on the way down there is only a constant downward force of gravity."
+        },
+        {
+          "text": "An almost constant downward force of gravity only."
+        },
+        {
+          "text": "None of the above. The ball falls back to ground because of its natural tendency to rest on the surface of the earth."
+        }
+      ],
+      "text": "A boy throws a steel ball straight up. Consider the motion of the ball only after it has left the boy's hand but before it reaches the ground, and assume that forces exerted by the air are negligible. For these conditions, identify the force(s) acting on the ball.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 14,
+      "options": [
+        {
+          "text": "A curved path that goes backward relative to the airplane's direction."
+        },
+        {
+          "text": "A path that goes straight down."
+        },
+        {
+          "text": "A straight-line diagonal path going forward and down."
+        },
+        {
+          "text": "A curved path going forward and down (parabola)."
+        },
+        {
+          "text": "Forward horizontally for a while, then straight down."
+        }
+      ],
+      "text": "A bowling ball accidentally falls out of the cargo bay of an airliner as it flies along in a horizontal direction. As observed by a person standing on the ground and viewing the plane from the side, identify the path the bowling ball would most closely follow after leaving the airplane.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 15,
+      "options": [
+        {
+          "text": "The amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car."
+        },
+        {
+          "text": "Neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car."
+        }
+      ],
+      "text": "A large truck breaks down out on the road and receives a push back into town by a small compact car as shown in the figure below.\n\nDescribe the forces between the car and the truck while the car, still pushing the truck, is speeding up to get up to cruising speed.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 16,
+      "options": [
+        {
+          "text": "The amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car."
+        },
+        {
+          "text": "The car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car."
+        },
+        {
+          "text": "Neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car."
+        }
+      ],
+      "text": "Describe the forces between the car and the truck after the car reaches the constant cruising speed at which the driver wishes to push the truck.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 17,
+      "options": [
+        {
+          "text": "The upward force by the cable is greater than the downward force of gravity."
+        },
+        {
+          "text": "The upward force by the cable is equal to the downward force of gravity."
+        },
+        {
+          "text": "The upward force by the cable is smaller than the downward force of gravity."
+        },
+        {
+          "text": "The upward force by the cable is greater than the sum of the downward force of gravity and a downward force due to the air."
+        },
+        {
+          "text": "None of the above. (The elevator goes up because the cable is being shortened, not because an upward force is exerted on the elevator by the cable.)"
+        }
+      ],
+      "text": "An elevator is being lifted up at a constant speed by a steel cable as shown in the figure below. All frictional effects are negligible. In this situation, describe the forces on the elevator.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 18,
+      "options": [
+        {
+          "text": "1 only."
+        },
+        {
+          "text": "1 and 2."
+        },
+        {
+          "text": "1 and 3."
+        },
+        {
+          "text": "1, 2, and 3."
+        },
+        {
+          "text": "1, 3, and 4."
+        }
+      ],
+      "text": "The figure below shows a boy swinging on a rope tied to a branch at point O. His movement starts above a point A and then continues downward through the point A. Consider the following distinct forces:\n1. A downward force of gravity.\n2. A force exerted by the rope pointing from A to O.\n3. A force in the direction of the boy's motion.\n4. A force pointing from O to A.\n\nIdentify which of the above forces is (are) acting on the boy when he is at position A.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 19,
+      "options": [
+        {
+          "text": "No."
+        },
+        {
+          "text": "Yes, at instant 2."
+        },
+        {
+          "text": "Yes, at instant 5."
+        },
+        {
+          "text": "Yes, at instants 2 and 5."
+        },
+        {
+          "text": "Yes, at some time during the interval 3 to 4."
+        }
+      ],
+      "text": "The positions of two blocks at successive 0.20-second time intervals are represented by the numbered squares in the figure below. The blocks are moving toward the right.\n\nBlock a: positions at 2, 4, 7, 11, 16, 22, 29 length units (accelerating)\nBlock b: positions at 0, 4, 8, 12, 16, 20, 24, 28 length units (constant speed)\n\nDetermine whether the blocks ever have the same speed.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 20,
+      "options": [
+        {
+          "text": "The acceleration of \"a\" is greater than the acceleration of \"b\"."
+        },
+        {
+          "text": "The acceleration of \"a\" equals the acceleration of \"b\". Both accelerations are greater than zero."
+        },
+        {
+          "text": "The acceleration of \"b\" is greater than the acceleration of \"a\"."
+        },
+        {
+          "text": "The acceleration of \"a\" equals the acceleration of \"b\". Both accelerations are zero."
+        },
+        {
+          "text": "Not enough information is given to answer the question."
+        }
+      ],
+      "text": "The positions of two blocks at successive 0.20-second time intervals are represented by the numbered squares in the figure below. The blocks are moving toward the right.\n\nBlock a: positions at 2, 6, 10, 14, 18, 22, 26 length units (constant speed, delta=4)\nBlock b: positions at 0, 6, 12, 18, 24 length units (constant speed, delta=6)\n\nCompare the accelerations of the two blocks.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 21,
+      "options": [
+        {
+          "text": "A path that starts curving immediately at b and curves smoothly toward c (concave path)."
+        },
+        {
+          "text": "A straight-line path perpendicular to ab."
+        },
+        {
+          "text": "A straight diagonal line from b to c."
+        },
+        {
+          "text": "A path that continues along ab for a while, then bends sharply, then continues straight to c."
+        },
+        {
+          "text": "A path that starts along ab and curves smoothly toward the thrust direction (convex path)."
+        }
+      ],
+      "text": "A rocket drifts sideways in outer space from point \"a\" to point \"b\" as shown below. The rocket is subject to no outside forces. Starting at position \"b,\" the rocket's engine is turned on and produces a constant thrust (force on the rocket) at right angles to the line \"ab.\" The constant thrust is maintained until the rocket reaches a point \"c\" in space.\n\nIdentify the path below that best represents the path of the rocket between points \"b\" and \"c\".",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 22,
+      "options": [
+        {
+          "text": "Constant."
+        },
+        {
+          "text": "Continuously increasing."
+        },
+        {
+          "text": "Continuously decreasing."
+        },
+        {
+          "text": "Increasing for a while and constant thereafter."
+        },
+        {
+          "text": "Constant for a while and decreasing thereafter."
+        }
+      ],
+      "text": "As the rocket moves from position \"b\" to position \"c,\" describe its speed.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 23,
+      "options": [
+        {
+          "text": "A straight-line path in the original horizontal direction."
+        },
+        {
+          "text": "A straight-line path in the direction the rocket was moving at c."
+        },
+        {
+          "text": "A straight-line path in the thrust direction (perpendicular to ab)."
+        },
+        {
+          "text": "A curved path bending back toward the horizontal ab direction."
+        },
+        {
+          "text": "A curved path continuing to bend in the thrust direction."
+        }
+      ],
+      "text": "At point \"c\" the rocket's engine is turned off and the thrust immediately drops to zero. Identify the path below that the rocket will follow beyond point \"c\".",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 24,
+      "options": [
+        {
+          "text": "Constant."
+        },
+        {
+          "text": "Continuously increasing."
+        },
+        {
+          "text": "Continuously decreasing."
+        },
+        {
+          "text": "Increasing for a while and constant thereafter."
+        },
+        {
+          "text": "Constant for a while and decreasing thereafter."
+        }
+      ],
+      "text": "State the speed of the rocket beyond position \"c\".",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 25,
+      "options": [
+        {
+          "text": "Has the same magnitude as the weight of the box."
+        },
+        {
+          "text": "Is greater than the weight of the box."
+        },
+        {
+          "text": "Has the same magnitude as the total force which resists the motion of the box."
+        },
+        {
+          "text": "Is greater than the total force which resists the motion of the box."
+        },
+        {
+          "text": "Is greater than either the weight of the box or the total force which resists its motion."
+        }
+      ],
+      "text": "A woman exerts a constant horizontal force on a large box. As a result, the box moves across a horizontal floor at a constant speed \"v_0.\"\n\nDescribe the constant horizontal force applied by the woman.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 26,
+      "options": [
+        {
+          "text": "With a constant speed that is double the speed \"v_0\" in the previous question."
+        },
+        {
+          "text": "With a constant speed that is greater than the speed \"v_0\" in the previous question, but not necessarily twice as great."
+        },
+        {
+          "text": "For a while with a speed that is constant and greater than the speed \"v_0\" in the previous question, then with a speed that increases thereafter."
+        },
+        {
+          "text": "For a while with an increasing speed, then with a constant speed thereafter."
+        },
+        {
+          "text": "With a continuously increasing speed."
+        }
+      ],
+      "text": "If the woman in the previous question doubles the constant horizontal force that she exerts on the box to push it on the same horizontal floor, describe how the box then moves.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 27,
+      "options": [
+        {
+          "text": "Immediately come to a stop."
+        },
+        {
+          "text": "Continue moving at a constant speed for a while and then slow to a stop."
+        },
+        {
+          "text": "Immediately start slowing to a stop."
+        },
+        {
+          "text": "Continue at a constant speed."
+        },
+        {
+          "text": "Increase its speed for a while and then start slowing to a stop."
+        }
+      ],
+      "text": "If the woman in question 25 suddenly stops applying a horizontal force to the box, describe what the box will do.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 28,
+      "options": [
+        {
+          "text": "Neither student exerts a force on the other."
+        },
+        {
+          "text": "Student \"a\" exerts a force on student \"b,\" but \"b\" does not exert any force on \"a.\""
+        },
+        {
+          "text": "Each student exerts a force on the other, but \"b\" exerts the larger force."
+        },
+        {
+          "text": "Each student exerts a force on the other, but \"a\" exerts the larger force."
+        },
+        {
+          "text": "Each student exerts the same amount of force on the other."
+        }
+      ],
+      "text": "In the figure at right, student \"a\" has a mass of 95 kg and student \"b\" has a mass of 77 kg. They sit in identical office chairs facing each other. Student \"a\" places his bare feet on the knees of student \"b.\" Student \"a\" then suddenly pushes outward with his feet, causing both chairs to move.\n\nDescribe the forces between the students during the push and while they are still touching each other.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 29,
+      "options": [
+        {
+          "text": "1 only."
+        },
+        {
+          "text": "1 and 2."
+        },
+        {
+          "text": "1 and 3."
+        },
+        {
+          "text": "1, 2, and 3."
+        },
+        {
+          "text": "None of the forces. (Since the chair is at rest there are no forces acting upon it.)"
+        }
+      ],
+      "text": "An empty office chair is at rest on a floor. Consider the following forces:\n1. A downward force of gravity.\n2. An upward force exerted by the floor.\n3. A net downward force exerted by the air.\n\nIdentify which of the forces is (are) acting on the office chair.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 30,
+      "options": [
+        {
+          "text": "1 only."
+        },
+        {
+          "text": "1 and 2."
+        },
+        {
+          "text": "1 and 3."
+        },
+        {
+          "text": "2 and 3."
+        },
+        {
+          "text": "1, 2, and 3."
+        }
+      ],
+      "text": "Despite a very strong wind, a tennis player manages to hit a tennis ball with her racquet so that the ball goes over the net and lands in her opponent's court.\n\nConsider the following forces:\n1. A downward force of gravity.\n2. A force by the \"hit.\"\n3. A force exerted by the air.\n\nIdentify which of the above forces is (are) acting on the tennis ball after it has left contact with the racquet and before it touches the ground.",
+      "question_word_count": 0,
+      "token_count": 0,
+      "num_alternatives": 5
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 0.0,
+    "avg_token_count": 0.0,
+    "avg_alternatives_count": 5.0,
+    "avg_similarity_excl_self": 1.000000238418579
+  }
+}

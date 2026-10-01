@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_government_and_politics_test",
+  "description": "High school government and politics multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_government_and_politics subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "The Supreme Court case Regents of University of California v. Bakke concerned which of the following issues?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The rights of students to protest on a publicly funded campus"
+        },
+        {
+          "label": "B",
+          "text": "In-class prayer at a publicly funded school"
+        },
+        {
+          "label": "C",
+          "text": "The rights of students to carry concealed weapons on campus"
+        },
+        {
+          "label": "D",
+          "text": "The use of racial quotas in public university admissions"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Which of the following was the legal basis for the 1973 Roe v. Wade majority opinion, in which the Supreme Court struck down a state ban on abortion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Nineteenth Amendment secures for women the right to vote."
+        },
+        {
+          "label": "B",
+          "text": "The Civil Rights Act of 1964 prohibits discrimination based on gender."
+        },
+        {
+          "label": "C",
+          "text": "The Bill of Rights implies a right to privacy."
+        },
+        {
+          "label": "D",
+          "text": "The Ninth Amendment reserves powers to the people."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the following categories of spending are paid without an appropriations bill?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Department of Education special acts and authorizations"
+        },
+        {
+          "label": "B",
+          "text": "Justice department budgets"
+        },
+        {
+          "label": "C",
+          "text": "Federal budget entitlements"
+        },
+        {
+          "label": "D",
+          "text": "Department of Defense funding"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Which of the following is a direct result of an electoral system that features single-member districts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only two major parties can successfully be supported."
+        },
+        {
+          "label": "B",
+          "text": "National campaigns can be conducted without incurring great expense."
+        },
+        {
+          "label": "C",
+          "text": "Third parties can be as successful as the two major political parties can."
+        },
+        {
+          "label": "D",
+          "text": "Each political party tends to focus its campaign on a single issue."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Which of the following has the Supreme Court held about the death penalty?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The death penalty may only be imposed upon citizens."
+        },
+        {
+          "label": "B",
+          "text": "Under some circumstances, the death penalty may not violate the Eighth Amendment."
+        },
+        {
+          "label": "C",
+          "text": "Under some circumstances, the death penalty may violate the Third Amendment."
+        },
+        {
+          "label": "D",
+          "text": "States may execute any adult regardless of intellectual disability."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "All of the following are ways in which lobbyists attempt to persuade legislators EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "distributing propaganda to media"
+        },
+        {
+          "label": "B",
+          "text": "endorsing candidates for office"
+        },
+        {
+          "label": "C",
+          "text": "socializing with government officials"
+        },
+        {
+          "label": "D",
+          "text": "acquiring corporate campaign donations for candidates"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "While best known for protecting freedom of speech and religion, the First Amendment also protects Americans' right to",
+      "options": [
+        {
+          "label": "A",
+          "text": "due process of the law in any criminal case"
+        },
+        {
+          "label": "B",
+          "text": "retain personal property unless justly compensated by the government"
+        },
+        {
+          "label": "C",
+          "text": "not be subjected to excessive fines or unusual punishment"
+        },
+        {
+          "label": "D",
+          "text": "petition the government for a redress of grievances"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The government promotes preferential treatment for members of groups that have historically suffered from discrimination by means of",
+      "options": [
+        {
+          "label": "A",
+          "text": "the New Federalism"
+        },
+        {
+          "label": "B",
+          "text": "affirmative action programs"
+        },
+        {
+          "label": "C",
+          "text": "Social Security benefits"
+        },
+        {
+          "label": "D",
+          "text": "bills of attainder"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "A member of the House of Representatives wishing to influence tax policy would most likely try to serve on which of the following committees?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Commerce"
+        },
+        {
+          "label": "B",
+          "text": "Ways and Means"
+        },
+        {
+          "label": "C",
+          "text": "Education and the Workforce"
+        },
+        {
+          "label": "D",
+          "text": "Resources"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which of the following generally results when the Senate and House of Representatives pass different versions of the same bill?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The president signs the version he prefers."
+        },
+        {
+          "label": "B",
+          "text": "The bill goes back to each house's committee and restarts the legislative process."
+        },
+        {
+          "label": "C",
+          "text": "All amendments to the bill are invalidated, and the original version of the bill is sent to the president to sign."
+        },
+        {
+          "label": "D",
+          "text": "The two legislative bodies form a conference committee."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which of the following is true of federal judges?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They serve four-year terms that coincide with the presidential term."
+        },
+        {
+          "label": "B",
+          "text": "They are appointed for life and can only be removed by impeachment."
+        },
+        {
+          "label": "C",
+          "text": "They are elected by Congress and serve ten-year terms."
+        },
+        {
+          "label": "D",
+          "text": "They are appointed for life and cannot be removed from office."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "A presidential plurality victory occurs when",
+      "options": [
+        {
+          "label": "A",
+          "text": "the winning candidate receives less than 50 percent of the popular vote"
+        },
+        {
+          "label": "B",
+          "text": "candidates receive an equal number of electoral votes and the popular vote determines the winner"
+        },
+        {
+          "label": "C",
+          "text": "the Senate declares the formal winner"
+        },
+        {
+          "label": "D",
+          "text": "the winning candidate receives more than 50% of the popular vote"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Which of the following most accurately states the impact of the Civil Rights Act of 1964 on school desegregation in the South?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because it included no enforcement provisions, the Civil Rights Act of 1964 had no appreciable effect on school desegregation."
+        },
+        {
+          "label": "B",
+          "text": "By overturning the \"separate but equal\" principle, the Civil Rights Act of 1964 ended segregation in public schools."
+        },
+        {
+          "label": "C",
+          "text": "The Civil Rights Act of 1964 hastened school desegregation by cutting off federal funds to discriminatory school systems."
+        },
+        {
+          "label": "D",
+          "text": "The Civil Rights Act of 1964 sent federal troops to every segregated public school in the South to force school desegregation."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "The legislative successes of the National Rifle Association, antiabortion activists, and other powerful interest groups demonstrate that",
+      "options": [
+        {
+          "label": "A",
+          "text": "United States domestic policy grew more conservative in the 1990s"
+        },
+        {
+          "label": "B",
+          "text": "the influence of political action committees has weakened in recent years"
+        },
+        {
+          "label": "C",
+          "text": "the power of interest groups depends on the degree of support for their positions in the White House"
+        },
+        {
+          "label": "D",
+          "text": "majority opinion on an issue can sometimes be overridden by the intensity of a minority's commitment to activism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Interest groups representing businesspeople and investors are often among the most successful lobbying groups in Washington, D.C., for all of the following reasons EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "Such groups have the financial resources to mount sustained campaigns on their own behalf."
+        },
+        {
+          "label": "B",
+          "text": "Many such groups have been in existence for several decades or more, allowing them to master the legislative system and to develop close ties with legislators."
+        },
+        {
+          "label": "C",
+          "text": "In many districts, these groups' constituents make up the majority of voters."
+        },
+        {
+          "label": "D",
+          "text": "These groups' constituents contribute heavily to many legislators' campaigns, and in doing so, gain greater access to legislators."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following is true of most third parties in U.S. history?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They arose and succeeded during times of prosperity."
+        },
+        {
+          "label": "B",
+          "text": "They were created to protest wars."
+        },
+        {
+          "label": "C",
+          "text": "At some point they won a majority of seats in Congress."
+        },
+        {
+          "label": "D",
+          "text": "They flourished during periods of widespread dissatisfaction."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which of the following statements about the electoral college is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Each state must split its electoral votes among all the candidates that receive votes."
+        },
+        {
+          "label": "B",
+          "text": "Each state is equally represented in the electoral college."
+        },
+        {
+          "label": "C",
+          "text": "The electoral college was created by an amendment to the Constitution."
+        },
+        {
+          "label": "D",
+          "text": "The results of electoral college voting tend to distort the winner's margin of victory, when compared with the popular vote for president."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Which of the following describes a core principle of the Constitution as it was written in 1787?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct democracy"
+        },
+        {
+          "label": "B",
+          "text": "Checks and balances"
+        },
+        {
+          "label": "C",
+          "text": "Equal representation"
+        },
+        {
+          "label": "D",
+          "text": "Unitary government"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Considered as a single group, the Small Business Administration, the Small Business committees in the House and Senate, and small business advocacy groups are an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "an iron triangle"
+        },
+        {
+          "label": "B",
+          "text": "a conference committee"
+        },
+        {
+          "label": "C",
+          "text": "a regulatory agency"
+        },
+        {
+          "label": "D",
+          "text": "dual federalism"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Which committee in the House of Representatives determines the procedure by which bills are debated and amended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ways and Means"
+        },
+        {
+          "label": "B",
+          "text": "Judiciary"
+        },
+        {
+          "label": "C",
+          "text": "Ethics"
+        },
+        {
+          "label": "D",
+          "text": "Rules"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Which of the following best describes the practice of \"ticket splitting\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A presidential nominee selects a running mate who can appeal to voter groups whose support of the nominee is weak."
+        },
+        {
+          "label": "B",
+          "text": "A voter chooses the presidential nominee of one major party, but chooses congressional nominees of the other major party."
+        },
+        {
+          "label": "C",
+          "text": "A mayor orders the local police force to hand out fewer parking violations in the weeks leading up to the general election."
+        },
+        {
+          "label": "D",
+          "text": "A delegate to a national party convention supports the front-runner but remains uncommitted on the party platform."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "All of the following statements about gerrymandering are true EXCEPT that it",
+      "options": [
+        {
+          "label": "A",
+          "text": "favors incumbent candidates over challengers"
+        },
+        {
+          "label": "B",
+          "text": "can divide like-minded voters into several districts to reduce their influence"
+        },
+        {
+          "label": "C",
+          "text": "has been allowed by the Supreme Court in some instances"
+        },
+        {
+          "label": "D",
+          "text": "increases the control voters have over their elected officials"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "The boundary lines of congressional districts must be redrawn every 10 years to",
+      "options": [
+        {
+          "label": "A",
+          "text": "reflect population shifts indicated by the national census"
+        },
+        {
+          "label": "B",
+          "text": "guarantee the turnover of the majority of congressional seats"
+        },
+        {
+          "label": "C",
+          "text": "make sure each state's congressional delegation exactly mirrors its residents' party affiliations"
+        },
+        {
+          "label": "D",
+          "text": "determine which party's leader will be named Speaker of the House"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "In which of the following cases did the Supreme Court decision establish the \"separate but equal\" doctrine of state-sponsored racial segregation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Plessy v. Ferguson"
+        },
+        {
+          "label": "B",
+          "text": "McCulloch v. Maryland"
+        },
+        {
+          "label": "C",
+          "text": "Gibbons v. Ogden"
+        },
+        {
+          "label": "D",
+          "text": "Brown v. Board of Education"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following is NOT part of the \"iron triangles\" that influence public policy-making?",
+      "options": [
+        {
+          "label": "A",
+          "text": "House committees"
+        },
+        {
+          "label": "B",
+          "text": "Senate committees"
+        },
+        {
+          "label": "C",
+          "text": "The courts"
+        },
+        {
+          "label": "D",
+          "text": "Bureaucratic agencies"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following CANNOT limit the influence of the federal courts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A constitutional amendment to the contrary of a court decision"
+        },
+        {
+          "label": "B",
+          "text": "The impeachment of a federal judge"
+        },
+        {
+          "label": "C",
+          "text": "A governor's failure to enforce a court decision"
+        },
+        {
+          "label": "D",
+          "text": "A national election recalling an unpopular judge"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "All of the following statements about Congress are true EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only Congress can pass laws."
+        },
+        {
+          "label": "B",
+          "text": "A proposed amendment must be approved by two-thirds of the delegates in both houses of Congress."
+        },
+        {
+          "label": "C",
+          "text": "Congress can override a presidential veto if two-thirds of the House and Senate agree to do so."
+        },
+        {
+          "label": "D",
+          "text": "Congressional power over the bureaucracy is less than that of the president."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Under the Articles of Confederation, the national government had the power to",
+      "options": [
+        {
+          "label": "A",
+          "text": "negotiate treaties"
+        },
+        {
+          "label": "B",
+          "text": "collect taxes"
+        },
+        {
+          "label": "C",
+          "text": "establish a federal judiciary"
+        },
+        {
+          "label": "D",
+          "text": "enforce its laws"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "The term \"iron triangle\" refers to the interrelationship of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "president, Congress, and the Supreme Court"
+        },
+        {
+          "label": "B",
+          "text": "electorate, Congress, and political action committees"
+        },
+        {
+          "label": "C",
+          "text": "local, state, and federal governments"
+        },
+        {
+          "label": "D",
+          "text": "federal bureaucracy, congressional committees, and lobbyists"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Which of the following people would most likely be accused of influence peddling?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A congressperson who retires to take a position teaching political science at a university"
+        },
+        {
+          "label": "B",
+          "text": "A former president who advises a current president on a particular foreign policy issue"
+        },
+        {
+          "label": "C",
+          "text": "A voter who researches the positions of all candidates in a race before choosing whom to support"
+        },
+        {
+          "label": "D",
+          "text": "An official who leaves the State Department to work as a paid consultant to foreign governments"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "The line-item veto was found unconstitutional because",
+      "options": [
+        {
+          "label": "A",
+          "text": "it gave executive powers to the legislature"
+        },
+        {
+          "label": "B",
+          "text": "it gave legislative powers to the bureaucracy"
+        },
+        {
+          "label": "C",
+          "text": "it gave legislative powers to the president"
+        },
+        {
+          "label": "D",
+          "text": "it delegated too many powers to the states"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "The Constitution, as originally ratified, addressed all of the following weaknesses of the Articles of Confederation EXCEPT the",
+      "options": [
+        {
+          "label": "A",
+          "text": "lack of a chief executive office"
+        },
+        {
+          "label": "B",
+          "text": "national government's inability to levy taxes effectively"
+        },
+        {
+          "label": "C",
+          "text": "absence of a central authority to regulate interstate trade"
+        },
+        {
+          "label": "D",
+          "text": "omission of a universal suffrage clause"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which of the following is NOT a way in which the powers of the executive branch are balanced by the legislative branch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Senate may use the filibuster to block an executive order."
+        },
+        {
+          "label": "B",
+          "text": "Congress may impeach and convict a president for \"high crime and misdemeanors.\""
+        },
+        {
+          "label": "C",
+          "text": "The Senate can decline to ratify a treaty."
+        },
+        {
+          "label": "D",
+          "text": "The Senate can decline to approve a president's nominee for the Supreme Court."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "When an appeal is made to the Supreme Court, the court usually",
+      "options": [
+        {
+          "label": "A",
+          "text": "refuses to hear the appeal"
+        },
+        {
+          "label": "B",
+          "text": "declares a mistrial"
+        },
+        {
+          "label": "C",
+          "text": "orders the lower court to retry the case"
+        },
+        {
+          "label": "D",
+          "text": "rules in favor of the defendant"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of the following does the Supreme Court NOT have the power to override?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constitutional amendments"
+        },
+        {
+          "label": "B",
+          "text": "Presidential executive orders"
+        },
+        {
+          "label": "C",
+          "text": "Laws passed by Congress"
+        },
+        {
+          "label": "D",
+          "text": "Laws passed by state legislatures"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "According to Brown v. Board of Education (1954), which of the following amendments was violated by the \"separate but equal\" doctrine that had been established in Plessy v. Ferguson (1896)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "First Amendment"
+        },
+        {
+          "label": "B",
+          "text": "Sixth Amendment"
+        },
+        {
+          "label": "C",
+          "text": "Ninth Amendment"
+        },
+        {
+          "label": "D",
+          "text": "Fourteenth Amendment"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "People who join a political party other than the one to which their parents belong most often do so because of",
+      "options": [
+        {
+          "label": "A",
+          "text": "peer pressure"
+        },
+        {
+          "label": "B",
+          "text": "economic issues"
+        },
+        {
+          "label": "C",
+          "text": "religious beliefs"
+        },
+        {
+          "label": "D",
+          "text": "pressure from their employers"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The exclusionary rule was established to",
+      "options": [
+        {
+          "label": "A",
+          "text": "create \"separate but equal\" facilities to facilitate racial segregation"
+        },
+        {
+          "label": "B",
+          "text": "allow private organizations to restrict their memberships"
+        },
+        {
+          "label": "C",
+          "text": "limit the government's ability to use illegally obtained evidence"
+        },
+        {
+          "label": "D",
+          "text": "deny control of interstate commerce to the states"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Which of the following is an accurate statement about the leadership of the two major political parties?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The national party organization controls all facets of party activity throughout the country."
+        },
+        {
+          "label": "B",
+          "text": "Party leadership is dispersed among numerous officials at the national, state, and local levels."
+        },
+        {
+          "label": "C",
+          "text": "The highest elected official in each national party directs that party's activities and operations all the way down to the state and local levels."
+        },
+        {
+          "label": "D",
+          "text": "All major decisions concerning party activities are made during each party's presidential nomination conventions."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "The Civil Rights Act of 1964 was passed to reinforce the",
+      "options": [
+        {
+          "label": "A",
+          "text": "presidential veto"
+        },
+        {
+          "label": "B",
+          "text": "system of checks and balances"
+        },
+        {
+          "label": "C",
+          "text": "states' power to challenge federal regulation"
+        },
+        {
+          "label": "D",
+          "text": "Fourteenth Amendment"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Republican candidates for president who tend to be more successful in the primaries tend to be more conservative than rank-and-file Republicans because",
+      "options": [
+        {
+          "label": "A",
+          "text": "moderate Republicans are less likely than conservative Republicans to gain widespread support in the general election"
+        },
+        {
+          "label": "B",
+          "text": "most moderate Republicans have approved of the Democratic presidential candidate"
+        },
+        {
+          "label": "C",
+          "text": "most rank-and-file Republicans do not care whether their party's nominee shares their political views"
+        },
+        {
+          "label": "D",
+          "text": "party activists, whose political participation is disproportionate to their numbers, tend to be very conservative"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Which of the following is an example of an implied power of the Congress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "regulation of interstate commerce"
+        },
+        {
+          "label": "B",
+          "text": "borrowing money on the credit of the United States"
+        },
+        {
+          "label": "C",
+          "text": "oversight of executive branch agencies"
+        },
+        {
+          "label": "D",
+          "text": "declarations of war"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Which of the following correctly states the relationship between the federal and state judiciaries?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Federal courts are higher courts than state courts and may overturn state decisions on any grounds."
+        },
+        {
+          "label": "B",
+          "text": "The two are entirely autonomous, and neither ever hears cases that originate in the other."
+        },
+        {
+          "label": "C",
+          "text": "The two are generally autonomous, although federal courts may rule on the constitutionality of state court decisions."
+        },
+        {
+          "label": "D",
+          "text": "State courts are trial courts; federal courts are appeals courts."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "House members are more concerned about their committee assignments than are senators because",
+      "options": [
+        {
+          "label": "A",
+          "text": "House members may serve on only one committee at a time"
+        },
+        {
+          "label": "B",
+          "text": "Senate committees have relatively little power to alter legislation"
+        },
+        {
+          "label": "C",
+          "text": "bills in the Senate must pass through all committees before reaching the floor"
+        },
+        {
+          "label": "D",
+          "text": "the rules make it extremely difficult for representatives to influence legislation on the House floor"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which of the following is true of the Supreme Court?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Every case appealed to the Supreme Court is ruled upon by the court."
+        },
+        {
+          "label": "B",
+          "text": "The court helps set the public agenda by deciding which appeals to hear."
+        },
+        {
+          "label": "C",
+          "text": "The court hears all cases when two or more justices agree that the case has merit."
+        },
+        {
+          "label": "D",
+          "text": "In deciding cases, the chief justice's vote counts as two votes."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Which of the following statements about voting patterns is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-whites are more likely to vote Democratic than are whites."
+        },
+        {
+          "label": "B",
+          "text": "Women are more likely to vote Democratic than are men."
+        },
+        {
+          "label": "C",
+          "text": "Low-income Americans are more likely to vote Democratic than are upper-income Americans."
+        },
+        {
+          "label": "D",
+          "text": "Evangelical Christians are more likely to vote Democratic than are non-religious Americans."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following defines the salience of a political issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The amount of coverage the issue receives in the major news media"
+        },
+        {
+          "label": "B",
+          "text": "The degree to which public opinion on the issue is likely to shift quickly"
+        },
+        {
+          "label": "C",
+          "text": "The number of people affected by the issue"
+        },
+        {
+          "label": "D",
+          "text": "The importance of the issue to a particular individual or group"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Which of the following statements about the House of Representatives is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All revenue bills must originate in the Senate before moving to the House."
+        },
+        {
+          "label": "B",
+          "text": "Representation in the House is allocated equally among the states, while representation in the Senate is allocated proportional to population."
+        },
+        {
+          "label": "C",
+          "text": "The Speaker of the House wields less power than the president pro tempore of the Senate."
+        },
+        {
+          "label": "D",
+          "text": "The House has a Committee on Ways and Means, while the Senate does not."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Congress would be required to use the \"elastic clause\" of the Constitution to",
+      "options": [
+        {
+          "label": "A",
+          "text": "change citizenship requirements"
+        },
+        {
+          "label": "B",
+          "text": "impose workplace safety standards"
+        },
+        {
+          "label": "C",
+          "text": "increase tax rates"
+        },
+        {
+          "label": "D",
+          "text": "authorize the treasury to print money"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Which of the following actions can the president take without congressional approval?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Grant reprieves and pardons"
+        },
+        {
+          "label": "B",
+          "text": "Appoint Supreme Court justices"
+        },
+        {
+          "label": "C",
+          "text": "Negotiate and ratify treaties"
+        },
+        {
+          "label": "D",
+          "text": "Declare war"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "If no presidential candidate receives a majority of the electoral college vote, then who becomes the president?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The candidate who wins the popular national vote"
+        },
+        {
+          "label": "B",
+          "text": "The incumbent vice president of the United States"
+        },
+        {
+          "label": "C",
+          "text": "Whomever is selected by the United States Supreme Court"
+        },
+        {
+          "label": "D",
+          "text": "The candidate who wins the majority of votes in the House"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "A constitutional amendment would be required to ban flag burning because that activity is currently protected by the right to",
+      "options": [
+        {
+          "label": "A",
+          "text": "due process"
+        },
+        {
+          "label": "B",
+          "text": "assembly"
+        },
+        {
+          "label": "C",
+          "text": "free exercise of religion"
+        },
+        {
+          "label": "D",
+          "text": "free speech"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "All of the following are constitutionally mandated presidential powers EXCEPT the power to",
+      "options": [
+        {
+          "label": "A",
+          "text": "negotiate treaties"
+        },
+        {
+          "label": "B",
+          "text": "veto legislation"
+        },
+        {
+          "label": "C",
+          "text": "grant reprieves and pardons"
+        },
+        {
+          "label": "D",
+          "text": "declare war"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following statements is true regarding delegates to presidential nomination conventions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Delegates are generally more likely to register as third party voters at some point."
+        },
+        {
+          "label": "B",
+          "text": "The majority of the general population is more educated than the delegates."
+        },
+        {
+          "label": "C",
+          "text": "Delegates typically have little interest in politics."
+        },
+        {
+          "label": "D",
+          "text": "Typically, the general population is less ideological than the delegates."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Which of the following best predicts how someone will vote in an election?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The voter's gender"
+        },
+        {
+          "label": "B",
+          "text": "The voter's political party affiliation"
+        },
+        {
+          "label": "C",
+          "text": "The voter's socioeconomic status"
+        },
+        {
+          "label": "D",
+          "text": "The voter's religion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Failed felony prosecutions at the state level are sometimes retried at the federal level",
+      "options": [
+        {
+          "label": "A",
+          "text": "on appeal by state prosecutors"
+        },
+        {
+          "label": "B",
+          "text": "under the \"double jeopardy\" provision of the Constitution"
+        },
+        {
+          "label": "C",
+          "text": "because new evidence has voided the state-level verdict"
+        },
+        {
+          "label": "D",
+          "text": "as civil liberties violations"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Filibusters are less likely to occur in the House of Representatives than in the Senate because",
+      "options": [
+        {
+          "label": "A",
+          "text": "Senate decorum forbids one senator from attempting to stop another's speech"
+        },
+        {
+          "label": "B",
+          "text": "the House meets for substantially fewer hours per day than does the Senate"
+        },
+        {
+          "label": "C",
+          "text": "Senate sessions, unlike House sessions, are open to the public"
+        },
+        {
+          "label": "D",
+          "text": "debate in the House is in most instances strictly regulated by the rules"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Which of the following is not a special position held by a member of Congress?",
+      "options": [
+        {
+          "label": "A",
+          "text": "President pro tempore"
+        },
+        {
+          "label": "B",
+          "text": "Speaker of the House"
+        },
+        {
+          "label": "C",
+          "text": "Congressional Management Foundation Chair"
+        },
+        {
+          "label": "D",
+          "text": "Minority Whip"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Which of the following is LEAST likely to explain low voter turnout for an election?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The preclearance provision of the Voting Rights Act"
+        },
+        {
+          "label": "B",
+          "text": "Low levels of political efficacy among registered voters"
+        },
+        {
+          "label": "C",
+          "text": "Regulations that require voters to show identification"
+        },
+        {
+          "label": "D",
+          "text": "The frequency with which state and local elections occur"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Which of the following statements about presidential elections since 1972 is most accurate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voters increasingly get their information from newspapers."
+        },
+        {
+          "label": "B",
+          "text": "Voters have become more focused on individual candidates."
+        },
+        {
+          "label": "C",
+          "text": "Elections have become dominated by special interest groups."
+        },
+        {
+          "label": "D",
+          "text": "Voters increasingly vote based on a party's platform."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "The opinions of congressional committees often fail to accurately mirror public opinion because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the membership of committees often overrepresents constituencies with the greatest stake in the committee's business"
+        },
+        {
+          "label": "B",
+          "text": "most committees are too small to include representatives of all popular opinions"
+        },
+        {
+          "label": "C",
+          "text": "the minority party controls nearly half of all committees"
+        },
+        {
+          "label": "D",
+          "text": "committee members often lose track of their constituents' priorities because of their frequent contact with special-interest lobbyists"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The primary function of political action committees (PACs) is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "contribute money to candidates for election"
+        },
+        {
+          "label": "B",
+          "text": "coordinate local get-out-the-vote campaigns"
+        },
+        {
+          "label": "C",
+          "text": "promote the defeat of incumbents in the federal and state legislatures"
+        },
+        {
+          "label": "D",
+          "text": "organize protest demonstrations and other acts of civil disobedience"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Which of the following is generally understood to be the purpose of the Tenth Amendment to the Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It allows for trial by jury in common-law cases."
+        },
+        {
+          "label": "B",
+          "text": "It grants voting rights to all American women."
+        },
+        {
+          "label": "C",
+          "text": "It lowers the legal voting age from 21 to 18."
+        },
+        {
+          "label": "D",
+          "text": "It reserves powers to the states."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Both the War Powers Act of 1974 and the Budget and Impoundment Control Act of 1974 represent efforts by Congress to limit the powers of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Joint Chiefs of Staff"
+        },
+        {
+          "label": "B",
+          "text": "House Ways and Means Committee"
+        },
+        {
+          "label": "C",
+          "text": "Central Intelligence Agency"
+        },
+        {
+          "label": "D",
+          "text": "president"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Which of the following accounts for the fact that the power and prestige of the presidency have grown since 1932? I. America's increased prominence in international affairs II. continually improved public confidence in the federal government III. the New Deal and other programs that have expanded federal responsibility IV. the president's increased visibility, due to the development of mass media",
+      "options": [
+        {
+          "label": "A",
+          "text": "I only"
+        },
+        {
+          "label": "B",
+          "text": "I and IV only"
+        },
+        {
+          "label": "C",
+          "text": "I, III, and IV only"
+        },
+        {
+          "label": "D",
+          "text": "II and IV only"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Appointments to which of the following positions must be confirmed by the Senate before taking effect? I. Director of Homeland Security II. Secretary of the Treasury III. National Security Advisor IV. U.S. Ambassador to the United Nations",
+      "options": [
+        {
+          "label": "A",
+          "text": "II only"
+        },
+        {
+          "label": "B",
+          "text": "I and III only"
+        },
+        {
+          "label": "C",
+          "text": "II and IV only"
+        },
+        {
+          "label": "D",
+          "text": "I, II, and IV only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "When the Founders met in 1787 to write the Constitution, their primary objective was to",
+      "options": [
+        {
+          "label": "A",
+          "text": "establish a bill of rights that would protect citizens from the government"
+        },
+        {
+          "label": "B",
+          "text": "create a national court system for hearing disputes between citizens of different states"
+        },
+        {
+          "label": "C",
+          "text": "return to the states those powers that the Articles of Confederation had given to the central government"
+        },
+        {
+          "label": "D",
+          "text": "replace the weak central government created by the Articles of Confederation with a stronger one"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "An inherent power of the president is the power to",
+      "options": [
+        {
+          "label": "A",
+          "text": "appoint a nominee for the U.S. Supreme Court"
+        },
+        {
+          "label": "B",
+          "text": "negotiate a treaty with another country"
+        },
+        {
+          "label": "C",
+          "text": "declare a state of emergency following a natural disaster"
+        },
+        {
+          "label": "D",
+          "text": "veto a bill passed by the U.S. Congress"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "All of the following can be considered true about the impact of a higher level of education on voting habits EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "voters are more likely to support government-enforced affirmative action programs"
+        },
+        {
+          "label": "B",
+          "text": "voters are more likely to support environmental protection efforts"
+        },
+        {
+          "label": "C",
+          "text": "voters are more likely to support public prayer in schools"
+        },
+        {
+          "label": "D",
+          "text": "voters are less likely to support restrictions on abortion rights"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which of the following best describes a block grant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Money provided to individuals to fund research projects"
+        },
+        {
+          "label": "B",
+          "text": "Funds with few restrictions that are provided to state or local governments for general purpose use"
+        },
+        {
+          "label": "C",
+          "text": "Funds distributed among states according to a set formula"
+        },
+        {
+          "label": "D",
+          "text": "Money that can only be used for a specific purpose"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "When the Supreme Court decides to take a case on appeal it",
+      "options": [
+        {
+          "label": "A",
+          "text": "issues a writ of habeas corpus"
+        },
+        {
+          "label": "B",
+          "text": "issues a writ of certiorari"
+        },
+        {
+          "label": "C",
+          "text": "issues amicus curiae briefs"
+        },
+        {
+          "label": "D",
+          "text": "engages in judicial review"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "The amount of access cabinet secretaries have to the president is most likely to be controlled by the",
+      "options": [
+        {
+          "label": "A",
+          "text": "vice president"
+        },
+        {
+          "label": "B",
+          "text": "president's chief of staff"
+        },
+        {
+          "label": "C",
+          "text": "national security advisor"
+        },
+        {
+          "label": "D",
+          "text": "chair of the Federal Reserve Board"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following is a significant difference between the Senate and the House of Representatives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only the House has the power to issue subpoenas."
+        },
+        {
+          "label": "B",
+          "text": "Only the Senate may introduce revenue bills."
+        },
+        {
+          "label": "C",
+          "text": "States are equally represented in the House, while representation in the Senate is proportional to population."
+        },
+        {
+          "label": "D",
+          "text": "The Senate allows unlimited debate, while the House does not."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "All of the following are specifically mentioned in the Constitution EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "judicial review"
+        },
+        {
+          "label": "B",
+          "text": "the national census"
+        },
+        {
+          "label": "C",
+          "text": "rules of impeachment"
+        },
+        {
+          "label": "D",
+          "text": "the State of the Union address"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Two related cases that focused on the right to privacy for all American citizens were",
+      "options": [
+        {
+          "label": "A",
+          "text": "Near v. Minnesota and New York Times v. Sullivan"
+        },
+        {
+          "label": "B",
+          "text": "Texas v. Johnson and Morse v. Frederick"
+        },
+        {
+          "label": "C",
+          "text": "Thornhill v. Alabama and Cox v. New Hampshire"
+        },
+        {
+          "label": "D",
+          "text": "Griswold v. Connecticut and Roe v. Wade."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "All of the following contribute to lower voting rates among Americans in the 18-to-25 age bracket EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "college attendance in a state other than one's home state"
+        },
+        {
+          "label": "B",
+          "text": "frequent relocation of one's primary residence"
+        },
+        {
+          "label": "C",
+          "text": "the remoteness of most political issues to the daily lives of young people"
+        },
+        {
+          "label": "D",
+          "text": "the fact that the minimum voting age in some states is 21"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "A presidential veto would most likely be overturned in which of the following situations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Approximately 30% of the senators and representatives are members of the presidential political party."
+        },
+        {
+          "label": "B",
+          "text": "The majority of American citizens support the proposed legislation."
+        },
+        {
+          "label": "C",
+          "text": "The chief justice of the Supreme Court was appointed by the president."
+        },
+        {
+          "label": "D",
+          "text": "The president's successful reelection campaign advocated bipartisanship."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Political efficacy refers to the idea that",
+      "options": [
+        {
+          "label": "A",
+          "text": "political parties can provide a check to the political influence wielded by corporations"
+        },
+        {
+          "label": "B",
+          "text": "individuals believe that they can influence the government through participation in the democratic process"
+        },
+        {
+          "label": "C",
+          "text": "the system of checks and balances ensures that the government is both efficient and productive"
+        },
+        {
+          "label": "D",
+          "text": "politicians have a duty to inform their constituents about the democratic process"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "The practice of drawing congressional district lines in an attempt to give one party a benefit over another is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "front-loading"
+        },
+        {
+          "label": "B",
+          "text": "prior restraint"
+        },
+        {
+          "label": "C",
+          "text": "reapportionment"
+        },
+        {
+          "label": "D",
+          "text": "gerrymandering"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Of the following interest groups, which has created the largest number of political action committees (PACs) since the 1970s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Environmental activists"
+        },
+        {
+          "label": "B",
+          "text": "Labor unions"
+        },
+        {
+          "label": "C",
+          "text": "For-profit business"
+        },
+        {
+          "label": "D",
+          "text": "Religious institutions"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "The Voting Rights Act of 1965 has had which of the following effects?",
+      "options": [
+        {
+          "label": "A",
+          "text": "States have been prohibited from establishing voter identification requirements."
+        },
+        {
+          "label": "B",
+          "text": "Voters must now pass literacy tests before voting."
+        },
+        {
+          "label": "C",
+          "text": "Voting participation for racial minority voters has increased."
+        },
+        {
+          "label": "D",
+          "text": "The voting age was lowered from 21 to 18."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of the following is an example of devolution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allowing states to decide how to meet federally mandated greenhouse gas emissions targets"
+        },
+        {
+          "label": "B",
+          "text": "A \"race to the bottom\" in which states compete with one another to have the fewest environmental regulations"
+        },
+        {
+          "label": "C",
+          "text": "A state that legalizes marijuana possession in conflict with federal law"
+        },
+        {
+          "label": "D",
+          "text": "A state being prevented from implementing a fuel efficiency standard that is more stringent than that set by the federal government"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following best illustrates a use of the elastic clause?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Supreme Court allows a lower court ruling to stand by refusing to hear an appeal."
+        },
+        {
+          "label": "B",
+          "text": "A congressional committee prevents the full chamber from voting on legislation by delaying its report."
+        },
+        {
+          "label": "C",
+          "text": "Congress passes legislation establishing a national speed limit."
+        },
+        {
+          "label": "D",
+          "text": "A member of the House of Representatives introduces a bill to increase federal income tax rates."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "The primary goal of the Gramm-Rudman Acts of 1985 and 1987 was to",
+      "options": [
+        {
+          "label": "A",
+          "text": "strengthen the military"
+        },
+        {
+          "label": "B",
+          "text": "increase funding for social programs"
+        },
+        {
+          "label": "C",
+          "text": "reduce the federal deficit"
+        },
+        {
+          "label": "D",
+          "text": "limit the president's ability to conduct foreign policy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The spoils system of awarding civil service jobs was replaced by the merit system as a result of the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Truman Doctrine"
+        },
+        {
+          "label": "B",
+          "text": "Fair Labor Standards Act of 1961"
+        },
+        {
+          "label": "C",
+          "text": "National Industrial Recovery Act"
+        },
+        {
+          "label": "D",
+          "text": "Pendleton Act of 1883"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Which of the following is NOT true of executive orders?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presidents avoid using executive orders for controversial actions."
+        },
+        {
+          "label": "B",
+          "text": "Executive orders have the same effect as laws passed by Congress."
+        },
+        {
+          "label": "C",
+          "text": "Presidents have made increased use of executive orders since the 1970s."
+        },
+        {
+          "label": "D",
+          "text": "Executive orders bypass congressional approval."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which of the following best describes the fate of most popular third-party movements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They displace one of the two major parties and become major parties themselves."
+        },
+        {
+          "label": "B",
+          "text": "They are ultimately abandoned by the public because their politics are perceived as too radical."
+        },
+        {
+          "label": "C",
+          "text": "Their supporters become frustrated and withdraw from the political process."
+        },
+        {
+          "label": "D",
+          "text": "They disintegrate when one or both of the major parties adopt the third party's goals."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Which of the following statements does NOT accurately describe voting behavior in the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Registered voters between the ages of 35 and 45 are more likely to vote than are those under the age of 21."
+        },
+        {
+          "label": "B",
+          "text": "A registered voter who has attained his or her General Educational Development (GED) is less likely to vote than a high school dropout."
+        },
+        {
+          "label": "C",
+          "text": "Registered voters are more likely to vote in general elections than they are in primary elections."
+        },
+        {
+          "label": "D",
+          "text": "More women than men have voted in every presidential election since 1980."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Among the following groups that have traditionally supposed the Democratic Party, which has the least liberal constituency?",
+      "options": [
+        {
+          "label": "A",
+          "text": "White Southerners"
+        },
+        {
+          "label": "B",
+          "text": "Labor union members"
+        },
+        {
+          "label": "C",
+          "text": "African Americans"
+        },
+        {
+          "label": "D",
+          "text": "Northern ethnic minorities"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "The difference between a pardon and a reprieve is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a pardon lasts 10 years, while a reprieve lasts one year"
+        },
+        {
+          "label": "B",
+          "text": "a reprieve grants a release from legal punishment, while a pardon postpones it"
+        },
+        {
+          "label": "C",
+          "text": "a pardon grants a release from legal punishment while a reprieve postpones it"
+        },
+        {
+          "label": "D",
+          "text": "only state governors can issue pardons"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Which of the following is true of appellate courts?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appellate judges never use the stare decisis principle."
+        },
+        {
+          "label": "B",
+          "text": "Appellate trials are usually jury trials."
+        },
+        {
+          "label": "C",
+          "text": "Appellate judges usually decide the facts of a case."
+        },
+        {
+          "label": "D",
+          "text": "Appellate judges review decisions of lower courts."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Voters in which of the following categories would be LEAST likely to vote?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blue-collar workers who belong to a union"
+        },
+        {
+          "label": "B",
+          "text": "Professionals"
+        },
+        {
+          "label": "C",
+          "text": "Voters who are active in their political parties"
+        },
+        {
+          "label": "D",
+          "text": "Voters aged 18-29"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Which of the following is the largest source of \"automatic spending\" for the federal government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salaries to employees of the U.S. Post Office"
+        },
+        {
+          "label": "B",
+          "text": "Interest payments made to U.S. bondholders"
+        },
+        {
+          "label": "C",
+          "text": "Entitlement programs"
+        },
+        {
+          "label": "D",
+          "text": "National defense"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "The No Child Left Behind Act, which established educational standards that states must meet to receive federal educational funding, is an example of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A federal mandate"
+        },
+        {
+          "label": "B",
+          "text": "A constitutional amendment"
+        },
+        {
+          "label": "C",
+          "text": "Affirmative action"
+        },
+        {
+          "label": "D",
+          "text": "Tort reform"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Which of the following does NOT appear in the Constitution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The electoral college"
+        },
+        {
+          "label": "B",
+          "text": "Political parties"
+        },
+        {
+          "label": "C",
+          "text": "Separation of powers"
+        },
+        {
+          "label": "D",
+          "text": "The term length for members of Congress"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Which of the following has been true of the Republican Party since the 1980s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It has become aligned with civil libertarians."
+        },
+        {
+          "label": "B",
+          "text": "It has come to be dominated by labor unions."
+        },
+        {
+          "label": "C",
+          "text": "It has become more antagonistic to business interests."
+        },
+        {
+          "label": "D",
+          "text": "It has become more influenced by evangelical Christians."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "An open primary is a primary election in which",
+      "options": [
+        {
+          "label": "A",
+          "text": "voters registered as \"independents\" may not vote"
+        },
+        {
+          "label": "B",
+          "text": "candidates do not specify the office for which they are running"
+        },
+        {
+          "label": "C",
+          "text": "voters may register at their polling place on election day"
+        },
+        {
+          "label": "D",
+          "text": "voters may vote in the election of a party other than the one to which they are registered"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "According to the Constitution, who determines voter eligibility requirements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The president"
+        },
+        {
+          "label": "B",
+          "text": "Congress"
+        },
+        {
+          "label": "C",
+          "text": "State legislatures"
+        },
+        {
+          "label": "D",
+          "text": "Federal administrative agencies"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "How many votes in the Senate must a presidential nominee to the Supreme Court receive in order to be confirmed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Forty percent"
+        },
+        {
+          "label": "B",
+          "text": "Fifty-one percent"
+        },
+        {
+          "label": "C",
+          "text": "Fifty-five percent"
+        },
+        {
+          "label": "D",
+          "text": "Sixty percent"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "The idea that the Bill of Rights applies to both federal and state governments by means of the Fourteenth Amendment is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "mandamus"
+        },
+        {
+          "label": "B",
+          "text": "habeas corpus"
+        },
+        {
+          "label": "C",
+          "text": "strict constructionism"
+        },
+        {
+          "label": "D",
+          "text": "the doctrine of incorporation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+{
+  "version": "v95",
+  "source": "Force Concept Inventory, Hestenes, Wells & Swackhamer (1992), revised 1995 | ARCHIVED 2026-06-13 as the pre-standalone version (A/B reference)",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Two metal balls are the same size but one weighs twice as much as the other. The balls are dropped from the roof of a single story building at the same instant of time. The time it takes the balls to reach the ground below will be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "About half as long for the heavier ball as for the lighter one.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "About half as long for the lighter ball as for the heavier one.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "About the same for both balls.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Considerably less for the heavier ball, but not necessarily half as long.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Considerably less for the lighter ball, but not necessarily half as long.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "C",
+      "cluster_ids": [
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 47,
+      "token_count": 50,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 2,
+      "text": "The two metal balls of the previous problem roll off a horizontal table with the same speed. Which statement about the balls is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both balls hit the floor at approximately the same horizontal distance from the base of the table.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The heavier ball hits the floor at about half the horizontal distance from the base of the table than does the lighter ball.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "The lighter ball hits the floor at about half the horizontal distance from the base of the table than does the heavier ball.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The heavier ball hits the floor considerably closer to the base of the table than the lighter ball, but not necessarily at half the horizontal distance.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "The lighter ball hits the floor considerably closer to the base of the table than the heavier ball, but not necessarily at half the horizontal distance.",
+          "misconception_ids": [
+            "G1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "A",
+      "cluster_ids": [
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 24,
+      "token_count": 26,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 3,
+      "text": "A stone dropped from the roof of a single story building to the surface of the earth:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reaches a maximum speed quite soon after release and then falls at a constant speed thereafter.",
+          "misconception_ids": [
+            "R1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Speeds up as it falls because the gravitational attraction gets considerably stronger as the stone gets closer to the earth.",
+          "misconception_ids": [
+            "G4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Speeds up because of an almost constant force of gravity acting upon it.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Falls because of the natural tendency of all objects to rest on the surface of the earth.",
+          "misconception_ids": [
+            "G2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Falls because of the combined effects of the force of gravity pushing it downward and the force of the air pushing it downward.",
+          "misconception_ids": [
+            "G3"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "C",
+      "cluster_ids": [
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 17,
+      "token_count": 18,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 4,
+      "text": "A large truck collides head-on with a small compact car. During the collision:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The truck exerts a greater amount of force on the car than the car exerts on the truck.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The car exerts a greater amount of force on the truck than the truck exerts on the car.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Neither exerts a force on the other; the car gets smashed simply because it gets in the way of the truck.",
+          "misconception_ids": [
+            "AR1",
+            "Ob1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The truck exerts a force on the car but the car does not exert a force on the truck.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "The truck exerts the same amount of force on the car as the car exerts on the truck.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "action_reaction"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 13,
+      "token_count": 17,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 5,
+      "text": "A ball rolls smoothly through a curved track that forms a half-circle on top of a flat table. Consider the following distinct forces:\nA) A downward force of gravity.\nB) A force exerted by the channel directed from the ball's current position toward the center of the channel.\nC) A force in the direction of motion.\nD) A force directed from the center of the channel to the ball's current position.\n\nWhich of the above forces is (are) acting on the ball when it is in the frictionless channel at the halfway point?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Force A only.",
+          "misconception_ids": [
+            "CF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Forces A and B.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Forces A and C.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Forces A, B, and C.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Forces A, C, and D.",
+          "misconception_ids": [
+            "AF2",
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "active_force",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "A ball rolls through a semicircular frictionless channel on a table. The ball enters at one end, travels through the half-circle, and exits at the other end.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 93,
+      "token_count": 111,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 6,
+      "text": "A ball rolls through a curved track shaped like part of a circle and then exits onto a perfectly smooth, frictionless tabletop. Which path will the ball most closely follow after leaving the track?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A path that would correspond to the arc of the channel if it formed a closed circle.",
+          "misconception_ids": [
+            "I5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A straight-line path tangent to the circle at the exit point.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A path that curves outward away from the center of the channel.",
+          "misconception_ids": [
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A path that curves outward in a broad arc.",
+          "misconception_ids": [
+            "I5",
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "A path that is immediately deflected outward in a straight line from the center.",
+          "misconception_ids": [
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "Continuation of item 5. The ball exits the semicircular channel onto a frictionless table. Five possible paths (A through E) are shown radiating from the exit point.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 34,
+      "token_count": 38,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 7,
+      "text": "A steel ball is attached to a string and is swung in a circular path in a horizontal plane. At one point, the string suddenly breaks near the ball. If these events are observed from directly above, which path would the ball most closely follow after the string breaks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A path that continues along the arc of the circular path.",
+          "misconception_ids": [
+            "I5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A straight-line path tangent to the circle at the break point.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A straight-line path at an angle between the tangent and the outward radial direction.",
+          "misconception_ids": [
+            "I5",
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A path that initially curves outward then straightens in the direction of motion.",
+          "misconception_ids": [
+            "I5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "A straight-line path directed radially outward from the center.",
+          "misconception_ids": [
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "A steel ball on a string swings in a horizontal circle. At point P the string breaks. Five possible paths (A through E) are shown from point P.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 49,
+      "token_count": 54,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 8,
+      "text": "Imagine a hockey puck sliding with constant speed v_0 in a straight line from point \"a\" to point \"b\" on a frictionless horizontal surface. Forces exerted by the air are negligible. You are looking down on the puck. When the puck reaches point \"b,\" it receives a swift horizontal kick in a direction perpendicular to the original direction of motion. Had the puck been at rest at point \"b,\" then the kick would have set the puck in horizontal motion with a speed v_k in the direction of the kick.\n\nWhich of the paths below would the puck most closely follow after receiving the kick?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A straight-line path in the direction of the kick.",
+          "misconception_ids": [
+            "CI3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A straight-line path at an angle between the original direction and the kick direction.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A path in the original direction, shifted sideways in the kick direction.",
+          "misconception_ids": [
+            "CI1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A curved path that gradually bends in the direction of the kick.",
+          "misconception_ids": [
+            "I1",
+            "CI2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "A curved path that bends in the original direction of motion.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "concatenation_of_influences",
+        "impetus"
+      ],
+      "has_figure": true,
+      "figure_description": "A hockey puck slides from point a to point b on a frictionless surface, then receives a perpendicular kick at b. Five possible paths (A through E) are shown.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 105,
+      "token_count": 124,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 9,
+      "text": "The speed of the puck just after it receives the kick is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equal to the speed v_0 it had before it received the kick.",
+          "misconception_ids": [
+            "CI1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Equal to the speed v_k resulting from the kick and independent of the speed v_0.",
+          "misconception_ids": [
+            "CI3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Equal to the arithmetic sum of the speeds v_0 and v_k.",
+          "misconception_ids": [
+            "K3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Smaller than either of the speeds v_0 or v_k.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Greater than either of the speeds v_0 or v_k, but less than the arithmetic sum of these two speeds.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "kinematics",
+        "concatenation_of_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 12,
+      "token_count": 13,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 10,
+      "text": "Along the frictionless path you have chosen in question 8, the speed of the puck after receiving the kick:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is constant.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Continuously increases.",
+          "misconception_ids": [
+            "AF5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Continuously decreases.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Increases for a while and decreases thereafter.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Is constant for a while and decreases thereafter.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "A",
+      "cluster_ids": [
+        "impetus",
+        "active_force"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 19,
+      "token_count": 23,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 11,
+      "text": "Along the frictionless path you have chosen in question 8, the main force(s) acting on the puck after receiving the kick is (are):",
+      "options": [
+        {
+          "label": "A",
+          "text": "A downward force of gravity.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A downward force of gravity, and a horizontal force in the direction of motion.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A downward force of gravity, an upward force exerted by the surface, and a horizontal force in the direction of motion.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A downward force of gravity and an upward force exerted by the surface.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "None. (No forces act on the puck.)",
+          "misconception_ids": [
+            "AF3"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "D",
+      "cluster_ids": [
+        "active_force"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 23,
+      "token_count": 30,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 12,
+      "text": "A ball is fired by a cannon from the top of a cliff. The cannon is aimed horizontally. Air resistance is negligible. Which of the paths would the cannonball most closely follow?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A straight diagonal line from the launch point to the landing point.",
+          "misconception_ids": [
+            "I4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A smooth parabolic curve from the launch point to the landing point.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Horizontal for a short distance, then curving downward to the landing point.",
+          "misconception_ids": [
+            "I4",
+            "G5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Horizontal for some distance, then curved, then vertical before impact.",
+          "misconception_ids": [
+            "I4",
+            "G5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Horizontal until nearly above the landing point, then nearly vertical to the ground.",
+          "misconception_ids": [
+            "I4",
+            "G5"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "A cannon on top of a cliff fires a ball horizontally. Five possible trajectory paths (A through E) are shown from the cannon to the ground below.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 32,
+      "token_count": 37,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 13,
+      "text": "A boy throws a steel ball straight up. Consider the motion of the ball only after it has left the boy's hand but before it reaches the ground, and assume that forces exerted by the air are negligible. For these conditions, the force(s) acting on the ball is (are):",
+      "options": [
+        {
+          "label": "A",
+          "text": "A downward force of gravity along with a steadily decreasing upward force.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A steadily decreasing upward force from the moment it leaves the boy's hand until it reaches its highest point; on the way down there is a steadily increasing downward force of gravity as the object gets closer to the earth.",
+          "misconception_ids": [
+            "I3",
+            "G4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "An almost constant downward force of gravity along with an upward force that steadily decreases until the ball reaches its highest point; on the way down there is only a constant downward force of gravity.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "An almost constant downward force of gravity only.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "None of the above. The ball falls back to ground because of its natural tendency to rest on the surface of the earth.",
+          "misconception_ids": [
+            "G2"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "D",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 49,
+      "token_count": 59,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 14,
+      "text": "A bowling ball accidentally falls out of the cargo bay of an airliner as it flies along in a horizontal direction. As observed by a person standing on the ground and viewing the plane from the side, which path would the bowling ball most closely follow after leaving the airplane?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A curved path that goes backward relative to the airplane's direction.",
+          "misconception_ids": [
+            "I2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A path that goes straight down.",
+          "misconception_ids": [
+            "I2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A straight-line diagonal path going forward and down.",
+          "misconception_ids": [
+            "I4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A curved path going forward and down (parabola).",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Forward horizontally for a while, then straight down.",
+          "misconception_ids": [
+            "I4",
+            "G5"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "D",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "An airplane flies horizontally and a bowling ball falls from its cargo bay. Five possible paths are shown from the airplane to the ground.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 50,
+      "token_count": 54,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 15,
+      "text": "A large truck breaks down out on the road and receives a push back into town by a small compact car as shown in the figure below.\n\nWhile the car, still pushing the truck, is speeding up to get up to cruising speed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "The amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car.",
+          "misconception_ids": [
+            "AR2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car.",
+          "misconception_ids": [
+            "AR1",
+            "AF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car.",
+          "misconception_ids": [
+            "AF1",
+            "Ob1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "A",
+      "cluster_ids": [
+        "action_reaction"
+      ],
+      "has_figure": true,
+      "figure_description": "A small compact car pushes a large broken-down truck from behind along a road. Both vehicles move in the same direction.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 43,
+      "token_count": 47,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 16,
+      "text": "After the car reaches the constant cruising speed at which the driver wishes to push the truck:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The amount of force with which the car pushes on the truck is equal to that with which the truck pushes back on the car.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The amount of force with which the car pushes on the truck is smaller than that with which the truck pushes back on the car.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "The amount of force with which the car pushes on the truck is greater than that with which the truck pushes back on the car.",
+          "misconception_ids": [
+            "AR2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The car's engine is running so the car pushes against the truck, but the truck's engine is not running so the truck cannot push back against the car. The truck is pushed forward simply because it is in the way of the car.",
+          "misconception_ids": [
+            "AR1",
+            "AF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Neither the car nor the truck exert any force on the other. The truck is pushed forward simply because it is in the way of the car.",
+          "misconception_ids": [
+            "AF1",
+            "Ob1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "A",
+      "cluster_ids": [
+        "action_reaction"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 17,
+      "token_count": 18,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 17,
+      "text": "An elevator is being lifted up at a constant speed by a steel cable as shown in the figure below. All frictional effects are negligible. In this situation, forces on the elevator are such that:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The upward force by the cable is greater than the downward force of gravity.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The upward force by the cable is equal to the downward force of gravity.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "The upward force by the cable is smaller than the downward force of gravity.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The upward force by the cable is greater than the sum of the downward force of gravity and a downward force due to the air.",
+          "misconception_ids": [
+            "AF4",
+            "G3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "None of the above. (The elevator goes up because the cable is being shortened, not because an upward force is exerted on the elevator by the cable.)",
+          "misconception_ids": [
+            "AF1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "active_force"
+      ],
+      "has_figure": true,
+      "figure_description": "An elevator is lifted at constant speed by a steel cable in an elevator shaft.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 35,
+      "token_count": 40,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 18,
+      "text": "The figure below shows a boy swinging on a rope tied to a branch at point O. His movement starts above a point A and then continues downward through the point A. Consider the following distinct forces:\n1. A downward force of gravity.\n2. A force exerted by the rope pointing from A to O.\n3. A force in the direction of the boy's motion.\n4. A force pointing from O to A.\n\nWhich of the above forces is (are) acting on the boy when he is at position A?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 only.",
+          "misconception_ids": [
+            "CF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "1 and 2.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "1 and 3.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, and 3.",
+          "misconception_ids": [
+            "AF2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "1, 3, and 4.",
+          "misconception_ids": [
+            "AF2",
+            "CF1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "active_force",
+        "other_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "A boy swings on a rope tied to a branch at point O. Position A is the lowest point of the swing arc. The boy starts from above A and swings downward through A.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 90,
+      "token_count": 106,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 19,
+      "text": "The positions of two blocks at successive 0.20-second time intervals are represented by the numbered squares in the figure below. The blocks are moving toward the right.\n\nBlock a: positions at 2, 4, 7, 11, 16, 22, 29 length units (accelerating)\nBlock b: positions at 0, 4, 8, 12, 16, 20, 24, 28 length units (constant speed)\n\nDo the blocks ever have the same speed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No.",
+          "misconception_ids": [
+            "K1"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "B",
+          "text": "Yes, at instant 2.",
+          "misconception_ids": [
+            "K1"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "C",
+          "text": "Yes, at instant 5.",
+          "misconception_ids": [
+            "K1"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "D",
+          "text": "Yes, at instants 2 and 5.",
+          "misconception_ids": [
+            "K1"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "E",
+          "text": "Yes, at some time during the interval 3 to 4.",
+          "misconception_ids": [],
+          "mapping_confidence": "uncertain"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "kinematics"
+      ],
+      "has_figure": true,
+      "figure_description": "Two number lines showing positions of blocks a and b at successive 0.20-second intervals. Block a accelerates (increasing gaps). Block b moves at constant speed (equal gaps). They are at the same position at instants 2 and 5.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": true,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 65,
+      "token_count": 108,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 20,
+      "text": "The positions of two blocks at successive 0.20-second time intervals are represented by the numbered squares in the figure below. The blocks are moving toward the right.\n\nBlock a: positions at 2, 6, 10, 14, 18, 22, 26 length units (constant speed, delta=4)\nBlock b: positions at 0, 6, 12, 18, 24 length units (constant speed, delta=6)\n\nThe accelerations of the blocks are related as follows:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The acceleration of \"a\" is greater than the acceleration of \"b\".",
+          "misconception_ids": [
+            "K2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "The acceleration of \"a\" equals the acceleration of \"b\". Both accelerations are greater than zero.",
+          "misconception_ids": [
+            "K2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "The acceleration of \"b\" is greater than the acceleration of \"a\".",
+          "misconception_ids": [
+            "K2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "The acceleration of \"a\" equals the acceleration of \"b\". Both accelerations are zero.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Not enough information is given to answer the question.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "D",
+      "cluster_ids": [
+        "kinematics"
+      ],
+      "has_figure": true,
+      "figure_description": "Two number lines showing positions of blocks a and b at successive 0.20-second intervals. Both blocks have equal spacing between successive positions (constant speed), but block b moves faster than block a.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 66,
+      "token_count": 108,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 21,
+      "text": "A rocket drifts sideways in outer space from point \"a\" to point \"b\" as shown below. The rocket is subject to no outside forces. Starting at position \"b,\" the rocket's engine is turned on and produces a constant thrust (force on the rocket) at right angles to the line \"ab.\" The constant thrust is maintained until the rocket reaches a point \"c\" in space.\n\nWhich path below best represents the path of the rocket between points \"b\" and \"c\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A path that starts curving immediately at b and curves smoothly toward c (concave path).",
+          "misconception_ids": [
+            "CI2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "A straight-line path perpendicular to ab.",
+          "misconception_ids": [
+            "CI3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "A straight diagonal line from b to c.",
+          "misconception_ids": [
+            "CI2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "A path that continues along ab for a while, then bends sharply, then continues straight to c.",
+          "misconception_ids": [
+            "I4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "A path that starts along ab and curves smoothly toward the thrust direction (convex path).",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "concatenation_of_influences",
+        "impetus"
+      ],
+      "has_figure": true,
+      "figure_description": "A rocket drifts from point a to point b horizontally. At b, a constant thrust is applied perpendicular to ab (upward). Five possible paths (A through E) are shown from b to c.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 79,
+      "token_count": 100,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 22,
+      "text": "As the rocket moves from position \"b\" to position \"c,\" its speed is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constant.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Continuously increasing.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Continuously decreasing.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Increasing for a while and constant thereafter.",
+          "misconception_ids": [
+            "I4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Constant for a while and decreasing thereafter.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "kinematics",
+        "impetus"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 13,
+      "token_count": 18,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 23,
+      "text": "At point \"c\" the rocket's engine is turned off and the thrust immediately drops to zero. Which of the paths below will the rocket follow beyond point \"c\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A straight-line path in the original horizontal direction.",
+          "misconception_ids": [
+            "I2"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "B",
+          "text": "A straight-line path in the direction the rocket was moving at c.",
+          "misconception_ids": [],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "C",
+          "text": "A straight-line path in the thrust direction (perpendicular to ab).",
+          "misconception_ids": [
+            "CI3"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "D",
+          "text": "A curved path bending back toward the horizontal ab direction.",
+          "misconception_ids": [
+            "I2"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "E",
+          "text": "A curved path continuing to bend in the thrust direction.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "uncertain"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "impetus",
+        "concatenation_of_influences"
+      ],
+      "has_figure": true,
+      "figure_description": "Continuation of item 21. At point c the engine turns off. Five possible paths (A through E) are shown from point c onward.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 28,
+      "token_count": 34,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 24,
+      "text": "Beyond position \"c\" the speed of the rocket is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Constant.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Continuously increasing.",
+          "misconception_ids": [
+            "AF5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Continuously decreasing.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Increasing for a while and constant thereafter.",
+          "misconception_ids": [
+            "I4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Constant for a while and decreasing thereafter.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "A",
+      "cluster_ids": [
+        "impetus",
+        "kinematics"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 9,
+      "token_count": 12,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 25,
+      "text": "A woman exerts a constant horizontal force on a large box. As a result, the box moves across a horizontal floor at a constant speed \"v_0.\"\n\nThe constant horizontal force applied by the woman:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has the same magnitude as the weight of the box.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Is greater than the weight of the box.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Has the same magnitude as the total force which resists the motion of the box.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Is greater than the total force which resists the motion of the box.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Is greater than either the weight of the box or the total force which resists its motion.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "C",
+      "cluster_ids": [
+        "active_force"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 34,
+      "token_count": 42,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 26,
+      "text": "If the woman in the previous question doubles the constant horizontal force that she exerts on the box to push it on the same horizontal floor, the box then moves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "With a constant speed that is double the speed \"v_0\" in the previous question.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "With a constant speed that is greater than the speed \"v_0\" in the previous question, but not necessarily twice as great.",
+          "misconception_ids": [
+            "AF4"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "For a while with a speed that is constant and greater than the speed \"v_0\" in the previous question, then with a speed that increases thereafter.",
+          "misconception_ids": [
+            "AF4",
+            "AF5"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "For a while with an increasing speed, then with a constant speed thereafter.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "With a continuously increasing speed.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "active_force"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 30,
+      "token_count": 33,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 27,
+      "text": "If the woman in question 25 suddenly stops applying a horizontal force to the box, the box will:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immediately come to a stop.",
+          "misconception_ids": [
+            "R2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Continue moving at a constant speed for a while and then slow to a stop.",
+          "misconception_ids": [
+            "I3"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Immediately start slowing to a stop.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Continue at a constant speed.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Increase its speed for a while and then start slowing to a stop.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "C",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 18,
+      "token_count": 21,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 28,
+      "text": "In the figure at right, student \"a\" has a mass of 95 kg and student \"b\" has a mass of 77 kg. They sit in identical office chairs facing each other. Student \"a\" places his bare feet on the knees of student \"b.\" Student \"a\" then suddenly pushes outward with his feet, causing both chairs to move.\n\nDuring the push and while the students are still touching each other:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neither student exerts a force on the other.",
+          "misconception_ids": [
+            "AF1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "Student \"a\" exerts a force on student \"b,\" but \"b\" does not exert any force on \"a.\"",
+          "misconception_ids": [
+            "AR2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "Each student exerts a force on the other, but \"b\" exerts the larger force.",
+          "misconception_ids": [
+            "AR1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "Each student exerts a force on the other, but \"a\" exerts the larger force.",
+          "misconception_ids": [
+            "AR1",
+            "AR2"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "Each student exerts the same amount of force on the other.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "E",
+      "cluster_ids": [
+        "action_reaction"
+      ],
+      "has_figure": true,
+      "figure_description": "Two students sit in identical office chairs facing each other. Student a (95 kg) places feet on the knees of student b (77 kg) and pushes outward, causing both chairs to move apart.",
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 69,
+      "token_count": 87,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 29,
+      "text": "An empty office chair is at rest on a floor. Consider the following forces:\n1. A downward force of gravity.\n2. An upward force exerted by the floor.\n3. A net downward force exerted by the air.\n\nWhich of the forces is (are) acting on the office chair?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 only.",
+          "misconception_ids": [
+            "Ob1"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "B",
+          "text": "1 and 2.",
+          "misconception_ids": [],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "C",
+          "text": "1 and 3.",
+          "misconception_ids": [
+            "Ob1",
+            "G3"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "D",
+          "text": "1, 2, and 3.",
+          "misconception_ids": [
+            "G3"
+          ],
+          "mapping_confidence": "uncertain"
+        },
+        {
+          "label": "E",
+          "text": "None of the forces. (Since the chair is at rest there are no forces acting upon it.)",
+          "misconception_ids": [
+            "AF3"
+          ],
+          "mapping_confidence": "uncertain"
+        }
+      ],
+      "correct_label": "B",
+      "cluster_ids": [
+        "other_influences",
+        "active_force"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": true,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "dev",
+      "question_word_count": 48,
+      "token_count": 61,
+      "num_alternatives": 5
+    },
+    {
+      "item_id": 30,
+      "text": "Despite a very strong wind, a tennis player manages to hit a tennis ball with her racquet so that the ball goes over the net and lands in her opponent's court.\n\nConsider the following forces:\n1. A downward force of gravity.\n2. A force by the \"hit.\"\n3. A force exerted by the air.\n\nWhich of the above forces is (are) acting on the tennis ball after it has left contact with the racquet and before it touches the ground?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 only.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "B",
+          "text": "1 and 2.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "C",
+          "text": "1 and 3.",
+          "misconception_ids": [],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "D",
+          "text": "2 and 3.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "high"
+        },
+        {
+          "label": "E",
+          "text": "1, 2, and 3.",
+          "misconception_ids": [
+            "I1"
+          ],
+          "mapping_confidence": "high"
+        }
+      ],
+      "correct_label": "C",
+      "cluster_ids": [
+        "impetus",
+        "other_influences"
+      ],
+      "psychometric": {
+        "blocked_in_factor_analysis": false,
+        "block_id": null,
+        "weak_item": false,
+        "exclusion": null
+      },
+      "companion_items": {
+        "FMCE": null,
+        "BEMA": null,
+        "CSEM": null
+      },
+      "split": "test",
+      "question_word_count": 80,
+      "token_count": 97,
+      "num_alternatives": 5
+    }
+  ],
+  "metadata_summary": {
+    "avg_word_count": 43.03333333333333,
+    "avg_token_count": 52.86666666666667,
+    "avg_alternatives_count": 5.0,
+    "avg_similarity_excl_self": 0.2894687056541443
+  }
+}

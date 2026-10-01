@@ -1,0 +1,59 @@
+{
+  "builder_name": "arrow",
+  "citation": "",
+  "config_name": "college_medicine",
+  "dataset_name": "mmlu-redux-2.0",
+  "dataset_size": 55482,
+  "description": "",
+  "download_size": 57112,
+  "features": {
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "choices": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "answer": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "error_type": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "source": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "correct_answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "potential_reason": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 112594,
+  "splits": {
+    "test": {
+      "name": "test",
+      "num_bytes": 55482,
+      "num_examples": 100,
+      "dataset_name": "mmlu-redux-2.0"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

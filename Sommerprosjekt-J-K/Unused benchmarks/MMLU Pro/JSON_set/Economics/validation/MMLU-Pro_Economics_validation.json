@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_economics_validation",
+  "description": "MMLU-Pro benchmark items, category: economics, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 35,
+      "text": "For a stationary autoregressive process, shocks will",
+      "options": [
+        {
+          "label": "A",
+          "text": "Never occur"
+        },
+        {
+          "label": "B",
+          "text": "Persist indefinitely"
+        },
+        {
+          "label": "C",
+          "text": "Cause a permanent change in the trend"
+        },
+        {
+          "label": "D",
+          "text": "Grow exponentially"
+        },
+        {
+          "label": "E",
+          "text": "Only affect the next period"
+        },
+        {
+          "label": "F",
+          "text": "Eventually die away"
+        },
+        {
+          "label": "G",
+          "text": "Cause the process to become non-stationary"
+        },
+        {
+          "label": "H",
+          "text": "Immediately disappear"
+        },
+        {
+          "label": "I",
+          "text": "Lead to a cyclical pattern"
+        },
+        {
+          "label": "J",
+          "text": "Be balanced out by subsequent shocks"
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    },
+    {
+      "item_id": 36,
+      "text": "Consider the following AR(1) model with the disturbances having zero mean and unit variance\nyt = 0.2 + 0.4 yt-1 + ut\nThe (unconditional) mean of y will be given by",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.45"
+        },
+        {
+          "label": "B",
+          "text": "0.2"
+        },
+        {
+          "label": "C",
+          "text": "0.4"
+        },
+        {
+          "label": "D",
+          "text": "0.1"
+        },
+        {
+          "label": "E",
+          "text": "0.3"
+        },
+        {
+          "label": "F",
+          "text": "0.55"
+        },
+        {
+          "label": "G",
+          "text": "0.25"
+        },
+        {
+          "label": "H",
+          "text": "0.33"
+        },
+        {
+          "label": "I",
+          "text": "0.6"
+        },
+        {
+          "label": "J",
+          "text": "0.5"
+        }
+      ],
+      "correct_label": "H",
+      "split": "validation"
+    },
+    {
+      "item_id": 37,
+      "text": "Suppose that a test statistic has associated with it a p-value of 0.08. Which one of the following statements is true?\n(i) If the size of the test were exactly 8%, we would be indifferent between rejecting and not rejecting the null hypothesis\n(ii) The null would be rejected if a 10% size of test were used\n(iii) The null would not be rejected if a 1% size of test were used\n(iv) The null would be rejected if a 5% size of test were used.",
+      "options": [
+        {
+          "label": "A",
+          "text": "(iii) and (iv) only"
+        },
+        {
+          "label": "B",
+          "text": "(i) and (iv) only"
+        },
+        {
+          "label": "C",
+          "text": "(i), (ii), and (iii) only"
+        },
+        {
+          "label": "D",
+          "text": "(i) and (ii) only"
+        },
+        {
+          "label": "E",
+          "text": "(i) and (iii) only"
+        },
+        {
+          "label": "F",
+          "text": "(i), (ii), (iii), and (iv)."
+        },
+        {
+          "label": "G",
+          "text": "(ii), (iii), and (iv) only"
+        },
+        {
+          "label": "H",
+          "text": "(ii) and (iii) only"
+        },
+        {
+          "label": "I",
+          "text": "(ii) and (iv) only"
+        },
+        {
+          "label": "J",
+          "text": "(i), (iii), and (iv) only"
+        }
+      ],
+      "correct_label": "C",
+      "split": "validation"
+    },
+    {
+      "item_id": 38,
+      "text": "Which of the following policies best describes supply-side fiscal policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Higher taxes on household income"
+        },
+        {
+          "label": "B",
+          "text": "Increased government spending"
+        },
+        {
+          "label": "C",
+          "text": "Increased taxes on corporate profits"
+        },
+        {
+          "label": "D",
+          "text": "Increased import tariffs"
+        },
+        {
+          "label": "E",
+          "text": "Decreased interest rates"
+        },
+        {
+          "label": "F",
+          "text": "Lower taxes on consumer goods"
+        },
+        {
+          "label": "G",
+          "text": "Lower taxes on research and development of new technology"
+        },
+        {
+          "label": "H",
+          "text": "Reduced government spending"
+        },
+        {
+          "label": "I",
+          "text": "Higher taxes on capital gains"
+        },
+        {
+          "label": "J",
+          "text": "An increase in the money supply"
+        }
+      ],
+      "correct_label": "G",
+      "split": "validation"
+    },
+    {
+      "item_id": 39,
+      "text": "The concentration ratio for a monopoly is",
+      "options": [
+        {
+          "label": "A",
+          "text": "50"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "90"
+        },
+        {
+          "label": "E",
+          "text": "15"
+        },
+        {
+          "label": "F",
+          "text": "100"
+        },
+        {
+          "label": "G",
+          "text": "0"
+        },
+        {
+          "label": "H",
+          "text": "25"
+        },
+        {
+          "label": "I",
+          "text": "75"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    }
+  ]
+}

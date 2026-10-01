@@ -1,0 +1,92 @@
+{
+ "source_file": "MMLU_formal_logic_val.json",
+ "num_questions": 14,
+ "file_avg_question_words": 41.57,
+ "file_avg_answer_words": 7.98,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 26,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 2,
+   "question_words": 29,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 3,
+   "question_words": 46,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 4,
+   "question_words": 33,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 5,
+   "question_words": 46,
+   "num_answers": 4,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 6,
+   "question_words": 52,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 7,
+   "question_words": 43,
+   "num_answers": 4,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 8,
+   "question_words": 40,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 9,
+   "question_words": 44,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 10,
+   "question_words": 47,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 11,
+   "question_words": 46,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 12,
+   "question_words": 44,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 13,
+   "question_words": 44,
+   "num_answers": 4,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 14,
+   "question_words": 42,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  }
+ ]
+}

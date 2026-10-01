@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_us_foreign_policy_test",
+  "description": "Us foreign policy multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — us_foreign_policy subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "How many states in the international system are likely to have nuclear weapons right now?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fewer than 7"
+        },
+        {
+          "label": "B",
+          "text": "Between 8 and 15"
+        },
+        {
+          "label": "C",
+          "text": "Between 16 and 25"
+        },
+        {
+          "label": "D",
+          "text": "More than 25"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "According to Rosenau, which factor is important to consider in explaining the foreign policy behavior of the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The external environment of the international system"
+        },
+        {
+          "label": "B",
+          "text": "Domestic environment, government and bureaucracy"
+        },
+        {
+          "label": "C",
+          "text": "The President's individual personality."
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "How did the Cold War context shape US perceptions of the Third World?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The US ignored the Third World"
+        },
+        {
+          "label": "B",
+          "text": "Local developments were viewed through a geopolitical lens"
+        },
+        {
+          "label": "C",
+          "text": "The US unreservedly supported decolonization"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "How did the relationship between President and Congress develop under George H.W. Bush and Bill Clinton?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Congress asserted its primacy in foreign policy"
+        },
+        {
+          "label": "B",
+          "text": "US foreign policy became substantially decentralized"
+        },
+        {
+          "label": "C",
+          "text": "The Presidency welcomed the influence of Congress"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "How did World War I shift economic power from Europe to the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The war reduced European population levels below that of the United States"
+        },
+        {
+          "label": "B",
+          "text": "The United States seized German resources after the war"
+        },
+        {
+          "label": "C",
+          "text": "European countries paid the United States for assistance"
+        },
+        {
+          "label": "D",
+          "text": "The United States became a creditor country and financial centre, with European war spending boosting the US economy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "How do Ideational approaches to US foreign policy during the Cold War differ from Realist accounts of the same period?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They place greater emphasis on economic factors"
+        },
+        {
+          "label": "B",
+          "text": "They place greater emphasis on material interests and power"
+        },
+        {
+          "label": "C",
+          "text": "They place greater emphasis on ideology and beliefs"
+        },
+        {
+          "label": "D",
+          "text": "They place greater emphasis on geopolitics"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "In what sense might exceptionalism link isolationist and internationalist strategies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both encourage world government"
+        },
+        {
+          "label": "B",
+          "text": "Both focus on the decline of the American power"
+        },
+        {
+          "label": "C",
+          "text": "It doesn't - the two are fundamentally opposed"
+        },
+        {
+          "label": "D",
+          "text": "Both can be viewed as different means of achieving the same liberal ends"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "In what way did the George W Bush administration change the direction of US foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It criticized international organizations, rather than trying to strengthen them"
+        },
+        {
+          "label": "B",
+          "text": "It expanded NATO to include former Soviet states"
+        },
+        {
+          "label": "C",
+          "text": "It focused on a more personal style of leadership"
+        },
+        {
+          "label": "D",
+          "text": "It increased international support for the United States"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Peace, commerce, and honest friendship with all nations, entangling alliances with none'. Identify the speaker.",
+      "options": [
+        {
+          "label": "A",
+          "text": "James Madison"
+        },
+        {
+          "label": "B",
+          "text": "Abraham Lincoln"
+        },
+        {
+          "label": "C",
+          "text": "Woodrow Wilson"
+        },
+        {
+          "label": "D",
+          "text": "Thomas Jefferson"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "What accounted for the US avoidance of catastrophe at the hands of the British in 1814?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Naval victories"
+        },
+        {
+          "label": "B",
+          "text": "Diplomacy"
+        },
+        {
+          "label": "C",
+          "text": "British preoccupation with Europe"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "What are the key elements of the Liberal approach to US foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Promotion of Democracy, free-trade and international institutions"
+        },
+        {
+          "label": "B",
+          "text": "Alliances, diplomacy and protectionism"
+        },
+        {
+          "label": "C",
+          "text": "The balance of power, self-sufficiency and prudence"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "What case did President Eisenhower make against the 'military-industrial complex' in his farewell speech?",
+      "options": [
+        {
+          "label": "A",
+          "text": "That the capitalist search for profits was the leading cause of armed conflict"
+        },
+        {
+          "label": "B",
+          "text": "That the United States no longer needed to be militarily strong"
+        },
+        {
+          "label": "C",
+          "text": "That military spending gave the arms industry unwarranted influence on politics and government"
+        },
+        {
+          "label": "D",
+          "text": "That private companies would undermine the role of the Armed Forces"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "What did Charles Krauthammer mean by a 'unipolar moment' when describing the post-Cold War system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The chance for the United States to share power with other countries in the world"
+        },
+        {
+          "label": "B",
+          "text": "An opportunity to use to collapse of the Soviet Union to extend US power"
+        },
+        {
+          "label": "C",
+          "text": "An international system that didn't face any threats"
+        },
+        {
+          "label": "D",
+          "text": "The never-ending domination of the United States"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "What did Paul Kennedy argue in his book The Rise and Fall of the Great Powers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All of the world's leading economies were declining due to low growth and inflation"
+        },
+        {
+          "label": "B",
+          "text": "The United States could no longer remain a superpower and was in decline"
+        },
+        {
+          "label": "C",
+          "text": "The soft power of the United States would allow it to avoid decline"
+        },
+        {
+          "label": "D",
+          "text": "The rise of Japan had been exaggerated"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "What drives US foreign policy according to the Marxist perspective?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economic protectionism"
+        },
+        {
+          "label": "B",
+          "text": "Class consciousness"
+        },
+        {
+          "label": "C",
+          "text": "The search for new markets"
+        },
+        {
+          "label": "D",
+          "text": "Superstructure"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "What features distinguish Socio-Economic accounts of US Cold War foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A focus on class and economic interests"
+        },
+        {
+          "label": "B",
+          "text": "A focus on liberal ideology"
+        },
+        {
+          "label": "C",
+          "text": "A focus on language and culture"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "What is meant by the phrase 'empire by invitation'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Voluntary reliance on an external power for security"
+        },
+        {
+          "label": "B",
+          "text": "Willful openness to colonization"
+        },
+        {
+          "label": "C",
+          "text": "Cultural imperialism"
+        },
+        {
+          "label": "D",
+          "text": "Open advocacy of imperialism for economic gain"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "What is the implication of American exceptionalism in terms of global economics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It encourages the use of tariffs"
+        },
+        {
+          "label": "B",
+          "text": "It encourages nationalization"
+        },
+        {
+          "label": "C",
+          "text": "It encourages liberalization of global trade"
+        },
+        {
+          "label": "D",
+          "text": "It encourages redistribution of wealth"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "What led Britain to impose new taxes on their American colonies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To increase the wealth of King George III"
+        },
+        {
+          "label": "B",
+          "text": "The growing costs of war with France"
+        },
+        {
+          "label": "C",
+          "text": "Anger at America's growing prosperity"
+        },
+        {
+          "label": "D",
+          "text": "Pressure from rich merchants"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "What policies are part of a grand strategy of Offshore Balancing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Maintaining a balance between the United States and other countries and not entering into alliances"
+        },
+        {
+          "label": "B",
+          "text": "Investing equally in domestic and international security with balanced protection against terrorism and other states"
+        },
+        {
+          "label": "C",
+          "text": "Embrace multi-polarity, show greater restraint internationally and require other states to meet their own security burdens."
+        },
+        {
+          "label": "D",
+          "text": "Isolate the US from the international system and not seek global power"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "What was 'democratic enlargement'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A proposal for reform of the US system of government"
+        },
+        {
+          "label": "B",
+          "text": "A proposal for the extension of democratic rule globally"
+        },
+        {
+          "label": "C",
+          "text": "A proposal for the extension of free markets"
+        },
+        {
+          "label": "D",
+          "text": "Both b and c"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "What was established at Bretton Woods in 1994 to stabilize the global economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The International Monetary Fund (IMF)"
+        },
+        {
+          "label": "B",
+          "text": "The US Dollar as the world's reserve currency"
+        },
+        {
+          "label": "C",
+          "text": "The General Agreement on Tariffs and Trade (GATT)"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "What was meant by the term 'American multiplication table'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase in the US population"
+        },
+        {
+          "label": "B",
+          "text": "Increase in US finances"
+        },
+        {
+          "label": "C",
+          "text": "Increase in US military capability"
+        },
+        {
+          "label": "D",
+          "text": "Increase in US international influence"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "What was meant by the term 'New World Order'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A new democratic internationalism led by the United States"
+        },
+        {
+          "label": "B",
+          "text": "A new balance of power between the US and China"
+        },
+        {
+          "label": "C",
+          "text": "A new global economic framework"
+        },
+        {
+          "label": "D",
+          "text": "A new era of globalization"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "What was meant by the term 'Rogue States'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "States aligned with the USSR during the Cold War"
+        },
+        {
+          "label": "B",
+          "text": "States outside of the 'family of nations'"
+        },
+        {
+          "label": "C",
+          "text": "Communist States"
+        },
+        {
+          "label": "D",
+          "text": "The former Soviet states"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "What was the 'Domino Theory'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The idea that the Cold War operated according to the principles of game theory"
+        },
+        {
+          "label": "B",
+          "text": "The idea that certain states were of higher value than others to the US during the Cold War"
+        },
+        {
+          "label": "C",
+          "text": "The idea that the fall of one state to communism would inexorably lead to the fall of its neighbors"
+        },
+        {
+          "label": "D",
+          "text": "The idea that the growth of democracy in one state would inexorably lead to its growth in others"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "What was the 'New Populism'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A strand of neo-isolationist sentiment"
+        },
+        {
+          "label": "B",
+          "text": "A strand of internationalist sentiment"
+        },
+        {
+          "label": "C",
+          "text": "An expression of American cultural superiority"
+        },
+        {
+          "label": "D",
+          "text": "Increased incorporation of public opinion in foreign policy making"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "What was the Clinton Administration's policy on the Russian economy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The US inhibited the marketization of the Russian economy"
+        },
+        {
+          "label": "B",
+          "text": "The US promoted the marketization of the Russian economy"
+        },
+        {
+          "label": "C",
+          "text": "The US supported public ownership of natural resources"
+        },
+        {
+          "label": "D",
+          "text": "None, the US was only concerned with security issues"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "What was the key difference between US expansion pre- and post- 1865?",
+      "options": [
+        {
+          "label": "A",
+          "text": "US expansion was based on territory rather than markets post-1865"
+        },
+        {
+          "label": "B",
+          "text": "US expansion was based on markets rather than territory post-1865"
+        },
+        {
+          "label": "C",
+          "text": "US expansion was limited to Latin America post-1865"
+        },
+        {
+          "label": "D",
+          "text": "US expansion ended after 1865"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "What was the Marshall plan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A plan designed to aid the economy recovery of Europe"
+        },
+        {
+          "label": "B",
+          "text": "An attempt to diminish the potential attraction of the Soviet system to Europeans"
+        },
+        {
+          "label": "C",
+          "text": "An aid programme that embedded US influence in Europe"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "What was the significance of the Gulf of Tonkin resolution?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It allowed the US to intensify its involvement in Vietnam"
+        },
+        {
+          "label": "B",
+          "text": "It illustrated the influence of public opinion on US foreign policy"
+        },
+        {
+          "label": "C",
+          "text": "It enhanced Congressional control over the Vietnam War"
+        },
+        {
+          "label": "D",
+          "text": "It curtailed US involvement in Vietnam"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "What was the significance of the Truman Doctrine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It indicated the special place of Greece and Turkey in American interests"
+        },
+        {
+          "label": "B",
+          "text": "It was Truman's first statement on European affairs"
+        },
+        {
+          "label": "C",
+          "text": "It indicated US reluctance to get involved in incidents outside of its immediate sphere of influence"
+        },
+        {
+          "label": "D",
+          "text": "It indicated that the US would now view all local revolts through a geopolitical lens"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "What was unique about the NATO intervention in Kosovo?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It was the first time the US became involved in the Balkans"
+        },
+        {
+          "label": "B",
+          "text": "It was the first time NATO used military force"
+        },
+        {
+          "label": "C",
+          "text": "It was the first war won by airpower alone"
+        },
+        {
+          "label": "D",
+          "text": "It was the first war to employ 'smart weapons'"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "What were the 'open-door notes'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An American declaration that the US was always open to Chinese immigration"
+        },
+        {
+          "label": "B",
+          "text": "An American proclamation that China should be divided up between the US, Japan and the European empires"
+        },
+        {
+          "label": "C",
+          "text": "An American proclamation that China should be open to US trade and missionaries"
+        },
+        {
+          "label": "D",
+          "text": "An American declaration of support for Chinese economic protectionism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "What were the implications of the Cold War for American exceptionalism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It ended the influence of American exceptionalism entirely"
+        },
+        {
+          "label": "B",
+          "text": "Exceptionalism was enhanced by America's status as the 'leader of the free world'"
+        },
+        {
+          "label": "C",
+          "text": "The extension of American power globally challenged core assumptions of exceptionalism"
+        },
+        {
+          "label": "D",
+          "text": "Both b and c"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "What, according to Systemic theories, is the primary determinant of a state's foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The character of a state's leader"
+        },
+        {
+          "label": "B",
+          "text": "The distribution of power in the international system"
+        },
+        {
+          "label": "C",
+          "text": "The distribution of power within a state's governmental system"
+        },
+        {
+          "label": "D",
+          "text": "A state's political ideology"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Which of these is not a component of the 'American Creed'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liberty"
+        },
+        {
+          "label": "B",
+          "text": "Equality"
+        },
+        {
+          "label": "C",
+          "text": "Autocracy"
+        },
+        {
+          "label": "D",
+          "text": "Individualism"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Who said \"Globalization is not something we can hold off or turn off. It is the economic equivalent of a force of nature-like wind or water\"?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ronald Reagan"
+        },
+        {
+          "label": "B",
+          "text": "George Soros"
+        },
+        {
+          "label": "C",
+          "text": "Bill Clinton"
+        },
+        {
+          "label": "D",
+          "text": "George W. Bush"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Why did Americans believe that they could found a different kind of empire after 1776?",
+      "options": [
+        {
+          "label": "A",
+          "text": "This would be an 'empire of liberty'"
+        },
+        {
+          "label": "B",
+          "text": "This empire would be multi-cultural"
+        },
+        {
+          "label": "C",
+          "text": "This type of empire would be based on expansion"
+        },
+        {
+          "label": "D",
+          "text": "This would be empire free of slavery"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Why did Franklin D. Roosevelt initially favour an 'isolationist' stance on the part of the US during the 1930s?",
+      "options": [
+        {
+          "label": "A",
+          "text": "He believed that internal reform rather than international negotiation was the key to economic regeneration of the US"
+        },
+        {
+          "label": "B",
+          "text": "He believed that German domination of Europe would be in US interests"
+        },
+        {
+          "label": "C",
+          "text": "He always favoured isolationism"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Why did George H.W. Bush allow Saddam Hussein to remain in power after the Gulf War of 1991?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lack of US firepower"
+        },
+        {
+          "label": "B",
+          "text": "Concern over oil supplies"
+        },
+        {
+          "label": "C",
+          "text": "Limited UN mandate and fear of a protracted conflict"
+        },
+        {
+          "label": "D",
+          "text": "Difficult terrain and fear of civilian casualties"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Why did Lincoln oppose the southward expansion of the US?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It would have drained the US economically"
+        },
+        {
+          "label": "B",
+          "text": "It would have involved compromising opposition to slavery"
+        },
+        {
+          "label": "C",
+          "text": "It would have increased immigration to the US"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Why do contemporary European liberal democrats tend to object to the influence of exceptionalism on American foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They see it as a challenge to European global influence"
+        },
+        {
+          "label": "B",
+          "text": "They see it as an ideological façade for US imperialism"
+        },
+        {
+          "label": "C",
+          "text": "They see it as a temporary phenomenon"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Why do Liberal Internationalists argue that international institutions are important to US grand strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They allow the US to withdraw from the international arena"
+        },
+        {
+          "label": "B",
+          "text": "They serve American interests"
+        },
+        {
+          "label": "C",
+          "text": "The US is incapable of acting alone"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Why do realists tend to object to the influence of exceptionalism on American foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It leads to a diminished focus on collective security"
+        },
+        {
+          "label": "B",
+          "text": "It diminishes the prospects for world government"
+        },
+        {
+          "label": "C",
+          "text": "It enhances the prospects for world government"
+        },
+        {
+          "label": "D",
+          "text": "It leads to a diminished focus on security, power and interest"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Why do some scholars claim that Reagan 'won the Cold War'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reagan's first term military spending pressured the Soviet Union to keep up its international commitments"
+        },
+        {
+          "label": "B",
+          "text": "Reagan encouraged engagement with the Soviet Union"
+        },
+        {
+          "label": "C",
+          "text": "Reagan encouraged a softer approach towards communism"
+        },
+        {
+          "label": "D",
+          "text": "Reagan reduced military spending and this allowed the Soviet Union space to reform"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Why is NSC 68 seen as a turning point in US Cold War Foreign policy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It indicated the primacy of economic containment"
+        },
+        {
+          "label": "B",
+          "text": "It indicated a desire to engage with the Soviet Union"
+        },
+        {
+          "label": "C",
+          "text": "It indicated a shift towards military containment"
+        },
+        {
+          "label": "D",
+          "text": "It dispensed with the idea of containment"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Why might American exceptionalism lead to opposition to world government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Its general anti-statism opposes centralized government"
+        },
+        {
+          "label": "B",
+          "text": "It views world government as impractical"
+        },
+        {
+          "label": "C",
+          "text": "It views the UN as a sufficient form of global governance"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Why might the 'Philadelphian System' be linked to the idea of American exceptionalism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It encouraged greater involvement in European politics"
+        },
+        {
+          "label": "B",
+          "text": "It was designed as the antithesis of European politics"
+        },
+        {
+          "label": "C",
+          "text": "It created a large standing army"
+        },
+        {
+          "label": "D",
+          "text": "It encouraged the centralization of political power in the US"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Détente, or the relaxing of tensions coupled with firm guarantees of mutual security, represented a shift in American foreign policy toward the communist world ushered in by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Richard Nixon."
+        },
+        {
+          "label": "B",
+          "text": "Eugene McCarthy"
+        },
+        {
+          "label": "C",
+          "text": "Lyndon Johnson."
+        },
+        {
+          "label": "D",
+          "text": "Robert Kennedy."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "During the early years of his administration, Reagan's foreign and defense policies emphasized",
+      "options": [
+        {
+          "label": "A",
+          "text": "nuclear disarmament."
+        },
+        {
+          "label": "B",
+          "text": "détente."
+        },
+        {
+          "label": "C",
+          "text": "anticommunism."
+        },
+        {
+          "label": "D",
+          "text": "international free trade."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Growing tension between the United States and the Soviet Union resulted in a policy that John Foster Dulles referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"mutual assured destruction.\""
+        },
+        {
+          "label": "B",
+          "text": "\"brinkmanship.\""
+        },
+        {
+          "label": "C",
+          "text": "\"realism.\""
+        },
+        {
+          "label": "D",
+          "text": "\"not in my backyard.\""
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "In American government, the power to declare war rests with",
+      "options": [
+        {
+          "label": "A",
+          "text": "the president of the United States."
+        },
+        {
+          "label": "B",
+          "text": "the secretary of defense."
+        },
+        {
+          "label": "C",
+          "text": "the chairman of the Joint Chiefs of Staff."
+        },
+        {
+          "label": "D",
+          "text": "Congress."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "In general, how do conservatives and liberals differ when it comes to defense spending?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conservatives are skeptical of increases in defense spending; liberals advocate increases in defense spending."
+        },
+        {
+          "label": "B",
+          "text": "Conservatives favor social spending over defense spending; liberals favor defense spending over social spending."
+        },
+        {
+          "label": "C",
+          "text": "Conservatives advocate increases in defense spending; liberals are generally skeptical of increases in defense spending."
+        },
+        {
+          "label": "D",
+          "text": "Conservatives emphasize strong economies; liberals emphasize strong military readiness."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The best known and perhaps most important international organization is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the United Nations."
+        },
+        {
+          "label": "B",
+          "text": "the North Atlantic Treaty Organization (NATO)."
+        },
+        {
+          "label": "C",
+          "text": "the Organization of Petroleum Exporting Countries (OPEC)."
+        },
+        {
+          "label": "D",
+          "text": "the World Trade Organization (WTO)."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "The cooperative international organization of 185 countries designed to stabilize the exchange of currencies and the world economy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "the World Bank."
+        },
+        {
+          "label": "B",
+          "text": "the United Nations."
+        },
+        {
+          "label": "C",
+          "text": "UNICEF."
+        },
+        {
+          "label": "D",
+          "text": "the International Monetary Fund."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The departments of the executive branch that assist the president in designing and carrying out U.S. foreign policy are known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the United Nations."
+        },
+        {
+          "label": "B",
+          "text": "the National Security Council."
+        },
+        {
+          "label": "C",
+          "text": "the State Department."
+        },
+        {
+          "label": "D",
+          "text": "the National Security Agency."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "The dominant course for foreign policy throughout most of American history can be categorized as",
+      "options": [
+        {
+          "label": "A",
+          "text": "containment."
+        },
+        {
+          "label": "B",
+          "text": "neoconservatism."
+        },
+        {
+          "label": "C",
+          "text": "isolationism."
+        },
+        {
+          "label": "D",
+          "text": "protectionism."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The foreign policy doctrine that European nations should stay out of Latin America is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Powell Doctrine."
+        },
+        {
+          "label": "B",
+          "text": "the Roosevelt Doctrine."
+        },
+        {
+          "label": "C",
+          "text": "the Bush Doctrine."
+        },
+        {
+          "label": "D",
+          "text": "the Monroe Doctrine."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The government body formed to coordinate American foreign and military policy is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the National Security Council."
+        },
+        {
+          "label": "B",
+          "text": "the Pentagon."
+        },
+        {
+          "label": "C",
+          "text": "the Defense Policy Institute."
+        },
+        {
+          "label": "D",
+          "text": "the Joint Chiefs of Staff."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "The idea that war is \"the continuation of politics by other means\" helps to capture",
+      "options": [
+        {
+          "label": "A",
+          "text": "diplomacy is the quietest instrument of influence in global politics."
+        },
+        {
+          "label": "B",
+          "text": "the way political parties fight with each other."
+        },
+        {
+          "label": "C",
+          "text": "the idea that governments use their military to help pursue policy goals."
+        },
+        {
+          "label": "D",
+          "text": "the way Democrats and Republicans differ over the war in Iraq."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The importance of oil in shaping U.S. foreign policy helps to highlight",
+      "options": [
+        {
+          "label": "A",
+          "text": "the importance of military superiority."
+        },
+        {
+          "label": "B",
+          "text": "how the importance of oil is often overexaggerated."
+        },
+        {
+          "label": "C",
+          "text": "the increasing importance of economic instruments of foreign policy."
+        },
+        {
+          "label": "D",
+          "text": "the need to drill for domestic sources."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "The Joint Chiefs of Staff is made up of",
+      "options": [
+        {
+          "label": "A",
+          "text": "the critical domestic and foreign policy advisers to the president."
+        },
+        {
+          "label": "B",
+          "text": "foreign policy advisers who meet with the president daily."
+        },
+        {
+          "label": "C",
+          "text": "the commanding officers of each branch of the armed services, along with a chairperson and vice chairperson."
+        },
+        {
+          "label": "D",
+          "text": "the highest-ranking generals in the U.S. Army."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "The largest increase in peacetime defense spending in American history occurred under which president?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jimmy Carter"
+        },
+        {
+          "label": "B",
+          "text": "Ronald Reagan"
+        },
+        {
+          "label": "C",
+          "text": "Bill Clinton"
+        },
+        {
+          "label": "D",
+          "text": "Dwight Eisenhower"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "The president's principal civilian adviser on the military is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "national security adviser."
+        },
+        {
+          "label": "B",
+          "text": "director of the CIA."
+        },
+        {
+          "label": "C",
+          "text": "secretary of defense."
+        },
+        {
+          "label": "D",
+          "text": "secretary of state."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "The role of gathering and interpreting intelligence about foreign countries in order to allow policymakers to make good foreign policy decisions was given to",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Central Intelligence Agency (CIA)."
+        },
+        {
+          "label": "B",
+          "text": "the Federal Bureau of Investigation (FBI)."
+        },
+        {
+          "label": "C",
+          "text": "the National Security Council."
+        },
+        {
+          "label": "D",
+          "text": "Both A and B are correct."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "The Strategic Arms Reduction Treaty was the first accord",
+      "options": [
+        {
+          "label": "A",
+          "text": "on nuclear weapons signed between the United States and the Soviet Union."
+        },
+        {
+          "label": "B",
+          "text": "cutting conventional arms in Europe."
+        },
+        {
+          "label": "C",
+          "text": "to be rejected by the U.S. Senate."
+        },
+        {
+          "label": "D",
+          "text": "mandating the elimination of many long-range nuclear missiles."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "The trade-off between defense and social spending is often referred to as a choice between",
+      "options": [
+        {
+          "label": "A",
+          "text": "bread and butter."
+        },
+        {
+          "label": "B",
+          "text": "war and peace."
+        },
+        {
+          "label": "C",
+          "text": "guns and butter."
+        },
+        {
+          "label": "D",
+          "text": "bombs and books."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "The Vietnam War can be understood as",
+      "options": [
+        {
+          "label": "A",
+          "text": "a war that deeply divided the United States and fostered cynicism toward the American government."
+        },
+        {
+          "label": "B",
+          "text": "an example of the doctrine of containment, because U.S. involvement was designed to prevent the fall of South Vietnam to the communists."
+        },
+        {
+          "label": "C",
+          "text": "an example of how even a great power may not be able to prevail against a determined enemy unless there is a clear objective and the national will to do so."
+        },
+        {
+          "label": "D",
+          "text": "All of the above are true."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "What caused a public uproar involving the National Security Agency in 2005?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Revelations that the NSA was monitoring the communications of American citizens without obtaining warrants"
+        },
+        {
+          "label": "B",
+          "text": "A leaked memo that linked the events of September 11, 2001, with the Democratic National Committee"
+        },
+        {
+          "label": "C",
+          "text": "Revelations that the NSA had tortured prisoners at Guantanamo, Cuba"
+        },
+        {
+          "label": "D",
+          "text": "A scathing report condemning the George W. Bush administration for \"building a case for the war in Iraq on a quicksand foundation\""
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Who was the first American president to visit communist China?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Richard Nixon"
+        },
+        {
+          "label": "B",
+          "text": "George H. W. Bush"
+        },
+        {
+          "label": "C",
+          "text": "Jimmy Carter"
+        },
+        {
+          "label": "D",
+          "text": "Ronald Reagan"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Within American politics, the power to accord official recognition to other countries belongs to",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Senate."
+        },
+        {
+          "label": "B",
+          "text": "the president."
+        },
+        {
+          "label": "C",
+          "text": "the Secretary of State."
+        },
+        {
+          "label": "D",
+          "text": "the chairman of the Joint Chiefs."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Within the United Nations, real power is located in",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Security Council."
+        },
+        {
+          "label": "B",
+          "text": "the Chamber of Deputies."
+        },
+        {
+          "label": "C",
+          "text": "the Council of Ministers."
+        },
+        {
+          "label": "D",
+          "text": "the Secretariat."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Bureaucratic politics suggests we should be worried about which of the following with regard to nuclear weapons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Having the capability to deter the most powerful rival"
+        },
+        {
+          "label": "B",
+          "text": "Having the capability to deter smaller states"
+        },
+        {
+          "label": "C",
+          "text": "How nuclear attacks are identified and responded to; who controls the weapons"
+        },
+        {
+          "label": "D",
+          "text": "Bureaucratic politics provides no information about nuclear proliferation and use"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Global and regional international trade agreements work by using which of the following mechanisms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reciprocity across multiple issues"
+        },
+        {
+          "label": "B",
+          "text": "Reputational concerns of the actors"
+        },
+        {
+          "label": "C",
+          "text": "Side payments for adjusting to the organization (such as the Common Agricultural Policy in the EU)"
+        },
+        {
+          "label": "D",
+          "text": "ALL of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Intergovernmental organizations SELDOM do which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide strong enforcement"
+        },
+        {
+          "label": "B",
+          "text": "Monitor parties"
+        },
+        {
+          "label": "C",
+          "text": "Provide fora for discussion"
+        },
+        {
+          "label": "D",
+          "text": "Reduce transaction costs for agreements"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "International development may be tied to the security of the state, why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Threats to the state centralize political and economic power, threatening state development"
+        },
+        {
+          "label": "B",
+          "text": "Too many casualties drain the productive power of the state"
+        },
+        {
+          "label": "C",
+          "text": "Threats to the state encourage socialism"
+        },
+        {
+          "label": "D",
+          "text": "The two are correlated, but there is no causal effect"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "International trade will almost always benefit both countries, so why do countries try to protect their own firms from exposure to the world market?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irrationality on the part of the leadership"
+        },
+        {
+          "label": "B",
+          "text": "Costs of free trade are concentrated, but benefits are dispersed"
+        },
+        {
+          "label": "C",
+          "text": "Regime type"
+        },
+        {
+          "label": "D",
+          "text": "International conflict prevents trade"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "What has been an effective way of disbursing US foreign aid to encourage change in target states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Conditional programs, such as the Millennium Challenge, that require change before receipt of aid"
+        },
+        {
+          "label": "B",
+          "text": "the use of intergovernmental organizations to monitor aid disbursement"
+        },
+        {
+          "label": "C",
+          "text": "withdrawal of aid for bad policies"
+        },
+        {
+          "label": "D",
+          "text": "None of the above, international aid never works"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "What tend to be the effects of oil and other natural resource trade on developing states?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It democratizes countries"
+        },
+        {
+          "label": "B",
+          "text": "It has no real effect"
+        },
+        {
+          "label": "C",
+          "text": "It encourages stability of the regime"
+        },
+        {
+          "label": "D",
+          "text": "It changes the nature of the investor"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which is NOT a reason for why intergovernmental organizations are ineffective at promoting human rights?",
+      "options": [
+        {
+          "label": "A",
+          "text": "These organizations merely identify those states who already support human rights"
+        },
+        {
+          "label": "B",
+          "text": "They cannot get enough information about which leaders will abuse their citizens"
+        },
+        {
+          "label": "C",
+          "text": "These organizations have little ability to constrain abusive leaders"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of the following are possible constraints on US foreign policy decision making?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foreign policies of other states"
+        },
+        {
+          "label": "B",
+          "text": "International law"
+        },
+        {
+          "label": "C",
+          "text": "Intergovernmental organizations"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following are possible constraints on US foreign policy decision making?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Foreign policies of other states"
+        },
+        {
+          "label": "B",
+          "text": "International law"
+        },
+        {
+          "label": "C",
+          "text": "Intergovernmental organizations"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "Which of the following considers it immoral to use force abroad to do good things (such human rights protection, democracy, etc)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Realism"
+        },
+        {
+          "label": "B",
+          "text": "Idealism"
+        },
+        {
+          "label": "C",
+          "text": "Liberalism"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Which of the following considers states to be the primary actors in international relations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Realism"
+        },
+        {
+          "label": "B",
+          "text": "Idealism"
+        },
+        {
+          "label": "C",
+          "text": "Liberalism"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Which of the following is NOT a good predictor of which states will get nuclear weapons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Receipt of sensitive nuclear assistance"
+        },
+        {
+          "label": "B",
+          "text": "Wealth/GDP"
+        },
+        {
+          "label": "C",
+          "text": "Rivalry with a nuclear state"
+        },
+        {
+          "label": "D",
+          "text": "Regime type"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Why is there so much uncertainty over which states have nuclear weapons?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leaders have incentives to lie"
+        },
+        {
+          "label": "B",
+          "text": "If leaders revealed their programs, they would be more likely to be attacked"
+        },
+        {
+          "label": "C",
+          "text": "Leaders will not always grant foreign monitors access to their nuclear programs"
+        },
+        {
+          "label": "D",
+          "text": "ALL of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "According to realists, what is the fundamental difference between the international system and the domestic system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Armed conflict"
+        },
+        {
+          "label": "B",
+          "text": "Anarchy"
+        },
+        {
+          "label": "C",
+          "text": "Institutions"
+        },
+        {
+          "label": "D",
+          "text": "No common language"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "According to International Institutionalists, what problems have international institutions been designed to address?",
+      "options": [
+        {
+          "label": "A",
+          "text": "War"
+        },
+        {
+          "label": "B",
+          "text": "Anarchy"
+        },
+        {
+          "label": "C",
+          "text": "Collective action and coordination problems"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Historically, what has been the general pattern of defense spending in the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steady increases over time."
+        },
+        {
+          "label": "B",
+          "text": "Increased spending during wars, with demobilization bringing spending down but not back to prewar levels"
+        },
+        {
+          "label": "C",
+          "text": "Unpredictable fluctuations."
+        },
+        {
+          "label": "D",
+          "text": "Increased spending during wars, with further increases after the war to prepare for future engagements."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "How many major powers are there in a multipolar system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "3 or more"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "What did the Moscow Treaty on Strategic Offensive Reductions do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Required the United States and Russia to demobilize their armies"
+        },
+        {
+          "label": "B",
+          "text": "Required the United States and Russia to dismantle a significant number of their nuclear weapons"
+        },
+        {
+          "label": "C",
+          "text": "Prohibited the acquisition of new military bases"
+        },
+        {
+          "label": "D",
+          "text": "Prohibited short-range nuclear weapons"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "What is American exceptionalism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The belief that the United States is different from other major powers because it is concerned not only with Power, but also with Principles."
+        },
+        {
+          "label": "B",
+          "text": "The belief that the United States is different because it is the most powerful nation in the world."
+        },
+        {
+          "label": "C",
+          "text": "The belief that the United States is pacifist."
+        },
+        {
+          "label": "D",
+          "text": "The belief that the United States is different because it is motivated more by economic factors than other countries are."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "What is direct diplomacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Members of Congress negotiating directly with foreign governments"
+        },
+        {
+          "label": "B",
+          "text": "Face-to-face meetings between state leaders"
+        },
+        {
+          "label": "C",
+          "text": "The president consulting Congress on foreign policy issues"
+        },
+        {
+          "label": "D",
+          "text": "Bilateral talks that do not involve a third-party negotiator"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "What is the structure of the United Nations Security Council?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 permanent members with veto power, 10 rotating members with no veto power"
+        },
+        {
+          "label": "B",
+          "text": "5 permanent members and 10 rotating members, all with veto power"
+        },
+        {
+          "label": "C",
+          "text": "10 permanent members with veto power, and 5 rotating members without veto power"
+        },
+        {
+          "label": "D",
+          "text": "15 permanent members with veto power"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "What was a main organizational change proposed by the 9/11 Commission with regard to the U.S. intelligence community?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Creation of the Department of Homeland Security"
+        },
+        {
+          "label": "B",
+          "text": "Moving the Department of Defense Intelligence Agencies to the CIA for better coordination"
+        },
+        {
+          "label": "C",
+          "text": "Creation of the National Intelligence Director"
+        },
+        {
+          "label": "D",
+          "text": "Moving the domestic intelligence component of the FBI to the CIA"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "What was the Marshall Plan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A plan that provided economic assistance to rebuild Europe."
+        },
+        {
+          "label": "B",
+          "text": "A plan to provide aid to Greece and Turkey in their stand against Soviet and Soviet-assisted threats"
+        },
+        {
+          "label": "C",
+          "text": "A plan that provided Europe with military assistance to counter the Soviet threat"
+        },
+        {
+          "label": "D",
+          "text": "The plan designed to stop communism in Asia"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "What were the primary institutions of the liberal international economic order?\nI. GATT\nII. IMF\nIII. World Bank\nIV. NATO",
+      "options": [
+        {
+          "label": "A",
+          "text": "IV only"
+        },
+        {
+          "label": "B",
+          "text": "II and III"
+        },
+        {
+          "label": "C",
+          "text": "I, II, and III"
+        },
+        {
+          "label": "D",
+          "text": "I, II, III, and IV"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which is not a nonstate actor that poses a threat to the United States?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terrorists"
+        },
+        {
+          "label": "B",
+          "text": "Organized crime"
+        },
+        {
+          "label": "C",
+          "text": "Drug traffickers"
+        },
+        {
+          "label": "D",
+          "text": "China"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following points supports the argument for American unilateralism?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benevolent hegemony"
+        },
+        {
+          "label": "B",
+          "text": "Ineffectiveness of multilateralism"
+        },
+        {
+          "label": "C",
+          "text": "American power"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

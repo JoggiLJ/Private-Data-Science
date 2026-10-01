@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_chemistry_validation",
+  "description": "MMLU-Pro benchmark items, category: chemistry, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 25,
+      "text": "Predict the number of lines in the EPR spectrum of a solution of 13C-labelled methyl radical (13CH3•), assuming the lines do not overlap.",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "8"
+        },
+        {
+          "label": "C",
+          "text": "4"
+        },
+        {
+          "label": "D",
+          "text": "20"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        },
+        {
+          "label": "F",
+          "text": "3"
+        },
+        {
+          "label": "G",
+          "text": "16"
+        },
+        {
+          "label": "H",
+          "text": "5"
+        },
+        {
+          "label": "I",
+          "text": "24"
+        },
+        {
+          "label": "J",
+          "text": "6"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following lists the hydrides of group-14 elements in order of thermal stability, from lowest to highest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "GeH4 < SnH4 < PbH4 < SiH4 < CH4"
+        },
+        {
+          "label": "B",
+          "text": "SiH4 < GeH4 < SnH4 < PbH4 < CH4"
+        },
+        {
+          "label": "C",
+          "text": "PbH4 < CH4 < SnH4 < GeH4 < SiH4"
+        },
+        {
+          "label": "D",
+          "text": "PbH4 < SnH4 < CH4 < GeH4 < SiH4"
+        },
+        {
+          "label": "E",
+          "text": "SnH4 < GeH4 < SiH4 < PbH4 < CH4"
+        },
+        {
+          "label": "F",
+          "text": "CH4 < GeH4 < SnH4 < PbH4 < SiH4"
+        },
+        {
+          "label": "G",
+          "text": "SiH4 < SnH4 < PbH4 < GeH4 < CH4"
+        },
+        {
+          "label": "H",
+          "text": "CH4 < SiH4 < GeH4 < SnH4 < PbH4"
+        },
+        {
+          "label": "I",
+          "text": "CH4 < PbH4 < GeH4 < SnH4 < SiH4"
+        },
+        {
+          "label": "J",
+          "text": "PbH4 < SnH4 < GeH4 < SiH4 < CH4"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    },
+    {
+      "item_id": 27,
+      "text": "Which of the following is considered an acid anhydride?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2SO3"
+        },
+        {
+          "label": "B",
+          "text": "NaCl"
+        },
+        {
+          "label": "C",
+          "text": "CH4"
+        },
+        {
+          "label": "D",
+          "text": "HNO3"
+        },
+        {
+          "label": "E",
+          "text": "SO2"
+        },
+        {
+          "label": "F",
+          "text": "Al(NO3)3"
+        },
+        {
+          "label": "G",
+          "text": "CaCO3"
+        },
+        {
+          "label": "H",
+          "text": "H2O"
+        },
+        {
+          "label": "I",
+          "text": "HCl"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "E",
+      "split": "validation"
+    },
+    {
+      "item_id": 28,
+      "text": "A new compound is synthesized and found to be a monoprotic acid with a molar mass of 248 g/mol. When 0.0050 mol of this acid are dissolved in 0.500 L of water, the pH is measured as 3.89. What is the pKa of this acid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.78"
+        },
+        {
+          "label": "B",
+          "text": "4.78"
+        },
+        {
+          "label": "C",
+          "text": "4.56"
+        },
+        {
+          "label": "D",
+          "text": "6.89"
+        },
+        {
+          "label": "E",
+          "text": "7.78"
+        },
+        {
+          "label": "F",
+          "text": "3.89"
+        },
+        {
+          "label": "G",
+          "text": "1.23"
+        },
+        {
+          "label": "H",
+          "text": "2.89"
+        },
+        {
+          "label": "I",
+          "text": "2.33"
+        },
+        {
+          "label": "J",
+          "text": "5.33"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 29,
+      "text": "A solution contains 2.00 mole of acetic acid, CH3COOH, and 1.00 mole of calcium acetate, Ca(CH3COO)2. The solution is able to resist the addition of a small amount of strong acid or strong base with only minor changes in the pH of the solution. Larger quantities of strong acid or strong base can cause a significant change in pH. How many moles of nitric acid, HNO3, may be added before the pH begins to change significantly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.250 mole"
+        },
+        {
+          "label": "B",
+          "text": "0.500 mole"
+        },
+        {
+          "label": "C",
+          "text": "3.00 mole"
+        },
+        {
+          "label": "D",
+          "text": "1.00 mole"
+        },
+        {
+          "label": "E",
+          "text": "3.50 mole"
+        },
+        {
+          "label": "F",
+          "text": "1.50 mole"
+        },
+        {
+          "label": "G",
+          "text": "2.50 mole"
+        },
+        {
+          "label": "H",
+          "text": "4.00 mole"
+        },
+        {
+          "label": "I",
+          "text": "0.750 mole"
+        },
+        {
+          "label": "J",
+          "text": "2.00 mole"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    }
+  ]
+}

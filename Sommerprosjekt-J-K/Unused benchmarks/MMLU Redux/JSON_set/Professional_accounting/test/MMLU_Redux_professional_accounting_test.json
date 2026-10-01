@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_professional_accounting_test",
+  "description": "Professional accounting multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — professional_accounting subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Sussman Co. prepared cash-basis financial statements for the month ended January 31. A summary of Sussman's January activities follows: Credit sales of $5600. Collections of $1900 relating to January credit sales. Accrued salaries of $1200. By what amount will Sussman's cash-basis income for the month ended January 31 increase as a result of restating these activities to the accrual basis of accounting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$2,500"
+        },
+        {
+          "label": "B",
+          "text": "$3,700"
+        },
+        {
+          "label": "C",
+          "text": "$4,400"
+        },
+        {
+          "label": "D",
+          "text": "4900"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Ultra Co. uses a periodic inventory system. The following are inventory transactions for the month of January: 1/1 Beginning inventory 20000 units at $13 1/20 Purchase 30000 units at $15 1/23 Purchase 40000 units at $17 1/31 Sales at $20 per unit 50000 units Ultra uses the LIFO method to determine the value of its inventory. What amount should Ultra report as cost of goods sold on its income statement for the month of January?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$710,000"
+        },
+        {
+          "label": "B",
+          "text": "$750,000"
+        },
+        {
+          "label": "C",
+          "text": "$830,000"
+        },
+        {
+          "label": "D",
+          "text": "1000000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "The purpose of establishing quality control policies and procedures for deciding whether to accept or continue a client relationship is to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Provide reasonable assurance that personnel are adequately trained to fulfill their responsibilities."
+        },
+        {
+          "label": "B",
+          "text": "Minimize the likelihood of associating with clients whose management lacks integrity."
+        },
+        {
+          "label": "C",
+          "text": "Document the matters that are required to be communicated to the audit committee."
+        },
+        {
+          "label": "D",
+          "text": "Enhance the auditor's understanding of the client's business and its industry."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Large City does not use the modified approach to account for roads. At the beginning of the current year the city spent $800000 on new roads. The roads have a 20-year useful life. What amount should Large City report as an expense related to the new roads in the statement of activities for the current year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0"
+        },
+        {
+          "label": "B",
+          "text": "$20,000"
+        },
+        {
+          "label": "C",
+          "text": "$40,000"
+        },
+        {
+          "label": "D",
+          "text": "800000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "A company last paid a dividend of $3. If the expected return on its equity is estimated at 12% and its shares are currently quoted on London Stock Exchange at $75, what should the dividend growth rate be to ensure that the price is consistent with the pricing of a growing perpetuity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "8%"
+        },
+        {
+          "label": "C",
+          "text": "16%"
+        },
+        {
+          "label": "D",
+          "text": "-4%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Mill CPA was engaged by a group of royalty recipients to apply agreed-upon procedures to financial data supplied by Modern Co. regarding Modern's written assertion about its compliance with contractual requirements to pay royalties. Mill's report on these agreed-upon procedures should contain a(an)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disclaimer of opinion about the fair presentation of Modern's financial statements."
+        },
+        {
+          "label": "B",
+          "text": "List of the procedures performed (or reference thereto) and Mill's findings."
+        },
+        {
+          "label": "C",
+          "text": "Opinion about the effectiveness of Modern's internal control activities concerning royalty payments."
+        },
+        {
+          "label": "D",
+          "text": "Acknowledgment that the sufficiency of the procedures is solely Mill's responsibility."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Which of the following factors most likely would cause an accountant not to accept an engagement to compile the financial statements of a nonissuer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A lack of segregation of duties in the entity's accounting and payroll departments."
+        },
+        {
+          "label": "B",
+          "text": "Indications that reports of asset misappropriation are not investigated by management."
+        },
+        {
+          "label": "C",
+          "text": "The entity's intention to omit from the financial statements substantially all of the disclosures required by GAAP."
+        },
+        {
+          "label": "D",
+          "text": "Management's acknowledgement that the financial statements will be included in a written personal financial plan."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Which of the following factors most likely would cause a CPA not to accept a new audit engagement?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Management reputation for failing to provide schedules to prior auditors on a timely basis."
+        },
+        {
+          "label": "B",
+          "text": "The CPA's inability to review the predecessor auditor's working papers."
+        },
+        {
+          "label": "C",
+          "text": "Management's unwillingness to make all financial records available to the CPA."
+        },
+        {
+          "label": "D",
+          "text": "The CPA's lack of understanding of the entity's operations and industry."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "A company is considering a move to a Software-as-a-Service (SaaS) offering instead of a traditional in-house application. Which of the following concerns is unique to SaaS?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disaster recovery capabilities and documented recovery procedures."
+        },
+        {
+          "label": "B",
+          "text": "User credential setup and control over the actions that employees can perform."
+        },
+        {
+          "label": "C",
+          "text": "Allocation of software expenses and overhead charged to departments."
+        },
+        {
+          "label": "D",
+          "text": "Ownership of processed data and costs of data migrations."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "During an engagement to review the financial statements of a nonissuer, an accountant becomes aware of several leases that should be capitalized, but are not capitalized. The accountant considers these leases to be material to the financial statements. The accountant decides to modify the standard review report because management will not capitalize the leases. Under these circumstances, the accountant should",
+      "options": [
+        {
+          "label": "A",
+          "text": "Issue an adverse opinion because of the departure from GAAP."
+        },
+        {
+          "label": "B",
+          "text": "Express no assurance of any kind on the entity's financial statements."
+        },
+        {
+          "label": "C",
+          "text": "Emphasize that the financial statements are for limited use only."
+        },
+        {
+          "label": "D",
+          "text": "Disclose the departure from GAAP in a separate paragraph of the accountant's report."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Suppose that the market price of Company X is $45 per share and that of Company Y is $30. If X offers three-fourths a share of common stock for each share of Y, the ratio of exchange of market prices would be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.667"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "1.125"
+        },
+        {
+          "label": "D",
+          "text": "1.5"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "An auditor is evaluating a client’s internal controls. Which of the following situations would be the most difficult internal control issue for an auditor to detect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The accounting staff neglects the control, due to increased transactions to be processed."
+        },
+        {
+          "label": "B",
+          "text": "The technology department writes a program that does not properly implement the control, due to a lack of understanding."
+        },
+        {
+          "label": "C",
+          "text": "Two employees, who work in different departments, are circumventing an internal control."
+        },
+        {
+          "label": "D",
+          "text": "Someone erroneously disables edit checks in a software program designed to identify control exceptions."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The FASB makes changes to the Accounting Standards Codification by issuing",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accounting Standards Updates."
+        },
+        {
+          "label": "B",
+          "text": "Emerging Issues Task Force Releases."
+        },
+        {
+          "label": "C",
+          "text": "Statements of Financial Accounting Standards."
+        },
+        {
+          "label": "D",
+          "text": "Staff Technical Bulletins."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "What is the process by which products and services of a business entity are measured and evaluated relative to the best possible levels of performance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Measuring the performance gap"
+        },
+        {
+          "label": "B",
+          "text": "Standard measurement"
+        },
+        {
+          "label": "C",
+          "text": "Benchmarking"
+        },
+        {
+          "label": "D",
+          "text": "Variance management"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Accrual accounting involves accruals and deferrals. Which of the following best describes accruals and deferrals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Accruals are concerned with expected future cash receipts and payments while deferrals are concerned with past cash receipts and payments."
+        },
+        {
+          "label": "B",
+          "text": "Accruals are concerned with past cash receipts and payments while deferrals are concerned with expected future cash receipts and payments."
+        },
+        {
+          "label": "C",
+          "text": "Both accruals and deferrals are concerned with expected future cash receipts and payments."
+        },
+        {
+          "label": "D",
+          "text": "Both accruals and deferrals are concerned with past cash receipts and payments."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following characteristics most likely would heighten an auditor's concern about the risk of material misstatements arising from fraudulent financial reporting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The entity's industry is experiencing declining customer demand."
+        },
+        {
+          "label": "B",
+          "text": "Employees who handle cash receipts are not bonded."
+        },
+        {
+          "label": "C",
+          "text": "Bank reconciliations usually include in-transit deposits."
+        },
+        {
+          "label": "D",
+          "text": "Equipment is often sold at a loss before being fully depreciated."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Mast Co. converted from the FIFO method for inventory valuation to the LIFO method for financial statement and tax purposes. During a period of inflation would Mast's ending inventory and income tax payable using LIFO be higher or lower than FIFO? Ending inventory Income tax payable",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower Lower"
+        },
+        {
+          "label": "B",
+          "text": "Higher Higher"
+        },
+        {
+          "label": "C",
+          "text": "Lower Higher"
+        },
+        {
+          "label": "D",
+          "text": "Higher Lower"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Zokro a nongovernmental not-for-profit organization uses the indirect method to prepare its statement of cash flows. In determining its net cash provided (used) by operating activities Sokro must add back which of the following to the change in net assets?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purchase of equipment."
+        },
+        {
+          "label": "B",
+          "text": "Payment on long-term debt."
+        },
+        {
+          "label": "C",
+          "text": "Depreciation."
+        },
+        {
+          "label": "D",
+          "text": "Decrease in accounts payable."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The simple linear regression between stock and market returns",
+      "options": [
+        {
+          "label": "A",
+          "text": "fits the errors to obtain a more precise estimate of the stock’s beta."
+        },
+        {
+          "label": "B",
+          "text": "minimises the stock’s alpha, i.e. its idiosyncratic component."
+        },
+        {
+          "label": "C",
+          "text": "estimates the alpha of stock returns and their dependence on the market returns."
+        },
+        {
+          "label": "D",
+          "text": "models market returns as a function of the stock returns and its beta."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Bale Co. incurred $100,000 of acquisition costs related to the purchase of the net assets of Dixon Co. The $100,000 should be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allocated on a pro rata basis to the nonmonetary assets acquired."
+        },
+        {
+          "label": "B",
+          "text": "Capitalized as part of goodwill and tested annually for impairment"
+        },
+        {
+          "label": "C",
+          "text": "Capitalized as an other asset and amortized over five years."
+        },
+        {
+          "label": "D",
+          "text": "Expensed as incurred in the current period"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Lake Trust a simple trust reported the following items of income and expense during the year: Dividend income $2500 Taxable interest income 2000 Capital gains (allocable to corpus) 5000 Accounting fees (allocable to income) (500) Trustee fees (allocable to income) (750) What is Lake's distributable net income?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$9,500"
+        },
+        {
+          "label": "B",
+          "text": "$8,250"
+        },
+        {
+          "label": "C",
+          "text": "$5,000"
+        },
+        {
+          "label": "D",
+          "text": "3250"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Match Co. manufactures a product with the following costs per unit based on a maximum plant capacity of 400000 units per year: Direct materials $ 60 Direct labor 10 Variable overhead 40 Fixed overhead 30 Total $140 Match has a ready market for all 400000 units at a selling price of $200 each. Selling costs in this market consist of $10 per unit shipping and a fixed licensing fee of $50000 per year. Reno Co. wishes to buy 5000 of these units on a special order. There would be no shipping costs on this special order. What is the lowest price per unit at which Match should be willing to sell the 5000 units to Reno?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$110"
+        },
+        {
+          "label": "B",
+          "text": "$140"
+        },
+        {
+          "label": "C",
+          "text": "$190"
+        },
+        {
+          "label": "D",
+          "text": "200"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Which of the following types of information would be included in total net assets in the statement of financial position for a nongovernmental not-for-profit organization?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Total current net assets and total other assets."
+        },
+        {
+          "label": "B",
+          "text": "Total current assets and restricted assets."
+        },
+        {
+          "label": "C",
+          "text": "Unrestricted net assets, temporarily restricted net assets, and permanently restricted net assets."
+        },
+        {
+          "label": "D",
+          "text": "Unrestricted net assets, restricted net assets, and total current assets."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Greene is the sole shareholder of Seagull, a calendar-year S corporation. Greene's basis at the beginning of the year is $15,000. Seagull reported an ordinary loss of $5,000 and $2,000 of municipal bond interest for the year. Seagull distributed cash of $6,000 to Greene on November 1. What is Greene's basis in Seagull at the end of the year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$4,000"
+        },
+        {
+          "label": "B",
+          "text": "$6,000"
+        },
+        {
+          "label": "C",
+          "text": "$14,000"
+        },
+        {
+          "label": "D",
+          "text": "$15,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "If a CPA recklessly departs from the standards of due care when conducting an audit the CPA will be liable to third parties who are unknown to the CPA under the law of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strict liability."
+        },
+        {
+          "label": "B",
+          "text": "Breach of contract."
+        },
+        {
+          "label": "C",
+          "text": "Negligence."
+        },
+        {
+          "label": "D",
+          "text": "Gross negligence."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "A shoe retailer allows customers to return shoes within 90 days of purchase. The company estimates that 5% of sales will be returned within the 90-day period. During the month, the company has sales of $200,000 and returns of sales made in prior months of $5,000. What amount should the company record as net sales revenue for new sales made during the month?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$185,000"
+        },
+        {
+          "label": "B",
+          "text": "$190,000"
+        },
+        {
+          "label": "C",
+          "text": "$195,000"
+        },
+        {
+          "label": "D",
+          "text": "$200,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Gamma Co. a manufacturer of medical products had a 10% return on assets and an asset turnover of 4:1. What was Gamma's profit margin on sales?",
+      "options": [
+        {
+          "label": "A",
+          "text": "40.00%"
+        },
+        {
+          "label": "B",
+          "text": "10.00%"
+        },
+        {
+          "label": "C",
+          "text": "4.00%"
+        },
+        {
+          "label": "D",
+          "text": "0.025"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Gulde’s tax basis in Chyme Partnership was $26,000 at the time Gulde received a liquidating distribution of $12,000 cash and land with an adjusted basis to Chyme of $10,000 and a fair market value of $30,000. Chyme did not have unrealized receivables, appreciated inventory, or properties that had been contributed by its partners. What was the amount of Gulde’s basis in the land?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0"
+        },
+        {
+          "label": "B",
+          "text": "$10,000"
+        },
+        {
+          "label": "C",
+          "text": "$14,000"
+        },
+        {
+          "label": "D",
+          "text": "$30,000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Which of the following transactions correctly illustrates the doctrine of substantial performance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blair ordered a dozen blue chairs from Kyle but Kyle delivered a dozen red chairs."
+        },
+        {
+          "label": "B",
+          "text": "Leslie painted an entire room but failed to put the electrical outlet covers back on."
+        },
+        {
+          "label": "C",
+          "text": "A contract required hair styling to be done to Toby's satisfaction but Toby was in good faith dissatisfied with the completed result."
+        },
+        {
+          "label": "D",
+          "text": "A dentist competently completed the extraction of Lee's tooth but mistakenly pulled the wrong one."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Which of the following cannot be amortized for tax purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Incorporation costs."
+        },
+        {
+          "label": "B",
+          "text": "Temporary directors’ fees."
+        },
+        {
+          "label": "C",
+          "text": "Stock issuance costs."
+        },
+        {
+          "label": "D",
+          "text": "Organizational meeting costs."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "The essence of responsibility accounting is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Developing performance reports emphasizing costs and revenues that managers can control."
+        },
+        {
+          "label": "B",
+          "text": "Allocating service department costs to production departments so that production department managers know all costs for which they are responsible."
+        },
+        {
+          "label": "C",
+          "text": "Determining who is to blame for unfavorable variances."
+        },
+        {
+          "label": "D",
+          "text": "Investigating all variances regardless of their status as favorable or unfavorable."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "A company’s new time clock process requires hourly employees to select an identification number and then choose the clock-in or clock-out button. A video camera captures an image of the employee using the system. Which of the following exposures can the new system be expected to change the least?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fraudulent reporting of employees’ own hours."
+        },
+        {
+          "label": "B",
+          "text": "Errors in employees’ overtime computation"
+        },
+        {
+          "label": "C",
+          "text": "Inaccurate accounting of employees’ hours."
+        },
+        {
+          "label": "D",
+          "text": "Recording of other employees’ hours."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "West is single has no dependents and does not itemize. West provides the following information regarding his current-year‚Äôs return: Long-term capital gain $15000 Percentage depletion in excess of property's adjusted basis 9000 Dividends from publicly-held companies 10000 What is the amount of West's AMT tax preference items?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$9,000"
+        },
+        {
+          "label": "B",
+          "text": "$19,000"
+        },
+        {
+          "label": "C",
+          "text": "$24,000"
+        },
+        {
+          "label": "D",
+          "text": "34000"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Strut Co. has a payable to its parent Plane Co. In which of the following balance sheets should this payable be reported separately? Strut's Plane's consolidated balance sheet balance sheet",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes Yes"
+        },
+        {
+          "label": "B",
+          "text": "Yes No"
+        },
+        {
+          "label": "C",
+          "text": "No Yes"
+        },
+        {
+          "label": "D",
+          "text": "No No"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "While performing an audit of the financial statements of a company for the year ended December 31, year 1, the auditor notes that the company’s sales increased substantially in December, year 1, with a corresponding decrease in January, year 2. In assessing the risk of fraudulent financial reporting or misappropriation of assets, what should be the auditor’s initial indication about the potential for fraud in sales revenue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is a broad indication of misappropriation of assets."
+        },
+        {
+          "label": "B",
+          "text": "There is an indication of theft of the entity’s assets."
+        },
+        {
+          "label": "C",
+          "text": "There is an indication of embezzling receipts."
+        },
+        {
+          "label": "D",
+          "text": "There is a broad indication of financial reporting fraud."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "A company exchanged land with an appraised value of $50,000 and an original cost of $20,000 for machinery with a fair value of $55,000. Assuming that the transaction has commercial substance, what is the gain on the exchange?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0"
+        },
+        {
+          "label": "B",
+          "text": "$5,000"
+        },
+        {
+          "label": "C",
+          "text": "$30,000"
+        },
+        {
+          "label": "D",
+          "text": "$35,000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "An investment project cost $1 million to undertake and will deliver $2 million in five years’ time. The discount rate is 10%. What is the project’s NPV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$1,000,000"
+        },
+        {
+          "label": "B",
+          "text": "$300,000"
+        },
+        {
+          "label": "C",
+          "text": "$2,000,000"
+        },
+        {
+          "label": "D",
+          "text": "$242,000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Lind Co.'s salaries expense of $10,000 is paid every other Friday for the 10 workdays then ending. Lind's employees do not work on Saturdays and Sundays. The last payroll was paid on June 18. On Wednesday, June 30, the month-end balance in the salaries expense account before accruals was $14,000. What amount should Lind report as salaries expense in its income statement for the month ended June 30?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$24,000"
+        },
+        {
+          "label": "B",
+          "text": "$22,000"
+        },
+        {
+          "label": "C",
+          "text": "$20,000"
+        },
+        {
+          "label": "D",
+          "text": "$18,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Which of the following procedures would an accountant least likely perform during an engagement to review the financial statements of a nonissuer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Make inquiries of management about actions taken at board of directors' meetings."
+        },
+        {
+          "label": "B",
+          "text": "Study the relationships of financial statement elements expected to conform to predictable patterns."
+        },
+        {
+          "label": "C",
+          "text": "Identify internal control activities that are likely to prevent or detect material misstatements."
+        },
+        {
+          "label": "D",
+          "text": "Compare the financial statements with anticipated results in budgets and forecasts."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "If the correlation between Securities A and B is −0.20, and their respective standard deviations are 8% and 18%, what is the standard deviation of a portfolio with one quarter invested in A and three quarters invested in B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "8.70%"
+        },
+        {
+          "label": "B",
+          "text": "13.20%"
+        },
+        {
+          "label": "C",
+          "text": "54%"
+        },
+        {
+          "label": "D",
+          "text": "6.60%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "A company recently moved to a new building. The old building is being actively marketed for sale, and the company expects to complete the sale in four months. Each of the following statements is correct regarding the old building, except:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It will be reclassified as an asset held for sale."
+        },
+        {
+          "label": "B",
+          "text": "It will be classified as a current asset."
+        },
+        {
+          "label": "C",
+          "text": "It will no longer be depreciated."
+        },
+        {
+          "label": "D",
+          "text": "It will be valued at historical cost."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "In selecting an appropriate sample for a substantive test the auditor most likely would stratify the population if the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Auditor suspects that management fraud has occurred during the year."
+        },
+        {
+          "label": "B",
+          "text": "Desired assessed level of control risk is less than the prior year."
+        },
+        {
+          "label": "C",
+          "text": "Technique to be used is attribute sampling."
+        },
+        {
+          "label": "D",
+          "text": "Auditor plans to give greater representation to large recorded amounts."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Kanji Company had sales last year of $265 million, including cash sales of $25 million. If its average collection period was 36 days, its ending accounts receivable balance is closest to . (Assume a 365-day year.)",
+      "options": [
+        {
+          "label": "A",
+          "text": "$26.1 million"
+        },
+        {
+          "label": "B",
+          "text": "$23.7 million"
+        },
+        {
+          "label": "C",
+          "text": "$7.4 million"
+        },
+        {
+          "label": "D",
+          "text": "$18.7 million"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which of the following factors most likely would heighten an auditor's concern about the risk of fraudulent financial reporting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The audit committee's approval of the initial selection of accounting principles."
+        },
+        {
+          "label": "B",
+          "text": "A lack of competition in the entity's industry accompanied by increasing profit margins."
+        },
+        {
+          "label": "C",
+          "text": "Management's disclosure of unresolved litigation and contingent liabilities."
+        },
+        {
+          "label": "D",
+          "text": "Year-end adjustments by the entity that significantly affect financial results."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "A CPA prepares income tax returns for a client. After the client signs and mails the returns, the CPA discovers an error. According to Treasury Circular 230, the CPA must",
+      "options": [
+        {
+          "label": "A",
+          "text": "Document the error in the workpapers."
+        },
+        {
+          "label": "B",
+          "text": "Prepare an amended return within 30 days of the discovery of the error."
+        },
+        {
+          "label": "C",
+          "text": "Promptly advise the client of the error."
+        },
+        {
+          "label": "D",
+          "text": "Promptly resign from the engagement and cooperate with the successor accountant."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "What is the due date of a federal estate tax return (Form 706), for a taxpayer who died on May 15, year 2, assuming that a request for an extension of time is not filed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "September 15, year 2."
+        },
+        {
+          "label": "B",
+          "text": "December 31, year 2."
+        },
+        {
+          "label": "C",
+          "text": "January 31, year 3."
+        },
+        {
+          "label": "D",
+          "text": "February 15, year 3."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Lemon owned 2000 shares of Spectrol Corp. common stock that were purchased in year 1 at $10.50 per share. In year 4 Lemon received a 5% non-taxable dividend of Spectrol common stock. In year 5 the stock split 2-for-1. In the current year Lemon sold 800 shares. What is Lemon's basis in the 800 shares of stock sold?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$4,000"
+        },
+        {
+          "label": "B",
+          "text": "$8,000"
+        },
+        {
+          "label": "C",
+          "text": "$8,400"
+        },
+        {
+          "label": "D",
+          "text": "16800"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "In the statement of activities for a governmental entity revenues such as charges for building permits garbage collection and dog licenses are reported as which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Program revenues in the category ‚ÄúCapital Grants and Contributions.‚Äù"
+        },
+        {
+          "label": "B",
+          "text": "Program revenues in the category ‚ÄúCharges for Services.‚Äù"
+        },
+        {
+          "label": "C",
+          "text": "General revenues in the category ‚ÄúCharges for Services.‚Äù"
+        },
+        {
+          "label": "D",
+          "text": "General revenues in the category ‚ÄúCapital Grants and Contributions.‚Äù"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "According to COSO, an effective approach to monitoring internal control involves each of the following steps, except",
+      "options": [
+        {
+          "label": "A",
+          "text": "Establishing a foundation for monitoring."
+        },
+        {
+          "label": "B",
+          "text": "Increasing the reliability of financial reporting and compliance with applicable laws and regulations."
+        },
+        {
+          "label": "C",
+          "text": "Designing and executing monitoring procedures that are prioritized based on risks to achieve organizational objectives."
+        },
+        {
+          "label": "D",
+          "text": "Assessing and reporting the results, including following up on corrective action where necessary."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Which of the following documents is typically issued as part of the due-process activities of the Financial Accounting Standards Board (FASB) for amending the FASB Accounting Standards Codification?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A proposed statement of position."
+        },
+        {
+          "label": "B",
+          "text": "A proposed accounting standards update."
+        },
+        {
+          "label": "C",
+          "text": "A proposed accounting research bulletin."
+        },
+        {
+          "label": "D",
+          "text": "A proposed staff accounting bulletin."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Smythe Co. invested $200 in a call option for 100 shares of Gin Co. $.50 par common stock, when the market price was $10 per share. The option expired in three months and had an exercise price of $9 per share. What was the intrinsic value of the call option at the time of initial investment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$50"
+        },
+        {
+          "label": "B",
+          "text": "$100"
+        },
+        {
+          "label": "C",
+          "text": "$200"
+        },
+        {
+          "label": "D",
+          "text": "$900"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "On July 1 year 7 Dean Co. issued at a premium bonds with a due date of July 1 year 12. Dean incorrectly used the straight-line method instead of the effective interest method to amortize the premium. How were the following amounts affected by the error at June 30 year 12? Bond carrying Retained amount earnings",
+      "options": [
+        {
+          "label": "A",
+          "text": "Overstated Understated"
+        },
+        {
+          "label": "B",
+          "text": "Understated Overstated"
+        },
+        {
+          "label": "C",
+          "text": "Overstated No effect"
+        },
+        {
+          "label": "D",
+          "text": "No effect No effect"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Which of the following techniques effectively measures improvements in product quality as a result of internal failure costs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inspection of in-process goods."
+        },
+        {
+          "label": "B",
+          "text": "Recording the number of products returned over time."
+        },
+        {
+          "label": "C",
+          "text": "Tracking the number of products reworked."
+        },
+        {
+          "label": "D",
+          "text": "Tracking warranty expenses over time."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "If requested to perform a compilation engagement for a nonissuer in which an accountant has an immaterial direct financial interest, the accountant is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Independent because the financial interest in the nonissuer is immaterial."
+        },
+        {
+          "label": "B",
+          "text": "Not independent and, therefore, may not be associated with the financial statements."
+        },
+        {
+          "label": "C",
+          "text": "Not independent and, therefore, may not issue a compilation report."
+        },
+        {
+          "label": "D",
+          "text": "Not independent and, therefore, may issue a compilation report, but may not issue a review report."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "An auditor decides to use the blank form of positive accounts receivable confirmation. The auditor should be aware that the blank form may be ineffective because",
+      "options": [
+        {
+          "label": "A",
+          "text": "All accounts do not have an equal opportunity to be selected for confirmation."
+        },
+        {
+          "label": "B",
+          "text": "Accounts unconfirmed may have already been written off as uncollectible."
+        },
+        {
+          "label": "C",
+          "text": "Few responses may occur because more effort is required of recipients."
+        },
+        {
+          "label": "D",
+          "text": "Accounts actually confirmed may not be representative of the population."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "During an engagement to compile the financial statements of a nonissuer an accountant becomes aware that management had stated land at appraised value and that if GAAP had been followed both the land account and stockholders' equity would have been decreased by $1 million a material amount. The accountant decides to modify the standard compilation report because management will not revise the financial statements. Under these circumstances the accountant should",
+      "options": [
+        {
+          "label": "A",
+          "text": "Issue either an adverse opinion or a qualified opinion depending on materiality because of the departure from GAAP."
+        },
+        {
+          "label": "B",
+          "text": "Add a separate paragraph to the accountant's report that restricts the distribution of the financial statements to ‚Äúinternal use only.‚Äù"
+        },
+        {
+          "label": "C",
+          "text": "Add a separate paragraph to the accountant's report that discloses the departure from GAAP and its effects on the financial statements."
+        },
+        {
+          "label": "D",
+          "text": "Add a separate paragraph to the accountant's report that explains the underlying purpose of recording assets at historical cost."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Dari Inc. guaranteed the debt of a related party. In December Dari learned that it is probable it will be required to pay between $150000 and $200000 within the next six months in satisfaction of its guarantee but no amount within that range is more likely. What amount of contingent liability should Dari accrue in its December 31 balance sheet?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$200,000"
+        },
+        {
+          "label": "B",
+          "text": "$175,000"
+        },
+        {
+          "label": "C",
+          "text": "$150,000"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "In the current year Vinton exchanged unimproved land for an apartment building. The land had a basis of $300000 and a fair market value (FMV) of $420000 and was encumbered by a $100000 mortgage. The apartment building had an FMV of $550000 and was encumbered by a $230000 mortgage. Each party assumed the other's mortgage. What is Vinton's basis in the office building?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$300,000"
+        },
+        {
+          "label": "B",
+          "text": "$320,000"
+        },
+        {
+          "label": "C",
+          "text": "$430,000"
+        },
+        {
+          "label": "D",
+          "text": "550000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "During year 2 Pipp Co. incurred the following costs to develop and produce a routine low-risk computer software product: Completion of detailed program design $10000 Costs incurred for coding and testing to establish technological feasibility $15000 Other coding and testing costs incurred after establishment of technological feasibility $44000 In Pipp's December 31 year 2 balance sheet what amount should be capitalized as software cost?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$10,000"
+        },
+        {
+          "label": "B",
+          "text": "$25,000"
+        },
+        {
+          "label": "C",
+          "text": "$44,000"
+        },
+        {
+          "label": "D",
+          "text": "59000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Under the Sales Article of the UCC, which of the following circumstances best describes how the implied warranty of fitness for a particular purpose arises in a sale of goods transaction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The buyer is purchasing the goods for a particular purpose and is relying on the seller’s skill or judgment to select suitable goods."
+        },
+        {
+          "label": "B",
+          "text": "The buyer is purchasing the goods for a particular purpose and the seller is a merchant in such goods."
+        },
+        {
+          "label": "C",
+          "text": "The seller knows the particular purpose for which the buyer will use the goods and knows the buyer is relying on the seller’s skill or judgment to select suitable goods."
+        },
+        {
+          "label": "D",
+          "text": "The seller knows the particular purpose for which the buyer will use the goods and the seller is a merchant in such goods."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of the following applies to an accountant conducting a review of interim financial information?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The accountant must indicate in the report those circumstances in which generally accepted accounting principles have not been consistently observed in the current period in relation to the preceding period."
+        },
+        {
+          "label": "B",
+          "text": "The accountant must express an opinion on the financial statements taken as a whole."
+        },
+        {
+          "label": "C",
+          "text": "The accountant must maintain independence in mental attitude in all matters relating to the engagement."
+        },
+        {
+          "label": "D",
+          "text": "The accountant must obtain sufficient appropriate evidence by performing procedures to afford a reasonable basis for an opinion."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Star Co. is a retail store specializing in contemporary furniture. The following information is taken from Star's June budget: Sales $540000 Cost of goods sold 300000 Merchandise inventory‚ÄìJune 1 150000 Merchandise inventory‚ÄìJune 30 180000 Accounts payable for purchases‚ÄìJune 1 85000 Accounts payable for purchases‚ÄìJune 30 75000 What amount should Star budget for cash disbursements for June purchases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$260,000"
+        },
+        {
+          "label": "B",
+          "text": "$280,000"
+        },
+        {
+          "label": "C",
+          "text": "$320,000"
+        },
+        {
+          "label": "D",
+          "text": "340000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "When comparing investment projects:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The ranking of projects by NPV is invariant to changes in the market rate"
+        },
+        {
+          "label": "B",
+          "text": "The IRR will always agree with NPV metric"
+        },
+        {
+          "label": "C",
+          "text": "The IRR never changes the ranking of the projects"
+        },
+        {
+          "label": "D",
+          "text": "We should use a single metric, like the NPV or the IRR, to have a coherent comparison"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "While performing certain nonaudit services for an insurance company, a professional accountant is asked to recommend the appropriate accounting treatment for a weather hedge transaction. The accountant has worked with financial hedges but has no experience with weather hedges. Which of the following actions by the accountant would be in compliance with the IFAC Code of Ethics for Professional Accountants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agree to recommend the appropriate accounting treatment after performing sufficient research on weather hedges."
+        },
+        {
+          "label": "B",
+          "text": "Refuse to conduct the research and make a recommendation, because of insufficient experience."
+        },
+        {
+          "label": "C",
+          "text": "Refuse to conduct the research and make a recommendation, because of a conflict of interest."
+        },
+        {
+          "label": "D",
+          "text": "Agree with the accounting treatment recommended by the company’s hedge fund trader."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "What term is used to represent unavoidable past costs that cannot be changed no matter what action is taken?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prime costs"
+        },
+        {
+          "label": "B",
+          "text": "Sunk costs"
+        },
+        {
+          "label": "C",
+          "text": "Opportunity costs"
+        },
+        {
+          "label": "D",
+          "text": "Incremental costs"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "An audit client has a valid reason for requesting that a certain account receivable that the auditor has selected for confirmation not be confirmed. Under these circumstances the auditor should",
+      "options": [
+        {
+          "label": "A",
+          "text": "Verify the account balance by inspecting the client's bank statements and cash receipt records."
+        },
+        {
+          "label": "B",
+          "text": "Select at random a different account for confirmation that is approximately the same size."
+        },
+        {
+          "label": "C",
+          "text": "Request the client's management to document the matter in the management representation letter."
+        },
+        {
+          "label": "D",
+          "text": "Explain to the client that the request will most likely cause the auditor to disclaim an opinion."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which of the following is an essential element of the audit trail in an electronic data interchange (EDI) system?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An integrated test facility that verifies the accuracy of data."
+        },
+        {
+          "label": "B",
+          "text": "A heuristic program that accesses remote locations."
+        },
+        {
+          "label": "C",
+          "text": "Hardware security modules that store sensitive data."
+        },
+        {
+          "label": "D",
+          "text": "Computer activity logs that indicate failed transactions."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Rigg Steele and Urco Corps. all accrual-basis calendar-year C corporations have only voting common stock outstanding. Rigg owns 85 percent of Steele and 40 percent of Urco. Steele owns 50 percent of Urco. Which group of corporations qualifies as an affiliated group and may join in the filing of a consolidated federal income tax return?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rigg and Urco."
+        },
+        {
+          "label": "B",
+          "text": "Urco and Steele."
+        },
+        {
+          "label": "C",
+          "text": "Rigg Steele and Urco."
+        },
+        {
+          "label": "D",
+          "text": "An affiliated group does not exist."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "An entity prepares its financial statements on the income tax basis. A description of how that basis differs from GAAP should be included in the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Notes to the financial statements."
+        },
+        {
+          "label": "B",
+          "text": "Auditor’s engagement letter."
+        },
+        {
+          "label": "C",
+          "text": "Management representation letter."
+        },
+        {
+          "label": "D",
+          "text": "Introductory paragraph of the auditor’s report."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which of the following should a practitioner perform as part of an engagement for agreed-upon procedures in accordance with Statements on Standards for Attestation Engagements?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Issue a report on findings based on specified procedures performed."
+        },
+        {
+          "label": "B",
+          "text": "Assess whether the procedures meet the needs of the parties."
+        },
+        {
+          "label": "C",
+          "text": "Express negative assurance on findings of work performed."
+        },
+        {
+          "label": "D",
+          "text": "Report the differences between agreed-upon and audit procedures."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which of the following statements is correct regarding a shareholder‚Äôs right to inspect corporate books and records? The right",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is absolute."
+        },
+        {
+          "label": "B",
+          "text": "Is conditioned upon the demanding shareholder owning at least $5000 worth of stock."
+        },
+        {
+          "label": "C",
+          "text": "Requires that the demand to inspect be for a proper purpose."
+        },
+        {
+          "label": "D",
+          "text": "Exists only when fraud or illegality is alleged."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "The covariance between Stock A and the market index is 88, while their standard deviations are respectively 19% and 14%. What is the beta of Stock A?",
+      "options": [
+        {
+          "label": "A",
+          "text": "0.24"
+        },
+        {
+          "label": "B",
+          "text": "0.35"
+        },
+        {
+          "label": "C",
+          "text": "0.245"
+        },
+        {
+          "label": "D",
+          "text": "0.45"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following events most likely would indicate the existence of related party transactions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Insuring the lives of key executives and listing the entity as beneficiary."
+        },
+        {
+          "label": "B",
+          "text": "Selling real estate at a price that differs significantly from its appraised value."
+        },
+        {
+          "label": "C",
+          "text": "Making a loan with specific scheduled terms for repayment of the funds."
+        },
+        {
+          "label": "D",
+          "text": "Granting stock options to key executives at favorable prices."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "In year 6, an IRS agent completed an examination of a corporation’s year 5 tax return and proposed an adjustment that will result in an increase in taxable income for each of years 1 through year 5. All returns were filed on the original due date. The proposed adjustment relates to the disallowance of corporate jet usage for personal reasons. The agent does not find the error to be fraudulent or substantial in nature. Which of the following statements regarding this adjustment is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The adjustment is improper because an agent may only propose adjustments to the year under examination."
+        },
+        {
+          "label": "B",
+          "text": "The adjustment is proper because there is no statute of limitations for improperly claiming personal expenses as business expenses"
+        },
+        {
+          "label": "C",
+          "text": "The adjustment is proper because it relates to a change in accounting method, which can be made retroactively irrespective of the statute of limitations."
+        },
+        {
+          "label": "D",
+          "text": "The adjustment is improper because the statute of limitations has expired for several years of the adjustment"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Toft Co. had 120000 shares of common stock outstanding at January 1. On April 1 it issued 40000 additional shares of common stock. Outstanding all year were 10000 shares of nonconvertible preferred stock on which a dividend of $5 per share was declared during the year. Net income for the year was $480000. What should Toft report as earnings per share for the year?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$2.69"
+        },
+        {
+          "label": "B",
+          "text": "$2.87"
+        },
+        {
+          "label": "C",
+          "text": "$3.00"
+        },
+        {
+          "label": "D",
+          "text": "3.2"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Hall Co. purchased a machine on January 1 at a cost of $140000. The machine had an estimated useful life of eight years and a salvage value of $60000. Hall chose to depreciate the machine using the double- declining balance method. What was the carrying amount of the machine in Hall's balance sheet at the end of its second year of operations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$60,000"
+        },
+        {
+          "label": "B",
+          "text": "$61,250"
+        },
+        {
+          "label": "C",
+          "text": "$78,750"
+        },
+        {
+          "label": "D",
+          "text": "80000"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which of the following procedures would an auditor most likely complete to test the existence assertion of property, plant and equipment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obtaining a listing of all current-year additions, vouching significant additions to original invoices, and determining that they have been placed in service."
+        },
+        {
+          "label": "B",
+          "text": "Obtaining a detailed fixed-asset register and ensuring items are appropriately capitalized."
+        },
+        {
+          "label": "C",
+          "text": "Obtaining a listing of current-year additions and verifying that items are recorded in the proper period."
+        },
+        {
+          "label": "D",
+          "text": "Obtaining a detailed fixed-asset register and ensuring depreciation methods are applied consistently."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "If an auditor includes an emphasis-of-matter paragraph to draw users' attention to a matter relevant to the users' understanding of the financial statements of a nonissuer, then the auditor should",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indicate in the audit report that the emphasis-of-matter paragraph is required by law or regulation."
+        },
+        {
+          "label": "B",
+          "text": "Notify the appropriate regulatory authority if the auditor's opinion was modified on the basis of the matter."
+        },
+        {
+          "label": "C",
+          "text": "Modify the introductory paragraph to direct the reader to the emphasis-of-matter paragraph."
+        },
+        {
+          "label": "D",
+          "text": "Include the paragraph immediately after the opinion paragraph in the audit report."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "What is the present value of $10 received in two years’ time if the discount rate is 9%?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$9"
+        },
+        {
+          "label": "B",
+          "text": "$11"
+        },
+        {
+          "label": "C",
+          "text": "$8.26"
+        },
+        {
+          "label": "D",
+          "text": "$8.42"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Dawn Corp. uses a standard cost system. During the year both the labor rate variance and the labor efficiency variance were unfavorable. Dawn wrote the variances off directly to cost of goods sold. If Dawn had allocated the variances to work in process finished goods and cost of goods sold instead what would have been the effects on current ratio and net income? Current Net ratio income",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increases Increases"
+        },
+        {
+          "label": "B",
+          "text": "Increases Decreases"
+        },
+        {
+          "label": "C",
+          "text": "Decreases Increases"
+        },
+        {
+          "label": "D",
+          "text": "Decreases Decreases"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following situations would not impair objectivity, integrity, or independence with respect to an audit client?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An auditor takes the client’s audit committee to Las Vegas for the weekend."
+        },
+        {
+          "label": "B",
+          "text": "An out-of-town client takes the audit engagement team out to dinner at a renowned local restaurant."
+        },
+        {
+          "label": "C",
+          "text": "An auditor provides client management with box seats for the season at a major league baseball franchise."
+        },
+        {
+          "label": "D",
+          "text": "A client takes the audit engagement team on a two-day ski trip after the audit team worked for two consecutive weekends."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Parent gave securities with an adjusted basis of $10000 and fair market value of $9000 to a child. Later the child sold the securities for $7000. What is the child's basis for the securities sold?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$10,000"
+        },
+        {
+          "label": "B",
+          "text": "$9,000"
+        },
+        {
+          "label": "C",
+          "text": "$7,000"
+        },
+        {
+          "label": "D",
+          "text": "0"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Felton Farm Supplies, Inc., has an 8 percent return on total assets of $300,000 and a net profit margin of 5 percent. What are its sales?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$3,750,000.00"
+        },
+        {
+          "label": "B",
+          "text": "$480,000"
+        },
+        {
+          "label": "C",
+          "text": "$300,000"
+        },
+        {
+          "label": "D",
+          "text": "$1,500,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "The Houser Company has negotiated a $500,000 revolving credit agreement with Chitwood National Bank. The agreement calls for an interest rate of 10% on fund used, a 15% compensating balance, and a commitment fee of 1% on the unused amount of the credit line. Assuming that the compensating balance would not otherwise be maintained, the effective annual interest cost if the firm borrows $200,000 for one year is closest to",
+      "options": [
+        {
+          "label": "A",
+          "text": "11.5 percent."
+        },
+        {
+          "label": "B",
+          "text": "15 percent."
+        },
+        {
+          "label": "C",
+          "text": "26.5 percent."
+        },
+        {
+          "label": "D",
+          "text": "13.53 percent."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "A company should recognize goodwill in its balance sheet at which of the following points?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Costs have been incurred in the development of goodwill."
+        },
+        {
+          "label": "B",
+          "text": "Goodwill has been created in the purchase of a business."
+        },
+        {
+          "label": "C",
+          "text": "The company expects a future benefit from the creation of goodwill."
+        },
+        {
+          "label": "D",
+          "text": "The fair market value of the company’s assets exceeds the book value of the company’s assets."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "The City of Windemere decided to construct several large windmills to generate electrical power. The construction was financed through a general residential property tax levy for the next ten years. Utility revenues are intended to offset all expenses associated with the windmills. The land for the windmills was donated to the city by a local farmer. The land from the farmer should be reported in which fund type?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Special revenue."
+        },
+        {
+          "label": "B",
+          "text": "Capital projects."
+        },
+        {
+          "label": "C",
+          "text": "Enterprise."
+        },
+        {
+          "label": "D",
+          "text": "Permanent."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which of the following procedures would an auditor most likely perform before the balance sheet? date?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confirm with client's lawyer that all litigation probable of assertion has been disclosed to the auditor."
+        },
+        {
+          "label": "B",
+          "text": "Obtain an understanding of the client's internal control activities."
+        },
+        {
+          "label": "C",
+          "text": "Determine whether there are any liens or encumbrances on assets that have been pledged as collateral."
+        },
+        {
+          "label": "D",
+          "text": "Consider the client's plans and ability to meet imminent purchase commitments and cash flow obligations."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Securities A, B and C have an expected return of respectively 7%, 12% and 5%. What is the expected return of an equal weighted portfolio composed of Securities A and C?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10%"
+        },
+        {
+          "label": "B",
+          "text": "8.50%"
+        },
+        {
+          "label": "C",
+          "text": "6%"
+        },
+        {
+          "label": "D",
+          "text": "12%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Which of the following pricing policies results in establishment of a price to external customers higher than the competitive price for a given industry?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Collusive pricing"
+        },
+        {
+          "label": "B",
+          "text": "Dual pricing"
+        },
+        {
+          "label": "C",
+          "text": "Predatory pricing"
+        },
+        {
+          "label": "D",
+          "text": "Transfer pricing"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Which characteristic of information in the statistical tables included in a comprehensive annual financial report differentiates it from information contained in the financial statements? Data covering financial trends Fiscal years",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes Yes"
+        },
+        {
+          "label": "B",
+          "text": "Yes No"
+        },
+        {
+          "label": "C",
+          "text": "No Yes"
+        },
+        {
+          "label": "D",
+          "text": "No No"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "A taxpayer purchases and is the owner of an insurance contract on his own life and designates his two children as equal beneficiaries. The taxpayer makes all premium payments. How many gifts of property, if any, have been made for gift tax purposes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zero."
+        },
+        {
+          "label": "B",
+          "text": "One."
+        },
+        {
+          "label": "C",
+          "text": "Two."
+        },
+        {
+          "label": "D",
+          "text": "Three."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "The sole shareholder of an S corporation contributed equipment with a fair market value of $20,000 and a basis of $6,000 subject to $12,000 liability. What amount is the gain, if any, that the shareholder must recognize",
+      "options": [
+        {
+          "label": "A",
+          "text": "$0"
+        },
+        {
+          "label": "B",
+          "text": "$6,000"
+        },
+        {
+          "label": "C",
+          "text": "$8,000"
+        },
+        {
+          "label": "D",
+          "text": "$12,000"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Which of the following factors should an external auditor obtain updated information about when assessing an internal auditor’s competence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The reporting status of the internal auditor within the organization."
+        },
+        {
+          "label": "B",
+          "text": "The educational level and professional experiences of the internal auditor."
+        },
+        {
+          "label": "C",
+          "text": "Whether policies prohibit the internal auditor from auditing areas where relatives are employed."
+        },
+        {
+          "label": "D",
+          "text": "Whether the board of directors, audit committee, or owner-manager oversees employment decisions related to the internal auditor."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "According to rules issued under the Sarbanes-Oxley Act which of the following nonaudit services is an accounting firm permitted to provide for an issuer audit client without impairing the accounting firm's independence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Providing an expert opinion in order to advocate the client's interest in litigation."
+        },
+        {
+          "label": "B",
+          "text": "Providing an expert opinion in order to advocate the client's position in a regulatory investigation."
+        },
+        {
+          "label": "C",
+          "text": "Providing factual accounts in testimony explaining positions taken during the performance of any services provided to the client."
+        },
+        {
+          "label": "D",
+          "text": "Providing legal services to the client in a foreign jurisdiction."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "On day 1, Jackson, a merchant, mailed Sands a signed letter that contained an offer to sell Sands 500 electric fans at $10 per fan. The letter was received by Sands on day 3. The letter contained a promise not to revoke the offer but no expiration date. On day 4, Jackson mailed Sands a revocation of the offer to sell the fans. Sands received the revocation on day 6. On day 7, Sands mailed Jackson an acceptance of the offer. Jackson received the acceptance on day 9. Under the Sales Article of the UCC, was a contract formed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No contract was formed because the offer failed to state an expiration date."
+        },
+        {
+          "label": "B",
+          "text": "No contract was formed because Sands received the revocation of the offer before Sands accepted the offer"
+        },
+        {
+          "label": "C",
+          "text": "A contract was formed on the day Jackson received Sands’ acceptance"
+        },
+        {
+          "label": "D",
+          "text": "A contract was formed on the day Sands mailed the acceptance to Jackson"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "A company has income after tax of $5.4 million, interest expense of $1 million for the year, depreciation expense of $1 million, and a 40% tax rate. What is the company’s times-interest-earned ratio?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5.4"
+        },
+        {
+          "label": "B",
+          "text": "6.4"
+        },
+        {
+          "label": "C",
+          "text": "7.4"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Given a 10% discount rate with cash inflows of $3,000 at the end of each year for five years and an initial investment of $11,000, what is the net present value?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-$9,500"
+        },
+        {
+          "label": "B",
+          "text": "$370"
+        },
+        {
+          "label": "C",
+          "text": "$4,000"
+        },
+        {
+          "label": "D",
+          "text": "$11,370"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "In return for a 20% partnership interest, Skinner contributed $5,000 cash and land with a $12,000 basis and a $20,000 fair market value to the partnership. The land was subject to a $10,000 mortgage that the partnership assumed. In addition, the partnership had $20,000 in recourse liabilities that would be shared by partners according to their partnership interests. What amount represents Skinner’s basis in the partnership interest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$27,000"
+        },
+        {
+          "label": "B",
+          "text": "$21,000"
+        },
+        {
+          "label": "C",
+          "text": "$19,000"
+        },
+        {
+          "label": "D",
+          "text": "$13,000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "An entity engaged an accountant to review its financial statements in accordance with Statements on Standards for Accounting and Review Services. The accountant determined that the entity maintained its accounts on a comprehensive basis of accounting other than generally accepted accounting principles (GAAP). In this situation, the accountant most likely would have taken which of the following actions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Withdrawn from the engagement because the entity has not been following GAAP."
+        },
+        {
+          "label": "B",
+          "text": "Advised management to make the adjustments necessary for the account balances to conform with GAAP."
+        },
+        {
+          "label": "C",
+          "text": "Modified the review report to reflect the fact that the financial statements were presented on another comprehensive basis of accounting."
+        },
+        {
+          "label": "D",
+          "text": "Requested that management justify the use of the other comprehensive basis of accounting in the management representation letter."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Long was a purchasing agent for Frost, a sole proprietor. Long had express authority to place purchase orders with Frost's suppliers. Long conducted business on the Internet and had little contact with Frost. After Frost was declared incompetent in a judicial proceeding, Long placed an order with Grant Corp. on Frost's behalf. Both Long and Grant were unaware of Frost's incompetence. Will Frost or Frost's legal representative be liable to Grant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yes, because Long's agency survived Frost's incompetence."
+        },
+        {
+          "label": "B",
+          "text": "Yes, because the order was valid regardless of Frost's incompetence."
+        },
+        {
+          "label": "C",
+          "text": "No, because Grant dealt only with Long."
+        },
+        {
+          "label": "D",
+          "text": "No, because Long did not have authority to enter into the contract."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

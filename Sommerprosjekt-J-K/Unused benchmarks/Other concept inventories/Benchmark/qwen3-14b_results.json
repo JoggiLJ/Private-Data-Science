@@ -1,0 +1,218 @@
+{
+ "model": "qwen3:14b",
+ "n": 19,
+ "scored_n": 19,
+ "correct_n": 14,
+ "answer_key_note": "Derived key, not the official restricted CAER key -- see script docstring.",
+ "results": [
+  {
+   "item_id": 1,
+   "predicted": "E",
+   "correct_label": "E",
+   "correct": true,
+   "raw_response": "E",
+   "words": 22,
+   "tokens": 26,
+   "alternatives": 5,
+   "entropy": 4.237748658407421
+  },
+  {
+   "item_id": 2,
+   "predicted": "B",
+   "correct_label": "B",
+   "correct": true,
+   "raw_response": "B",
+   "words": 18,
+   "tokens": 21,
+   "alternatives": 5,
+   "entropy": 4.115747077819143
+  },
+  {
+   "item_id": 3,
+   "predicted": "C",
+   "correct_label": "D",
+   "correct": false,
+   "raw_response": "C",
+   "words": 49,
+   "tokens": 56,
+   "alternatives": 5,
+   "entropy": 4.245834165319181
+  },
+  {
+   "item_id": 4,
+   "predicted": "B",
+   "correct_label": "B",
+   "correct": true,
+   "raw_response": "B",
+   "words": 38,
+   "tokens": 44,
+   "alternatives": 3,
+   "entropy": 4.130829461725219
+  },
+  {
+   "item_id": 5,
+   "predicted": "B",
+   "correct_label": "B",
+   "correct": true,
+   "raw_response": "B",
+   "words": 14,
+   "tokens": 15,
+   "alternatives": 3,
+   "entropy": 3.935886324775114
+  },
+  {
+   "item_id": 6,
+   "predicted": "B",
+   "correct_label": "B",
+   "correct": true,
+   "raw_response": "B",
+   "words": 13,
+   "tokens": 16,
+   "alternatives": 5,
+   "entropy": 3.951800211812238
+  },
+  {
+   "item_id": 7,
+   "predicted": "B",
+   "correct_label": "D",
+   "correct": false,
+   "raw_response": "B",
+   "words": 29,
+   "tokens": 32,
+   "alternatives": 4,
+   "entropy": 4.115021660566708
+  },
+  {
+   "item_id": 8,
+   "predicted": "A",
+   "correct_label": "A",
+   "correct": true,
+   "raw_response": "A",
+   "words": 7,
+   "tokens": 9,
+   "alternatives": 4,
+   "entropy": 3.861847659152609
+  },
+  {
+   "item_id": 9,
+   "predicted": "A",
+   "correct_label": "A",
+   "correct": true,
+   "raw_response": "A",
+   "words": 26,
+   "tokens": 31,
+   "alternatives": 3,
+   "entropy": 4.177290113712837
+  },
+  {
+   "item_id": 10,
+   "predicted": "D",
+   "correct_label": "C",
+   "correct": false,
+   "raw_response": "D",
+   "words": 40,
+   "tokens": 56,
+   "alternatives": 5,
+   "entropy": 4.31962387535257
+  },
+  {
+   "item_id": 11,
+   "predicted": "A",
+   "correct_label": "A",
+   "correct": true,
+   "raw_response": "A",
+   "words": 20,
+   "tokens": 25,
+   "alternatives": 4,
+   "entropy": 4.137227647392967
+  },
+  {
+   "item_id": 12,
+   "predicted": "C",
+   "correct_label": "B",
+   "correct": false,
+   "raw_response": "C",
+   "words": 32,
+   "tokens": 35,
+   "alternatives": 5,
+   "entropy": 4.127111693024109
+  },
+  {
+   "item_id": 13,
+   "predicted": "C",
+   "correct_label": "C",
+   "correct": true,
+   "raw_response": "C",
+   "words": 12,
+   "tokens": 17,
+   "alternatives": 5,
+   "entropy": 4.059184527132942
+  },
+  {
+   "item_id": 14,
+   "predicted": "D",
+   "correct_label": "D",
+   "correct": true,
+   "raw_response": "D",
+   "words": 16,
+   "tokens": 17,
+   "alternatives": 5,
+   "entropy": 4.052247503097221
+  },
+  {
+   "item_id": 15,
+   "predicted": "D",
+   "correct_label": "D",
+   "correct": true,
+   "raw_response": "D",
+   "words": 42,
+   "tokens": 52,
+   "alternatives": 5,
+   "entropy": 4.175898937996645
+  },
+  {
+   "item_id": 16,
+   "predicted": "E",
+   "correct_label": "E",
+   "correct": true,
+   "raw_response": "E",
+   "words": 19,
+   "tokens": 21,
+   "alternatives": 5,
+   "entropy": 4.039866729914987
+  },
+  {
+   "item_id": 17,
+   "predicted": "A",
+   "correct_label": "A",
+   "correct": true,
+   "raw_response": "A",
+   "words": 6,
+   "tokens": 7,
+   "alternatives": 5,
+   "entropy": 3.476254544756804
+  },
+  {
+   "item_id": 20,
+   "predicted": "E",
+   "correct_label": "D",
+   "correct": false,
+   "raw_response": "E",
+   "words": 44,
+   "tokens": 50,
+   "alternatives": 5,
+   "entropy": 4.230934264299739
+  },
+  {
+   "item_id": 21,
+   "predicted": "C",
+   "correct_label": "C",
+   "correct": true,
+   "raw_response": "C",
+   "words": 9,
+   "tokens": 9,
+   "alternatives": 3,
+   "entropy": 4.030198929422623
+  }
+ ]
+}

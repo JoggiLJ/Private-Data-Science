@@ -1,0 +1,253 @@
+[
+  {
+    "item_id": "1",
+    "text": "A certain diet plan claims that subjects lose an average of 20 pounds in 6 months on their plan. A dietitian wishes to test this claim and recruits 15 people to participate in an experiment. Their weight is measured before and after the 6-month period. Which is the appropriate test statistic to test the diet company's claim?",
+    "options": [
+      {"label": "a", "text": "two-sample Z test"},
+      {"label": "b", "text": "paired comparison t test"},
+      {"label": "c", "text": "two-sample t test"}
+    ],
+    "correct_label": "b",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "2",
+    "text": "Which would be more likely to have 70% boys born on a given day: A small rural hospital or a large urban hospital?",
+    "options": [
+      {"label": "a", "text": "Rural"},
+      {"label": "b", "text": "Urban"},
+      {"label": "c", "text": "Equally likely"},
+      {"label": "d", "text": "Both are extremely unlikely"}
+    ],
+    "correct_label": "a",
+    "topic_area": "Probability"
+  },
+  {
+    "item_id": "3",
+    "text": "A student scored in the 90th percentile in his Chemistry class. Which is always true?",
+    "options": [
+      {"label": "a", "text": "His grade will be an A"},
+      {"label": "b", "text": "He earned at least 90% of the total possible points"},
+      {"label": "c", "text": "His grade is at least as high as 90% of his classmates"},
+      {"label": "d", "text": "None of these are always true"}
+    ],
+    "correct_label": "c",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "4",
+    "text": "The following are temperatures for a week in August: 94, 93, 98, 101, 98, 96, and 93. By how much could the highest temperature increase without changing the median?",
+    "options": [
+      {"label": "a", "text": "Increase by 8°"},
+      {"label": "b", "text": "Increase by 2°"},
+      {"label": "c", "text": "It can increase by any amount"},
+      {"label": "d", "text": "It cannot increase without changing the median."}
+    ],
+    "correct_label": "c",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "5",
+    "text": "A bottling company believes a machine is under-filling 20-ounce bottles. What will be the alternate hypothesis to test this belief?",
+    "options": [
+      {"label": "a", "text": "On average, the bottles are being filled to 20 ounces."},
+      {"label": "b", "text": "On average, the bottles are not being filled to 20 ounces."},
+      {"label": "c", "text": "On average, the bottles are being filled with more than 20 ounces."},
+      {"label": "d", "text": "On average, the bottles are being filled with less than 20 ounces."}
+    ],
+    "correct_label": "d",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "6",
+    "text": "Which of the following statistics is least impacted by extreme outliers?",
+    "options": [
+      {"label": "a", "text": "Range"},
+      {"label": "b", "text": "3rd quartile"},
+      {"label": "c", "text": "Mean"},
+      {"label": "d", "text": "Variance"}
+    ],
+    "correct_label": "b",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "7",
+    "text": "A student attended college A for two semesters and earned a 3.24 GPA (grade point average). The same student then attended college B for four semesters and earned a 3.80 GPA for his work there. How would you calculate the student's GPA for all of his college work? Assume that the student took the same number of hours each semester.",
+    "options": [
+      {"label": "a", "text": "(3.24+3.80)/2"},
+      {"label": "b", "text": "(3.24*2+3.80*4)/2"},
+      {"label": "c", "text": "(3.24*2+3.80*4)/6"},
+      {"label": "d", "text": "It is not possible to claculate the students overall GPA without knowing his GPA for each individual semester."}
+    ],
+    "correct_label": "c",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "8",
+    "text": "For the following set of numbers, which measure will most accurately describe the central tendency? 3, 4, 5, 5, 6, 8, 10, 12, 19, 36, 83",
+    "options": [
+      {"label": "a", "text": "Mean"},
+      {"label": "b", "text": "Median"},
+      {"label": "c", "text": "Mode"},
+      {"label": "d", "text": "Standard deviation"}
+    ],
+    "correct_label": "b",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "9",
+    "text": "A researcher conducts an experiment and reports a 95% confidence interval for the mean. Which of the following must be true?",
+    "options": [
+      {"label": "a", "text": "95% of the measurements can be considered valid"},
+      {"label": "b", "text": "95% of the measurements will be between the upper and lower limits of the confidence interval"},
+      {"label": "c", "text": "95% of the time, the experiment will produce an interval that contains the population mean"},
+      {"label": "d", "text": "5% of the measurements should be considered outliers"}
+    ],
+    "correct_label": "c",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "10",
+    "text": "The mean height of American college men is 70 inches, with standard deviation 3 inches. The mean height of American college women is 65 inches, with standard deviation 4 inches. You conduct an experiment at your university measuring the height of 100 American men and 100 American women. Which result would most surprise you?",
+    "options": [
+      {"label": "a", "text": "One man with height 79 inches"},
+      {"label": "b", "text": "One woman with height 74 inches"},
+      {"label": "c", "text": "The average height of women at your university is 68 inches"},
+      {"label": "d", "text": "The average height of men at your university is 73 inches"}
+    ],
+    "correct_label": "d",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "11",
+    "text": "A meteorologist predicts a 40% chance of rain in London and a 70% chance in Chicago. What is the most likely outcome?",
+    "options": [
+      {"label": "a", "text": "It rains only in London"},
+      {"label": "b", "text": "It rains only in Chicago"},
+      {"label": "c", "text": "It rains in London and Chicago"},
+      {"label": "d", "text": "It rains in London or Chicago"}
+    ],
+    "correct_label": "d",
+    "topic_area": "Probability"
+  },
+  {
+    "item_id": "12",
+    "text": "You perform the same two significance tests on large samples from the same population. The two samples have the same mean and the same standard deviation. The first test results in a p-value of 0.01; the second, a p-value of 0.02. The sample mean is equal for the 2 tests. Which test has a larger sample size?",
+    "options": [
+      {"label": "a", "text": "First test"},
+      {"label": "b", "text": "Second test"},
+      {"label": "c", "text": "Sample sizes equal"},
+      {"label": "d", "text": "Sample sizes are not equal but there is not enough information to determine which sample is larger"}
+    ],
+    "correct_label": "a",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "13",
+    "text": "Which statistic would you expect to have a normal distribution? I) Height of women II) Shoe size of men III) Age in years of college freshmen",
+    "options": [
+      {"label": "a", "text": "I & II"},
+      {"label": "b", "text": "II & III"},
+      {"label": "c", "text": "I & III"},
+      {"label": "d", "text": "All 3"}
+    ],
+    "correct_label": "a",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "14",
+    "text": "You have a set of 30 numbers. The standard deviation from these numbers is reported as zero. You can be certain that:",
+    "options": [
+      {"label": "a", "text": "Half of the numbers are above the mean"},
+      {"label": "b", "text": "All of the numbers in the set are zero"},
+      {"label": "c", "text": "All of the numbers in the set are equal"},
+      {"label": "d", "text": "The numbers are evenly spaced on both sides of the mean"}
+    ],
+    "correct_label": "c",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "15",
+    "text": "In order to determine the mean height of American college students, which sampling method would not introduce bias?",
+    "options": [
+      {"label": "a", "text": "You randomly select from the university basketball team"},
+      {"label": "b", "text": "You use a random number table to select students based on their student ID"},
+      {"label": "c", "text": "You roll a pair of dice to select from among your friends"},
+      {"label": "d", "text": "None of the methods will have bias"}
+    ],
+    "correct_label": "b",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "16",
+    "text": "A scientist takes a set of 50 measurements. The standard deviation is reported as -2.30. Which of the following must be true?",
+    "options": [
+      {"label": "a", "text": "Most of the measurements were negative"},
+      {"label": "b", "text": "All of the measurements are less than the mean"},
+      {"label": "c", "text": "All of the measurements were negative"},
+      {"label": "d", "text": "The standard deviation was calculated incorrectly"}
+    ],
+    "correct_label": "d",
+    "topic_area": "Descriptive"
+  },
+  {
+    "item_id": "17",
+    "text": "In a manufacturing process, the error rate is 1 in 1000. However, errors often occur in groups, that is, they are not independent. Given that the previous output contained an error, what is the probability that the next unit will also contain an error?",
+    "options": [
+      {"label": "a", "text": "Less than 1 in 1000"},
+      {"label": "b", "text": "Greater than 1 in 1000"},
+      {"label": "c", "text": "Equal to 1 in 1000"},
+      {"label": "d", "text": "Insufficient information"}
+    ],
+    "correct_label": "b",
+    "topic_area": "Probability"
+  },
+  {
+    "item_id": "18",
+    "text": "For the past 100 years, the average high temperature on October 1 is 78° with a standard deviation of 5°. What is the probability that the high temperature on October 1 of next year will be between 73° and 83°?",
+    "options": [
+      {"label": "a", "text": "0.68"},
+      {"label": "b", "text": "0.95"},
+      {"label": "c", "text": "0.997"},
+      {"label": "d", "text": "1"}
+    ],
+    "correct_label": "a",
+    "topic_area": "Probability"
+  },
+  {
+    "item_id": "19",
+    "text": "You are rolling dice. You roll 2 dice and compute the mean of the numbers rolled, then 6 dice and compute the mean, then 10 dice and compute the mean. Under which scenario would you be most surprised to find a mean of at least 4.5?",
+    "options": [
+      {"label": "a", "text": "Rolling 2 dice"},
+      {"label": "b", "text": "Rolling 6 dice"},
+      {"label": "c", "text": "Rolling 10 dice"},
+      {"label": "d", "text": "There is no way this can happen"}
+    ],
+    "correct_label": "c",
+    "topic_area": "Probability"
+  },
+  {
+    "item_id": "20",
+    "text": "Two confidence intervals are calculated for two samples from a given population. Assume the two samples have the same standard deviation and that the confidence level is fixed. Compared to the smaller sample, the confidence interval for the larger sample will be:",
+    "options": [
+      {"label": "a", "text": "Narrower"},
+      {"label": "b", "text": "Wider"},
+      {"label": "c", "text": "The same width"},
+      {"label": "d", "text": "It depends on the confidence level"}
+    ],
+    "correct_label": "a",
+    "topic_area": "Inferential"
+  },
+  {
+    "item_id": "21",
+    "text": "Information about different car models is routinely printed in public sources such as Consumer Reports and new car buying guides. Data was obtained from these sources on 1993 models of cars. For each car, engine size in liters was compared to the number of engine revolutions per mile. The correlation between the two was found to be -0.824. Which of the following statements would you most agree with?",
+    "options": [
+      {"label": "a", "text": "A car with a large engine size would be predicted to have a high number of engine revolutions per mile."},
+      {"label": "b", "text": "A car with a large engine size would be predicted to have a low number of engine revolutions per mile."},
+      {"label": "c", "text": "Engine size is a poor predictor of engine revolutions per mile."},
+      {"label": "d", "text": "Engine size is independent of revolutions per mile."}
+    ],
+    "correct_label": "b",
+    "topic_area": "Descriptive"
+  }
+]

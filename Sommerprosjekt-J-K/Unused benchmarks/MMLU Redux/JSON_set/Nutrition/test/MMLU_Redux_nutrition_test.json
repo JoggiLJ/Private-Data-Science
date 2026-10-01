@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_nutrition_test",
+  "description": "Nutrition multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — nutrition subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Under conditions of metabolic or other stress, which of the following amino acids generally regarded as being dispensable may be required in greater amount than can readily be synthesised in the body?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutamate"
+        },
+        {
+          "label": "B",
+          "text": "Alanine"
+        },
+        {
+          "label": "C",
+          "text": "Aspartate"
+        },
+        {
+          "label": "D",
+          "text": "Glycine"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Which of the following lipoproteins is produced via the exogenous lipoprotein pathway?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "High density lipoproteins"
+        },
+        {
+          "label": "B",
+          "text": "Very low density lipoproteins"
+        },
+        {
+          "label": "C",
+          "text": "Chylomicrons"
+        },
+        {
+          "label": "D",
+          "text": "Low density lipoproteins"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "Which of the following statements is true:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Childhood stunting before 24 months of age affects short term cognitive performance"
+        },
+        {
+          "label": "B",
+          "text": "Childhood stunting before 24 months of age affects long term cognitive performance"
+        },
+        {
+          "label": "C",
+          "text": "Neither of the statements are correct"
+        },
+        {
+          "label": "D",
+          "text": "Both of the statements are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Which of the following statements about glucose metabolism is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glucagon increases the rate of glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Glycolysis requires NADP+"
+        },
+        {
+          "label": "C",
+          "text": "In glycolysis, glucose is cleaved into two three-carbon products"
+        },
+        {
+          "label": "D",
+          "text": "The end-product of glycolysis in red blood cells is pyruvate"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Eosinophilic oesophagitis\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leads to oesophageal diverticular"
+        },
+        {
+          "label": "B",
+          "text": "May cause oesopgageal obstruction"
+        },
+        {
+          "label": "C",
+          "text": "Is not due to allergy"
+        },
+        {
+          "label": "D",
+          "text": "Benefits from antacid therapy"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Which of the following amino acids cannot provide a substrate for gluconeogenesis?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leucine"
+        },
+        {
+          "label": "B",
+          "text": "Tryptophan"
+        },
+        {
+          "label": "C",
+          "text": "Histidine"
+        },
+        {
+          "label": "D",
+          "text": "isoleucine"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Which of the following statements is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The flavonoid class comprises flavonoids and isoflavonoids."
+        },
+        {
+          "label": "B",
+          "text": "The digestibility and bioavailability of isoflavones in soya food products are not changed by processing."
+        },
+        {
+          "label": "C",
+          "text": "ß-Carotene and lycopene can both act as provitamin A."
+        },
+        {
+          "label": "D",
+          "text": "Carotenoids and flavonoids both belong to the polyphenol class."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The daily amount of protein oxidized in the body of a person spending 24 hours in a respiratory chamber can be determined from his/her:",
+      "options": [
+        {
+          "label": "A",
+          "text": "O2 consumption alone"
+        },
+        {
+          "label": "B",
+          "text": "CO2 production alone"
+        },
+        {
+          "label": "C",
+          "text": "Breath collection"
+        },
+        {
+          "label": "D",
+          "text": "Total urinary nitrogen excretion alone"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Which vitamin is required for vision in dim light?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin E"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin K"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "The body's adjustment of heat production to changes in the plane of nutrition (under- or over-nutrition) and to minimize energy imbalance is known as:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Basal metabolic rate"
+        },
+        {
+          "label": "B",
+          "text": "Thermic effect of food"
+        },
+        {
+          "label": "C",
+          "text": "Adaptive thermogenesis"
+        },
+        {
+          "label": "D",
+          "text": "Thermal balance"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which of the following statements about nutritional status and health outcomes is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertension in older people is unlikely to be associated with high salt intake."
+        },
+        {
+          "label": "B",
+          "text": "There is strong evidence that supplements of vitamin B12 will improve cognitive function in older people."
+        },
+        {
+          "label": "C",
+          "text": "Older people are no more likely to have low haemoglobin concentration than younger people."
+        },
+        {
+          "label": "D",
+          "text": "Folate deficiency in older people is less prevalent in countries with mandatory fortification of flour with folic acid."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Infants born to mothers who are vegan may be at increased risk of deficiency of which nutrient?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "B",
+          "text": "Folate"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Calcium"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Alcohol is a major risk factor for cancer development. Which alcohol metabolite plays a prominent role in cancer development?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "fatty acid ethyl esters (FAEE)"
+        },
+        {
+          "label": "B",
+          "text": "acetate"
+        },
+        {
+          "label": "C",
+          "text": "acetaldehyde"
+        },
+        {
+          "label": "D",
+          "text": "alcohol"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Which of the following confirmed values meet the diagnostic threshold for diabetes?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "fasting blood glucose ? 140 mg/dl"
+        },
+        {
+          "label": "B",
+          "text": "random glucose > 160 mg/dl"
+        },
+        {
+          "label": "C",
+          "text": "2 hour post prandial glucose ≥ to 126 mg/dl"
+        },
+        {
+          "label": "D",
+          "text": "fasting blood glucose ≥ 126 mg/dl"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "How does agricultural research help reduce hunger and poverty?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transnational private-sector firms are the main source of research oriented towards poor farmers and consumers."
+        },
+        {
+          "label": "B",
+          "text": "Agricultural research mainly benefits commercial farmers in developed countries."
+        },
+        {
+          "label": "C",
+          "text": "Research focused on the problems of poor farmers and consumers is a 'public good' with little profit potential but high social benefits; public investment is needed to support it."
+        },
+        {
+          "label": "D",
+          "text": "Pro-poor research should only focus on organic farming."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Nutrients may pose health risks:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "When intakes exceed established ULs (Upper Levels)"
+        },
+        {
+          "label": "B",
+          "text": "At any level greater than a recommended dietary intake"
+        },
+        {
+          "label": "C",
+          "text": "Only when intakes are less than those required for nutritional benefits"
+        },
+        {
+          "label": "D",
+          "text": "Under no known conditions of usual intake"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "What is the estimated global prevalence of untreated dental caries?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "20%"
+        },
+        {
+          "label": "B",
+          "text": "40%"
+        },
+        {
+          "label": "C",
+          "text": "60%"
+        },
+        {
+          "label": "D",
+          "text": "80%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Which of the following is not a beneficial effect of exercise in people with diabetes:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduction of triglycerides"
+        },
+        {
+          "label": "B",
+          "text": "Hypoglycaemia"
+        },
+        {
+          "label": "C",
+          "text": "increase of insulin sensitivity"
+        },
+        {
+          "label": "D",
+          "text": "help controlling hypertension"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "What are the main metabolites of alcohol metabolism?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acetaldehyde, acetate,"
+        },
+        {
+          "label": "B",
+          "text": "Pyruvate, beta-hydroxybutyrate,"
+        },
+        {
+          "label": "C",
+          "text": "Acetyl-CoA, lipids,"
+        },
+        {
+          "label": "D",
+          "text": "Acetone, lactate"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "What are the main enzyme systems for catalysing ethanol to acetaldehyde?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alcohol dehydrogenase (ADH)"
+        },
+        {
+          "label": "B",
+          "text": "Catalase"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol dehydrogenase (ADH), cytochrome P450 2E1 (CYP2EI), catalase"
+        },
+        {
+          "label": "D",
+          "text": "cytochrome P450 2E1 (CYP2EI)"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "What is the prevalence of alcoholic myopathy in alcoholics\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "30 to 50%"
+        },
+        {
+          "label": "B",
+          "text": "40 to 60%"
+        },
+        {
+          "label": "C",
+          "text": "20 to 40%"
+        },
+        {
+          "label": "D",
+          "text": "10 to 30%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "The following types of research findings provide strong evidence for an association between diet and skeletal health:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-term intervention studies that have a large sample size with fracture as an endpoint"
+        },
+        {
+          "label": "B",
+          "text": "Experimental studies which measure bone remodelling through biochemical markers"
+        },
+        {
+          "label": "C",
+          "text": "Experimental studies which have a one-off measure of bone mineral density and bone mineral content"
+        },
+        {
+          "label": "D",
+          "text": "Case reports from individual patients"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Which of the following diseases does obesity increase the risk of developing?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Type 2 diabetes"
+        },
+        {
+          "label": "B",
+          "text": "Cancer"
+        },
+        {
+          "label": "C",
+          "text": "Cardiovascular disease"
+        },
+        {
+          "label": "D",
+          "text": "All of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Basal Metabolic Rate (BMR):\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "is measured in comfortable sitting position"
+        },
+        {
+          "label": "B",
+          "text": "is unaltered in hypothyroidism and hyperthyroidism"
+        },
+        {
+          "label": "C",
+          "text": "Is higher after weight gain because part of the excess weight is fat-free mass."
+        },
+        {
+          "label": "D",
+          "text": "is not altered after weight loss."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Higher dietary sodium (salt) intake is generally associated with:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decreased calcium excretion in the urine"
+        },
+        {
+          "label": "B",
+          "text": "Increased risk of fracture"
+        },
+        {
+          "label": "C",
+          "text": "Decreased dietary calcium absorption"
+        },
+        {
+          "label": "D",
+          "text": "Negative calcium balance and bone mineral loss"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which one of the following is a definition of glycaemic index?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The increase in blood glucose concentration after consuming the food."
+        },
+        {
+          "label": "B",
+          "text": "The increase in blood glucose concentration after consuming the food compared with that after consuming an equivalent amount of white bread."
+        },
+        {
+          "label": "C",
+          "text": "The increase in blood insulin concentration after consuming the food."
+        },
+        {
+          "label": "D",
+          "text": "The increase in blood insulin concentration after consuming the food compared with that after consuming an equivalent amount of white bread."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "The stomach lining contains several types of cells. Which statement about them is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mucous cells secrete the glycoprotein mucin"
+        },
+        {
+          "label": "B",
+          "text": "Chief cells the hormone gastrin (which stimulates acid secretion)."
+        },
+        {
+          "label": "C",
+          "text": "Parietal cells secrete pepsinogen, the inactive precursor of pepsin"
+        },
+        {
+          "label": "D",
+          "text": "G Cells secrete hydrochloric acid"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The respiration quotient (RQ):\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "is defined as the ratio of VO2 divided by VCO2."
+        },
+        {
+          "label": "B",
+          "text": "decreases on a high carbohydrate diet."
+        },
+        {
+          "label": "C",
+          "text": "increases with fasting."
+        },
+        {
+          "label": "D",
+          "text": "goes beyond a value of 1.0 when exogenous carbohydrate is converted to endogenous fat."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Diagnosis of iron deficiency can be complicated by concurrent infection since many markers of iron status are altered by infection. Which of the following combinations of iron status markers is likely to be found in a person with both iron deficiency and a severe infection?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low haemoglobin, high ferritin, high serum transferrin receptors, high hepcidin"
+        },
+        {
+          "label": "B",
+          "text": "Low haemoglobin, low ferritin, high serum transferrin receptors, low hepcidin"
+        },
+        {
+          "label": "C",
+          "text": "Low haemoglobin, low ferritin, normal serum transferrin receptors, high hepcidin"
+        },
+        {
+          "label": "D",
+          "text": "Low haemoglobin, low ferritin, low serum transferrin receptors, high hepcidin"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Confounding is a particular challenge in nutritional epidemiology because\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "people change their diets over time."
+        },
+        {
+          "label": "B",
+          "text": "it is difficult to measure people's diets accurately in large studies."
+        },
+        {
+          "label": "C",
+          "text": "the are no good methods to adjust for confounding in nutritional studies."
+        },
+        {
+          "label": "D",
+          "text": "different dietary components are correlated with each other, making it difficult to separate their effects."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "The two most common causes of foodborne illness in the United States and Europe are:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Salmonella and Campylobacter"
+        },
+        {
+          "label": "B",
+          "text": "Listeria and Salmonella"
+        },
+        {
+          "label": "C",
+          "text": "Shigella and Staphlococcus"
+        },
+        {
+          "label": "D",
+          "text": "E. coli STECs and non-STEC subtypes"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Which of these factors increases the risk for postmenopausal breast cancer?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Red meat"
+        },
+        {
+          "label": "B",
+          "text": "Dietary fat"
+        },
+        {
+          "label": "C",
+          "text": "Fish"
+        },
+        {
+          "label": "D",
+          "text": "Obesity"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which of the following is not a function of vitamin A\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synthesis of the blood clotting proteins"
+        },
+        {
+          "label": "B",
+          "text": "Activation of vitamin D receptors"
+        },
+        {
+          "label": "C",
+          "text": "Activation of thyroid hormone receptors"
+        },
+        {
+          "label": "D",
+          "text": "Regulation of gene expression and cell differentiation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following statements about the protein requirement is correct\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The protein requirement is equal to the demand multiplied by the efficiency of utilization."
+        },
+        {
+          "label": "B",
+          "text": "The protein requirement is equal to the demand divided by the efficiency of utilization."
+        },
+        {
+          "label": "C",
+          "text": "The protein requirement can be less than the demand."
+        },
+        {
+          "label": "D",
+          "text": "The protein requirement is always the same as the demand."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of the following in not a zinc-dependent enzyme?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Superoxide dismutase"
+        },
+        {
+          "label": "B",
+          "text": "Alkaline phosphatase"
+        },
+        {
+          "label": "C",
+          "text": "Glutathione peroxidase"
+        },
+        {
+          "label": "D",
+          "text": "DNA polymerase"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Which of the following statements about the role of the intestine in development of obesity best describes the situation?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obesity occurs because gut hormone secretion becomes deranged and PYY secretion fails to give a satiety signal."
+        },
+        {
+          "label": "B",
+          "text": "The gut/brain signalling pathway controls energy intake to within 2% of requirements, even in people who are morbidly obese"
+        },
+        {
+          "label": "C",
+          "text": "The problem is one of greed and gluttony, whereby people override strong satiety signals on a regular basis"
+        },
+        {
+          "label": "D",
+          "text": "Flavour signals from tasty, processed food will override satiety signals even after a large meal"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increased glucose production by the liver"
+        },
+        {
+          "label": "B",
+          "text": "Impaired insulin secretion"
+        },
+        {
+          "label": "C",
+          "text": "Decreased glucose uptake from the skeletal muscle"
+        },
+        {
+          "label": "D",
+          "text": "All of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Ulcerative Colitis\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carries a risk of colonic cancer"
+        },
+        {
+          "label": "B",
+          "text": "Can be treated with a LOFFLEX diet"
+        },
+        {
+          "label": "C",
+          "text": "Can be caused by small intestinal bacterial overgrowth"
+        },
+        {
+          "label": "D",
+          "text": "Can be caused by milk intolerance"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "In adolescence:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brain growth is faster than at any other stage in life"
+        },
+        {
+          "label": "B",
+          "text": "Peak bone mass occurs before the growth spurt ends"
+        },
+        {
+          "label": "C",
+          "text": "Girls physiologically increase their percentage body fat"
+        },
+        {
+          "label": "D",
+          "text": "Type 2 obesity related diabetes remains a very rare problem"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Additional dietary protein may:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase risk of hip fracture"
+        },
+        {
+          "label": "B",
+          "text": "Decrease calcium excretion in the urine"
+        },
+        {
+          "label": "C",
+          "text": "Stimulate production of insulin-like growth hormone"
+        },
+        {
+          "label": "D",
+          "text": "Reduce muscle mass and strength"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "gathering information about many different aspects of people's dietary habits."
+        },
+        {
+          "label": "B",
+          "text": "collecting data about dietary intake at the onset of a study, before people have experienced symptoms of disease."
+        },
+        {
+          "label": "C",
+          "text": "collecting data on all possible confounders."
+        },
+        {
+          "label": "D",
+          "text": "making sure that the study sample is representative of the population."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "What caused the food-price spike of 2007-2008?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-term neglect of agricultural and rural development caused the spike."
+        },
+        {
+          "label": "B",
+          "text": "The use of food crops to produce biofuel caused food prices to rise."
+        },
+        {
+          "label": "C",
+          "text": "It was caused by commodity price speculation."
+        },
+        {
+          "label": "D",
+          "text": "All of the above were among the causes."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "What is the likely reason that evidence to support the relationship between dietary cholesterol and plasma LDL cholesterol levels in humans is inconclusive?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The complexity of the mechanisms regulating the absorption of cholesterol and its export in lipoproteins."
+        },
+        {
+          "label": "B",
+          "text": "The complexity of the mechanism controlling the clearance of intestinally derived lipoproteins by the liver."
+        },
+        {
+          "label": "C",
+          "text": "The multiple intrahepatic responses to increased cellular cholesterol."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which foods tend to be consumed in lower quantities in Wales and Scotland (as of 2020)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meat"
+        },
+        {
+          "label": "B",
+          "text": "Confectionary"
+        },
+        {
+          "label": "C",
+          "text": "Fruits and vegetables"
+        },
+        {
+          "label": "D",
+          "text": "Potatoes"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which of these factors reduces the risk for cancer of the colorectum?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "B",
+          "text": "Dietary fibre"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol"
+        },
+        {
+          "label": "D",
+          "text": "Oestrogen"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "The most direct method for measuring body composition is:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "underwater weighing"
+        },
+        {
+          "label": "B",
+          "text": "Skinfold test"
+        },
+        {
+          "label": "C",
+          "text": "Body mass index"
+        },
+        {
+          "label": "D",
+          "text": "weight"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Occasionally infants are born without a normally functioning immune system. What are the signs most suggestive of a severe combined immunodeficiency?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Recurrent severe infections"
+        },
+        {
+          "label": "B",
+          "text": "Family history of unexplained death in infancy"
+        },
+        {
+          "label": "C",
+          "text": "Generalised spread of the Tuberculosis strain BCG after vaccination"
+        },
+        {
+          "label": "D",
+          "text": "All of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "The supplementation of diet with which fat soluble vitamins has been shown to reduce cardiovascular disease?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin A and D"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin A and K"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D and E"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Which of the following could lead to iodine deficiency?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low intake of fruits and vegetables"
+        },
+        {
+          "label": "B",
+          "text": "Intake only of locally grown food in central Africa"
+        },
+        {
+          "label": "C",
+          "text": "Insufficient caloric intake"
+        },
+        {
+          "label": "D",
+          "text": "Inadequate sunlight exposure"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Which of the following vitamins is involved in one-carbon metabolism?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Folate"
+        },
+        {
+          "label": "B",
+          "text": "Riboflavin"
+        },
+        {
+          "label": "C",
+          "text": "Thiamin"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "In an epidemiological context, what is the population at risk?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The proportion of a population that engage in risky behaviours."
+        },
+        {
+          "label": "B",
+          "text": "The group of people that may experience the outcome we want to study."
+        },
+        {
+          "label": "C",
+          "text": "A group of people participating in a study that may be harmful to them."
+        },
+        {
+          "label": "D",
+          "text": "The population group with the highest relative risk of disease."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Which are the FIVE main series of apoproteins that have been identified?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "apoA, apoB, apoC, apoD, and apoE"
+        },
+        {
+          "label": "B",
+          "text": "apoA, apo(a), apoB, apoC and apoE"
+        },
+        {
+          "label": "C",
+          "text": "apoA, apoB, apoC, apo E, and apoL"
+        },
+        {
+          "label": "D",
+          "text": "apoB, apoC, apoD, apoE and apoM"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Cholesterol and fatty acids absorbed from the intestinal lumen are packaged into which types of lipoproteins and secreted from the enterocytes into the lymph?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chylomicrons and HDL"
+        },
+        {
+          "label": "B",
+          "text": "Chylomicrons and VLDL"
+        },
+        {
+          "label": "C",
+          "text": "HDL and LDL"
+        },
+        {
+          "label": "D",
+          "text": "VLDL and HDL"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following statements is/are true? How can smoking affect breastfeeding?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Suppresses milk production"
+        },
+        {
+          "label": "B",
+          "text": "Alters the composition of breast milk"
+        },
+        {
+          "label": "C",
+          "text": "Increases the risk of early cessation of breastfeeding"
+        },
+        {
+          "label": "D",
+          "text": "all of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Intestinal motility is a complex process, orchestrated by nerves, hormones and the presence of food in the stomach. Which statement about this process is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The migrating motor complex is chiefly responsible for peristaltic movement of food after a meal has been consumed"
+        },
+        {
+          "label": "B",
+          "text": "The release of insulin after eating a meal will slow the emptying of the stomach"
+        },
+        {
+          "label": "C",
+          "text": "At the start of a meal, the stomach increases its \"tone\" in order to develop pressure which will lead to expulsion of its contents, via the pylorus"
+        },
+        {
+          "label": "D",
+          "text": "The presence of partially digested fat and starch in the duodenum, slows intestinal motility"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Are GM foods a valuable tool with which to address global food security and climate change?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "No, because they may cause cancer and have other unknown health effects thus making them unacceptable to consumers"
+        },
+        {
+          "label": "B",
+          "text": "Yes, because they can provide us with a more abundant and economical food supply for the world as well as continued improvement in nutritional quality"
+        },
+        {
+          "label": "C",
+          "text": "Yes, because they are cheaper than non-GM foods"
+        },
+        {
+          "label": "D",
+          "text": "No, because GM foods cannot adapt to the rate of climate change"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "choline"
+        },
+        {
+          "label": "B",
+          "text": "betaine"
+        },
+        {
+          "label": "C",
+          "text": "Trimethylamine"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "De novo fatty acid synthesis usually signifies which of the following?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "An excess of fat intake"
+        },
+        {
+          "label": "B",
+          "text": "A depletion of energy yielding substrates"
+        },
+        {
+          "label": "C",
+          "text": "Only occurs with prolonged fasting"
+        },
+        {
+          "label": "D",
+          "text": "An excess of energy yielding substrates"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Which of the following is a function of vitamin B6?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Synthesis of TMP (thymidine monophosphate)"
+        },
+        {
+          "label": "B",
+          "text": "Decarboxylation of amino acids to form amine neurotransmitters"
+        },
+        {
+          "label": "C",
+          "text": "Synthesis of methionine from homocysteine"
+        },
+        {
+          "label": "D",
+          "text": "Carboxylation of pyruvate to oxaloacetate"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "In order to achieve optimal nutritional status it is recommended that older adults consume:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "A high energy content diet."
+        },
+        {
+          "label": "B",
+          "text": "A high nutrient dense diet."
+        },
+        {
+          "label": "C",
+          "text": "A low energy content diet."
+        },
+        {
+          "label": "D",
+          "text": "A daily antioxidant supplement."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations"
+        },
+        {
+          "label": "B",
+          "text": "Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol"
+        },
+        {
+          "label": "C",
+          "text": "Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol"
+        },
+        {
+          "label": "D",
+          "text": "Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "It is correct to state about the epidemiology of Anorexia Nervosa that:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Females are three times more affected than males"
+        },
+        {
+          "label": "B",
+          "text": "It never happens in children or post menopausal women"
+        },
+        {
+          "label": "C",
+          "text": "Males from any socioeconomic background can be affected"
+        },
+        {
+          "label": "D",
+          "text": "Prevalence rates are 2% for female adolescents"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Why are some specific indices of iron status (such as serum ferritin or transferrin receptors) generally considered to be more reliable indices of iron status, than blood haemoglobin levels are?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because they respond more rapidly to changes in iron levels in the diet."
+        },
+        {
+          "label": "B",
+          "text": "Because blood haemoglobin levels can also respond to a variety of other factors and insults, such as lead poisoning, chronic disease, etc."
+        },
+        {
+          "label": "C",
+          "text": "Because the specific iron indices can be measured more accurately and easily."
+        },
+        {
+          "label": "D",
+          "text": "Because haemoglobin levels vary with subject age, and between the sexes."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Maternal weight gain is usually monitored in pregnancy. Which of the following statements is/are true:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "research to define pattern and level of optimal weight gain is ongoing"
+        },
+        {
+          "label": "B",
+          "text": "both inadequate and excessive weight gain are associated with poorer maternal and infant health outcomes"
+        },
+        {
+          "label": "C",
+          "text": "excessive maternal weight gain in pregnancy has been linked to obesity in the offspring"
+        },
+        {
+          "label": "D",
+          "text": "all of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "To characterize a binge eating episode one must investigate the presence of:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "If patients feel that their eating habits are chaotic, regardless of meal size."
+        },
+        {
+          "label": "B",
+          "text": "The consumption of large quantities of sweets between meals."
+        },
+        {
+          "label": "C",
+          "text": "A subjective component of lack of control and an objective component of large consumption of food in a discrete period of time"
+        },
+        {
+          "label": "D",
+          "text": "The feeling that one cannot choose the type of food eaten even if their quantity is kept under control."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Adaptive thermogenesis refers to:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "A decrease in heat loss when exposed to cold"
+        },
+        {
+          "label": "B",
+          "text": "A decrease in non-shivering thermogenesis when exposed to cold"
+        },
+        {
+          "label": "C",
+          "text": "An increase in basal metabolic rate that is not fully explained by a change in body composition during chronic overfeeding"
+        },
+        {
+          "label": "D",
+          "text": "A decrease in spontaneous physical activity during chronic overfeeding."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which of the following statements about proteolysis is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The rate of tissue protein catabolism is more or less constant throughout the day."
+        },
+        {
+          "label": "B",
+          "text": "All tissue proteins undergo catabolism at more or less the same rate."
+        },
+        {
+          "label": "C",
+          "text": "All proteins that are to be catabolised are tagged with the peptide ubiquitin."
+        },
+        {
+          "label": "D",
+          "text": "Lysosomal enzymes provide the only mechanism for tissue protein catabolism."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Molecules of natural polyunsaturated fatty acids in vegetable oils contain:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "18 carbon atoms with one carbon-carbon double bond in the cis configuration"
+        },
+        {
+          "label": "B",
+          "text": "20 carbon atoms with at least two carbon-carbon double bonds in the cis configuration"
+        },
+        {
+          "label": "C",
+          "text": "18 carbon atoms with at least two carbon-carbon double bonds in the trans configuration"
+        },
+        {
+          "label": "D",
+          "text": "18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "The intake of which minerals is not affected by high intakes of foods containing phytic acid?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Calcium"
+        },
+        {
+          "label": "B",
+          "text": "Potassium"
+        },
+        {
+          "label": "C",
+          "text": "Zinc"
+        },
+        {
+          "label": "D",
+          "text": "Iron"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Which of the following is not considered a diagnostic feature of Anorexia Nervosa\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Depressive symptoms"
+        },
+        {
+          "label": "B",
+          "text": "Significant Weight Loss"
+        },
+        {
+          "label": "C",
+          "text": "Body Image Distortion"
+        },
+        {
+          "label": "D",
+          "text": "Fear of becoming fat"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Because people who are sick often alter their diets, and may eat less food."
+        },
+        {
+          "label": "B",
+          "text": "Because the accuracy of some laboratory assays may be compromised in samples from people who are sick."
+        },
+        {
+          "label": "C",
+          "text": "Because some metabolic pathways are altered in sick people, which changes their micronutrient requirements."
+        },
+        {
+          "label": "D",
+          "text": "Because an acute phase reaction results in changes in inter-tissue distributions of certain micronutrients."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which vitamins are most likely to be lacking in a vegan diet?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin B1"
+        },
+        {
+          "label": "B",
+          "text": "Folate"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin B12"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin A"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which statement about dietary fibre is most correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The end products of it fermentation is mainly malic, succinic and propionic acids"
+        },
+        {
+          "label": "B",
+          "text": "Fermentation studies in vitro, with human faeces, have shown that soluble and insoluble forms are fermented completely within 24 hours"
+        },
+        {
+          "label": "C",
+          "text": "Fibre sources, such as hemicelluloses, pectins and inulin are rapidly fermented to short chain fatty acids, which have trophic effects on the colon"
+        },
+        {
+          "label": "D",
+          "text": "Stool bulking occurs mainly through the action of insoluble fibres such as cellulose"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "What are focus areas of nutritional epidemiology?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The role of nutritional factors in causing disease in a population."
+        },
+        {
+          "label": "B",
+          "text": "How changes in food intake in the population can promote good health."
+        },
+        {
+          "label": "C",
+          "text": "Both of the options given are correct."
+        },
+        {
+          "label": "D",
+          "text": "None of the options given is correct."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Which of these factors increases the risk for cancer of the stomach?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Obesity"
+        },
+        {
+          "label": "B",
+          "text": "Sugar"
+        },
+        {
+          "label": "C",
+          "text": "Salt and salt-preserved foods"
+        },
+        {
+          "label": "D",
+          "text": "Dietary fibre"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Deficiencies of which of the following nutrients can lead to anaemia?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iodine and vitamin C"
+        },
+        {
+          "label": "B",
+          "text": "Copper and iron"
+        },
+        {
+          "label": "C",
+          "text": "Zinc and protein"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin D and zinc"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "The absorption of glucose is associated with sodium uptake."
+        },
+        {
+          "label": "B",
+          "text": "Fructose is absorbed more rapidly than glucose."
+        },
+        {
+          "label": "C",
+          "text": "Galactose and fructose are absorbed by the same transporter at the brush border membrane."
+        },
+        {
+          "label": "D",
+          "text": "Most water absorption along the GI tract occurs in the colon."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "How many stages within the food supply chain can food availability and consumption be measured?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "10"
+        },
+        {
+          "label": "B",
+          "text": "5"
+        },
+        {
+          "label": "C",
+          "text": "2"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Intestinal lactase deficiency leads to lactose maldigestion which subsequently can lead to lactose intolerance, i.e. causing clinical symptoms. Infants and children normally express sufficient lactase levels as not to experience clinical symptoms. Overall, adults can be classified as lactase-persisters or lactase non-persisters. What is the approximate percentage of Lactase non-persisters worldwide?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "45%-50%"
+        },
+        {
+          "label": "B",
+          "text": "70%-75 %"
+        },
+        {
+          "label": "C",
+          "text": "10%-15%"
+        },
+        {
+          "label": "D",
+          "text": "30%-35%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Water transport can occur from the lumen of the intestine to the blood stream, or from the blood stream to the intestinal lumen. Which single statement about this phenomenon, below, is actually correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "A \"flip-flop\" mechanism efficiently transports water directly across the enterocyte membrane"
+        },
+        {
+          "label": "B",
+          "text": "Water flows into the gut from the mucosa, during digestion of starch and protein, in order to reduce luminal osmolality"
+        },
+        {
+          "label": "C",
+          "text": "Water is mostly absorbed by movement between the cells lining the gut (enterocytes) via tight junctions"
+        },
+        {
+          "label": "D",
+          "text": "Dietary intake of water is always greater than water movement in the small intestine"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following will provide the main fuel for muscle contraction during short-term intense activity such as sprinting?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Muscle triacylglycerol"
+        },
+        {
+          "label": "B",
+          "text": "Plasma free fatty acids"
+        },
+        {
+          "label": "C",
+          "text": "Plasma triacylglycerol in VLDL"
+        },
+        {
+          "label": "D",
+          "text": "Muscle glycogen"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of the following statements about glycogen metabolism is correct?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "A key step in the synthesis of glycogen is the formation of UDP-glucose"
+        },
+        {
+          "label": "B",
+          "text": "In muscle in the fasting state, glycogen is broken down to glucose 6-phosphate, then free glucose."
+        },
+        {
+          "label": "C",
+          "text": "Glycogen is stored mainly in the liver and brain."
+        },
+        {
+          "label": "D",
+          "text": "Glucagon increases the synthesis of glycogen"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "What role do women play in food security?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Their main role is preparing meals."
+        },
+        {
+          "label": "B",
+          "text": "They play a central role as producers of food, managers of natural resources, income earners and caretakers of household nutrition."
+        },
+        {
+          "label": "C",
+          "text": "They weed the fields, but never plough or plant them, as only men are strong enough for those activities."
+        },
+        {
+          "label": "D",
+          "text": "Their efforts focus mainly on vegetable gardens and chickens; men are involved with cereal crops and larger livestock."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "Which of the following cannot be a substrate for gluconeogenesis?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glutamic acid"
+        },
+        {
+          "label": "B",
+          "text": "Aspartic acid"
+        },
+        {
+          "label": "C",
+          "text": "Palmitic acid"
+        },
+        {
+          "label": "D",
+          "text": "Galactose"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Pregnancy and lactation is known to:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Decrease calcium requirements"
+        },
+        {
+          "label": "B",
+          "text": "Result in bone mineral loss from the skeleton"
+        },
+        {
+          "label": "C",
+          "text": "Decrease the rate of dietary calcium absorption"
+        },
+        {
+          "label": "D",
+          "text": "Affect bone mineral content later in life"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Doses of substances used in animal toxicity studies are usually many times greater than those experienced by people because:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Animals are generally much less sensitive than people"
+        },
+        {
+          "label": "B",
+          "text": "Such tests can detect only very large risks because of the fact that only small numbers of animals can be used"
+        },
+        {
+          "label": "C",
+          "text": "It is difficult in such studies to determine whether the observed toxic effects were caused by the substance"
+        },
+        {
+          "label": "D",
+          "text": "It is the only way to ensure results are applicable to people"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Risk assessment is applied to data on toxicity and human exposure to:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Estimate the likelihood, or probability, of a toxic effect on exposed humans"
+        },
+        {
+          "label": "B",
+          "text": "To support risk management decisions for food substances"
+        },
+        {
+          "label": "C",
+          "text": "To derive Allowable Daily Intakes"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Which of the following is closest to the amount of retinol formed from ß-carotene?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 mol retinol /mol ß-carotene"
+        },
+        {
+          "label": "B",
+          "text": "1 mol retinol /mol ß-carotene"
+        },
+        {
+          "label": "C",
+          "text": "0.15 mol retinol /mol ß-carotene"
+        },
+        {
+          "label": "D",
+          "text": "0.1 mol retinol /mol ß-carotene"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "What nutritional strategies will not improve performance during prolonged endurance type exercise?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Carbohydrate loading"
+        },
+        {
+          "label": "B",
+          "text": "Tapering"
+        },
+        {
+          "label": "C",
+          "text": "The classic glycogen loading regime"
+        },
+        {
+          "label": "D",
+          "text": "Exogenous carbohydrate ingestion during exercise"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Colonic microbiome:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is present in babies in utero"
+        },
+        {
+          "label": "B",
+          "text": "Is a cause of eosinopjhilic oesophagitis"
+        },
+        {
+          "label": "C",
+          "text": "Is easily changed by probiotic supplementation"
+        },
+        {
+          "label": "D",
+          "text": "May be changed with consumption of oligo-saccharides"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Which of the following is true about dietary calcium:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Typical calcium intake in most adults is between 0.5mg and 2.0mg per day"
+        },
+        {
+          "label": "B",
+          "text": "Activated Vitamin D decreases absorption of dietary calcium"
+        },
+        {
+          "label": "C",
+          "text": "There is clear evidence that people who consume more than the average amount of calcium have a lower risk of bone fractures."
+        },
+        {
+          "label": "D",
+          "text": "Absorption efficiency is inversely related to calcium intake, so that a higher proportion is absorbed when calcium intake is low"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Rickets of prematurity is associated with:\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypocalcaemic convulsions"
+        },
+        {
+          "label": "B",
+          "text": "Use of frusemide diuretic"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin D deficiency in the mother"
+        },
+        {
+          "label": "D",
+          "text": "All of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Which vitamins are important in lowering circulating homocysteine levels\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "B",
+          "text": "Vitamin C"
+        },
+        {
+          "label": "C",
+          "text": "Vitamin A"
+        },
+        {
+          "label": "D",
+          "text": "Folate, vitamins B6 and B12"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "What dietary component has been shown to improve hypertension in humans?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "potassium"
+        },
+        {
+          "label": "B",
+          "text": "sodium"
+        },
+        {
+          "label": "C",
+          "text": "polyunsaturated fatty acids"
+        },
+        {
+          "label": "D",
+          "text": "cholesterol"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "What are the effects of globalisation on food security?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wealthy countries subsidies and trade barriers make it difficult for developing countries to take advantage of the potential of globalisation for advancing food security."
+        },
+        {
+          "label": "B",
+          "text": "World Trade Organisation rules do not cover agriculture, so globalisation really has no bearing on food security."
+        },
+        {
+          "label": "C",
+          "text": "Supermarkets are so far the only way in which food and agriculture have experienced globalisation."
+        },
+        {
+          "label": "D",
+          "text": "Developing countries need to create publicly-owned food reserves in order to realise the potential benefits."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Which of these factors increases the risk for lung cancer?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Saturated fat"
+        },
+        {
+          "label": "B",
+          "text": "Obesity"
+        },
+        {
+          "label": "C",
+          "text": "High dose ß-carotene supplements"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Which of the following diet-derived compounds have epigenetic effects?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Butyrate"
+        },
+        {
+          "label": "B",
+          "text": "Curcumin"
+        },
+        {
+          "label": "C",
+          "text": "Genistein"
+        },
+        {
+          "label": "D",
+          "text": "All of the options given are correct"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The WHO made a strong recommendation that the maximum intake of free sugars by individuals within populations should be\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "<5%"
+        },
+        {
+          "label": "B",
+          "text": "5-10%"
+        },
+        {
+          "label": "C",
+          "text": "<10%"
+        },
+        {
+          "label": "D",
+          "text": ">10%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which of these factors increases the risk for cancer of the oesophagus?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "Processed meat"
+        },
+        {
+          "label": "B",
+          "text": "Fruit and vegetables"
+        },
+        {
+          "label": "C",
+          "text": "Salt"
+        },
+        {
+          "label": "D",
+          "text": "Alcohol"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?\n",
+      "options": [
+        {
+          "label": "A",
+          "text": "BP < 140/90, Trig <150, LDL < 100"
+        },
+        {
+          "label": "B",
+          "text": "BP < 130/85, Trig < 300, LDL < 100"
+        },
+        {
+          "label": "C",
+          "text": "BP < 135/80, Trig < 200, LDL < 130"
+        },
+        {
+          "label": "D",
+          "text": "BP < 130/80, Trig <150, LDL < 100"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

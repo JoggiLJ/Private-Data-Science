@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_human_aging_test",
+  "description": "Human aging multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — human_aging subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "When a researcher takes part in the situation he or she is observing, he or she is said to be a(n)",
+      "options": [
+        {
+          "label": "A",
+          "text": "Active observer"
+        },
+        {
+          "label": "B",
+          "text": "Participant observer"
+        },
+        {
+          "label": "C",
+          "text": "Indiscreet observer"
+        },
+        {
+          "label": "D",
+          "text": "Meddling observer"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Our social network refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Everyone we know"
+        },
+        {
+          "label": "B",
+          "text": "Those who are closest to us"
+        },
+        {
+          "label": "C",
+          "text": "Those who we have not yet met"
+        },
+        {
+          "label": "D",
+          "text": "Family members"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "The hypothesis that says adults will remain healthy until very old age and then quickly become ill and die is the ____ hypothesis",
+      "options": [
+        {
+          "label": "A",
+          "text": "Terminal drop"
+        },
+        {
+          "label": "B",
+          "text": "Compression of morbidity"
+        },
+        {
+          "label": "C",
+          "text": "Klagmore-Rensfeldt"
+        },
+        {
+          "label": "D",
+          "text": "Decline avoidance"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "High levels of self-care behaviors have been associated with high levels of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neuroticism"
+        },
+        {
+          "label": "B",
+          "text": "Extraversion"
+        },
+        {
+          "label": "C",
+          "text": "Agreeableness"
+        },
+        {
+          "label": "D",
+          "text": "Secondary control"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Surveys of older adults who are living together show that they tend to view cohabitation as",
+      "options": [
+        {
+          "label": "A",
+          "text": "A first step toward eventual marriage"
+        },
+        {
+          "label": "B",
+          "text": "An alternative to marriage"
+        },
+        {
+          "label": "C",
+          "text": "A way to save on expenses"
+        },
+        {
+          "label": "D",
+          "text": "Their swan song"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "The most frequent chronic condition for older adults is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hypertension"
+        },
+        {
+          "label": "B",
+          "text": "Arthritis"
+        },
+        {
+          "label": "C",
+          "text": "Diabetes"
+        },
+        {
+          "label": "D",
+          "text": "Cataracts"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "People with which of the following forms of control are least likely to have accessibility problems where they live?",
+      "options": [
+        {
+          "label": "A",
+          "text": "External"
+        },
+        {
+          "label": "B",
+          "text": "Internal"
+        },
+        {
+          "label": "C",
+          "text": "Primary"
+        },
+        {
+          "label": "D",
+          "text": "Total"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "A difference between the social networks of older and younger adults is that older adults have",
+      "options": [
+        {
+          "label": "A",
+          "text": "Larger inner circles"
+        },
+        {
+          "label": "B",
+          "text": "Larger outer circles"
+        },
+        {
+          "label": "C",
+          "text": "Smaller inner circles"
+        },
+        {
+          "label": "D",
+          "text": "Smaller outer circles"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Which of the following statements is TRUE concerning older workers' job performance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Older workers always perform better because of their vast experience"
+        },
+        {
+          "label": "B",
+          "text": "Older workers never perform better than younger workers because with age, a worker's skills decline."
+        },
+        {
+          "label": "C",
+          "text": "Job performance for older workers depends both upon the decline of skills and the benefits of experience"
+        },
+        {
+          "label": "D",
+          "text": "Most jobs are performed better by younger adults but a few are performed better by older adults"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "The law that requires all healthcare institutions that receive Medicaid funds to inform patients about advance directives is called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patient Self-Determination Act"
+        },
+        {
+          "label": "B",
+          "text": "Informed Consent Act"
+        },
+        {
+          "label": "C",
+          "text": "Advance Directive"
+        },
+        {
+          "label": "D",
+          "text": "Medicaid Directive Information Act"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "That super sweet iced tea that your grandmother gives you might be that way because she",
+      "options": [
+        {
+          "label": "A",
+          "text": "Has lost a lot of sweet taste buds and cannot taste sweetness as well anymore"
+        },
+        {
+          "label": "B",
+          "text": "Is a member of that cohort that really enjoys sweets"
+        },
+        {
+          "label": "C",
+          "text": "Is trying to get you to be a little sweeter than you have been in the past"
+        },
+        {
+          "label": "D",
+          "text": "Has experienced damage in her parietal lobe where sweet sensations are directed"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Immunization"
+        },
+        {
+          "label": "B",
+          "text": "Accommodation"
+        },
+        {
+          "label": "C",
+          "text": "Avoidance"
+        },
+        {
+          "label": "D",
+          "text": "Assimilation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "In which dementia are cognitive symptoms less likely?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parkinson's"
+        },
+        {
+          "label": "B",
+          "text": "Pick's"
+        },
+        {
+          "label": "C",
+          "text": "Huntington's"
+        },
+        {
+          "label": "D",
+          "text": "NeuroAIDS"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Neuroticism has been found to be correlated with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anger and guilt"
+        },
+        {
+          "label": "B",
+          "text": "Apathy and indifference"
+        },
+        {
+          "label": "C",
+          "text": "Deceit and cunning"
+        },
+        {
+          "label": "D",
+          "text": "Mania and hypertension"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "The answer \"both play an important role\" is clearly applicable to the question of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nature vs. nurture"
+        },
+        {
+          "label": "B",
+          "text": "Mechanistic vs organismic"
+        },
+        {
+          "label": "C",
+          "text": "Continuity vs. discontinuity"
+        },
+        {
+          "label": "D",
+          "text": "All of these questions"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "The information stored in memory, according to research and our Senior View interviewees, is",
+      "options": [
+        {
+          "label": "A",
+          "text": "True to life"
+        },
+        {
+          "label": "B",
+          "text": "Our own interpretation"
+        },
+        {
+          "label": "C",
+          "text": "Always exaggerated"
+        },
+        {
+          "label": "D",
+          "text": "Never accurate"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "The environmental design that brings pets and plants to nursing homes and young people and children as regular visitors is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Instrumental Living Design"
+        },
+        {
+          "label": "B",
+          "text": "The Humanistic Choice"
+        },
+        {
+          "label": "C",
+          "text": "Human-Environment Congruence"
+        },
+        {
+          "label": "D",
+          "text": "The Eden Alternative"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Which of the following is caused by a prion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vascular dementia"
+        },
+        {
+          "label": "B",
+          "text": "Alzheimer's"
+        },
+        {
+          "label": "C",
+          "text": "Creutzfeldt-Jakob"
+        },
+        {
+          "label": "D",
+          "text": "Huntington's"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The cause of Alzheimer's appears to be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mostly environmental"
+        },
+        {
+          "label": "B",
+          "text": "Aluminum"
+        },
+        {
+          "label": "C",
+          "text": "Mostly genetic"
+        },
+        {
+          "label": "D",
+          "text": "Apo-E 4"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Older adults generally perform very well when their _____ memory is tested.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Episodic"
+        },
+        {
+          "label": "B",
+          "text": "Working"
+        },
+        {
+          "label": "C",
+          "text": "Retrospective"
+        },
+        {
+          "label": "D",
+          "text": "Semantic"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Do traits change with age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "No"
+        },
+        {
+          "label": "B",
+          "text": "They change a little"
+        },
+        {
+          "label": "C",
+          "text": "Only for women"
+        },
+        {
+          "label": "D",
+          "text": "They change quite a lot"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Changes in the reproductive system are more _____ for men but not for women",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mechanistic"
+        },
+        {
+          "label": "B",
+          "text": "Continuous"
+        },
+        {
+          "label": "C",
+          "text": "Organismic"
+        },
+        {
+          "label": "D",
+          "text": "Nurturant"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "A disadvantage of institutional care is that the staff frequently teach older residents to be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rude"
+        },
+        {
+          "label": "B",
+          "text": "Dependent"
+        },
+        {
+          "label": "C",
+          "text": "Independent"
+        },
+        {
+          "label": "D",
+          "text": "Selfish"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "The decline in working memory with advanced age seems to be due to",
+      "options": [
+        {
+          "label": "A",
+          "text": "A loss of resources and slower processing speed"
+        },
+        {
+          "label": "B",
+          "text": "An increase in the inhibition of relevant information"
+        },
+        {
+          "label": "C",
+          "text": "A general decline in the ability to process information"
+        },
+        {
+          "label": "D",
+          "text": "A severe loss of neural connections and decreased blood flow"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following does NOT increase the risk of falling?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Taking many prescription medications"
+        },
+        {
+          "label": "B",
+          "text": "Visual impairment"
+        },
+        {
+          "label": "C",
+          "text": "Having no emotional support"
+        },
+        {
+          "label": "D",
+          "text": "A change in walking style or gait"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "The Hayflick number for human cells is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unknown"
+        },
+        {
+          "label": "B",
+          "text": "Between 45 and 55"
+        },
+        {
+          "label": "C",
+          "text": "Less than 30"
+        },
+        {
+          "label": "D",
+          "text": "More than 60"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "Continued stress is damaging to health and longevity because it leads to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Over exercising which causes physical damage"
+        },
+        {
+          "label": "B",
+          "text": "Suppression of the immune system"
+        },
+        {
+          "label": "C",
+          "text": "Less eating and, in many cases, severe eating disorders"
+        },
+        {
+          "label": "D",
+          "text": "Risky behaviors such as speeding and not using a seat belt"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Comorbidity is a problem for older adults because it",
+      "options": [
+        {
+          "label": "A",
+          "text": "Makes correct diagnoses difficult"
+        },
+        {
+          "label": "B",
+          "text": "Increases funeral costs"
+        },
+        {
+          "label": "C",
+          "text": "Is very contagious"
+        },
+        {
+          "label": "D",
+          "text": "Cannot, at present, be cured"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "With respect to theories of senescence, it's probably safe to say that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Programmed theories are the best we have at present"
+        },
+        {
+          "label": "B",
+          "text": "Many theories will have to be combined to explain senescence"
+        },
+        {
+          "label": "C",
+          "text": "The evidence for these theories is direct and quickly accumulating"
+        },
+        {
+          "label": "D",
+          "text": "All of these theories are merely speculation at this point"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "A burial site where the body is allowed to decompose naturally without a casket is called a _____ cemetery",
+      "options": [
+        {
+          "label": "A",
+          "text": "Naturalistic"
+        },
+        {
+          "label": "B",
+          "text": "Green"
+        },
+        {
+          "label": "C",
+          "text": "Rapid decay"
+        },
+        {
+          "label": "D",
+          "text": "Sunshine"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "High levels of social support are strongly associated with",
+      "options": [
+        {
+          "label": "A",
+          "text": "Longevity"
+        },
+        {
+          "label": "B",
+          "text": "Internal control"
+        },
+        {
+          "label": "C",
+          "text": "Culture"
+        },
+        {
+          "label": "D",
+          "text": "Education"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Of the following, which is the more frequent stereotype of older adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Full of wisdom and knowledge"
+        },
+        {
+          "label": "B",
+          "text": "Healthy and independent"
+        },
+        {
+          "label": "C",
+          "text": "Confused and disoriented"
+        },
+        {
+          "label": "D",
+          "text": "Sleepy and lazy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "The houses of the future may allow you to operate virtually everything in the house from a central terminal; such a house is already in production and is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Technohouse"
+        },
+        {
+          "label": "B",
+          "text": "Compuhouse"
+        },
+        {
+          "label": "C",
+          "text": "Futurehouse"
+        },
+        {
+          "label": "D",
+          "text": "Smarthouse"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following appears to lower bad cholesterol?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vitamin D"
+        },
+        {
+          "label": "B",
+          "text": "Niacin"
+        },
+        {
+          "label": "C",
+          "text": "Thiamine"
+        },
+        {
+          "label": "D",
+          "text": "Riboflavin"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "About how many grieving individuals seem to require some professional help?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 10%"
+        },
+        {
+          "label": "B",
+          "text": "About 25%"
+        },
+        {
+          "label": "C",
+          "text": "Nearly half"
+        },
+        {
+          "label": "D",
+          "text": "More than 50%"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Loss of smell for adults 80 and older is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very infrequent (less than 15%)"
+        },
+        {
+          "label": "B",
+          "text": "Very frequent (more than 75%)"
+        },
+        {
+          "label": "C",
+          "text": "Infrequent (less than 40%)"
+        },
+        {
+          "label": "D",
+          "text": "Frequent (close to 50%)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "An example of an objective test of personality is the",
+      "options": [
+        {
+          "label": "A",
+          "text": "TAT"
+        },
+        {
+          "label": "B",
+          "text": "MMPI"
+        },
+        {
+          "label": "C",
+          "text": "Rorschach ink blot test"
+        },
+        {
+          "label": "D",
+          "text": "McAdams test of levels"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "A person who is not very well organized, rarely sets goals, and frequently puts things off until the last minute would be said to be low on which trait?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Agreeableness"
+        },
+        {
+          "label": "B",
+          "text": "Conscientiousness"
+        },
+        {
+          "label": "C",
+          "text": "Openness"
+        },
+        {
+          "label": "D",
+          "text": "Neuroticism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Surveys of bereaved individuals have found that one of the things that is reported as being most helpful is when others",
+      "options": [
+        {
+          "label": "A",
+          "text": "Avoid any discussion of the deceased"
+        },
+        {
+          "label": "B",
+          "text": "Remain in close contact"
+        },
+        {
+          "label": "C",
+          "text": "Stay away and let the person grieve"
+        },
+        {
+          "label": "D",
+          "text": "Change the home environment for the bereaved"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "In this chapter's Senior View, Dr. Shealy advises you to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stay in school"
+        },
+        {
+          "label": "B",
+          "text": "Eat the right foods"
+        },
+        {
+          "label": "C",
+          "text": "Get plenty of exercise"
+        },
+        {
+          "label": "D",
+          "text": "Find a high paying job"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Which type of reaction time results in the biggest age differences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple"
+        },
+        {
+          "label": "B",
+          "text": "Choice"
+        },
+        {
+          "label": "C",
+          "text": "Complex"
+        },
+        {
+          "label": "D",
+          "text": "Elaborate"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "With respect to hair loss",
+      "options": [
+        {
+          "label": "A",
+          "text": "Men lose but women do not"
+        },
+        {
+          "label": "B",
+          "text": "Men are more systematic than women"
+        },
+        {
+          "label": "C",
+          "text": "Women lose hair less frequently but more rapidly than men"
+        },
+        {
+          "label": "D",
+          "text": "Environmental factors are the main causes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Older adults with higher education and self-esteem are more likely to be",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sexually active"
+        },
+        {
+          "label": "B",
+          "text": "Socially isolated"
+        },
+        {
+          "label": "C",
+          "text": "Lonely as they grow older"
+        },
+        {
+          "label": "D",
+          "text": "Married for a long time"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "A possible positive effect of moderate alcohol consumption is that it may",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inhibit the growth of cancers"
+        },
+        {
+          "label": "B",
+          "text": "Promote healing from injuries and illnesses"
+        },
+        {
+          "label": "C",
+          "text": "Keep blood vessels from stiffening"
+        },
+        {
+          "label": "D",
+          "text": "Result in relaxation and lower blood pressure"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "The major question concerning aging and personality is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Do older adults still have personalities?"
+        },
+        {
+          "label": "B",
+          "text": "Does personality change with age?"
+        },
+        {
+          "label": "C",
+          "text": "Does personality decline as we grow older?"
+        },
+        {
+          "label": "D",
+          "text": "Does personality increase of decrease with age?"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "The first person to measure and compare the response times of young and old was",
+      "options": [
+        {
+          "label": "A",
+          "text": "Francis Galton"
+        },
+        {
+          "label": "B",
+          "text": "William James"
+        },
+        {
+          "label": "C",
+          "text": "Michelle Meer"
+        },
+        {
+          "label": "D",
+          "text": "Tom Penge"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following factors has NOT received as much support as the others in research investigating why social support is related to better health?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social"
+        },
+        {
+          "label": "B",
+          "text": "Behavioral"
+        },
+        {
+          "label": "C",
+          "text": "Psychological"
+        },
+        {
+          "label": "D",
+          "text": "Gerontological"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "We want our measures to be as reliable as possible; reliability refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whether our measure really measure anything at all"
+        },
+        {
+          "label": "B",
+          "text": "Whether our measure is really measuring what it claims to measure"
+        },
+        {
+          "label": "C",
+          "text": "Whether our measure is consistent in the information it provides"
+        },
+        {
+          "label": "D",
+          "text": "Whether our measure has or has not been used before"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Middle-aged adults appear to be more ____ than older or younger adults",
+      "options": [
+        {
+          "label": "A",
+          "text": "Generative"
+        },
+        {
+          "label": "B",
+          "text": "Neurotic"
+        },
+        {
+          "label": "C",
+          "text": "Agreeable"
+        },
+        {
+          "label": "D",
+          "text": "Certain"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Older adults' coping strategies are generally",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ineffective at solving problems"
+        },
+        {
+          "label": "B",
+          "text": "Variable as they have more strategies"
+        },
+        {
+          "label": "C",
+          "text": "Persistent as they use the same strategy over and over"
+        },
+        {
+          "label": "D",
+          "text": "Narrow as they ignore many aspects of the problem"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Workers in which of the following jobs still have mandatory retirements once they reach a certain age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cab drivers"
+        },
+        {
+          "label": "B",
+          "text": "Fire fighters"
+        },
+        {
+          "label": "C",
+          "text": "Insurance regulators"
+        },
+        {
+          "label": "D",
+          "text": "Computer programmers"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "The Supreme Court has now ruled that older workers need no longer prove _____________ to win a job discrimination suit.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discrimination"
+        },
+        {
+          "label": "B",
+          "text": "Age bias"
+        },
+        {
+          "label": "C",
+          "text": "Negative impact"
+        },
+        {
+          "label": "D",
+          "text": "Intention"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Which of the following groups of Americans have the lowest rate of alcohol abuse?",
+      "options": [
+        {
+          "label": "A",
+          "text": "African-American"
+        },
+        {
+          "label": "B",
+          "text": "White"
+        },
+        {
+          "label": "C",
+          "text": "Native-American"
+        },
+        {
+          "label": "D",
+          "text": "Asian-American"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "In this chapter's Senior View, May Lee told us that we should all respect our elders because",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are much older than we are"
+        },
+        {
+          "label": "B",
+          "text": "They raised us"
+        },
+        {
+          "label": "C",
+          "text": "They lived through difficult times"
+        },
+        {
+          "label": "D",
+          "text": "They ask nothing in return"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Theories",
+      "options": [
+        {
+          "label": "A",
+          "text": "Are not very important in aging research"
+        },
+        {
+          "label": "B",
+          "text": "Attempt to explain findings and guide future research"
+        },
+        {
+          "label": "C",
+          "text": "Have never been adequately tested"
+        },
+        {
+          "label": "D",
+          "text": "Have been around for a long time but have only recently been tested"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "The retirement phase that occurs least frequently is the ____ phase",
+      "options": [
+        {
+          "label": "A",
+          "text": "Disenchantment"
+        },
+        {
+          "label": "B",
+          "text": "Honeymoon"
+        },
+        {
+          "label": "C",
+          "text": "Retirement routine"
+        },
+        {
+          "label": "D",
+          "text": "Preretirement"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Which of the following does NOT usually occur to the lens of the eye as one grows older?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It becomes thicker"
+        },
+        {
+          "label": "B",
+          "text": "It yellows"
+        },
+        {
+          "label": "C",
+          "text": "It becomes clouded"
+        },
+        {
+          "label": "D",
+          "text": "It fills with fluid"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Free radicals are produced by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Normal metabolism"
+        },
+        {
+          "label": "B",
+          "text": "Excess consumption of Vitamins A and C"
+        },
+        {
+          "label": "C",
+          "text": "Lack of sunlight"
+        },
+        {
+          "label": "D",
+          "text": "A weakened immune system"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The term \"cohort\" refers to",
+      "options": [
+        {
+          "label": "A",
+          "text": "An individual's chronological age"
+        },
+        {
+          "label": "B",
+          "text": "A generation of people who lived through major events"
+        },
+        {
+          "label": "C",
+          "text": "A person's gender"
+        },
+        {
+          "label": "D",
+          "text": "A group of people living in the same culture"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "A problem for immune system theories of senescence is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Determining what first causes the senescence in the immune system"
+        },
+        {
+          "label": "B",
+          "text": "Auto-immune disorders are far too rare"
+        },
+        {
+          "label": "C",
+          "text": "That the immune system does not decline with age"
+        },
+        {
+          "label": "D",
+          "text": "The lack of information about senescence in general"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of the following could very well be a cohort difference rather than a change that occurs with age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Differences in weight"
+        },
+        {
+          "label": "B",
+          "text": "Shrinkage of the thymus gland"
+        },
+        {
+          "label": "C",
+          "text": "Enlargement of the heart"
+        },
+        {
+          "label": "D",
+          "text": "Increasing size of nose and ears"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The study of older adults and aging is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gerontology"
+        },
+        {
+          "label": "B",
+          "text": "Geropsychiatry"
+        },
+        {
+          "label": "C",
+          "text": "Geriatrics"
+        },
+        {
+          "label": "D",
+          "text": "Gero-education"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Which of the following is NOT among the top 10 causes of death in the U. S.?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kidney diseases"
+        },
+        {
+          "label": "B",
+          "text": "AIDS"
+        },
+        {
+          "label": "C",
+          "text": "Septicemia"
+        },
+        {
+          "label": "D",
+          "text": "Accidents"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "If you believe that we are mostly in control of our own development and that our behaviors, good or bad, determine how successful our aging with be, you would be said to have which of the following perspectives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organismic"
+        },
+        {
+          "label": "B",
+          "text": "Nurture"
+        },
+        {
+          "label": "C",
+          "text": "Continuity"
+        },
+        {
+          "label": "D",
+          "text": "Mechanistic"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Projective tests generally ___ than objective tests of personality.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Have higher reliability"
+        },
+        {
+          "label": "B",
+          "text": "Are more visual"
+        },
+        {
+          "label": "C",
+          "text": "Are more valid"
+        },
+        {
+          "label": "D",
+          "text": "Provide more information"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "All other things being equal, which of the following persons is likely to live the longest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A black man"
+        },
+        {
+          "label": "B",
+          "text": "A white man"
+        },
+        {
+          "label": "C",
+          "text": "A black woman"
+        },
+        {
+          "label": "D",
+          "text": "A white woman"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "When speaking with an older adults with some hearing loss, you should",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speak a little slower than normal"
+        },
+        {
+          "label": "B",
+          "text": "Speak loudly into their best ear"
+        },
+        {
+          "label": "C",
+          "text": "Face them so they can watch your lips"
+        },
+        {
+          "label": "D",
+          "text": "Ask another person to translate"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Which of the following has been found to improve balance for older adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tai chi"
+        },
+        {
+          "label": "B",
+          "text": "Aerobic exercise"
+        },
+        {
+          "label": "C",
+          "text": "Weight lifting"
+        },
+        {
+          "label": "D",
+          "text": "Walking briskly"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Which of the following forms of dementia has the highest prevalence rate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alzheimer's"
+        },
+        {
+          "label": "B",
+          "text": "Vascular"
+        },
+        {
+          "label": "C",
+          "text": "Parkinson's"
+        },
+        {
+          "label": "D",
+          "text": "Fronto-temporal lobe"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Longevity is strongly associated with higher levels of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social support"
+        },
+        {
+          "label": "B",
+          "text": "BMI"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol use"
+        },
+        {
+          "label": "D",
+          "text": "Supplement use"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Those more likely to experience depression after a loss are those who",
+      "options": [
+        {
+          "label": "A",
+          "text": "Are young survivors"
+        },
+        {
+          "label": "B",
+          "text": "Have not previously experienced depression"
+        },
+        {
+          "label": "C",
+          "text": "Have been married more than 40 years"
+        },
+        {
+          "label": "D",
+          "text": "Are in poor health themselves"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "In this chapter's Senior View, Dr. Donham told us that mental stimulation, exercise, diet, and what other factor is important for long life?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moderate amounts of alcohol"
+        },
+        {
+          "label": "B",
+          "text": "Social support"
+        },
+        {
+          "label": "C",
+          "text": "Good genes"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding stress"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "The Kingbergs give us several keys to successful aging; which of the following is one that they did not name?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eat the correct food but not too much."
+        },
+        {
+          "label": "B",
+          "text": "Respect each other"
+        },
+        {
+          "label": "C",
+          "text": "Party at least once a month"
+        },
+        {
+          "label": "D",
+          "text": "Make long-range plans"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Which level of personality description appears to show the most change with age?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Traits"
+        },
+        {
+          "label": "B",
+          "text": "Personal concerns"
+        },
+        {
+          "label": "C",
+          "text": "Coping strategies"
+        },
+        {
+          "label": "D",
+          "text": "Identity"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Identity refers to one's",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use of a particular coping strategy"
+        },
+        {
+          "label": "B",
+          "text": "Control over one's own life story"
+        },
+        {
+          "label": "C",
+          "text": "Physical appearance and overall personality"
+        },
+        {
+          "label": "D",
+          "text": "Coherent sense of self"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "When older and younger workers have lost their jobs, older workers typically",
+      "options": [
+        {
+          "label": "A",
+          "text": "Find a job quicker because of their greater experience"
+        },
+        {
+          "label": "B",
+          "text": "Take longer to find a new job"
+        },
+        {
+          "label": "C",
+          "text": "Retire rather than search for a new job"
+        },
+        {
+          "label": "D",
+          "text": "Sue the company using the ADEA"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Prejudice or bias against older adults is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ageism"
+        },
+        {
+          "label": "B",
+          "text": "Oldism"
+        },
+        {
+          "label": "C",
+          "text": "Age bigotry"
+        },
+        {
+          "label": "D",
+          "text": "Senilism"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Research has offered some longitudinal as well as cross sectional support for the theory put forth by",
+      "options": [
+        {
+          "label": "A",
+          "text": "Peck"
+        },
+        {
+          "label": "B",
+          "text": "Foos"
+        },
+        {
+          "label": "C",
+          "text": "Levenson"
+        },
+        {
+          "label": "D",
+          "text": "Erikson"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "The reaction time difference between younger and older adults is reduced when older adults",
+      "options": [
+        {
+          "label": "A",
+          "text": "Practice regular aerobic exercise"
+        },
+        {
+          "label": "B",
+          "text": "Lift weights on a regular schedule"
+        },
+        {
+          "label": "C",
+          "text": "Consume large quantities of vitamins"
+        },
+        {
+          "label": "D",
+          "text": "Practice Tai chi"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "A researcher finds that age is negatively correlated with cigarette smoking; this means that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Older adults experience more negative effects from smoking that do younger adults"
+        },
+        {
+          "label": "B",
+          "text": "Older adults smoke more than younger adults"
+        },
+        {
+          "label": "C",
+          "text": "Older adults smoke less than younger adults"
+        },
+        {
+          "label": "D",
+          "text": "Older and younger adults smoke about the same number of cigarettes and both experience negative effects"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "The woman who conducted a longitudinal study on herself and found increased retrieval difficulty as she got older was named",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clark"
+        },
+        {
+          "label": "B",
+          "text": "Smith"
+        },
+        {
+          "label": "C",
+          "text": "Whitebear"
+        },
+        {
+          "label": "D",
+          "text": "Ebbinghaus"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "One possible reason that time seems to pass more rapidly for older adults is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Their memories are poor so they forget to check the time"
+        },
+        {
+          "label": "B",
+          "text": "They have fewer novel experiences"
+        },
+        {
+          "label": "C",
+          "text": "They pay less attention to important events in life"
+        },
+        {
+          "label": "D",
+          "text": "Their lives are full of events which they don't recall at a later time"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "A major difference between programmed and unprogrammed theories of senescence is that programmed theories",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attribute senescence only to environmental factors"
+        },
+        {
+          "label": "B",
+          "text": "Are far too difficulty to test"
+        },
+        {
+          "label": "C",
+          "text": "Claim that senescence follows a predetermined plan"
+        },
+        {
+          "label": "D",
+          "text": "Rely too heavily on computer models"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "Which of the following is the most important variable for gerontological researchers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Age"
+        },
+        {
+          "label": "B",
+          "text": "Gender"
+        },
+        {
+          "label": "C",
+          "text": "Cohort"
+        },
+        {
+          "label": "D",
+          "text": "Time of measurement"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Hearing loss for higher pitch is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "Presbyopia"
+        },
+        {
+          "label": "B",
+          "text": "Presbycusis"
+        },
+        {
+          "label": "C",
+          "text": "Pitch deafness"
+        },
+        {
+          "label": "D",
+          "text": "Conductive loss"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Gary says he won $1000 in the lottery because he really knows how to pick those numbers. Gary would be said to have a strong ____ locus of control",
+      "options": [
+        {
+          "label": "A",
+          "text": "External, powerful others"
+        },
+        {
+          "label": "B",
+          "text": "Internal"
+        },
+        {
+          "label": "C",
+          "text": "External, chance"
+        },
+        {
+          "label": "D",
+          "text": "Secondary"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "About what percentage of people who have had bridge jobs say it was better than their career job?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 25%"
+        },
+        {
+          "label": "B",
+          "text": "Less than 50%"
+        },
+        {
+          "label": "C",
+          "text": "More than 50%"
+        },
+        {
+          "label": "D",
+          "text": "More than 75%"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Grandparents with grandchildren in college report feeling especially loved when such grandchildren",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ask about their satisfaction with life and offer to help"
+        },
+        {
+          "label": "B",
+          "text": "Visit during the holidays and bring gifts"
+        },
+        {
+          "label": "C",
+          "text": "Pay a surprise visit and ask for advice"
+        },
+        {
+          "label": "D",
+          "text": "Invite the grandparents over to their place and cook a good meal"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Which of the following improves attitudes toward aging and older adults?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Staying away from older adults"
+        },
+        {
+          "label": "B",
+          "text": "Education about older adults"
+        },
+        {
+          "label": "C",
+          "text": "Travelling to older communities"
+        },
+        {
+          "label": "D",
+          "text": "Watching the portrayals of older adults in movies and on TV"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "One of the most important points made in this chapter is that physical changes",
+      "options": [
+        {
+          "label": "A",
+          "text": "Occur for everyone"
+        },
+        {
+          "label": "B",
+          "text": "Occur more for some and less for others and, within the same person, more for some systems and less for others"
+        },
+        {
+          "label": "C",
+          "text": "Usually occur for very old people but not for very young people"
+        },
+        {
+          "label": "D",
+          "text": "Can be totally avoided if one learns enough about gerontology"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Those who survive the loss of another are called the",
+      "options": [
+        {
+          "label": "A",
+          "text": "Survivors"
+        },
+        {
+          "label": "B",
+          "text": "Grieving"
+        },
+        {
+          "label": "C",
+          "text": "Bereaved"
+        },
+        {
+          "label": "D",
+          "text": "Family and friends"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following is most strongly associated with loss of bone density?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Genetic factors"
+        },
+        {
+          "label": "B",
+          "text": "Lifestyle factors like not exercising"
+        },
+        {
+          "label": "C",
+          "text": "Hormonal factors such as loss of estrogen"
+        },
+        {
+          "label": "D",
+          "text": "Cohort factors"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "If links between various diseases are found, then future older adults will probably",
+      "options": [
+        {
+          "label": "A",
+          "text": "Take fewer medications"
+        },
+        {
+          "label": "B",
+          "text": "Be able to avoid certain diseases"
+        },
+        {
+          "label": "C",
+          "text": "Pay far less for pharmaceuticals"
+        },
+        {
+          "label": "D",
+          "text": "Pick and choose the disease(s) they want"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "A problem in comparing older adults' memory for recent events and events that happened a long time ago is that recent events",
+      "options": [
+        {
+          "label": "A",
+          "text": "May be very well rehearsed"
+        },
+        {
+          "label": "B",
+          "text": "Are far more meaningful"
+        },
+        {
+          "label": "C",
+          "text": "Have no denominator to help in computing an average"
+        },
+        {
+          "label": "D",
+          "text": "Can be verified while older events often cannot"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Mabel Davis, in this chapter's Senior View, would agree with which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Time seems to speed up when you grow older"
+        },
+        {
+          "label": "B",
+          "text": "Exercise keeps your mind sharp"
+        },
+        {
+          "label": "C",
+          "text": "Women are tougher than men"
+        },
+        {
+          "label": "D",
+          "text": "Glasses and hearing aids should be avoided"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Of the following animals, which has the longest life span by current measures?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gorilla"
+        },
+        {
+          "label": "B",
+          "text": "Blue whale"
+        },
+        {
+          "label": "C",
+          "text": "Dog"
+        },
+        {
+          "label": "D",
+          "text": "Queen honey bee"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "One reason that older adults show high levels of optimism is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Many pessimists die at a younger age"
+        },
+        {
+          "label": "B",
+          "text": "They do not really know what is going on"
+        },
+        {
+          "label": "C",
+          "text": "This may be a warning sign for dementia"
+        },
+        {
+          "label": "D",
+          "text": "Our measures have low validity"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The positive relationship between religion and physical health is NOT thought to be due to",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social support derived from a religious community"
+        },
+        {
+          "label": "B",
+          "text": "The rules of some religions which forbid unhealthy behaviors"
+        },
+        {
+          "label": "C",
+          "text": "The stress reducing effects of prayerful meditation"
+        },
+        {
+          "label": "D",
+          "text": "The benefits of knowing that others are praying for you"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Most people who have used physician assisted suicide have had",
+      "options": [
+        {
+          "label": "A",
+          "text": "Alzheimer's"
+        },
+        {
+          "label": "B",
+          "text": "Health insurance"
+        },
+        {
+          "label": "C",
+          "text": "No family"
+        },
+        {
+          "label": "D",
+          "text": "Clinical depression"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Before we can collect data from other human beings we must make sure that they",
+      "options": [
+        {
+          "label": "A",
+          "text": "Have information that will be worth our effort to collect"
+        },
+        {
+          "label": "B",
+          "text": "Are going to be honest and forthright"
+        },
+        {
+          "label": "C",
+          "text": "Are informed about our study and give their consent to participate"
+        },
+        {
+          "label": "D",
+          "text": "Have been granted permission to participate by the IRB"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

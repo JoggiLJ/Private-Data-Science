@@ -1,0 +1,24 @@
+Question: 1, Word Count: 31, Token Count: 34, Number of Alternatives: 4
+Question: 2, Word Count: 16, Token Count: 18, Number of Alternatives: 4
+Question: 3, Word Count: 21, Token Count: 23, Number of Alternatives: 4
+Question: 4, Word Count: 11, Token Count: 18, Number of Alternatives: 4
+Question: 5, Word Count: 4, Token Count: 5, Number of Alternatives: 4
+Question: 6, Word Count: 9, Token Count: 11, Number of Alternatives: 4
+Question: 7, Word Count: 8, Token Count: 9, Number of Alternatives: 4
+Question: 8, Word Count: 17, Token Count: 21, Number of Alternatives: 4
+Question: 9, Word Count: 23, Token Count: 25, Number of Alternatives: 4
+Question: 10, Word Count: 5, Token Count: 6, Number of Alternatives: 4
+Question: 11, Word Count: 28, Token Count: 34, Number of Alternatives: 4
+Question: 12, Word Count: 22, Token Count: 26, Number of Alternatives: 4
+Question: 13, Word Count: 17, Token Count: 22, Number of Alternatives: 4
+Question: 14, Word Count: 10, Token Count: 16, Number of Alternatives: 4
+Question: 15, Word Count: 11, Token Count: 17, Number of Alternatives: 4
+Question: 16, Word Count: 23, Token Count: 28, Number of Alternatives: 4
+Question: 17, Word Count: 10, Token Count: 11, Number of Alternatives: 4
+Question: 18, Word Count: 10, Token Count: 15, Number of Alternatives: 4
+
+Avg word count: 15.333333333333334
+Avg token count: 18.833333333333332
+Avg alternatives count: 4.0
+
+Average similarity (excluding self-similarity): 0.3647569715976715

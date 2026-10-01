@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_high_school_biology_test",
+  "description": "High school biology multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — high_school_biology subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. Which of the following is true about water potential?",
+      "options": [
+        {
+          "label": "A",
+          "text": "An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. It drives the movement of water from a region of lower water potential to a region of higher water potential."
+        },
+        {
+          "label": "B",
+          "text": "Solute potential is the only factor that determines the water potential."
+        },
+        {
+          "label": "C",
+          "text": "Pressure potential combines with solute potential to determine the water potential."
+        },
+        {
+          "label": "D",
+          "text": "Water potential always drives water from an area of lower pressure potential to an area of higher pressure potential."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Refer to question 15 for details on the squirrel population. Which of the following conditions is required to keep this population in Hardy-Weinberg equilibrium?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Random mating"
+        },
+        {
+          "label": "B",
+          "text": "Genetic drift"
+        },
+        {
+          "label": "C",
+          "text": "Mutation"
+        },
+        {
+          "label": "D",
+          "text": "Gene flow"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "It has been observed that organisms on islands are different from, but closely related to, similar forms found on the nearest continent. This is taken as evidence that",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "common environments are inhabited by the same organisms."
+        },
+        {
+          "label": "C",
+          "text": "the islands were originally part of the continent."
+        },
+        {
+          "label": "D",
+          "text": "the island forms and mainland forms are converging."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Except for identical twins, no two people are genetically identical. Which of the following statements most accurately describes the main source of variation in humans?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The main source of variation in humans is genetic drift."
+        },
+        {
+          "label": "B",
+          "text": "Changes in the environment cause rapid changes in different human populations."
+        },
+        {
+          "label": "C",
+          "text": "Shuffling of alleles is responsible for the greatest variation in humans."
+        },
+        {
+          "label": "D",
+          "text": "Mutations are responsible for the greatest changes in different human populations."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Which of the following best summarizes the process of allopatric speciation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "differential changes in allele frequencies → reproductive isolation → reproductive barriers → new species"
+        },
+        {
+          "label": "B",
+          "text": "catastrophic event → reproductive isolation → reproductive barriers → new species"
+        },
+        {
+          "label": "C",
+          "text": "reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species"
+        },
+        {
+          "label": "D",
+          "text": "geographic isolation → reproductive isolation → differential changes in allele frequencies → reproductive barriers → new species"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "A new plant was discovered and determined to have an unusually low number of stomata on the undersides of its leaves. For what environment would this plant most likely be best adapted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cold and rainy"
+        },
+        {
+          "label": "B",
+          "text": "Humid and sunny"
+        },
+        {
+          "label": "C",
+          "text": "Hot and humid"
+        },
+        {
+          "label": "D",
+          "text": "Hot and dry"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Which of these is the smallest unit that natural selection can change?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a species' gene frequency"
+        },
+        {
+          "label": "B",
+          "text": "a population's gene frequency"
+        },
+        {
+          "label": "C",
+          "text": "an individual's genome"
+        },
+        {
+          "label": "D",
+          "text": "an individual's genotype"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Sickle cell anemia is a disease caused by the substitution of an incorrect nucleotide into the DNA sequence for a particular gene. The amino acids are still added to the growing protein chain, but the symptoms of sickle cell anemia result. This is an example of a",
+      "options": [
+        {
+          "label": "A",
+          "text": "frameshift mutation."
+        },
+        {
+          "label": "B",
+          "text": "missense mutation."
+        },
+        {
+          "label": "C",
+          "text": "nonsense mutation."
+        },
+        {
+          "label": "D",
+          "text": "thymine dimer mutation."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Basepair sequence that signals the start site for gene transcription.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhancer"
+        },
+        {
+          "label": "B",
+          "text": "Repressor"
+        },
+        {
+          "label": "C",
+          "text": "Operator"
+        },
+        {
+          "label": "D",
+          "text": "Promoter"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. What kind of speciation does this example illustrate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Allopatric"
+        },
+        {
+          "label": "B",
+          "text": "Sympatric"
+        },
+        {
+          "label": "C",
+          "text": "Isolated"
+        },
+        {
+          "label": "D",
+          "text": "Polyploidy"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "All of the following statements are true EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "thyroxine increases the rate of metabolism"
+        },
+        {
+          "label": "B",
+          "text": "insulin decreases storage of glycogen"
+        },
+        {
+          "label": "C",
+          "text": "vasopressin stimulates water reabsorption in the kidney"
+        },
+        {
+          "label": "D",
+          "text": "epinephrine increases blood sugar levels and heart rate"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Lampreys attach to the skin of lake trout and absorb nutrients from its body. This relationship is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "commensalism"
+        },
+        {
+          "label": "B",
+          "text": "parasitism"
+        },
+        {
+          "label": "C",
+          "text": "mutualism"
+        },
+        {
+          "label": "D",
+          "text": "gravitropism"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The resting membrane potential depends on which of the following? I. Active transport II. Selective permeability III. Differential distribution of ions across the axonal membrane",
+      "options": [
+        {
+          "label": "A",
+          "text": "III only"
+        },
+        {
+          "label": "B",
+          "text": "I and II only"
+        },
+        {
+          "label": "C",
+          "text": "II and III only"
+        },
+        {
+          "label": "D",
+          "text": "I, II, and III"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "All of the following are examples of events that can prevent interspecific breeding EXCEPT",
+      "options": [
+        {
+          "label": "A",
+          "text": "the potential mates experience geographic isolation"
+        },
+        {
+          "label": "B",
+          "text": "the potential mates experience behavioral isolation"
+        },
+        {
+          "label": "C",
+          "text": "the potential mates have different courtship rituals"
+        },
+        {
+          "label": "D",
+          "text": "the potential mates have similar breeding seasons"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "A plant grows in the opposite direction of the gravitational force. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "positive thignotropism"
+        },
+        {
+          "label": "B",
+          "text": "negative phototropism"
+        },
+        {
+          "label": "C",
+          "text": "positive phototropism"
+        },
+        {
+          "label": "D",
+          "text": "negative gravitropism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following cells is most closely associated with phagocytosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Neutrophils"
+        },
+        {
+          "label": "B",
+          "text": "Plasma cells"
+        },
+        {
+          "label": "C",
+          "text": "B cells"
+        },
+        {
+          "label": "D",
+          "text": "Memory cells"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Water and minerals that reach the xylem in the center of a plant root must first",
+      "options": [
+        {
+          "label": "A",
+          "text": "move through neighboring phloem vessels"
+        },
+        {
+          "label": "B",
+          "text": "cross open stomata in the root epidermis"
+        },
+        {
+          "label": "C",
+          "text": "cross the endodermis of the root cortex"
+        },
+        {
+          "label": "D",
+          "text": "pass through the pith of the root cap"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Which of the following statements correctly characterizes an autoimmune disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "T cells attack healthy body cells."
+        },
+        {
+          "label": "B",
+          "text": "An aneurysm is a weakness in the wall of a blood vessel that causes it to balloon out. The vessel can rupture and cause a hemorrhage."
+        },
+        {
+          "label": "C",
+          "text": "Several factors cause hypertension: smoking, being overweight, lack of physical activity, and too much salt in the diet."
+        },
+        {
+          "label": "D",
+          "text": "Alzheimer's disease is caused by the buildup of plaque within the brain, causing brain cells to die."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The relatives of a group of pelicans from the same species that separated from each other because of an unsuccessful migration are reunited 150 years later and find that they are unable to produce offspring. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "allopatric speciation."
+        },
+        {
+          "label": "B",
+          "text": "sympatric speciation."
+        },
+        {
+          "label": "C",
+          "text": "genetic drift."
+        },
+        {
+          "label": "D",
+          "text": "gene flow."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Which of the following statements correctly describes what happens to the preRNA during RNA processing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Introns are removed in the nucleus. A 5′ cap and the poly-A tail are added after the preRNA leaves the nucleus."
+        },
+        {
+          "label": "B",
+          "text": "Introns are removed and both a 5′ cap and a poly-A tail are added before the preRNA leaves the nucleus."
+        },
+        {
+          "label": "C",
+          "text": "Exons are removed and a 5′ cap is added before the preRNA leaves the nucleus. After leaving the nucleus, the poly-A tail is added."
+        },
+        {
+          "label": "D",
+          "text": "Point mutations are repaired, exons are removed, and both a 5′ cap and a poly-A tail are added before the preRNA leaves the nucleus."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Chemical substances released by organisms that elicit a physiological or behavioral response in other members of the same species are known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "auxins"
+        },
+        {
+          "label": "B",
+          "text": "hormones"
+        },
+        {
+          "label": "C",
+          "text": "pheromones"
+        },
+        {
+          "label": "D",
+          "text": "enzymes"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Most animal cells, regardless of species, are relatively small and about the same size. Relative to larger cells, why is this?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Smaller cells avoid excessive osmosis and subsequent lysis."
+        },
+        {
+          "label": "B",
+          "text": "Smaller cells have a smaller surface-to-volume ratio."
+        },
+        {
+          "label": "C",
+          "text": "Smaller cells have a larger surface-to-volume ratio."
+        },
+        {
+          "label": "D",
+          "text": "Smaller cells fit together more tightly."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "The theory of evolution is most accurately described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "an educated guess about how species originate."
+        },
+        {
+          "label": "B",
+          "text": "one possible explanation, among several scientific alternatives, about how species have come into existence."
+        },
+        {
+          "label": "C",
+          "text": "an opinion that some scientists hold about how living things change over time."
+        },
+        {
+          "label": "D",
+          "text": "an overarching explanation, supported by much evidence, for how populations change over time."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "DNA sequences in many human genes are very similar to the sequences of corresponding genes in chimpanzees. The most likely explanation for this result is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "humans and chimpanzees share a relatively recent common ancestor."
+        },
+        {
+          "label": "B",
+          "text": "humans evolved from chimpanzees."
+        },
+        {
+          "label": "C",
+          "text": "chimpanzees evolved from humans."
+        },
+        {
+          "label": "D",
+          "text": "convergent evolution led to the DNA similarities."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which statement about natural selection is most correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adaptations beneficial in one habitat should generally be beneficial in all other habitats as well."
+        },
+        {
+          "label": "B",
+          "text": "Different species that occupy the same habitat will adapt to that habitat by undergoing the same genetic changes."
+        },
+        {
+          "label": "C",
+          "text": "Adaptations beneficial at one time should generally be beneficial during all other times as well."
+        },
+        {
+          "label": "D",
+          "text": "Well-adapted individuals leave more offspring, and thus contribute more to the next generation's gene pool, than do poorly adapted individuals."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following is a frameshift mutation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "CAT HAS HIS → CAT HAS HIT"
+        },
+        {
+          "label": "B",
+          "text": "CAT HAS HIS → CAT HSH ISA"
+        },
+        {
+          "label": "C",
+          "text": "CAT HAS HIS → CAT HIS HAT"
+        },
+        {
+          "label": "D",
+          "text": "CAT HAS HIS → CAT WAS HIT"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "The normal pH of the cytosol is about 7.2. Most enzymes in the lysosome, however, are only active at a pH of 5. This suggests that",
+      "options": [
+        {
+          "label": "A",
+          "text": "only acidic substances can undergo enzymatic processing in lysosomes"
+        },
+        {
+          "label": "B",
+          "text": "most enzymes in the lysosome are incapable of catalyzing substrates inside the lysosome"
+        },
+        {
+          "label": "C",
+          "text": "enzymes in the lysosome are released to the cytosol"
+        },
+        {
+          "label": "D",
+          "text": "protons are actively pumped into the lysosome"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "High levels of estrogen from maturing follicles inhibit the release of gonadotropin releasing hormone (GnRH). Which of the following endocrine glands produces GnRH?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Anterior pituitary"
+        },
+        {
+          "label": "B",
+          "text": "Posterior pituitary"
+        },
+        {
+          "label": "C",
+          "text": "Hypothalamus"
+        },
+        {
+          "label": "D",
+          "text": "Pineal gland"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Which of the following statements most detracts from the claim that the human appendix is a completely vestigial organ?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The appendix can be surgically removed with no immediate ill effects."
+        },
+        {
+          "label": "B",
+          "text": "The appendix might have been larger in fossil hominids."
+        },
+        {
+          "label": "C",
+          "text": "The appendix has a substantial amount of defensive lymphatic tissue."
+        },
+        {
+          "label": "D",
+          "text": "Individuals with a larger-than-average appendix leave fewer offspring than those with a below-average-sized appendix."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Regarding meiosis and mitosis, one difference between the two forms of cellular reproduction is that in meiosis",
+      "options": [
+        {
+          "label": "A",
+          "text": "there is one round of cell division, whereas in mitosis there are two rounds of cell division"
+        },
+        {
+          "label": "B",
+          "text": "separation of sister chromatids occurs during the second division, whereas in mitosis separation of sister chromatids occurs during the first division"
+        },
+        {
+          "label": "C",
+          "text": "chromosomes are replicated during interphase, whereas in mitosis chromosomes are replicated during prophase"
+        },
+        {
+          "label": "D",
+          "text": "spindle fibers form during prophase, whereas in mitosis the spindle fibers form during metaphase"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following about meiosis is NOT true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Meiosis produces two haploid gametes."
+        },
+        {
+          "label": "B",
+          "text": "Homologous chromosomes join during synapsis."
+        },
+        {
+          "label": "C",
+          "text": "Sister chromatids separate during meiosis I."
+        },
+        {
+          "label": "D",
+          "text": "Crossing-over increases genetic variation in gametes."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Monkeys of South and Central America have prehensile tails, meaning that their tails can be used to grasp objects. The tails of African and Asian monkeys are not prehensile. Which discipline is most likely to provide an evolutionary explanation for how this difference in tails came about?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aerodynamics"
+        },
+        {
+          "label": "B",
+          "text": "Biogeography"
+        },
+        {
+          "label": "C",
+          "text": "Physiology"
+        },
+        {
+          "label": "D",
+          "text": "Biochemistry"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which of the following statements best explains why Mendel's principle of segregation was deemed a law?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mendel's work with pea plants and his conclusions have been described in many sources."
+        },
+        {
+          "label": "B",
+          "text": "The patterns of trait inheritance observed in pea plants were repeatedly demonstrated in other eukaryotes."
+        },
+        {
+          "label": "C",
+          "text": "Chromosomes were found to contain the genetic information for traits."
+        },
+        {
+          "label": "D",
+          "text": "The discovery of the structure of D N A supported Mendel's observations and laws."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following properties is responsible for holding together the water molecules in a vertical column of water in xylem vessels of a plant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the strong adhesion property of water"
+        },
+        {
+          "label": "B",
+          "text": "the strong cohesion of property of water"
+        },
+        {
+          "label": "C",
+          "text": "the high heat capacity of water"
+        },
+        {
+          "label": "D",
+          "text": "the strong cohesion property of cellulose in the xylem cell wall"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "The same gene that causes various coat patterns in wild and domesticated cats also causes the cross-eyed condition in these cats, the cross-eyed condition being slightly maladaptive. In a hypothetical environment, the coat pattern that is associated with crossed eyes is highly adaptive, with the result that both the coat pattern and the cross-eyed condition increase in a feline population over time. Which statement is supported by these observations?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Evolution is progressive and tends toward a more perfect population."
+        },
+        {
+          "label": "B",
+          "text": "Phenotype is often the result of compromise."
+        },
+        {
+          "label": "C",
+          "text": "Natural selection reduces the frequency of maladaptive genes in populations over the course of time."
+        },
+        {
+          "label": "D",
+          "text": "Polygenic inheritance is generally maladaptive, and should become less common in future generations."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "A baby duck runs for cover when a large object is tossed over its head. After this object is repeatedly passed overhead, the duck learns there is no danger and stops running for cover when the same object appears again. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "imprinting."
+        },
+        {
+          "label": "B",
+          "text": "fixed-action pattern."
+        },
+        {
+          "label": "C",
+          "text": "agonistic behavior."
+        },
+        {
+          "label": "D",
+          "text": "habituation."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Which of the following statements about the DNA in one of your liver cells is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Your liver cells contain the same DNA as your white blood cells."
+        },
+        {
+          "label": "B",
+          "text": "Most of the DNA in your liver cells will be transcribed but not translated."
+        },
+        {
+          "label": "C",
+          "text": "Most of the DNA in your liver cells will be transcribed in the nucleus and translated in the cytoplasm."
+        },
+        {
+          "label": "D",
+          "text": "DNA in your liver cells contains genes unique to storing glycogen, while other cells do not contain those genes."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The fluidity of the plasma membrane can vary in response to temperature changes. For bacteria and yeast cells, which of the following would be a viable strategy to maintain homeostasis of the plasma membrane in a temperature-varying environment?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Increase the concentration of solutes in the cytosol."
+        },
+        {
+          "label": "B",
+          "text": "Change the ratio of phospholipids with double covalent bonds in their tails to those without double covalent bonds in their tails."
+        },
+        {
+          "label": "C",
+          "text": "Replace phospholipids with glucose molecules."
+        },
+        {
+          "label": "D",
+          "text": "Exchange phospholipids from one side of the plasma membrane to the other."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Two individuals, one with type B blood and one with type AB blood, have a child. The probability that the child has type O blood is",
+      "options": [
+        {
+          "label": "A",
+          "text": "0%"
+        },
+        {
+          "label": "B",
+          "text": "25%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "100%"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "African lungfish often live in small, stagnant, freshwater pools. With reduced gills, they differ from other fish in that they breathe air. They also differ in that they release the nitrogen waste urea instead of ammonia. Which of the following statements correctly explains how this is an advantage for lungfish?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Urea is insoluble in water and sinks to the bottom of the small pools. Thus the poisonous substance is isolated from the fish."
+        },
+        {
+          "label": "B",
+          "text": "Ammonia, which is highly toxic, would endanger lungfish that inhabit the small pools."
+        },
+        {
+          "label": "C",
+          "text": "Other fish in the small pools can use urea as an energy source."
+        },
+        {
+          "label": "D",
+          "text": "The highly toxic urea makes the pool uninhabitable to competitors."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Warning coloration adopted by animals that possess a chemical defense mechanism.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aposomatic coloration"
+        },
+        {
+          "label": "B",
+          "text": "Batesian mimicry"
+        },
+        {
+          "label": "C",
+          "text": "Deceptive markings"
+        },
+        {
+          "label": "D",
+          "text": "Cryptic coloration"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "A man contracts the same flu strain for the second time in a single winter season. The second time he experiences fewer symptoms and recovers more quickly. Which cells are responsible for this rapid recovery?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Helper T cells"
+        },
+        {
+          "label": "B",
+          "text": "Cytotoxic T cells"
+        },
+        {
+          "label": "C",
+          "text": "Memory cells"
+        },
+        {
+          "label": "D",
+          "text": "Plasma cells"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Which of the following statements best describes what a Barr body is and its significance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is an inactivated Y chromosome and results in a man being sterile."
+        },
+        {
+          "label": "B",
+          "text": "It is an inactivated Y chromosome, and the person who has it appears female."
+        },
+        {
+          "label": "C",
+          "text": "It is an inactivated X chromosome and results in females with half their cells having one X inactivated and the other half of their cells having the other X inactivated."
+        },
+        {
+          "label": "D",
+          "text": "It is an inactivated X chromosome and results in females who are sterile."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Mosquitoes resistant to the pesticide DDT first appeared in India in 1959 within 15 years of widespread spraying of the insecticide. Which of the following statement best explains how the resistant mosquitoes arose?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some mosquitoes experienced a mutation after being exposed to DDT that made them resistant to the insecticide. Then their population expanded because these moquitoes had no competition."
+        },
+        {
+          "label": "B",
+          "text": "Some mosquitoes were already resistant to DDT when DDT was first sprayed. Then their population expanded because all the susceptible mosquitoes had been exterminated."
+        },
+        {
+          "label": "C",
+          "text": "DDT is generally a very effective insecticide. One can only conclude that it was manufactured improperly."
+        },
+        {
+          "label": "D",
+          "text": "Although DDT is effective against a wide range of insects, it is not effective against mosquitoes."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "When a retrovirus inserted its DNA into the middle of a bacterial gene, it altered the normal reading frame by one base pair. This type of mutation is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "duplication"
+        },
+        {
+          "label": "B",
+          "text": "translocation"
+        },
+        {
+          "label": "C",
+          "text": "inversion"
+        },
+        {
+          "label": "D",
+          "text": "frameshift mutation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Which of the following best accounts for the ability of legumes to grow well in nitrogen-poor soils?",
+      "options": [
+        {
+          "label": "A",
+          "text": "These plants make their own proteins."
+        },
+        {
+          "label": "B",
+          "text": "These plants have a mutualistic relationship with nitrogen-fixing bacteria."
+        },
+        {
+          "label": "C",
+          "text": "These plants are capable of directly converting nitrogen gas into nitrates."
+        },
+        {
+          "label": "D",
+          "text": "These plants do not require nitrogen to make plant proteins."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Although mutations occur at a regular and predictable rate, which of the following statements is the LEAST likely reason the frequency of mutation appears to be low?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some mutations produce alleles that are recessive and may not be expressed."
+        },
+        {
+          "label": "B",
+          "text": "Some undesirable phenotypic traits may be prevented from reproducing."
+        },
+        {
+          "label": "C",
+          "text": "Some mutations cause such drastic phenotypic changes that they are removed from the gene pool."
+        },
+        {
+          "label": "D",
+          "text": "The predictable rate of mutation results in ongoing variability in a gene pool."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Which of the following reactions occurs in the forward direction during glycolysis but in the reverse direction during fermentation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pyruvate → lactate"
+        },
+        {
+          "label": "B",
+          "text": "pyruvate → ethanol"
+        },
+        {
+          "label": "C",
+          "text": "NAD+ + H+ + 2e- → NADH"
+        },
+        {
+          "label": "D",
+          "text": "ADP + P → ATP"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Which of the following statements is an inference of natural selection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Subsequent generations of a population should have greater proportions of individuals that possess traits better suited for success."
+        },
+        {
+          "label": "B",
+          "text": "An individual organism undergoes evolution over the course of its lifetime."
+        },
+        {
+          "label": "C",
+          "text": "Habitats do not generally have unlimited resources."
+        },
+        {
+          "label": "D",
+          "text": "Natural populations tend to reproduce to their full biological potential."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "During drought years on the Galapagos, small, easily eaten seeds become rare, leaving mostly large, hard-cased seeds that only birds with large beaks can eat. If a drought persists for several years, what should one expect to result from natural selection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Small birds gaining larger beaks by exercising their mouth parts."
+        },
+        {
+          "label": "B",
+          "text": "Small birds mutating their beak genes with the result that later-generation offspring have larger beaks."
+        },
+        {
+          "label": "C",
+          "text": "Small birds anticipating the long drought and eating more to gain weight and, consequently, growing larger beaks."
+        },
+        {
+          "label": "D",
+          "text": "More small-beaked birds dying than larger-beaked birds. The offspring produced in subsequent generations have a higher percentage of birds with large beaks."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Crossing-over during meiosis permits scientists to determine",
+      "options": [
+        {
+          "label": "A",
+          "text": "the chance for variation in zygotes"
+        },
+        {
+          "label": "B",
+          "text": "the rate of mutations"
+        },
+        {
+          "label": "C",
+          "text": "the distance between genes on a chromosome"
+        },
+        {
+          "label": "D",
+          "text": "which traits are dominant or recessive"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "This process couples the production of ATP with the movement of electrons down the electron transport chain by harnessing the driving force created by a proton gradient.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Chemiosmosis"
+        },
+        {
+          "label": "C",
+          "text": "Fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Calvin cycle"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Which of the following characteristics would allow you to distinguish a prokaryotic cell from an animal cell?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ribosomes"
+        },
+        {
+          "label": "B",
+          "text": "Cell membrane"
+        },
+        {
+          "label": "C",
+          "text": "Chloroplasts"
+        },
+        {
+          "label": "D",
+          "text": "Cell wall"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "A researcher is experimenting with nerve transmission using neurons from a giant squid. At the beginning of the experiment, the axon is at rest and has a threshold measured at –70 mV at 37oC. The axon receives one stimulus that triggers one action potential in the axon. Subsequent stimuli are much stronger. Which of the following statements explains what happens when several strong stimuli are experienced by the axon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The axon becomes hyperpolarized to –90 mV."
+        },
+        {
+          "label": "B",
+          "text": "The axon becomes hyperpolarized to –50 mV."
+        },
+        {
+          "label": "C",
+          "text": "The strength of the action potential becomes greater."
+        },
+        {
+          "label": "D",
+          "text": "The frequency of the action potential increases."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Hydrangea flowers have one gene for flower color. Plants of the same genetic variety have flowers that range in color from blue to pink with the color varying due to the type of soil in which they are grown. Which of the following statement best explains this phenomenon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The alleles for flower color show incomplete dominance where neither trait is dominant; expression of the genes shows a blending of traits."
+        },
+        {
+          "label": "B",
+          "text": "The alleles for flower color are codominant; both traits show depending on the environment."
+        },
+        {
+          "label": "C",
+          "text": "In this case, the environment alters the expression of a trait."
+        },
+        {
+          "label": "D",
+          "text": "The genes for flower color show polygenic inheritance."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "In most ecosystems, net primary productivity is important because it represents the",
+      "options": [
+        {
+          "label": "A",
+          "text": "energy available to producers"
+        },
+        {
+          "label": "B",
+          "text": "total solar energy converted to chemical energy by producers"
+        },
+        {
+          "label": "C",
+          "text": "biomass of all producers"
+        },
+        {
+          "label": "D",
+          "text": "energy available to heterotrophs"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Sexual dimorphism is most often a result of",
+      "options": [
+        {
+          "label": "A",
+          "text": "pansexual selection."
+        },
+        {
+          "label": "B",
+          "text": "stabilizing selection."
+        },
+        {
+          "label": "C",
+          "text": "intrasexual selection."
+        },
+        {
+          "label": "D",
+          "text": "intersexual selection."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "In general, animal cells differ from plant cells in that animal cells have",
+      "options": [
+        {
+          "label": "A",
+          "text": "a cell wall made of cellulose"
+        },
+        {
+          "label": "B",
+          "text": "lysosomes"
+        },
+        {
+          "label": "C",
+          "text": "large vacuoles that store water"
+        },
+        {
+          "label": "D",
+          "text": "centrioles within centrosomes"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "When driving from east to west in the U.S. from a forest ecosystem to grasslands, trees gradually give way to grasses. Which of the following is the critical factor responsible for this shift?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Amount of sunlight"
+        },
+        {
+          "label": "B",
+          "text": "Availability of oxygen"
+        },
+        {
+          "label": "C",
+          "text": "Availability of water"
+        },
+        {
+          "label": "D",
+          "text": "Length of growing season"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "A researcher grows a population of ferns in her laboratory. She notices, after a few generations, a new variant that has a distinct phenotype. When she tries to breed the original phenotype with the new one, no offspring are produced. When she breeds the new variants, however, offspring that look like the new variant result. Which of the following could possibly characterize the new variant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adaptive radiation"
+        },
+        {
+          "label": "B",
+          "text": "Divergent selection"
+        },
+        {
+          "label": "C",
+          "text": "Equilibrium"
+        },
+        {
+          "label": "D",
+          "text": "Polyploidy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of the following statements about the light-dependent reactions of photosynthesis is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They provide the carbon that becomes incorporated into sugar."
+        },
+        {
+          "label": "B",
+          "text": "They produce PGA, which is converted to glucose by carbon fixation in the light-independent reactions."
+        },
+        {
+          "label": "C",
+          "text": "Water is split apart, providing hydrogen ions and electrons to NADP for temporary storage."
+        },
+        {
+          "label": "D",
+          "text": "They occur in the stroma of chloroplasts."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Which of the following is an example of a cline?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The hybrid tomato plant is stronger and produces better fruit than the pure genotype."
+        },
+        {
+          "label": "B",
+          "text": "There are two distinct varieties in one population of snail that inhabits an island in the Pacific Ocean."
+        },
+        {
+          "label": "C",
+          "text": "Males of some species have long antlers to fight other males for females."
+        },
+        {
+          "label": "D",
+          "text": "In one species of rabbit, the ones that evolved in the cold, snowy north are white, while the ones that evolved in the south are brown."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Yeast cells carry out both aerobic and anaerobic respiration. A yeast cell that is fed on glucose is moved from an aerobic to an anaerobic environment. Which of the following statements is correct and gives the correct reason for it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The cell dies because it cannot make ATP."
+        },
+        {
+          "label": "B",
+          "text": "The cell would need to consume glucose at a much greater rate because aerobic respiration is much more efficient as compared with anaerobic respiration."
+        },
+        {
+          "label": "C",
+          "text": "The cell would need to consume another food source other than glucose because it will not be able to make adequate ATP with only glucose."
+        },
+        {
+          "label": "D",
+          "text": "The cell will begin to divide rapidly because larger cells require more oxygen and glucose than smaller ones."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "A population undergoes a shift in which those who are really tall and those who are really short decrease in relative frequency compared to those of medium size, due to a change in the availability of resources. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "directional selection."
+        },
+        {
+          "label": "B",
+          "text": "stabilizing selection."
+        },
+        {
+          "label": "C",
+          "text": "disruptive selection."
+        },
+        {
+          "label": "D",
+          "text": "sympatric speciation."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Which of the following is the source of oxygen produced during photosynthesis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2O"
+        },
+        {
+          "label": "B",
+          "text": "H2O2"
+        },
+        {
+          "label": "C",
+          "text": "CO2"
+        },
+        {
+          "label": "D",
+          "text": "CO"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "Kangaroo rats are better able to concentrate urine than humans are. It would be expected that, compared to the nephrons of human kidneys, the nephrons of kangaroo-rat kidneys would have",
+      "options": [
+        {
+          "label": "A",
+          "text": "thicker walls, which are impermeable to water"
+        },
+        {
+          "label": "B",
+          "text": "shorter loops of Henle"
+        },
+        {
+          "label": "C",
+          "text": "longer loops of Henle"
+        },
+        {
+          "label": "D",
+          "text": "shorter collecting ducts"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Short sequence by promoter that assists transcription by interacting with regulatory proteins.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enhancer"
+        },
+        {
+          "label": "B",
+          "text": "Repressor"
+        },
+        {
+          "label": "C",
+          "text": "Operator"
+        },
+        {
+          "label": "D",
+          "text": "Promoter"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Which of the following statements about lipids is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unsaturated fatty acids are linked to heart disease."
+        },
+        {
+          "label": "B",
+          "text": "Lipids make up most cell surface receptors."
+        },
+        {
+          "label": "C",
+          "text": "Phospholipids are water soluble."
+        },
+        {
+          "label": "D",
+          "text": "Steroids are lipids that consist of glycerol and fatty acids."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "In a population of giraffes, an environmental change occurs that favors individuals that are tallest. As a result, more of the taller individuals are able to obtain nutrients and survive to pass along their genetic information. This is an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "directional selection."
+        },
+        {
+          "label": "B",
+          "text": "stabilizing selection."
+        },
+        {
+          "label": "C",
+          "text": "sexual selection."
+        },
+        {
+          "label": "D",
+          "text": "disruptive selection."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "An eager AP Biology student interested in studying osmosis and the movement of water in solutions took a dialysis bag containing a 0.5 M solution and placed it into a beaker containing a 0.6 M solution. If this bag were instead placed into a beaker of distilled water, what would be the expected result?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There will be a net flow of water out of the bag, causing it to decrease in size."
+        },
+        {
+          "label": "B",
+          "text": "There will be a net flow of water into the bag, causing it to swell in size."
+        },
+        {
+          "label": "C",
+          "text": "The bag will remain the exact same size because no water will move at all."
+        },
+        {
+          "label": "D",
+          "text": "The solute will flow out of the dialysis bag into the beaker."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "During oxidative phosphorylation, the energy needed to drive ATP synthesis comes from one source. Which of the following statements states the immediate source of that energy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electrons flow down an electron transport chain as they are attracted to oxygen."
+        },
+        {
+          "label": "B",
+          "text": "The transfer of a phosphate group to ADP is exergonic."
+        },
+        {
+          "label": "C",
+          "text": "The bonding of electrons to oxygen at the end of the chain releases energy."
+        },
+        {
+          "label": "D",
+          "text": "The proton gradient across the membrane where the ATP synthase is embedded represents potential energy."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Stretching out from the equator is a wide belt of tropical rain forests that are being cut down to provide exotic woods for export to the U.S. and to make land available to graze beef cattle. Which of the following statements is a negative consequence of clear-cutting the tropical rain forests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Indigenous populations will have access to modern conveniences."
+        },
+        {
+          "label": "B",
+          "text": "There will be less precipitation in those clear-cut areas."
+        },
+        {
+          "label": "C",
+          "text": "U.S. markets will have access to less expensive beef."
+        },
+        {
+          "label": "D",
+          "text": "Deforestation will allow more sunlight to penetrate areas that were kept dark by dense vegetation."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "In modern terminology, diversity is understood to be a result of genetic variation. Sources of variation for evolution include all of the following except",
+      "options": [
+        {
+          "label": "A",
+          "text": "mistakes in translation of structural genes."
+        },
+        {
+          "label": "B",
+          "text": "mistakes in DNA replication."
+        },
+        {
+          "label": "C",
+          "text": "translocations and mistakes in meiosis."
+        },
+        {
+          "label": "D",
+          "text": "recombination at fertilization."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Which of the following are traits that are affected by more than one gene?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heterozygous traits"
+        },
+        {
+          "label": "B",
+          "text": "Pleiotropic traits"
+        },
+        {
+          "label": "C",
+          "text": "Polygenic traits"
+        },
+        {
+          "label": "D",
+          "text": "Blended alleles"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "Heterozygote advantage should be most closely linked to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sexual selection"
+        },
+        {
+          "label": "B",
+          "text": "stabilizing selection"
+        },
+        {
+          "label": "C",
+          "text": "random selection"
+        },
+        {
+          "label": "D",
+          "text": "directional selection"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Stomata allow gases, such as H2O and CO2, to exchange between the inside of a plant leaf and the surrounding environment. Which of the following occurs under normal daytime environmental conditions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "H2O diffuses out of the leaf faster than CO2 enters."
+        },
+        {
+          "label": "B",
+          "text": "H2O diffuses out of the leaf slower than CO2 enters."
+        },
+        {
+          "label": "C",
+          "text": "CO2 diffuses out of the leaf faster than H2O enters."
+        },
+        {
+          "label": "D",
+          "text": "H2O exchanges with CO2 at equal rates."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Crossing-over occurs during which of the following phases in meiosis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prophase I"
+        },
+        {
+          "label": "B",
+          "text": "Metaphase I"
+        },
+        {
+          "label": "C",
+          "text": "Anaphase I"
+        },
+        {
+          "label": "D",
+          "text": "Prophase II"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "When we say that an individual organism has a greater fitness than another individual, we specifically mean that the organism",
+      "options": [
+        {
+          "label": "A",
+          "text": "lives longer than others of its species."
+        },
+        {
+          "label": "B",
+          "text": "competes for resources more successfully than others of its species."
+        },
+        {
+          "label": "C",
+          "text": "mates more frequently than others of its species."
+        },
+        {
+          "label": "D",
+          "text": "leaves more viable offspring than others of its species."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "A change in a neuron membrane potential from +50 millivolts to -70 millivolts is considered",
+      "options": [
+        {
+          "label": "A",
+          "text": "depolarization"
+        },
+        {
+          "label": "B",
+          "text": "repolarization"
+        },
+        {
+          "label": "C",
+          "text": "hyperpolarization"
+        },
+        {
+          "label": "D",
+          "text": "an action potential"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "This process has as its products NADP+, ADP, and sugar.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Glycolysis"
+        },
+        {
+          "label": "B",
+          "text": "Chemiosmosis"
+        },
+        {
+          "label": "C",
+          "text": "Fermentation"
+        },
+        {
+          "label": "D",
+          "text": "Calvin cycle"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "In the mid-1900s, the Soviet geneticist Lysenko believed that his winter wheat plants, exposed to ever-colder temperatures, would eventually give rise to ever more cold-tolerant winter wheat. Lysenko's attempts in this regard were most in agreement with the ideas of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cuvier."
+        },
+        {
+          "label": "B",
+          "text": "Hutton."
+        },
+        {
+          "label": "C",
+          "text": "Lamarck."
+        },
+        {
+          "label": "D",
+          "text": "Darwin."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "In reference to a segment of DNA, which of the following molecules contains the fewest number of nucleotides?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a single strand of the original DNA segment"
+        },
+        {
+          "label": "B",
+          "text": "a single strand of the original DNA segment after a point mutation"
+        },
+        {
+          "label": "C",
+          "text": "the primary RNA transcript (before splicing) from the original DNA"
+        },
+        {
+          "label": "D",
+          "text": "a single strand of complementary DNA (cDNA) made from the original DNA"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following represents an idea that Darwin learned from the writings of Thomas Malthus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "All species are fixed in the form in which they are created."
+        },
+        {
+          "label": "B",
+          "text": "Populations tend to increase at a faster rate than their food supply normally allows."
+        },
+        {
+          "label": "C",
+          "text": "Earth changed over the years through a series of catastrophic upheavals."
+        },
+        {
+          "label": "D",
+          "text": "The environment is responsible for natural selection."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "During a study session about evolution, one of your fellow students remarks, \"The giraffe stretched its neck while reaching for higher leaves; its offspring inherited longer necks as a result.\" Which statement is most likely to be helpful in correcting this student's misconception?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Characteristics acquired during an organism's life are generally not passed on through genes."
+        },
+        {
+          "label": "B",
+          "text": "Spontaneous mutations can result in the appearance of new traits."
+        },
+        {
+          "label": "C",
+          "text": "Only favorable adaptations have survival value."
+        },
+        {
+          "label": "D",
+          "text": "Disuse of an organ may lead to its eventual disappearance."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "Which of the following best explains why lignin is important to the evolutionary success of land plants?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lignin provides structural support, allowing plants to grow tall."
+        },
+        {
+          "label": "B",
+          "text": "Lignin stimulates spore formation, leading to gametogenesis."
+        },
+        {
+          "label": "C",
+          "text": "Lignin supplies the developing embryo with essential nutrients, enabling its growth."
+        },
+        {
+          "label": "D",
+          "text": "Lignin supplements the absorption of light by chlorophyll, increasing photosynthetic output."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "A healthy man and woman are worried about having children because they are both carriers of sickle-cell disease. If the couple have a biological child, what is the chance that the child will inherit sickle-cell disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100%"
+        },
+        {
+          "label": "B",
+          "text": "75%"
+        },
+        {
+          "label": "C",
+          "text": "50%"
+        },
+        {
+          "label": "D",
+          "text": "25%"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "A gas phase is generally absent from which of the following biogeochemical cycles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Water"
+        },
+        {
+          "label": "B",
+          "text": "Carbon"
+        },
+        {
+          "label": "C",
+          "text": "Sulfur"
+        },
+        {
+          "label": "D",
+          "text": "Phosphorus"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "During which phase of the cell cycle does the quantity of DNA in a eukaryotic cell typically double?",
+      "options": [
+        {
+          "label": "A",
+          "text": "G_1"
+        },
+        {
+          "label": "B",
+          "text": "G_2"
+        },
+        {
+          "label": "C",
+          "text": "M"
+        },
+        {
+          "label": "D",
+          "text": "S"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "The higher the proportion of loci that are \"fixed\" in a population, the lower is that population's",
+      "options": [
+        {
+          "label": "A",
+          "text": "nucleotide variability."
+        },
+        {
+          "label": "B",
+          "text": "genetic polyploidy."
+        },
+        {
+          "label": "C",
+          "text": "average heterozygosity."
+        },
+        {
+          "label": "D",
+          "text": "A and C only"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Which of these makes determining the evolutionary relatedness of different species based on the amino acid sequence of homologous proteins generally less accurate than determinations of relatedness based on the nucleotide sequences of homologous genes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Silent mutations"
+        },
+        {
+          "label": "B",
+          "text": "Gene duplications"
+        },
+        {
+          "label": "C",
+          "text": "Translocation events that change gene sequences"
+        },
+        {
+          "label": "D",
+          "text": "Crossing-over"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Mules are relatively long-lived and hardy organisms that cannot, generally speaking, perform successful meiosis. Consequently, which statement about mules is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They have a relative evolutionary fitness of zero."
+        },
+        {
+          "label": "B",
+          "text": "Their offspring have less genetic variation than the parents."
+        },
+        {
+          "label": "C",
+          "text": "Mutations cannot occur in their genomes."
+        },
+        {
+          "label": "D",
+          "text": "If crossing-over happens in mules, then it must be limited to prophase of mitosis."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following statements most accurately explains what EcoR1 is?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is a bacterium that lives in the human large intestine."
+        },
+        {
+          "label": "B",
+          "text": "It is the best-studied bacteriophage, a virus that attacks E. coli."
+        },
+        {
+          "label": "C",
+          "text": "It is a restriction enzyme extracted from E. coli."
+        },
+        {
+          "label": "D",
+          "text": "It is a type of DNA used extensively in research."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Two trees of the same species growing close together will use the same resources, such as light, water, and nutrients. If any of these resources becomes limiting, then each tree will receive less of it than if the trees were growing farther apart. This scenario is an example of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Parasitism"
+        },
+        {
+          "label": "B",
+          "text": "Commensalism"
+        },
+        {
+          "label": "C",
+          "text": "Natural selection"
+        },
+        {
+          "label": "D",
+          "text": "Intraspecific competition"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Easily produced genetic variation is key to the rapid evolution of viral and microbial populations. Furthermore, pathogens that need to escape the immune system rely on this variation to generate new surface antigens that go unrecognized by the host’s immune system. Which of the following is an example of this antigenic variation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "HIV, which can remain integrated into the host genome for many years"
+        },
+        {
+          "label": "B",
+          "text": "The flu virus, which changes its envelope proteins"
+        },
+        {
+          "label": "C",
+          "text": "MRSA, which has become resistant to many antibiotics"
+        },
+        {
+          "label": "D",
+          "text": "Multiple sclerosis, which attacks the cells of the nervous system"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "Organisms in which of the following phyla have a true coelom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Platyhelminthes"
+        },
+        {
+          "label": "B",
+          "text": "Porifera"
+        },
+        {
+          "label": "C",
+          "text": "Annelida"
+        },
+        {
+          "label": "D",
+          "text": "Nematoda"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "There are 40 individuals in population 1, all of which have genotype A1A1, and there are 25 individuals in population 2, all of genotype A2A2. Assume that these populations are located far from one another and that their environmental conditions are very similar. Based on the information given here, the observed genetic variation is mostly likely an example of",
+      "options": [
+        {
+          "label": "A",
+          "text": "genetic drift."
+        },
+        {
+          "label": "B",
+          "text": "gene flow."
+        },
+        {
+          "label": "C",
+          "text": "disruptive selection."
+        },
+        {
+          "label": "D",
+          "text": "discrete variation."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "A child with type A B blood inherits an IA allele from one parent and an IB allele from the other. The child will carry both A and B glycoproteins on the surface of all red blood cells. This pattern of expression is referred to as",
+      "options": [
+        {
+          "label": "A",
+          "text": "codominance"
+        },
+        {
+          "label": "B",
+          "text": "epistasis"
+        },
+        {
+          "label": "C",
+          "text": "polygenic"
+        },
+        {
+          "label": "D",
+          "text": "linkage"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "The energy given up by electrons as they move through the electron transport chain is used to",
+      "options": [
+        {
+          "label": "A",
+          "text": "break down glucose"
+        },
+        {
+          "label": "B",
+          "text": "make glucose"
+        },
+        {
+          "label": "C",
+          "text": "produce ATP"
+        },
+        {
+          "label": "D",
+          "text": "make NADH"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which of the following best explains why drinking breast milk is beneficial to a human infant?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Breast milk contains vitamins that repair mutations originating in the sperm or egg."
+        },
+        {
+          "label": "B",
+          "text": "Breast milk contains maternal antibodies that protect against gastrointestinal pathogens."
+        },
+        {
+          "label": "C",
+          "text": "Breast milk contains maternal vaccines that destroy common childhood pathogens."
+        },
+        {
+          "label": "D",
+          "text": "Breast milk contains red blood cells with adult hemoglobin that are beneficial to the infant's developing brain."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following is the direct energy source that allows ATP synthase to produce ATP in mitochondria?",
+      "options": [
+        {
+          "label": "A",
+          "text": "NADH diffusing from the mitochondrial intermembrane space to the matrix"
+        },
+        {
+          "label": "B",
+          "text": "The reduction of NAD+ during the conversion of pyruvate to acetyl-CoA"
+        },
+        {
+          "label": "C",
+          "text": "H+ ions flowing down a gradient across the mitochondrial inner membrane"
+        },
+        {
+          "label": "D",
+          "text": "The energy of electrons passing along the electron transport chain"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

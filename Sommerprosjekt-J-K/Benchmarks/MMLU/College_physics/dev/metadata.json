@@ -1,0 +1,38 @@
+{
+ "source_file": "MMLU_college_physics_dev.json",
+ "num_questions": 5,
+ "file_avg_question_words": 40.2,
+ "file_avg_answer_words": 1.5,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 29,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 2,
+   "question_words": 26,
+   "num_answers": 4,
+   "avg_answer_words": 1.75
+  },
+  {
+   "item_id": 3,
+   "question_words": 76,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 4,
+   "question_words": 29,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 5,
+   "question_words": 41,
+   "num_answers": 4,
+   "avg_answer_words": 1.75
+  }
+ ]
+}

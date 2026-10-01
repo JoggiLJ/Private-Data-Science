@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_miscellaneous_test",
+  "description": "Miscellaneous multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — miscellaneous subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "Which of the following heavenly bodies have never had a spacecraft landed on it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Venus"
+        },
+        {
+          "label": "B",
+          "text": "Mars"
+        },
+        {
+          "label": "C",
+          "text": "The Moon"
+        },
+        {
+          "label": "D",
+          "text": "Jupiter"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Which of these movies does not star Jim Carrey?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patch Adams'"
+        },
+        {
+          "label": "B",
+          "text": "The Truman Show'"
+        },
+        {
+          "label": "C",
+          "text": "Dumb and Dumber'"
+        },
+        {
+          "label": "D",
+          "text": "The Mask'"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "What is the name of the baby who appears in cartoons and comic strips with Popeye the Sailor?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pun'kin"
+        },
+        {
+          "label": "B",
+          "text": "Lamikins"
+        },
+        {
+          "label": "C",
+          "text": "Suga'baby"
+        },
+        {
+          "label": "D",
+          "text": "Swee'pea"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "What color is a ruby?",
+      "options": [
+        {
+          "label": "A",
+          "text": "red"
+        },
+        {
+          "label": "B",
+          "text": "black"
+        },
+        {
+          "label": "C",
+          "text": "yellow"
+        },
+        {
+          "label": "D",
+          "text": "blue"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Who wrote musicals with Oscar Hammerstein II?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Richard Rodgers"
+        },
+        {
+          "label": "B",
+          "text": "Rogers Hornsby"
+        },
+        {
+          "label": "C",
+          "text": "Gilbert O' Sullivan"
+        },
+        {
+          "label": "D",
+          "text": "George Rogers Clark"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "What is the name for the thin board used to mix colors while painting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "pestle"
+        },
+        {
+          "label": "B",
+          "text": "easel"
+        },
+        {
+          "label": "C",
+          "text": "shoe"
+        },
+        {
+          "label": "D",
+          "text": "palette"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "From 1971 to 1997 the Democratic Republic of Congo was known as what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zaire"
+        },
+        {
+          "label": "B",
+          "text": "Angola"
+        },
+        {
+          "label": "C",
+          "text": "Rhodesia"
+        },
+        {
+          "label": "D",
+          "text": "Belgian Congo"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "What is the name of Raggedy Ann's doll brother?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Red"
+        },
+        {
+          "label": "B",
+          "text": "Freckles"
+        },
+        {
+          "label": "C",
+          "text": "Randy"
+        },
+        {
+          "label": "D",
+          "text": "Andy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "In golf what is one stroke overpar called?",
+      "options": [
+        {
+          "label": "A",
+          "text": "eagle"
+        },
+        {
+          "label": "B",
+          "text": "bogey"
+        },
+        {
+          "label": "C",
+          "text": "dormy"
+        },
+        {
+          "label": "D",
+          "text": "birdie"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "What is the capital of North Dakota?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bismarck"
+        },
+        {
+          "label": "B",
+          "text": "Fargo"
+        },
+        {
+          "label": "C",
+          "text": "Sioux Falls"
+        },
+        {
+          "label": "D",
+          "text": "Pierre"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "The disco band ABBA comes from what country?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Norway"
+        },
+        {
+          "label": "B",
+          "text": "Sweden"
+        },
+        {
+          "label": "C",
+          "text": "Switzerland"
+        },
+        {
+          "label": "D",
+          "text": "The Netherlands"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Fragile works of sculpture can be displayed most securely by placing the works",
+      "options": [
+        {
+          "label": "A",
+          "text": "in glass-paneled cases"
+        },
+        {
+          "label": "B",
+          "text": "on a series of pedestals"
+        },
+        {
+          "label": "C",
+          "text": "on wall-mounted shelves with sturdier works around them"
+        },
+        {
+          "label": "D",
+          "text": "in shadow boxes with signs that read \"Do Not Touch\""
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "What city is known as 'the rubber capital of the world'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Omaha Nebraska"
+        },
+        {
+          "label": "B",
+          "text": "Rockford Illinois"
+        },
+        {
+          "label": "C",
+          "text": "Grand Rapids Michigan"
+        },
+        {
+          "label": "D",
+          "text": "Akron Ohio"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Who led the 1831 slave insurrection in SouthamptonVirginia?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Brown"
+        },
+        {
+          "label": "B",
+          "text": "Dred Scott"
+        },
+        {
+          "label": "C",
+          "text": "Nat Turner"
+        },
+        {
+          "label": "D",
+          "text": "Harriet Tubman"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "What is the only metal that is a liquid at normal atmospheric pressure and temperature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "lead"
+        },
+        {
+          "label": "B",
+          "text": "antimony"
+        },
+        {
+          "label": "C",
+          "text": "uranium"
+        },
+        {
+          "label": "D",
+          "text": "mercury"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "The nineteenth-century photographic process used to create a daguerreotype was notable for its",
+      "options": [
+        {
+          "label": "A",
+          "text": "quick exposure time"
+        },
+        {
+          "label": "B",
+          "text": "ability to capture sharp detail"
+        },
+        {
+          "label": "C",
+          "text": "capacity to be reproduced multiple times"
+        },
+        {
+          "label": "D",
+          "text": "use of paper negatives"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Normally, S-P arrival intervals from a minimum of how many seismic stations are required to uniquely locate the epicenter of an earthquake?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "2"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "4"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Including the bottom how many sides are on a square-based pyramid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "three"
+        },
+        {
+          "label": "B",
+          "text": "four"
+        },
+        {
+          "label": "C",
+          "text": "five"
+        },
+        {
+          "label": "D",
+          "text": "six"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Poverty as defined by the United States government is best understood as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the index value of government services such as Medicaid and public housing"
+        },
+        {
+          "label": "B",
+          "text": "the concept of relative deprivation and is based on changes in the distribution of income"
+        },
+        {
+          "label": "C",
+          "text": "an absolute level set in the 1960s and since adjusted to reflect inflation at the consumer level"
+        },
+        {
+          "label": "D",
+          "text": "a concept based on lifestyle and measured on a sliding scale based on the needs of an individual"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "What was the name of Huey Lewis band?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The News"
+        },
+        {
+          "label": "B",
+          "text": "The Attractions"
+        },
+        {
+          "label": "C",
+          "text": "The Silver Bullet Band"
+        },
+        {
+          "label": "D",
+          "text": "Louie and Dewey"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "_Whenever the mood strikes her_, Angela takes a short walk around the block. In the sentence above, the underlined portion can best be described as",
+      "options": [
+        {
+          "label": "A",
+          "text": "an adjective clause"
+        },
+        {
+          "label": "B",
+          "text": "a relative clause"
+        },
+        {
+          "label": "C",
+          "text": "a subordinate clause"
+        },
+        {
+          "label": "D",
+          "text": "an independent clause"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Which of the following people would benefit most if the value of the United States dollar increased relative to the Japanese yen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A United States car dealer importing Japanese cars"
+        },
+        {
+          "label": "B",
+          "text": "A Japanese tourist vacationing in the United States"
+        },
+        {
+          "label": "C",
+          "text": "A worker in the United States beer industry"
+        },
+        {
+          "label": "D",
+          "text": "A Japanese baker buying United States wheat"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "What are fans of the TV show 'Mystery Science Theater 3000' known as?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mysterians"
+        },
+        {
+          "label": "B",
+          "text": "MiSTies"
+        },
+        {
+          "label": "C",
+          "text": "Bot Brigade"
+        },
+        {
+          "label": "D",
+          "text": "Gizmonics"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "What children's TV character is known as 'Da Niao' in China?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Barney"
+        },
+        {
+          "label": "B",
+          "text": "Big Bird"
+        },
+        {
+          "label": "C",
+          "text": "Mickey Mouse"
+        },
+        {
+          "label": "D",
+          "text": "Tinky Winky"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "What popular toy is featured in the film 'The Hudsucker Proxy'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beanie Babies"
+        },
+        {
+          "label": "B",
+          "text": "Hula Hoop"
+        },
+        {
+          "label": "C",
+          "text": "Lincoln Logs"
+        },
+        {
+          "label": "D",
+          "text": "Lite Brite"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "What is Delta Burke's character's job on the sitcom 'Designing Women'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fashion designer"
+        },
+        {
+          "label": "B",
+          "text": "graphic designer"
+        },
+        {
+          "label": "C",
+          "text": "interior designer"
+        },
+        {
+          "label": "D",
+          "text": "website designer"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "According to a popular slogan what state should people not 'mess with'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New York"
+        },
+        {
+          "label": "B",
+          "text": "Texas"
+        },
+        {
+          "label": "C",
+          "text": "Montana"
+        },
+        {
+          "label": "D",
+          "text": "Rhode Island"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Where is Ghirardelli Square located?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Milan"
+        },
+        {
+          "label": "B",
+          "text": "Rome"
+        },
+        {
+          "label": "C",
+          "text": "Washington DC"
+        },
+        {
+          "label": "D",
+          "text": "San Francisco"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Who composed the 'Moonlight Sonata'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mozart"
+        },
+        {
+          "label": "B",
+          "text": "Handel"
+        },
+        {
+          "label": "C",
+          "text": "Bach"
+        },
+        {
+          "label": "D",
+          "text": "Beethoven"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "What country does Bordeaux wine come from?",
+      "options": [
+        {
+          "label": "A",
+          "text": "France"
+        },
+        {
+          "label": "B",
+          "text": "Spain"
+        },
+        {
+          "label": "C",
+          "text": "Australia"
+        },
+        {
+          "label": "D",
+          "text": "United States"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following protocols is used to transport HTML pages from Web servers to Web browsers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BOOTP"
+        },
+        {
+          "label": "B",
+          "text": "HTTP"
+        },
+        {
+          "label": "C",
+          "text": "SNMP"
+        },
+        {
+          "label": "D",
+          "text": "SMTP"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "A passage Jane Eyre is as follows. This was all the account I got from Mrs. Fairfax of her employer and mine. There are people who seem to have no notion of sketching a character, or observing and describing salient points, either in persons or things: the good lady evidently belonged to this class; my queries puzzled, but did not draw her out. Mr. Rochester was Mr. Rochester in her eyes, a gentleman, a landed proprietor‚Äìnothing more: she inquired and searched no further, and evidently wondered at my wish to gain a more definite notion of his identity. Mrs. Fairfax differs from the speaker in that Mrs. Fairfax",
+      "options": [
+        {
+          "label": "A",
+          "text": "has more interest in the complexities of people's personalities"
+        },
+        {
+          "label": "B",
+          "text": "judges people by their social station in life"
+        },
+        {
+          "label": "C",
+          "text": "is more willing to take people at face value"
+        },
+        {
+          "label": "D",
+          "text": "has a more positive opinion of Mr. Rochester"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "A committee of middle school teachers is meeting to begin the process of finding a software program to improve students' drafting skills. Which of the following steps should the committee take first in the process?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Downloading a trial version of the most popular software for evaluation"
+        },
+        {
+          "label": "B",
+          "text": "Conducting a survey to determine the importance of drafting skills in the classroom"
+        },
+        {
+          "label": "C",
+          "text": "Defining the learning objectives they would like the software to meet"
+        },
+        {
+          "label": "D",
+          "text": "Deciding what type of user interface would be most appropriate"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "According to the title of a popular children's TV show what color is Bear's big house?",
+      "options": [
+        {
+          "label": "A",
+          "text": "red"
+        },
+        {
+          "label": "B",
+          "text": "green"
+        },
+        {
+          "label": "C",
+          "text": "purple"
+        },
+        {
+          "label": "D",
+          "text": "blue"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of these names has never belonged to a Pope?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leo"
+        },
+        {
+          "label": "B",
+          "text": "Lando"
+        },
+        {
+          "label": "C",
+          "text": "Linus"
+        },
+        {
+          "label": "D",
+          "text": "Lawrence"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "In 1909 Frederick Cook claimed to be the first explorer to reach what location?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mount Everest"
+        },
+        {
+          "label": "B",
+          "text": "Bermuda Triangle"
+        },
+        {
+          "label": "C",
+          "text": "Atlantis"
+        },
+        {
+          "label": "D",
+          "text": "North Pole"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "A clothes dryer that is set to run for 30 minutes is an example of which of the following control systems?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Open loop"
+        },
+        {
+          "label": "B",
+          "text": "Closed loop"
+        },
+        {
+          "label": "C",
+          "text": "Negative feedback"
+        },
+        {
+          "label": "D",
+          "text": "Positive feedback"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "How many cups of coffee were consumed in the United States in the past week (as of 2013)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "300 million cups per week"
+        },
+        {
+          "label": "B",
+          "text": "1 billion cups per week"
+        },
+        {
+          "label": "C",
+          "text": "3 billion cups per week"
+        },
+        {
+          "label": "D",
+          "text": "9 billion cups per week"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "What part of the human body does a gastroenterologist examine?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brain"
+        },
+        {
+          "label": "B",
+          "text": "Skeleton"
+        },
+        {
+          "label": "C",
+          "text": "Stomach"
+        },
+        {
+          "label": "D",
+          "text": "Nose"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "What is actor Antonio Banderas native language?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spanish"
+        },
+        {
+          "label": "B",
+          "text": "Russian"
+        },
+        {
+          "label": "C",
+          "text": "German"
+        },
+        {
+          "label": "D",
+          "text": "French"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "What high school does the gang from the 'Archie' comic strip attend?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ridgemont High"
+        },
+        {
+          "label": "B",
+          "text": "Riverdale High"
+        },
+        {
+          "label": "C",
+          "text": "Rumson High"
+        },
+        {
+          "label": "D",
+          "text": "Riker's Island High"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Which of the following has provided evidence that the Sun's atmosphere contains sodium atoms?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Absorption lines in the solar spectrum are consistent with the presence of sodium."
+        },
+        {
+          "label": "B",
+          "text": "Stars with the same spectral class as the Sun are made mostly of sodium."
+        },
+        {
+          "label": "C",
+          "text": "Solar samples returned to Earth by the Voyager spacecraft contained sodium."
+        },
+        {
+          "label": "D",
+          "text": "The Sun gives off energy produced by the nuclear fusion of sodium in its core"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "In baseball how many balls make a walk?",
+      "options": [
+        {
+          "label": "A",
+          "text": "one"
+        },
+        {
+          "label": "B",
+          "text": "two"
+        },
+        {
+          "label": "C",
+          "text": "three"
+        },
+        {
+          "label": "D",
+          "text": "four"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which of the following is a renewable energy source?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wood"
+        },
+        {
+          "label": "B",
+          "text": "Oil"
+        },
+        {
+          "label": "C",
+          "text": "Natural gas"
+        },
+        {
+          "label": "D",
+          "text": "Coal"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Which part of the electromagnetic spectrum has the shortest wavelength?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gamma rays"
+        },
+        {
+          "label": "B",
+          "text": "X-rays"
+        },
+        {
+          "label": "C",
+          "text": "Radio waves"
+        },
+        {
+          "label": "D",
+          "text": "Microwaves"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Which company holds an annual self-named 'Bake-Off'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Betty Crocker"
+        },
+        {
+          "label": "B",
+          "text": "Duncan Hines"
+        },
+        {
+          "label": "C",
+          "text": "Pillsbury"
+        },
+        {
+          "label": "D",
+          "text": "Keebler"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following materials has a resistance that is LEAST affected by temperature changes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copper"
+        },
+        {
+          "label": "B",
+          "text": "Carbon"
+        },
+        {
+          "label": "C",
+          "text": "Germanium"
+        },
+        {
+          "label": "D",
+          "text": "Silicon"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Which of these evangelists is a cousin of rocker Jerry Lee Lewis?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Billy Graham"
+        },
+        {
+          "label": "B",
+          "text": "Oral Roberts"
+        },
+        {
+          "label": "C",
+          "text": "Jerry Falwell"
+        },
+        {
+          "label": "D",
+          "text": "Jimmy Swaggart"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "How many pairs of chromosomes are in the genome of a typical person?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "23"
+        },
+        {
+          "label": "C",
+          "text": "88"
+        },
+        {
+          "label": "D",
+          "text": "7921"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "How many innings are there in a regular Major League Baseball game?",
+      "options": [
+        {
+          "label": "A",
+          "text": "seven"
+        },
+        {
+          "label": "B",
+          "text": "eight"
+        },
+        {
+          "label": "C",
+          "text": "nine"
+        },
+        {
+          "label": "D",
+          "text": "ten"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "What is the name of the South African political party that was headed by Nelson Mandela?",
+      "options": [
+        {
+          "label": "A",
+          "text": "African National Congress"
+        },
+        {
+          "label": "B",
+          "text": "South African Democrats"
+        },
+        {
+          "label": "C",
+          "text": "Inkatha Freedom Party"
+        },
+        {
+          "label": "D",
+          "text": "Aryan National Assembly"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Where did jazz great Sun Ra claim he was born?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Atlantis"
+        },
+        {
+          "label": "B",
+          "text": "Mount Olympus"
+        },
+        {
+          "label": "C",
+          "text": "Saturn"
+        },
+        {
+          "label": "D",
+          "text": "in a saxophone"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Which of these is not a Hindudeity?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shiva"
+        },
+        {
+          "label": "B",
+          "text": "Vishnu"
+        },
+        {
+          "label": "C",
+          "text": "Sanskrit"
+        },
+        {
+          "label": "D",
+          "text": "Brahma"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "Which of the following was a direct result of the First Opium War of 1839-1842?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The Chinese commissioner of trade in Canton (Guangzhou) banned the opium trade in that city."
+        },
+        {
+          "label": "B",
+          "text": "China was forced to open some of its ports to international trade."
+        },
+        {
+          "label": "C",
+          "text": "Chinese revolutionaries toppled the Qing dynasty."
+        },
+        {
+          "label": "D",
+          "text": "Chinese leaders set out to remake their economy along Western lines."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "The Strauss family of composers popularized what dance?",
+      "options": [
+        {
+          "label": "A",
+          "text": "waltz"
+        },
+        {
+          "label": "B",
+          "text": "tango"
+        },
+        {
+          "label": "C",
+          "text": "fox-trot"
+        },
+        {
+          "label": "D",
+          "text": "square dance"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "What was the revenue for flat screen televisions sold in Australia in the past 12 months (as of 2013)?",
+      "options": [
+        {
+          "label": "A",
+          "text": "$120 million annual Revenue"
+        },
+        {
+          "label": "B",
+          "text": "$1.2 billion annual Revenue"
+        },
+        {
+          "label": "C",
+          "text": "$12 billion annual Revenue"
+        },
+        {
+          "label": "D",
+          "text": "$120 billion annual Revenue"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Which of the following artists is an English landscape painter who created a poetic sense of changing atmospheric effects by using tiny applications of local color?",
+      "options": [
+        {
+          "label": "A",
+          "text": "John Constable"
+        },
+        {
+          "label": "B",
+          "text": "William Morris"
+        },
+        {
+          "label": "C",
+          "text": "William Hogarth"
+        },
+        {
+          "label": "D",
+          "text": "Joshua Reynolds"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Which of the following steps in the design of a dog house would be earliest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acquiring all the tools necessary for the building"
+        },
+        {
+          "label": "B",
+          "text": "Purchasing all the materials for building the structure"
+        },
+        {
+          "label": "C",
+          "text": "Identifying the color, shape, and style of the exterior surface"
+        },
+        {
+          "label": "D",
+          "text": "Accessing the measurements of the dog and all the interior materials"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "What are the Smothers Brothers'(first names?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frank and Bill"
+        },
+        {
+          "label": "B",
+          "text": "Tom and Dick"
+        },
+        {
+          "label": "C",
+          "text": "Dave and George"
+        },
+        {
+          "label": "D",
+          "text": "Ed and Pete"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "In which of the following bands did Jimmy Page not play guitar?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bad Company"
+        },
+        {
+          "label": "B",
+          "text": "The Firm"
+        },
+        {
+          "label": "C",
+          "text": "Led Zeppelin"
+        },
+        {
+          "label": "D",
+          "text": "The Yardbirds"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Which of these is not one of the four basic forces in nature?",
+      "options": [
+        {
+          "label": "A",
+          "text": "electromagnetic"
+        },
+        {
+          "label": "B",
+          "text": "gravitational"
+        },
+        {
+          "label": "C",
+          "text": "nuclear"
+        },
+        {
+          "label": "D",
+          "text": "centrifugal"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "How much energy do Americans waste each year by throwing out the unused ice in their drinks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "6*10^8 J"
+        },
+        {
+          "label": "B",
+          "text": "6*10^11 J"
+        },
+        {
+          "label": "C",
+          "text": "6*10^14 J"
+        },
+        {
+          "label": "D",
+          "text": "6*10^17 J"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "In which layer of Earth is the geomagnetic field generated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Outer core"
+        },
+        {
+          "label": "B",
+          "text": "Crust"
+        },
+        {
+          "label": "C",
+          "text": "Mantle"
+        },
+        {
+          "label": "D",
+          "text": "Inner core"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "What car company once manufactured and sold the 'Datsun' line of automobiles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nissan"
+        },
+        {
+          "label": "B",
+          "text": "Mazda"
+        },
+        {
+          "label": "C",
+          "text": "Toyota"
+        },
+        {
+          "label": "D",
+          "text": "Daihatsu"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "In horse racing what is the term for a wager on the 1st 2nd and 3rd place finishers in a specific race?",
+      "options": [
+        {
+          "label": "A",
+          "text": "triple action"
+        },
+        {
+          "label": "B",
+          "text": "trifecta"
+        },
+        {
+          "label": "C",
+          "text": "exacta"
+        },
+        {
+          "label": "D",
+          "text": "triple crown"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "In which of these sports do competitors use a 'funny car'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "supercross"
+        },
+        {
+          "label": "B",
+          "text": "dogsledding"
+        },
+        {
+          "label": "C",
+          "text": "gymnastics"
+        },
+        {
+          "label": "D",
+          "text": "drag racing"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "What was the name of the first ship to sail around the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Triton"
+        },
+        {
+          "label": "B",
+          "text": "Victoria"
+        },
+        {
+          "label": "C",
+          "text": "Magellan"
+        },
+        {
+          "label": "D",
+          "text": "Elizabeth II"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "A _ is a plant cell that helps control the passage of materials into and out of the stomates.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cell membrane"
+        },
+        {
+          "label": "B",
+          "text": "Cytoplasm"
+        },
+        {
+          "label": "C",
+          "text": "Guard cell"
+        },
+        {
+          "label": "D",
+          "text": "Cellulose"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "What country was once ruled by shoguns?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "Japan"
+        },
+        {
+          "label": "C",
+          "text": "North Korea"
+        },
+        {
+          "label": "D",
+          "text": "Taiwan"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "Animals in which of the following groups may have a backbone and a spinal cord?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mollusks"
+        },
+        {
+          "label": "B",
+          "text": "Chordates"
+        },
+        {
+          "label": "C",
+          "text": "Invertebrates"
+        },
+        {
+          "label": "D",
+          "text": "Echinoderms"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which of the following groups was converted to Christianity in the tenth century AD by missionaries from the Byzantine Empire?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Franks"
+        },
+        {
+          "label": "B",
+          "text": "Visigoths"
+        },
+        {
+          "label": "C",
+          "text": "Russians"
+        },
+        {
+          "label": "D",
+          "text": "Anglo-Saxons"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "What do herpetologists study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Herpes"
+        },
+        {
+          "label": "B",
+          "text": "Blood"
+        },
+        {
+          "label": "C",
+          "text": "Insects"
+        },
+        {
+          "label": "D",
+          "text": "Reptiles and amphibians"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of these refers to an alcoholic drink laced with a knockout drug?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Zombie"
+        },
+        {
+          "label": "B",
+          "text": "Kamikaze"
+        },
+        {
+          "label": "C",
+          "text": "Mickey Finn"
+        },
+        {
+          "label": "D",
+          "text": "Molotov cocktail"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "During President Dwight Eisenhower's administration in the 1950s, the federal government promoted significant changes in transportation in the United States by",
+      "options": [
+        {
+          "label": "A",
+          "text": "establishing generous subsidies for urban mass transit"
+        },
+        {
+          "label": "B",
+          "text": "sponsoring research to develop less polluting automobiles"
+        },
+        {
+          "label": "C",
+          "text": "funding the construction of the interstate highway system"
+        },
+        {
+          "label": "D",
+          "text": "funding the establishment of a national railroad passenger system"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "In the movie 'Star Wars' what kind of creature is Chewbacca?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Woolie"
+        },
+        {
+          "label": "B",
+          "text": "Woobie"
+        },
+        {
+          "label": "C",
+          "text": "Wookiee"
+        },
+        {
+          "label": "D",
+          "text": "Klingon"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "Which of these is not one of the three branches of the US government?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Judicial"
+        },
+        {
+          "label": "B",
+          "text": "Executive"
+        },
+        {
+          "label": "C",
+          "text": "Parliamentary"
+        },
+        {
+          "label": "D",
+          "text": "Legislative"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Soil structure refers to which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Arrangement of soil particles"
+        },
+        {
+          "label": "B",
+          "text": "Proportion of sand, silt, and clay"
+        },
+        {
+          "label": "C",
+          "text": "Organic composition"
+        },
+        {
+          "label": "D",
+          "text": "Profile depth"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "What team has won the most World Series?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chicago Cubs"
+        },
+        {
+          "label": "B",
+          "text": "Los Angeles Dodgers"
+        },
+        {
+          "label": "C",
+          "text": "New York Yankees"
+        },
+        {
+          "label": "D",
+          "text": "San Francisco Giants"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Which of the following questions can a student ask to best determine whether an author is using the persuasive technique of pathos in a passage?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Does the author use tone and style to convey authority on the subject to the audience?"
+        },
+        {
+          "label": "B",
+          "text": "Does the author use credible and reliable sources to convince the audience of the argument?"
+        },
+        {
+          "label": "C",
+          "text": "Does the author use facts and sound reasoning to substantiate claims made to the audience?"
+        },
+        {
+          "label": "D",
+          "text": "Does the author use personal connections and stories to appeal to the audience's emotions?"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Determining how a product can be useful, identifying the target price, finding a place to sell the product, and deciding how to promote it best exemplifies using",
+      "options": [
+        {
+          "label": "A",
+          "text": "market research"
+        },
+        {
+          "label": "B",
+          "text": "positioning"
+        },
+        {
+          "label": "C",
+          "text": "marketing mix"
+        },
+        {
+          "label": "D",
+          "text": "segmenting"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of these famous baseball figures was once acquitted at court-martial for insubordination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abner Doubleday"
+        },
+        {
+          "label": "B",
+          "text": "Ty Cobb"
+        },
+        {
+          "label": "C",
+          "text": "Jackie Robinson"
+        },
+        {
+          "label": "D",
+          "text": "Billy Martin"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of these words is a synonym for 'perambulate'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "kiss"
+        },
+        {
+          "label": "B",
+          "text": "shout"
+        },
+        {
+          "label": "C",
+          "text": "stroll"
+        },
+        {
+          "label": "D",
+          "text": "heal"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "In the comic strip 'Peanuts' what is Schroeder known for doing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dancing"
+        },
+        {
+          "label": "B",
+          "text": "playing football"
+        },
+        {
+          "label": "C",
+          "text": "playing the piano"
+        },
+        {
+          "label": "D",
+          "text": "Flying an imaginary plane"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "How many states were in the Confederate States of America?",
+      "options": [
+        {
+          "label": "A",
+          "text": "11"
+        },
+        {
+          "label": "B",
+          "text": "13"
+        },
+        {
+          "label": "C",
+          "text": "16"
+        },
+        {
+          "label": "D",
+          "text": "22"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "In the children's game what color is 'Rover'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Green"
+        },
+        {
+          "label": "B",
+          "text": "black"
+        },
+        {
+          "label": "C",
+          "text": "red"
+        },
+        {
+          "label": "D",
+          "text": "blue"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "If you work as a 'dolly grip' what business are you in?",
+      "options": [
+        {
+          "label": "A",
+          "text": "sheep farming"
+        },
+        {
+          "label": "B",
+          "text": "film production"
+        },
+        {
+          "label": "C",
+          "text": "construction"
+        },
+        {
+          "label": "D",
+          "text": "moving"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "How many stars are on the American flag?",
+      "options": [
+        {
+          "label": "A",
+          "text": "13"
+        },
+        {
+          "label": "B",
+          "text": "48"
+        },
+        {
+          "label": "C",
+          "text": "50"
+        },
+        {
+          "label": "D",
+          "text": "51"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "The traitor is a traitor, so you are a traitor, so I am a patriot.The words of a patriot are the most valuable, so my words are good.Since my words are good, you are undoubtedly a traitor! Which of the following makes the same logical mistake as above?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Literature and art are not worthy of attention. Modernization must relies on science and technology, so science and technology are worthy of our attention. But literature and art are not science and technology."
+        },
+        {
+          "label": "B",
+          "text": "Non-university can also become an outstanding talent. Gorky, Edison, Faraday, Franklin, etc. have not attended college, but they have all become outstanding talents."
+        },
+        {
+          "label": "C",
+          "text": "The earth is a sphere, which can be proved from the fact that when we stand at a height and watch the sailing boat in the sea, we always see the mast first and then the hull. The reason for this is because the earth is a sphere."
+        },
+        {
+          "label": "D",
+          "text": "I saw them coming out of this chemical plant several times before I realized that this young man who was eager to help patients was originally a worker in this chemical plant."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "In what decade did Israel become an independent state?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1920s"
+        },
+        {
+          "label": "B",
+          "text": "1940s"
+        },
+        {
+          "label": "C",
+          "text": "1950s"
+        },
+        {
+          "label": "D",
+          "text": "1960s"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Ada Lovelace is credited with being the first person to have made what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a computer program"
+        },
+        {
+          "label": "B",
+          "text": "a souffle"
+        },
+        {
+          "label": "C",
+          "text": "a brassiere"
+        },
+        {
+          "label": "D",
+          "text": "a mystery novel"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "What part of the world was once known as Cathay?",
+      "options": [
+        {
+          "label": "A",
+          "text": "China"
+        },
+        {
+          "label": "B",
+          "text": "India"
+        },
+        {
+          "label": "C",
+          "text": "Iran"
+        },
+        {
+          "label": "D",
+          "text": "Indonesia"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following statements accurately describes a JPEG compressed digital photograph?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The JPEG format is used only for color photos."
+        },
+        {
+          "label": "B",
+          "text": "A JPEG compression alters the proportions of the original image by rearranging data."
+        },
+        {
+          "label": "C",
+          "text": "A JPEG compression sharpens the details in an image."
+        },
+        {
+          "label": "D",
+          "text": "The JPEG format compresses file size by selectively discarding data."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "The first sound recording to be made and reproduced was a recitation of what nursery rhyme?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humpty Dumpty'"
+        },
+        {
+          "label": "B",
+          "text": "Mary Had a Little Lamb'"
+        },
+        {
+          "label": "C",
+          "text": "Jack Be Nimble'"
+        },
+        {
+          "label": "D",
+          "text": "Home Sweet Home'"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which of the following breakfast cereals is shaped like the letter O?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Life Corn"
+        },
+        {
+          "label": "B",
+          "text": "Chex"
+        },
+        {
+          "label": "C",
+          "text": "Cheerios"
+        },
+        {
+          "label": "D",
+          "text": "Raisin Bran"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "What sporting event is held annually on Memorial Day weekend?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iditarod"
+        },
+        {
+          "label": "B",
+          "text": "Kentucky Derby"
+        },
+        {
+          "label": "C",
+          "text": "Indianapolis 500"
+        },
+        {
+          "label": "D",
+          "text": "Super Bowl"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "What company makes Oreo cookies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "General Mills"
+        },
+        {
+          "label": "B",
+          "text": "Nabisco"
+        },
+        {
+          "label": "C",
+          "text": "Keebler"
+        },
+        {
+          "label": "D",
+          "text": "Kraft"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "Which dwarf planet is closest to the Sun?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pluto"
+        },
+        {
+          "label": "B",
+          "text": "Eris"
+        },
+        {
+          "label": "C",
+          "text": "Ceres"
+        },
+        {
+          "label": "D",
+          "text": "Makemake"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Which of these is commonly used to treat allergies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "antimatter"
+        },
+        {
+          "label": "B",
+          "text": "anticoagulants"
+        },
+        {
+          "label": "C",
+          "text": "antiseptics"
+        },
+        {
+          "label": "D",
+          "text": "antihistamines"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "What is the baseball term for a batter who substitutes for another batter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Switchhitter"
+        },
+        {
+          "label": "B",
+          "text": "Shadow hitter"
+        },
+        {
+          "label": "C",
+          "text": "Clip hitter"
+        },
+        {
+          "label": "D",
+          "text": "Pinch hitter"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "By what collective name do Christians refer to God the Father God the Son and the Holy Ghost?",
+      "options": [
+        {
+          "label": "A",
+          "text": "the Trio"
+        },
+        {
+          "label": "B",
+          "text": "the Troika"
+        },
+        {
+          "label": "C",
+          "text": "the Triumvirate"
+        },
+        {
+          "label": "D",
+          "text": "the Trinity"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

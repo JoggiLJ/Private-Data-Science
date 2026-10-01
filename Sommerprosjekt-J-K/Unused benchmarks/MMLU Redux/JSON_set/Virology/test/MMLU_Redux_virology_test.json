@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_virology_test",
+  "description": "Virology multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — virology subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "The characteristic of injecting drug users in Asia is/are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strong family support"
+        },
+        {
+          "label": "B",
+          "text": "Low failure rate for rehabilitation centers"
+        },
+        {
+          "label": "C",
+          "text": "Remaining a member of the community"
+        },
+        {
+          "label": "D",
+          "text": "Both a and c"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "The current testing policy of the Centers for Disease Control and the World Health Organization is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Opt-in”"
+        },
+        {
+          "label": "B",
+          "text": "“Opt-out”"
+        },
+        {
+          "label": "C",
+          "text": "Mandatory testing of prisoners"
+        },
+        {
+          "label": "D",
+          "text": "Mandatory testing of high-risk groups"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "The major issue for HIV infection among the Latino population is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Late detection of HIV status"
+        },
+        {
+          "label": "B",
+          "text": "Cultural beliefs"
+        },
+        {
+          "label": "C",
+          "text": "Immigration"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "The major risk group for HIV infection among Latinos is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heterosexual males"
+        },
+        {
+          "label": "B",
+          "text": "Homosexual males"
+        },
+        {
+          "label": "C",
+          "text": "Females"
+        },
+        {
+          "label": "D",
+          "text": "Injection drug users"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "The particular quality of the U.S. health care system is its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Systematic, democratic approach"
+        },
+        {
+          "label": "B",
+          "text": "Fragmented, uncoordinated approach"
+        },
+        {
+          "label": "C",
+          "text": "The result of rationale decisions by informed legislators"
+        },
+        {
+          "label": "D",
+          "text": "a. and c. above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "The prevalence of HIV among Latino-Americans compared to other ethic groups in the U.S. is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Highest"
+        },
+        {
+          "label": "B",
+          "text": "Higher than all other ethnic groups except African-Americans"
+        },
+        {
+          "label": "C",
+          "text": "Higher than in all other ethnic groups except African-Americans and"
+        },
+        {
+          "label": "D",
+          "text": "Native Americans"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "The range of disease caused by the family is wide but identify the exception from the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aplastic crisis in anaemia patients"
+        },
+        {
+          "label": "B",
+          "text": "Fifth disease at 'Slapped cheek' syndrome"
+        },
+        {
+          "label": "C",
+          "text": "Foetal infection with teratogenicity"
+        },
+        {
+          "label": "D",
+          "text": "Serious pneumonia"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "The single most important key to the success of the Multicenter AIDS Cohort (MACS) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The brilliance of the principal investigator"
+        },
+        {
+          "label": "B",
+          "text": "The commitment of the staff"
+        },
+        {
+          "label": "C",
+          "text": "The commitment of the participants"
+        },
+        {
+          "label": "D",
+          "text": "The quality of the laboratories"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "The three key intervention strategies according to Professor Shoptaw are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Behavioral intervention, treatment and structural interventions"
+        },
+        {
+          "label": "B",
+          "text": "Condoms, drug therapy and regulation of commercial sex establishments"
+        },
+        {
+          "label": "C",
+          "text": "Drug replacement therapy, community intervention and needle exchange"
+        },
+        {
+          "label": "D",
+          "text": "HIV testing, drug therapy and condom use"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which of the following is the cause of delay in HIV testing among the Latino population?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stigma attached to the disease"
+        },
+        {
+          "label": "B",
+          "text": "Machismo"
+        },
+        {
+          "label": "C",
+          "text": "Drug abuse"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Newborn infants in countries with limited access to safe water and low levels of education should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exclusively formula fed for six months"
+        },
+        {
+          "label": "B",
+          "text": "Exclusively breast fed for six months"
+        },
+        {
+          "label": "C",
+          "text": "Should receive both breast milk and other foods as tolerated in the first 6"
+        },
+        {
+          "label": "D",
+          "text": "months"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Achieving effective change in a community is usually dependent on which of the following segments of society?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Innovators"
+        },
+        {
+          "label": "B",
+          "text": "Early adapters"
+        },
+        {
+          "label": "C",
+          "text": "Middle adapters"
+        },
+        {
+          "label": "D",
+          "text": "Late adapters"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "Disease can most often be prevented by which of the following:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vaccines"
+        },
+        {
+          "label": "B",
+          "text": "Antivirals"
+        },
+        {
+          "label": "C",
+          "text": "Hygiene"
+        },
+        {
+          "label": "D",
+          "text": "mosquito nets"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Public health ethics is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Patient-centered"
+        },
+        {
+          "label": "B",
+          "text": "Population-centered"
+        },
+        {
+          "label": "C",
+          "text": "Subject-centered"
+        },
+        {
+          "label": "D",
+          "text": "Must respect the rights of individuals"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "How many people globally are currently infected with hepatitis B?",
+      "options": [
+        {
+          "label": "A",
+          "text": "350 million"
+        },
+        {
+          "label": "B",
+          "text": "2 billion"
+        },
+        {
+          "label": "C",
+          "text": "100,000"
+        },
+        {
+          "label": "D",
+          "text": "1 million"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Are/were viruses:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The most abundant form of life on earth?"
+        },
+        {
+          "label": "B",
+          "text": "Discovered before bacteria?"
+        },
+        {
+          "label": "C",
+          "text": "Grown in animals in the laboratory?"
+        },
+        {
+          "label": "D",
+          "text": "The cause of all human disease?"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "What is the biggest risk factor for infection with Ebola?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Working in a category IV laboratory"
+        },
+        {
+          "label": "B",
+          "text": "Attending a funeral of a victim outside"
+        },
+        {
+          "label": "C",
+          "text": "Nursing a patient at home"
+        },
+        {
+          "label": "D",
+          "text": "Attending football matches or large gatherings"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "“Contingency management” is”:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A strategy of last resort for reducing high-risk behaviors"
+        },
+        {
+          "label": "B",
+          "text": "Paying drug users for negative urine specimens"
+        },
+        {
+          "label": "C",
+          "text": "Paying sex workers to use condoms"
+        },
+        {
+          "label": "D",
+          "text": "Paying drug users to use condoms"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "A good surveillance system should provide information about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Who is being infected"
+        },
+        {
+          "label": "B",
+          "text": "Where the infected individuals are"
+        },
+        {
+          "label": "C",
+          "text": "How rapidly infection is spreading"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "AIDS activism in the U.S. resulted in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Food and Drug Administration reforms"
+        },
+        {
+          "label": "B",
+          "text": "Easier access to investigational drugs"
+        },
+        {
+          "label": "C",
+          "text": "Changes in the way medicine was practiced in the U.S."
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "Benefits of opioid replacement therapy as an approach for HIV prevention include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reducing craving for and use of illicit opioids"
+        },
+        {
+          "label": "B",
+          "text": "More sharing of injecting paraphernalia"
+        },
+        {
+          "label": "C",
+          "text": "Reducing frequency of injection drug use"
+        },
+        {
+          "label": "D",
+          "text": "Both a and c"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Determinants of acquiring an HIV infection from an infected person per sexual act include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viral RNA level"
+        },
+        {
+          "label": "B",
+          "text": "Presence of other infections"
+        },
+        {
+          "label": "C",
+          "text": "Condom use"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Measles has been controlled in many countries by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By hygiene"
+        },
+        {
+          "label": "B",
+          "text": "By MMR vaccine"
+        },
+        {
+          "label": "C",
+          "text": "By new molecular peptide vaccines"
+        },
+        {
+          "label": "D",
+          "text": "By humanised monoclonal antibodies to F protein"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "PreP is most effective for which group:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Men with frequent unprotected sex"
+        },
+        {
+          "label": "B",
+          "text": "Men with infrequent unprotected sex"
+        },
+        {
+          "label": "C",
+          "text": "Women with frequent unprotected sex"
+        },
+        {
+          "label": "D",
+          "text": "Women with infrequent unprotected sex"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following are goals of vaccination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prevent infection"
+        },
+        {
+          "label": "B",
+          "text": "Prevent disease"
+        },
+        {
+          "label": "C",
+          "text": "Prevent transmission"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "500 women aged 40 – 54 who present for routine check-ups are asked about their meat consumption the women turn out to be vegetarian. During the ensuing 5 years, 5 vegetarians and 43 non-vegetarians develop colorectal cancer. Which of the following best describes the study design?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Case series report"
+        },
+        {
+          "label": "B",
+          "text": "Cohort study"
+        },
+        {
+          "label": "C",
+          "text": "Case-control study"
+        },
+        {
+          "label": "D",
+          "text": "Cross-sectional study"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "A case-control study is conducted to assess the association between alcohol consumption and lung cancer patients with lung cancer and 100 controls are asked about their past alcohol consumption. According to the study results, alcohol consumption is strongly associated with lung cancer (OR = 2.5). The researchers then divide the study subjects into two groups: smokers and non-smokers. Subsequent statistical analysis does not reveal any association between alcohol consumption and lung cancer within either group. The scenario described is an example of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Observer bias"
+        },
+        {
+          "label": "B",
+          "text": "Confounding"
+        },
+        {
+          "label": "C",
+          "text": "Placebo effect"
+        },
+        {
+          "label": "D",
+          "text": "Nonresponse bias"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "A city has a population of 250,000 cases and 400 deaths each year from this disease. There are 2,500 deaths per year from all causes. The prevalence of this disease is given by",
+      "options": [
+        {
+          "label": "A",
+          "text": "400/250,000"
+        },
+        {
+          "label": "B",
+          "text": "600/250,000"
+        },
+        {
+          "label": "C",
+          "text": "1,000/250,000"
+        },
+        {
+          "label": "D",
+          "text": "2,500/250,000"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "A new drug with in vitro activity against HIV is tested on a population of patients with Western-blot confirmed HIV infections. Out of the 200 individuals in the patient population, 100 are chosen by lottery to receive the drug. The drug, which is tasteless, is administered in a cup of orange juice; the other patients receive pure orange juice. Neither the nurses, doctors, nor the patients know which patients receive the drug. At the end of the study period, the number of CD4+ T cells is determined for all of the subjects. This is an example of a",
+      "options": [
+        {
+          "label": "A",
+          "text": "Case-control study"
+        },
+        {
+          "label": "B",
+          "text": "Case report"
+        },
+        {
+          "label": "C",
+          "text": "Cohort study"
+        },
+        {
+          "label": "D",
+          "text": "Cross-sectional study"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confounding"
+        },
+        {
+          "label": "B",
+          "text": "Nonresponse bias"
+        },
+        {
+          "label": "C",
+          "text": "Recall bias"
+        },
+        {
+          "label": "D",
+          "text": "Referral bias"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Any systematic error in the design, conduct, or analysis of a study that results in a mistaken estimate of an exposure’s effect on the risk of disease is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Confounding"
+        },
+        {
+          "label": "B",
+          "text": "Bias"
+        },
+        {
+          "label": "C",
+          "text": "Interaction"
+        },
+        {
+          "label": "D",
+          "text": "Stratification"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "As part of the Women’s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:",
+      "options": [
+        {
+          "label": "A",
+          "text": "There is no risk of heart attack/stroke for women with CRP levels in the first quintile."
+        },
+        {
+          "label": "B",
+          "text": "Decreasing CRP level appears to increase the risk of heart attack/stroke."
+        },
+        {
+          "label": "C",
+          "text": "Increasing CRP level appears to increase the risk of heart attack/stroke."
+        },
+        {
+          "label": "D",
+          "text": "There appears to be no association between CRP levels and heart attack/stroke."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "How do viruses of the calcivirus family replicate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As negative strand RNA viruses"
+        },
+        {
+          "label": "B",
+          "text": "As positive strand RNA viruses"
+        },
+        {
+          "label": "C",
+          "text": "Retroviruses"
+        },
+        {
+          "label": "D",
+          "text": "Using genetic reassortment"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "In a medical class of 147 students, the distribution of scores on a biochemistry final examination has a mean equal to 67, a median equal to 76, a mode equal to 80, a standard deviation equal to 5.5, and a variance equal to 30.25. Three students were unable to take the test on the scheduled date and were given a different form of the exam 1 week later. Which parameter is most likely to be the least biased estimator of central tendency for this distribution of biochemistry test scores?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mean"
+        },
+        {
+          "label": "B",
+          "text": "Median"
+        },
+        {
+          "label": "C",
+          "text": "Mode"
+        },
+        {
+          "label": "D",
+          "text": "Standard deviation"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "In a study, a group of people are exposed to an environmental toxin but are not treated observed over time on a standard set of measures to ascertain the potential effects of the toxin. This type of study design is called",
+      "options": [
+        {
+          "label": "A",
+          "text": "Clinical trial"
+        },
+        {
+          "label": "B",
+          "text": "Double-blind"
+        },
+        {
+          "label": "C",
+          "text": "Longitudinal"
+        },
+        {
+          "label": "D",
+          "text": "Prospective cohort"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "In the absence of treatment the risk of HIV transmission from an infected mother to her fetus/infant was highest in which of the following areas?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Africa"
+        },
+        {
+          "label": "B",
+          "text": "North America"
+        },
+        {
+          "label": "C",
+          "text": "Europe"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Most surveillance systems use which of the following study designs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cohort"
+        },
+        {
+          "label": "B",
+          "text": "Serial cross-sectional"
+        },
+        {
+          "label": "C",
+          "text": "Mortality"
+        },
+        {
+          "label": "D",
+          "text": "Syndromic"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Globally, the most deaths are caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Respiratory infections"
+        },
+        {
+          "label": "B",
+          "text": "Diarrheal diseases"
+        },
+        {
+          "label": "C",
+          "text": "Malaria"
+        },
+        {
+          "label": "D",
+          "text": "Tuberculosis"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "In HIV-associated tuberculosis cases, treatment with antiretrovirals should begin:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Before antiretroviral drugs are started"
+        },
+        {
+          "label": "B",
+          "text": "After antiretroviral drugs are started"
+        },
+        {
+          "label": "C",
+          "text": "Concurrently with antiretroviral drugs"
+        },
+        {
+          "label": "D",
+          "text": "Doesn’t make any difference"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "PreP is an effective strategy for reducing the incidence of HIV in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Women"
+        },
+        {
+          "label": "B",
+          "text": "Drug users"
+        },
+        {
+          "label": "C",
+          "text": "Pregnant women"
+        },
+        {
+          "label": "D",
+          "text": "a. and b. above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "There were no new cases of Ebola virus in the United States from January 1, 1997 through January 1, 1998. Which of the following epidemiologic terms does this statement describe?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Incidence"
+        },
+        {
+          "label": "B",
+          "text": "Lifetime expectancy"
+        },
+        {
+          "label": "C",
+          "text": "Lifetime prevalence"
+        },
+        {
+          "label": "D",
+          "text": "Period prevalence"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "Deep nucleotide sequencing (NGS) is now cheap enough for general application. What will the technique mainly be useful for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speedy vaccine development"
+        },
+        {
+          "label": "B",
+          "text": "Identifying genetic variation"
+        },
+        {
+          "label": "C",
+          "text": "Giving details on virus excretion in symptomless carriers"
+        },
+        {
+          "label": "D",
+          "text": "Quickly identifying new viruses"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "What happens during the 'incubation period'?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The virus is cleared from the body by the immune system"
+        },
+        {
+          "label": "B",
+          "text": "Virus replication happens at an intracellular level"
+        },
+        {
+          "label": "C",
+          "text": "This period commonly lasts for a few days"
+        },
+        {
+          "label": "D",
+          "text": "This period commonly lasts for a few hours"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "How are arenaviruses spread?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sexual contact"
+        },
+        {
+          "label": "B",
+          "text": "Blood"
+        },
+        {
+          "label": "C",
+          "text": "Aerosols of urine from infected small mammals"
+        },
+        {
+          "label": "D",
+          "text": "Mosquito bites"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "If the human norovirus cannot be cultured in cell cultures how can it best be studied?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Animal models"
+        },
+        {
+          "label": "B",
+          "text": "Volunteer studies"
+        },
+        {
+          "label": "C",
+          "text": "In cells using replicon systems"
+        },
+        {
+          "label": "D",
+          "text": "Deductions from the 3 human ORF's of the virus genome"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Viruses have encouraged us to change our world, as we have now:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eradicated smallpox"
+        },
+        {
+          "label": "B",
+          "text": "Eradicated polio"
+        },
+        {
+          "label": "C",
+          "text": "Increased hygiene"
+        },
+        {
+          "label": "D",
+          "text": "A better understanding of how cellular genes aid virus replication and so become a target for new drugs"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which areas of the world are rabies free?",
+      "options": [
+        {
+          "label": "A",
+          "text": "USA"
+        },
+        {
+          "label": "B",
+          "text": "Norway"
+        },
+        {
+          "label": "C",
+          "text": "EU"
+        },
+        {
+          "label": "D",
+          "text": "Island nations, UK, NZ and Australia"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Why do emerging viruses like Zika and Ebola continue to plague us?",
+      "options": [
+        {
+          "label": "A",
+          "text": "These viruses mutate and hence emerge"
+        },
+        {
+          "label": "B",
+          "text": "We disturb forests where they quietly exist as a zoonosis"
+        },
+        {
+          "label": "C",
+          "text": "Mosquitoes are the main culprit to encourage virus spread"
+        },
+        {
+          "label": "D",
+          "text": "The viruses can be halted by new vaccines"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "A “benefit” of research may accrue:",
+      "options": [
+        {
+          "label": "A",
+          "text": "To the participant"
+        },
+        {
+          "label": "B",
+          "text": "To his/her family"
+        },
+        {
+          "label": "C",
+          "text": "To society"
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Common cold viruses are ubiquitous and invade by which route?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Faecal oral route"
+        },
+        {
+          "label": "B",
+          "text": "Respiratory and surface route"
+        },
+        {
+          "label": "C",
+          "text": "Cuts in the skin"
+        },
+        {
+          "label": "D",
+          "text": "Sexual transmission"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "The influenza virus is mainly controlled in special \"risk\" sectors by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hygiene"
+        },
+        {
+          "label": "B",
+          "text": "Vaccination"
+        },
+        {
+          "label": "C",
+          "text": "Antiviral drugs"
+        },
+        {
+          "label": "D",
+          "text": "Humanised monoclonal antibodies"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "What does the reproductive number of a virus tell us?",
+      "options": [
+        {
+          "label": "A",
+          "text": "How virulent the infection will be"
+        },
+        {
+          "label": "B",
+          "text": "How many people will die"
+        },
+        {
+          "label": "C",
+          "text": "How many contacts will be infected from one case"
+        },
+        {
+          "label": "D",
+          "text": "How long the 'incubation period' will be"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "What has so far prevented polio being eradicated from the world?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Inability to vaccinate in some countries"
+        },
+        {
+          "label": "B",
+          "text": "Poor quality (unsafe) vaccines"
+        },
+        {
+          "label": "C",
+          "text": "Genetic variation"
+        },
+        {
+          "label": "D",
+          "text": "Expense"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "What is a virus pandemic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A sharp and rapid epidemic involving more than one country"
+        },
+        {
+          "label": "B",
+          "text": "An outbreak which recurs again and again"
+        },
+        {
+          "label": "C",
+          "text": "A rapid global outbreak starting from a single focus"
+        },
+        {
+          "label": "D",
+          "text": "A characteristic of common cold virus and HIV"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "A quasi species virus such as influenza and HIV has which of the following characteristics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A fragmented or segmented genome"
+        },
+        {
+          "label": "B",
+          "text": "Co-existence of innumerable genetic variants"
+        },
+        {
+          "label": "C",
+          "text": "Possesses RNA and DNA"
+        },
+        {
+          "label": "D",
+          "text": "A very large genome"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "A special feature of adaptive immunity is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speed of response to a foreign protein"
+        },
+        {
+          "label": "B",
+          "text": "Ability to distinguish self and non self"
+        },
+        {
+          "label": "C",
+          "text": "Ability to distinguish viruses and bacteria"
+        },
+        {
+          "label": "D",
+          "text": "Short memory"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "An updated version of classification shows the parvovirus family as having how many genera?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Having 5 genera"
+        },
+        {
+          "label": "B",
+          "text": "A very large number of virus types"
+        },
+        {
+          "label": "C",
+          "text": "Only a single virus"
+        },
+        {
+          "label": "D",
+          "text": "Only three viruses"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "As regards the range of diseases caused by viruses:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Each member of the 'family' causes the same disease."
+        },
+        {
+          "label": "B",
+          "text": "Members of many families can cause the same sort of disease."
+        },
+        {
+          "label": "C",
+          "text": "Most virus disease are now controlled by vaccines."
+        },
+        {
+          "label": "D",
+          "text": "Most viruses can cross placenta and be teratogenic."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use of cellular scaffolding in the nucleus and cytoplasm"
+        },
+        {
+          "label": "B",
+          "text": "Snatching cellular lipids and membranes"
+        },
+        {
+          "label": "C",
+          "text": "Master plan embedded in the viral genome"
+        },
+        {
+          "label": "D",
+          "text": "Random interactions between cellular and virus proteins"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Chikungunya has spread widely from Asia and Africa into the Caribbean in recent years. This has been mainly facilitated by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mutation in the virus allowing replication in the mosquito Aedes albopictus"
+        },
+        {
+          "label": "B",
+          "text": "Air Travel"
+        },
+        {
+          "label": "C",
+          "text": "Climate change"
+        },
+        {
+          "label": "D",
+          "text": "Poor mosquito control and the absence of DTT"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Clinical infection by an arenavirus is characterised by which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pantropic infection"
+        },
+        {
+          "label": "B",
+          "text": "Signs of malaria"
+        },
+        {
+          "label": "C",
+          "text": "Short (2-3 days) incubation"
+        },
+        {
+          "label": "D",
+          "text": "Hepatitis"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "David Baltimore is a molecular biologist. What did he discover?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The structure of DNA"
+        },
+        {
+          "label": "B",
+          "text": "X-ray crystallographic techniques"
+        },
+        {
+          "label": "C",
+          "text": "The enzyme reverse transcriptase"
+        },
+        {
+          "label": "D",
+          "text": "The anti HIV drug zidovudine"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Describe the morphology of a togavirus.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Enveloped spherical particles with an icosahedral structure"
+        },
+        {
+          "label": "B",
+          "text": "Non-enveloped with an icosahedral structure"
+        },
+        {
+          "label": "C",
+          "text": "Filamentous virus with protruding glycoproteins"
+        },
+        {
+          "label": "D",
+          "text": "Small round viruses"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Describe the YF vaccine.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Killed virus vaccine"
+        },
+        {
+          "label": "B",
+          "text": "Live attenuated virus vaccine developed by Pasteurian passage"
+        },
+        {
+          "label": "C",
+          "text": "Live attenuated vaccine produced by direct mutation of the virus genome"
+        },
+        {
+          "label": "D",
+          "text": "Experimental vaccine only"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "Genetic characteristics of the bunyavirus family include which one of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Three segmented negative stranded RNA viruses with anti-sense expression"
+        },
+        {
+          "label": "B",
+          "text": "Highly mutable RNA viruses"
+        },
+        {
+          "label": "C",
+          "text": "Emerging viruses via arthropod vector"
+        },
+        {
+          "label": "D",
+          "text": "Use an RT enzyme"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "How are antibody producing cells stimulated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interacting with a virus short peptide"
+        },
+        {
+          "label": "B",
+          "text": "Interacting with a T helper cell."
+        },
+        {
+          "label": "C",
+          "text": "Interacting with a plasma cell"
+        },
+        {
+          "label": "D",
+          "text": "Interacting with a virus infected cell"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "How can epidemics of astrovirus mainly be controlled?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By vaccination"
+        },
+        {
+          "label": "B",
+          "text": "Using passive antibody"
+        },
+        {
+          "label": "C",
+          "text": "Basic knowledge of hand washing and food hygiene"
+        },
+        {
+          "label": "D",
+          "text": "Quarantine"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "How can the spread of filoviruses be restricted?",
+      "options": [
+        {
+          "label": "A",
+          "text": "New antivirals"
+        },
+        {
+          "label": "B",
+          "text": "New humanised monoclonal antibodies"
+        },
+        {
+          "label": "C",
+          "text": "Hygiene and social distancing"
+        },
+        {
+          "label": "D",
+          "text": "New vaccines"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "How does rubella cause foetal abnormalities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By crossing the placenta early in pregnancy and infecting the foetus"
+        },
+        {
+          "label": "B",
+          "text": "By only infecting the placenta"
+        },
+        {
+          "label": "C",
+          "text": "By inducing cytokines and chemokines in the mother"
+        },
+        {
+          "label": "D",
+          "text": "By raising the temperature of the mother and inducing an abnormal immune reaction to the foetus"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "How is the parvovirus family targeted to reduce disease?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Transfusion blood is screened"
+        },
+        {
+          "label": "B",
+          "text": "Vaccine has been developed"
+        },
+        {
+          "label": "C",
+          "text": "A range of new antivirals"
+        },
+        {
+          "label": "D",
+          "text": "Social distancing"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Interferons are very special defence mechanisms which operate by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Binding to viruses"
+        },
+        {
+          "label": "B",
+          "text": "Binding to neighbouring cells"
+        },
+        {
+          "label": "C",
+          "text": "Producing a long lasting state of resistance"
+        },
+        {
+          "label": "D",
+          "text": "Inhibiting virus induced enzymes"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Many virus infections result in immune pathology, this is caused predominantly by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A cytokine storm"
+        },
+        {
+          "label": "B",
+          "text": "Antibody mediated reactions"
+        },
+        {
+          "label": "C",
+          "text": "A response of killer T cells (CD-8)"
+        },
+        {
+          "label": "D",
+          "text": "A decline in function of the immune system"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Of the following factors, which are the most important factors for virus spread and infection?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Age"
+        },
+        {
+          "label": "B",
+          "text": "Sex"
+        },
+        {
+          "label": "C",
+          "text": "Genetic factors"
+        },
+        {
+          "label": "D",
+          "text": "Travel"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Identify the most commonly used diagnostic technique in the virus laboratory:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Virus isolation in cell culture"
+        },
+        {
+          "label": "B",
+          "text": "Deep sequencing (NGS)"
+        },
+        {
+          "label": "C",
+          "text": "Reverse transcriptase (RT) PCR"
+        },
+        {
+          "label": "D",
+          "text": "Immuno-serology"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "The successful anti-cancer HPV vaccine consists of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Live virus attenuated by specific mutagenesis"
+        },
+        {
+          "label": "B",
+          "text": "Whole virus chemically inactivated vaccine"
+        },
+        {
+          "label": "C",
+          "text": "Self-assemble of virus L1 protein into VLP"
+        },
+        {
+          "label": "D",
+          "text": "Sub unit chemically inactivated vaccine"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "What is the most successful and most widely used 'travel' vaccine for international visitors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Influenza"
+        },
+        {
+          "label": "B",
+          "text": "MMR"
+        },
+        {
+          "label": "C",
+          "text": "Yellow Fever"
+        },
+        {
+          "label": "D",
+          "text": "Rabies"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Lassa and Ebola are emergent viruses in W. Africa. What is their origin?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Humans"
+        },
+        {
+          "label": "B",
+          "text": "Primates"
+        },
+        {
+          "label": "C",
+          "text": "Fruit bats"
+        },
+        {
+          "label": "D",
+          "text": "Pigs"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Chemotherapy is now an option for clinical care of patients. Typical drug regimens now include which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interferon and ribavirin"
+        },
+        {
+          "label": "B",
+          "text": "Lamivudine and ribavirin"
+        },
+        {
+          "label": "C",
+          "text": "Combinations of adefovir and entecavir and/or tenofovir (DAA)"
+        },
+        {
+          "label": "D",
+          "text": "Interferons alone"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Describe the coronavirus structure.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Club shaped glycoprotein spikes protrude through a lipid bilayer"
+        },
+        {
+          "label": "B",
+          "text": "An icosahedral structure with an envelope"
+        },
+        {
+          "label": "C",
+          "text": "An icosahedral large pleomorphic virus"
+        },
+        {
+          "label": "D",
+          "text": "Large regimented barrel shaped virus"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "How are new polyomaviruses detailed",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shot gun sequencing"
+        },
+        {
+          "label": "B",
+          "text": "Cultivation in human neural cells"
+        },
+        {
+          "label": "C",
+          "text": "Deep pyro sequencing (NGS)"
+        },
+        {
+          "label": "D",
+          "text": "Monoclonal antibody techniques"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "How can the morphology of filoviruses be described?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Very large ball like structure"
+        },
+        {
+          "label": "B",
+          "text": "Long filamentous threads"
+        },
+        {
+          "label": "C",
+          "text": "Icosahedral virion"
+        },
+        {
+          "label": "D",
+          "text": "Floppy membranes without defined morphology"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "How does the papilloma family of viruses cause cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replicate in dividing cells and encodes three oncogenic proteins E5, E6 and E7"
+        },
+        {
+          "label": "B",
+          "text": "Integrates viral genome into cellular DNA"
+        },
+        {
+          "label": "C",
+          "text": "Has an oncogene able to initiate cancer"
+        },
+        {
+          "label": "D",
+          "text": "Acts as a co factor for a cellular oncogene"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "How many human polyomaviruses are known at present?",
+      "options": [
+        {
+          "label": "A",
+          "text": "100"
+        },
+        {
+          "label": "B",
+          "text": "1"
+        },
+        {
+          "label": "C",
+          "text": "10"
+        },
+        {
+          "label": "D",
+          "text": "unknown"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "How were retroviruses discovered?",
+      "options": [
+        {
+          "label": "A",
+          "text": "In chickens as Rous sarcoma"
+        },
+        {
+          "label": "B",
+          "text": "In humans as HTLV-1"
+        },
+        {
+          "label": "C",
+          "text": "In mice causing leukaemia"
+        },
+        {
+          "label": "D",
+          "text": "In cats causing leukaemia"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "It is unlikely that a 'cure' of HIV is possible with current drugs because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Even in combination current drugs do not completely block viral replication"
+        },
+        {
+          "label": "B",
+          "text": "They do not penetrate to cells"
+        },
+        {
+          "label": "C",
+          "text": "They cannot block viral transcription from integrated viral DNA"
+        },
+        {
+          "label": "D",
+          "text": "They cannot penetrate to the CNS"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "MERS has four special characteristics and here we have one exception - which is it?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spread by faecal oral route"
+        },
+        {
+          "label": "B",
+          "text": "Aerosol droplet transmission"
+        },
+        {
+          "label": "C",
+          "text": "Reservoir in bats"
+        },
+        {
+          "label": "D",
+          "text": "A conduit to humans via camels"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Most pandemics have arisen from influenza viruses from which of the following animals?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pigs"
+        },
+        {
+          "label": "B",
+          "text": "Wild birds"
+        },
+        {
+          "label": "C",
+          "text": "Bats"
+        },
+        {
+          "label": "D",
+          "text": "Humans"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Most viral vaccines are produced by which of the following techniques?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Traditional cell culture"
+        },
+        {
+          "label": "B",
+          "text": "Molecular biology"
+        },
+        {
+          "label": "C",
+          "text": "Animal tissues in vitro"
+        },
+        {
+          "label": "D",
+          "text": "VLPs (virus like particles)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "A virus such as influenza which emerges suddenly and spreads globally is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Epidemic"
+        },
+        {
+          "label": "B",
+          "text": "Endemic"
+        },
+        {
+          "label": "C",
+          "text": "Pandemic"
+        },
+        {
+          "label": "D",
+          "text": "Zoonotic"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Antivirals can be used prophylactically or therapeutically in persons in which of the following circumstances?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If administered within 4 days of clinical signs"
+        },
+        {
+          "label": "B",
+          "text": "If used within 48 hours of first clinical signs"
+        },
+        {
+          "label": "C",
+          "text": "Used for the obese"
+        },
+        {
+          "label": "D",
+          "text": "Used in children under the age of 2 years where high virus spread is noted"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "How are herpes infections controlled?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chemotherapy"
+        },
+        {
+          "label": "B",
+          "text": "Vaccines"
+        },
+        {
+          "label": "C",
+          "text": "Hygiene and social distancing"
+        },
+        {
+          "label": "D",
+          "text": "No method"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "How is next generation sequencing (NGS) most often used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To identify a newly discovered virus"
+        },
+        {
+          "label": "B",
+          "text": "To search for drug resistant mutants"
+        },
+        {
+          "label": "C",
+          "text": "To identify quasi species viruses"
+        },
+        {
+          "label": "D",
+          "text": "Cannot be used"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Nipah is a zoonotic paramyxovirus; where did it originate?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Originating in pigs"
+        },
+        {
+          "label": "B",
+          "text": "Originating in bats"
+        },
+        {
+          "label": "C",
+          "text": "Coming from humans"
+        },
+        {
+          "label": "D",
+          "text": "Coming from horses"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Polio can be eradicated by which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attention to sewage control and hygiene"
+        },
+        {
+          "label": "B",
+          "text": "Killed polio vaccine"
+        },
+        {
+          "label": "C",
+          "text": "Live polio vaccine"
+        },
+        {
+          "label": "D",
+          "text": "Combination of the killed and live vaccines."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "SARS is described as a zoonotic virus - what does this mean?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Such viruses are confined to animals"
+        },
+        {
+          "label": "B",
+          "text": "They do not cause disease in humans"
+        },
+        {
+          "label": "C",
+          "text": "They emerge from animals to cross the species barrier infrequently"
+        },
+        {
+          "label": "D",
+          "text": "They cause pandemics"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "There is no vaccine against HIV because of which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The virus is so antigenically variable"
+        },
+        {
+          "label": "B",
+          "text": "Such a vaccine would be too expensive"
+        },
+        {
+          "label": "C",
+          "text": "The virus can be controlled by a change in sexual habits"
+        },
+        {
+          "label": "D",
+          "text": "Latency can abrogate any vaccine effect"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "What is the current best option for preventing future outbreaks of Ebola?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rebuild scientific, medical and nursing infrastructure and train staff"
+        },
+        {
+          "label": "B",
+          "text": "Early and accurate diagnosis with molecular kits"
+        },
+        {
+          "label": "C",
+          "text": "Develop effective vaccines"
+        },
+        {
+          "label": "D",
+          "text": "Arrange rapid intervention into West Africa with EU and USA army teams"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "Which of the following coronaviruses has caused thousands of deaths around the world as an 'emergent' virus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "MERS"
+        },
+        {
+          "label": "B",
+          "text": "SARS"
+        },
+        {
+          "label": "C",
+          "text": "OC43"
+        },
+        {
+          "label": "D",
+          "text": "HKU1"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which of the following HPV viruses are known to cause cervical cancer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Viruses of all 5 clades"
+        },
+        {
+          "label": "B",
+          "text": "Types 14, 16, 18, 31, 45"
+        },
+        {
+          "label": "C",
+          "text": "None are oncogenic per se"
+        },
+        {
+          "label": "D",
+          "text": "Types 1-180"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Why are drug combinations essential for HIV?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Single drugs are not completely inhibitory"
+        },
+        {
+          "label": "B",
+          "text": "Mutations negate the effect of one drug"
+        },
+        {
+          "label": "C",
+          "text": "Combinations of antibiotics are effective versus TB"
+        },
+        {
+          "label": "D",
+          "text": "The virus cannot mutate vs a combination"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    }
+  ]
+}

@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_marketing_test",
+  "description": "Marketing multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — marketing subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "_________ enable different types of uncertainty to be lowered in several ways (Fill and McKee, 2012). These include reducing the complexity, increasing value and competitive advantage, routinization, and providing specialization.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warehouse."
+        },
+        {
+          "label": "B",
+          "text": "Distribution."
+        },
+        {
+          "label": "C",
+          "text": "Supply chain."
+        },
+        {
+          "label": "D",
+          "text": "Marketing channels."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "___________ is based on the idea that customer expectations of the service they will receive shape their perception of the actual service encounter.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Service quality."
+        },
+        {
+          "label": "B",
+          "text": "Service action."
+        },
+        {
+          "label": "C",
+          "text": "Service recovery."
+        },
+        {
+          "label": "D",
+          "text": "Service satisfaction."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "In B2B contexts, ___________ occurs in large organizations where considerable internal dealing between different company divisions occurs, often across national boundaries.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Price gouging."
+        },
+        {
+          "label": "B",
+          "text": "Transfer pricing."
+        },
+        {
+          "label": "C",
+          "text": "Pay what you want pricing."
+        },
+        {
+          "label": "D",
+          "text": "EVC pricing."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "The role of marketing communications is to engage audiences and there are four main tasks that it can be used to complete. Which of the following is not part of the four main tasks?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Differentiate."
+        },
+        {
+          "label": "B",
+          "text": "Participate."
+        },
+        {
+          "label": "C",
+          "text": "Reinforce."
+        },
+        {
+          "label": "D",
+          "text": "Inform."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "These are stores designed to kill off the competition and are characterized by narrow but very deep product assortment, low prices, and few to moderate customer services:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speciality stores."
+        },
+        {
+          "label": "B",
+          "text": "Limited line retailers."
+        },
+        {
+          "label": "C",
+          "text": "Category-killer stores."
+        },
+        {
+          "label": "D",
+          "text": "Superstores."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "A probability sample constructed so that randomly selected sub-samples of different groups are represented in the total sample is called a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stratified sample."
+        },
+        {
+          "label": "B",
+          "text": "Convenience sample."
+        },
+        {
+          "label": "C",
+          "text": "Quota sample."
+        },
+        {
+          "label": "D",
+          "text": "Cluster sample."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Conflict between sequential members in a distribution network, such as producers, distributor, and retailers, over such matters as carrying a particular range or price increases is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Channel conflict."
+        },
+        {
+          "label": "B",
+          "text": "Horizontal conflict."
+        },
+        {
+          "label": "C",
+          "text": "Vertical conflict."
+        },
+        {
+          "label": "D",
+          "text": "Supply chain conflict."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "A key benefit of the STP process is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "More effective and efficient matching of company resources to targeted market segments promising the greatest ROMI."
+        },
+        {
+          "label": "B",
+          "text": "Enhancing a company's competitive position by providing direction and focus for marketing strategies."
+        },
+        {
+          "label": "C",
+          "text": "Examining and identifying growth opportunities in the market through the identification of new customers, growth segments, or new product uses."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "These sell directly to end consumers and may purchase directly from manufacturers and/or deal with wholesalers:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Distributors."
+        },
+        {
+          "label": "B",
+          "text": "Franchising."
+        },
+        {
+          "label": "C",
+          "text": "Merchant."
+        },
+        {
+          "label": "D",
+          "text": "Retailers."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Which type of retailer involves comparatively low prices as a major selling point combined with the reduced costs of doing business?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discount retailers."
+        },
+        {
+          "label": "B",
+          "text": "Convenience stores."
+        },
+        {
+          "label": "C",
+          "text": "Category killer stores."
+        },
+        {
+          "label": "D",
+          "text": "Limited line retailers."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Market testing studies use __________ to carry out controlled experiments in specific country regions, where specific adverts can be shown, before exposing the 'new feature' (offering, campaign, distribution, etc.) to a full national or even international launch.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Test markets."
+        },
+        {
+          "label": "B",
+          "text": "Data mining."
+        },
+        {
+          "label": "C",
+          "text": "Analytical information."
+        },
+        {
+          "label": "D",
+          "text": "Storyboards."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Which of the following is not an example of a behavioural variable?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Product usage."
+        },
+        {
+          "label": "B",
+          "text": "Media usage."
+        },
+        {
+          "label": "C",
+          "text": "Purchase occasion."
+        },
+        {
+          "label": "D",
+          "text": "Personality."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": " In the _________ stage in the adoption process, consumers become aware of the new proposition. They have little information and have yet to develop any particular attitudes towards the product. Indeed, at this stage consumers are not interested in finding out any more information.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Persuasion"
+        },
+        {
+          "label": "B",
+          "text": "Confirmation"
+        },
+        {
+          "label": "C",
+          "text": "Knowledge"
+        },
+        {
+          "label": "D",
+          "text": "Implementation"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "Information collected for the first time specifically for a marketing research study is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Secondary research."
+        },
+        {
+          "label": "B",
+          "text": "Primary research."
+        },
+        {
+          "label": "C",
+          "text": "Soft research."
+        },
+        {
+          "label": "D",
+          "text": "Experimental research."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "This level of branding can be seen when a customer attaches a name, term, or other feature that enables them to identify one seller's good or service as distinct from those of other sellers. This branding is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corporate brand."
+        },
+        {
+          "label": "B",
+          "text": "Family branding."
+        },
+        {
+          "label": "C",
+          "text": "Customer branding."
+        },
+        {
+          "label": "D",
+          "text": "International brand."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "Which of the following is the rate at which a market adopts an innovation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Process of diffusion."
+        },
+        {
+          "label": "B",
+          "text": "Process of differentiation."
+        },
+        {
+          "label": "C",
+          "text": "Adoption process."
+        },
+        {
+          "label": "D",
+          "text": "Adoption lifecycle."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "_______________ are used in the positioning process to illustrate differing attributes of a selection of brands.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Product features."
+        },
+        {
+          "label": "B",
+          "text": "SIC code."
+        },
+        {
+          "label": "C",
+          "text": "Perceptual maps."
+        },
+        {
+          "label": "D",
+          "text": "Organizational characteristics."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Current changes in behaviors clearly show that ______ is taking over more and more of consumer online searches.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social media."
+        },
+        {
+          "label": "B",
+          "text": "Mobile."
+        },
+        {
+          "label": "C",
+          "text": "Internet."
+        },
+        {
+          "label": "D",
+          "text": "Blog."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "Joint creation of value, in which customers take part in an active dialogue and co-construct personalized experiences, is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interactive marketing."
+        },
+        {
+          "label": "B",
+          "text": "Co-creation experience."
+        },
+        {
+          "label": "C",
+          "text": "Relationship marketing."
+        },
+        {
+          "label": "D",
+          "text": "Organization marketing."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": " These goods are low-priced products that are bought frequently, are used just once, and incur low levels of purchase risk:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Non-durable."
+        },
+        {
+          "label": "B",
+          "text": "Durable."
+        },
+        {
+          "label": "C",
+          "text": "Generic."
+        },
+        {
+          "label": "D",
+          "text": "Luxury."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": " Internet-based organizations designed to provide information to channel members, including end-users are referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Infomediaries."
+        },
+        {
+          "label": "B",
+          "text": "Retailers."
+        },
+        {
+          "label": "C",
+          "text": "Department stores."
+        },
+        {
+          "label": "D",
+          "text": "Wholesalers."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "____________ is a form of digital marketing that describes the use of the social web and social media (e.g. social networks, online communities, blogs or wikis) or any online collaborative technology for marketing activities, be it sales, public relations, research, distribution, or customer service.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pay per click (PPC)"
+        },
+        {
+          "label": "B",
+          "text": "Digital asset optimization (DAO)"
+        },
+        {
+          "label": "C",
+          "text": "Social media marketing (SMM)"
+        },
+        {
+          "label": "D",
+          "text": "Search engine optimization (SEO)"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "This branding policy requires that all the products use the organization's name, either entirely or in part, e.g. Microsoft, Heinz, and Kellogg's",
+      "options": [
+        {
+          "label": "A",
+          "text": "Individual branding."
+        },
+        {
+          "label": "B",
+          "text": "Family branding."
+        },
+        {
+          "label": "C",
+          "text": "Corporate brands."
+        },
+        {
+          "label": "D",
+          "text": "Manufacturer brand."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Which type of shop offers a range of grocery and household items that cater for last-minute purchase needs of consumers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Supermarkets."
+        },
+        {
+          "label": "B",
+          "text": "Convenience stores."
+        },
+        {
+          "label": "C",
+          "text": "Category-killer stores."
+        },
+        {
+          "label": "D",
+          "text": "Limited line retailers."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "A method of marketing by electronic mail wherein the recipient of the message has consented to receive it is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Search marketing."
+        },
+        {
+          "label": "B",
+          "text": "Internet advertising."
+        },
+        {
+          "label": "C",
+          "text": "Permission-based email marketing."
+        },
+        {
+          "label": "D",
+          "text": "Social web marketing."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Which of the following consumer buying behaviours requires the least effort?",
+      "options": [
+        {
+          "label": "A",
+          "text": "High involvement buying situation."
+        },
+        {
+          "label": "B",
+          "text": "New buying situation."
+        },
+        {
+          "label": "C",
+          "text": "Routine buying."
+        },
+        {
+          "label": "D",
+          "text": "Impulsive buying."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "The pricing approach where prices are set based on what competitors are charging is called the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cost-oriented approach."
+        },
+        {
+          "label": "B",
+          "text": "Demand-oriented approach."
+        },
+        {
+          "label": "C",
+          "text": "Competitor-oriented approach."
+        },
+        {
+          "label": "D",
+          "text": "Value-oriented approach."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "The management and execution of marketing using digital electronic technologies and channels (e.g. web, email, digital TV, wireless media) and digital data about user/customer characteristics and behaviour is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "E-marketing."
+        },
+        {
+          "label": "B",
+          "text": "Social marketing."
+        },
+        {
+          "label": "C",
+          "text": "Digital marketing"
+        },
+        {
+          "label": "D",
+          "text": "Internet marketing."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": " Pine and Gilmore (1999) derive four distinct realms of experience, based on two dimensions. What are these dimensions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Customer participation and environmental relationship."
+        },
+        {
+          "label": "B",
+          "text": "Customer acquisition and environmental relationship."
+        },
+        {
+          "label": "C",
+          "text": "Customer participation and customer relationship."
+        },
+        {
+          "label": "D",
+          "text": "Customer retention and customer relationship."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "The purpose of evaluating the attractiveness of the differing market segments identified in the second stage of the market segmentation process is to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identify the specific members of each segment to be able to contact each of them directly."
+        },
+        {
+          "label": "B",
+          "text": "Determine the level of resources that must be committed to each segment."
+        },
+        {
+          "label": "C",
+          "text": "Evaluate the market potential within each segment."
+        },
+        {
+          "label": "D",
+          "text": "Design marketing strategy and tactics to reinforce the firm's image."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": " When there is little or no personal contact between customer and service provider, this is classified as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low-contact service."
+        },
+        {
+          "label": "B",
+          "text": "Medium-contact service."
+        },
+        {
+          "label": "C",
+          "text": "High-contact service."
+        },
+        {
+          "label": "D",
+          "text": "Intense-contact service."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "These are chains of organizations that are concerned with the management of the processes and activities involved in creating and moving products from producers and manufacturers to end-user customers. The organizations involved with any one journey, are collectively termed as a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Distribution."
+        },
+        {
+          "label": "B",
+          "text": "Vendor."
+        },
+        {
+          "label": "C",
+          "text": "Communication."
+        },
+        {
+          "label": "D",
+          "text": "Selling."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "This business-to-business pricing approach seeks to understand customers' needs before pricing the offering according to those needs in order to generate a long-term relationship. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Geographical pricing."
+        },
+        {
+          "label": "B",
+          "text": "Discount pricing."
+        },
+        {
+          "label": "C",
+          "text": "Relationship pricing."
+        },
+        {
+          "label": "D",
+          "text": "Value-in-use pricing."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Services are characterized by five distinct characteristics. These are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intangibility, value, variability, inseparability, and a lack of ownership."
+        },
+        {
+          "label": "B",
+          "text": "Intangibility, value, variability, inseparability, and profitability."
+        },
+        {
+          "label": "C",
+          "text": "Intangibility, perishability, variability, inseparability, and a lack of ownership."
+        },
+        {
+          "label": "D",
+          "text": "Intangibility, value, variability, inseparability, and relationship."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "In marketing terms, ___________ refers to what we get for what we pay:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Revenue."
+        },
+        {
+          "label": "B",
+          "text": "Cost."
+        },
+        {
+          "label": "C",
+          "text": "Value."
+        },
+        {
+          "label": "D",
+          "text": "Product."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "What type of media helps advertisers demonstrate the benefits of using a particular product and can bring life and energy to an advertiser's message?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Broadcast media."
+        },
+        {
+          "label": "B",
+          "text": "Interactive media."
+        },
+        {
+          "label": "C",
+          "text": "Print media."
+        },
+        {
+          "label": "D",
+          "text": "Support media."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "_______________ is concerned with the development of knowledge that is specific to the parties involved and is referred to as 'learning together'.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dialogue."
+        },
+        {
+          "label": "B",
+          "text": "Personal influencer."
+        },
+        {
+          "label": "C",
+          "text": "Feedback."
+        },
+        {
+          "label": "D",
+          "text": "Message."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The process that creates changes in behaviour is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selective adaptation."
+        },
+        {
+          "label": "B",
+          "text": "Learning."
+        },
+        {
+          "label": "C",
+          "text": "Involvement manipulation."
+        },
+        {
+          "label": "D",
+          "text": "Attitude adjustment."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "AIDA stands for awareness, ________, desire and _________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Interest; action."
+        },
+        {
+          "label": "B",
+          "text": "Intensity; appeal."
+        },
+        {
+          "label": "C",
+          "text": "Involvement; action."
+        },
+        {
+          "label": "D",
+          "text": "Involvement; appeal."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "A company builds its sales message, advertising message, and promotion theme to influence how a particular market sector perceives a good or service in comparison with the competition. The company is primarily engaged in",
+      "options": [
+        {
+          "label": "A",
+          "text": "segmentation"
+        },
+        {
+          "label": "B",
+          "text": "mass customization"
+        },
+        {
+          "label": "C",
+          "text": "concentrated targeting"
+        },
+        {
+          "label": "D",
+          "text": "positioning"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "This form of marketing communications tool is referred to as 'a paid, mediated form of communication from an identifiable source, designed to persuade the receiver to take some action, now or in the future'. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Advertising."
+        },
+        {
+          "label": "B",
+          "text": "Personal selling."
+        },
+        {
+          "label": "C",
+          "text": "Public relations."
+        },
+        {
+          "label": "D",
+          "text": "Publicity."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": " ____________ is also a form of sponsorship and represents a relationship between film/TV producers and managers of brands. Through this arrangement, brand managers are able, for a fee, to present their brands 'naturally' within a film or entertainment event. Such placement is designed to increase brand awareness, develop positive brand attitudes, and possibly lead to purchase activity.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brand placement."
+        },
+        {
+          "label": "B",
+          "text": "Field marketing."
+        },
+        {
+          "label": "C",
+          "text": "Exhibition."
+        },
+        {
+          "label": "D",
+          "text": "Viral marketing."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "The extent to which a service envelops a product varies according to a number of factors. Which of the following is NOT one of the factors?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The level of tangibility associated with the type of product."
+        },
+        {
+          "label": "B",
+          "text": "Performance-value."
+        },
+        {
+          "label": "C",
+          "text": "Variations in supply and demand."
+        },
+        {
+          "label": "D",
+          "text": "The way in which the service is delivered."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Many retail brands adopt a single umbrella brand, based on the name of the organization. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Family branding."
+        },
+        {
+          "label": "B",
+          "text": "Corporate brands."
+        },
+        {
+          "label": "C",
+          "text": "Individual branding."
+        },
+        {
+          "label": "D",
+          "text": "Manufacturer brand."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": " Which of the following is a stage in the new product development process, undertaken when a new product is tested with a sample of customers, or is launched in a specified geographical area, to judge customers' reactions prior to a national launch?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Test marketing."
+        },
+        {
+          "label": "B",
+          "text": "Focused marketing."
+        },
+        {
+          "label": "C",
+          "text": "Live marketing."
+        },
+        {
+          "label": "D",
+          "text": "Generic marketing."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Marketers usually decide whether to conduct marketing research study internally or through an outside organization based on certain criteria. Which of the following criterion is not used?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whether the study offers value for money."
+        },
+        {
+          "label": "B",
+          "text": "The agency's reputation."
+        },
+        {
+          "label": "C",
+          "text": "The likelihood that the research design will provide insights into the management problem."
+        },
+        {
+          "label": "D",
+          "text": "The size of the agency."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Post-purchase re-evaluation of the consumer proposition acquisition process attempts to measure the degree of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Selling success experienced by the vendor."
+        },
+        {
+          "label": "B",
+          "text": "Consumer satisfaction with the purchase."
+        },
+        {
+          "label": "C",
+          "text": "Follow-up effectiveness of the firm."
+        },
+        {
+          "label": "D",
+          "text": "Advertising influence on the purchase."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": " ____________ describes the extrinsic properties of the product (the colour, the packaging, the product consistency, associations) and level to which these satisfy customers' psychological or social needs.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brand repositioning."
+        },
+        {
+          "label": "B",
+          "text": "Brand stretching."
+        },
+        {
+          "label": "C",
+          "text": "Brand equity."
+        },
+        {
+          "label": "D",
+          "text": "Brand imagery."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "A person who is in the position of attempting to satisfy their needs at the most basic level is operating at the level of Maslow's needs hierarchy called the need for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Self-actualization."
+        },
+        {
+          "label": "B",
+          "text": "Esteem."
+        },
+        {
+          "label": "C",
+          "text": "Physiological needs."
+        },
+        {
+          "label": "D",
+          "text": "Belongingness."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "When an individual passively appreciates an event or environment but leaves without affecting or altering the nature of the environment is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Entertainment realm."
+        },
+        {
+          "label": "B",
+          "text": "Educational realm."
+        },
+        {
+          "label": "C",
+          "text": "Aesthetic realm."
+        },
+        {
+          "label": "D",
+          "text": "Escapist realm"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Nysveen and Pedersen (2014) added in key dimensions of customer experience. The ______________ refers to how strongly a brand engages consumers in physical activities.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Affective dimension."
+        },
+        {
+          "label": "B",
+          "text": "Intellectual dimension."
+        },
+        {
+          "label": "C",
+          "text": "Behavioural dimension."
+        },
+        {
+          "label": "D",
+          "text": "Sensory dimension."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Second-hand data, collected for someone else's purposes, is known as____________:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary research."
+        },
+        {
+          "label": "B",
+          "text": "Descriptive research."
+        },
+        {
+          "label": "C",
+          "text": "Causal research."
+        },
+        {
+          "label": "D",
+          "text": "Secondary research."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "The importance and significance of customer experience to both individuals and society is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Knowledge economy."
+        },
+        {
+          "label": "B",
+          "text": "Service economy."
+        },
+        {
+          "label": "C",
+          "text": "Experience economy."
+        },
+        {
+          "label": "D",
+          "text": "Customer economy."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "These goods are bought infrequently, used repeatedly, and involve a reasonably high level of consumer risk:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Impulse goods."
+        },
+        {
+          "label": "B",
+          "text": "Luxury goods."
+        },
+        {
+          "label": "C",
+          "text": "Non-durable goods."
+        },
+        {
+          "label": "D",
+          "text": "Durable goods."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "Which of the following is a type of consumer product bought relatively infrequently and which requires consumers to update their knowledge prior to purchase?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Luxury product."
+        },
+        {
+          "label": "B",
+          "text": "Shopping product."
+        },
+        {
+          "label": "C",
+          "text": "Generic products."
+        },
+        {
+          "label": "D",
+          "text": "Branded products."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "These are non-durable goods or services, often bought with little pre-purchase thought or consideration:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Impulse products."
+        },
+        {
+          "label": "B",
+          "text": "Manufacturer products."
+        },
+        {
+          "label": "C",
+          "text": "Convenience products."
+        },
+        {
+          "label": "D",
+          "text": "Luxury products."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "The three stages of attitude formation are that we learn something, we feel something, and we act on our attitudes. The stage that we learn something is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Behaviour."
+        },
+        {
+          "label": "B",
+          "text": "Conative."
+        },
+        {
+          "label": "C",
+          "text": "Cognitive."
+        },
+        {
+          "label": "D",
+          "text": "Emotional."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": " In B2B contexts, prices are set according to specific agreements between a company and its clients or customers (e.g. professional services such as architectural or structural engineering).This pricing approach is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Negotiated price"
+        },
+        {
+          "label": "B",
+          "text": "Internal pricing."
+        },
+        {
+          "label": "C",
+          "text": "Listed pricing."
+        },
+        {
+          "label": "D",
+          "text": "Cost pricing."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": " Organizational characteristics, such as organizational size and location, are sometimes referred to as___________.",
+      "options": [
+        {
+          "label": "A",
+          "text": "DMU."
+        },
+        {
+          "label": "B",
+          "text": "Firmographics."
+        },
+        {
+          "label": "C",
+          "text": "ACORN"
+        },
+        {
+          "label": "D",
+          "text": "Product usage."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": " This is a form of targeted advertising, on websites, with advertisements selected and served by automated systems based on the content displayed to the user.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contextual advertising."
+        },
+        {
+          "label": "B",
+          "text": "Interactive marketing."
+        },
+        {
+          "label": "C",
+          "text": "Internet advertising."
+        },
+        {
+          "label": "D",
+          "text": "Direct marketing."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "This is the process in which offerings move through a sequential, pre-determined pattern of development similar to the biological path that lifeforms follow:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Diffusion process."
+        },
+        {
+          "label": "B",
+          "text": "Product lifecycle."
+        },
+        {
+          "label": "C",
+          "text": "Adoption process."
+        },
+        {
+          "label": "D",
+          "text": "Service development."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Which of the following is the investigation of the hedonic consumption of products?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Social interaction perspective."
+        },
+        {
+          "label": "B",
+          "text": "Functional utilization perspective."
+        },
+        {
+          "label": "C",
+          "text": "Experiential consumption."
+        },
+        {
+          "label": "D",
+          "text": "Brand management perspective."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Which of the following is not the rationale for developing CSR initiatives?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Corporations have responsibilities going beyond the production of their offerings at a profit."
+        },
+        {
+          "label": "B",
+          "text": "Corporations have a broader constituency of stakeholders than shareholders alone."
+        },
+        {
+          "label": "C",
+          "text": "The impacts of corporations limit to only simple marketplace transactions."
+        },
+        {
+          "label": "D",
+          "text": "Corporations serve a wider range of human values, not captured solely by a focus on economic values."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "________________reflect a purchaser's high level of involvement in the purchase decision. There is high perceived risk in these decisions so consumers spend a great deal of time, care, and energy searching, formulating, and making the final decision.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Durable goods."
+        },
+        {
+          "label": "B",
+          "text": "Non-durable goods."
+        },
+        {
+          "label": "C",
+          "text": "Convenience products."
+        },
+        {
+          "label": "D",
+          "text": "Services."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "_____________ helps in 'problematizing hitherto uncontentious marketing areas to reveal underlying institutional and theoretical dysfunctionalities' (Saren, 2011:95).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Production marketing"
+        },
+        {
+          "label": "B",
+          "text": "Sustainable marketing"
+        },
+        {
+          "label": "C",
+          "text": "Relationship marketing"
+        },
+        {
+          "label": "D",
+          "text": "Critical marketing analysis"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "This includes advertisements that contain 'call-to-response' mechanisms such as telephone numbers, website addresses, email and postal addresses:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct response advertising."
+        },
+        {
+          "label": "B",
+          "text": "Sales promotions."
+        },
+        {
+          "label": "C",
+          "text": "Mass media advertising."
+        },
+        {
+          "label": "D",
+          "text": "Public relations."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": " This is where intermediaries are given exclusive rights to market the good or service within a defined 'territory', thus using a very limited number of intermediaries:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Exclusive."
+        },
+        {
+          "label": "B",
+          "text": "Intensive."
+        },
+        {
+          "label": "C",
+          "text": "Selective."
+        },
+        {
+          "label": "D",
+          "text": "Direct."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Types of non-random samples include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Convenience and quota samples."
+        },
+        {
+          "label": "B",
+          "text": "Cluster and convenience samples."
+        },
+        {
+          "label": "C",
+          "text": "Stratified and convenience samples."
+        },
+        {
+          "label": "D",
+          "text": "Random and cluster samples."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "___________ occurs when a website's structure and content is improved to maximize its listing in organic search engine results pages using relevant keywords or search phrases.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Paid inclusion."
+        },
+        {
+          "label": "B",
+          "text": "Search engine optimization."
+        },
+        {
+          "label": "C",
+          "text": "Contextual search."
+        },
+        {
+          "label": "D",
+          "text": "Pay per click."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "A marketing philosophy summarized by the phrase 'a stronger focus on social and ethical concerns in marketing' is characteristic of the _________ period.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Production."
+        },
+        {
+          "label": "B",
+          "text": "Sales."
+        },
+        {
+          "label": "C",
+          "text": "Marketing."
+        },
+        {
+          "label": "D",
+          "text": "societal marketing."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "Which of the following gives the owner exclusive rights by law to use a brand?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brand loyalty"
+        },
+        {
+          "label": "B",
+          "text": "Brand mark"
+        },
+        {
+          "label": "C",
+          "text": "Trade name"
+        },
+        {
+          "label": "D",
+          "text": "Trademark"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": " Once referred to as a multibrand policy, this branding strategy requires that each product offered by an organization is branded independently of all the others. This is known as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Individual branding."
+        },
+        {
+          "label": "B",
+          "text": "Corporate brands."
+        },
+        {
+          "label": "C",
+          "text": "Family branding."
+        },
+        {
+          "label": "D",
+          "text": "Co-branding."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "These are costs which do not vary according to the number of units of product made or service sold:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fixed costs."
+        },
+        {
+          "label": "B",
+          "text": "Moving assets."
+        },
+        {
+          "label": "C",
+          "text": "Working capital."
+        },
+        {
+          "label": "D",
+          "text": "Fixed capital."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": " Many brands are deliberately imbued with human characteristics, to the point that they are identified as having particular personalities. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Branding pyramid."
+        },
+        {
+          "label": "B",
+          "text": "Brand value."
+        },
+        {
+          "label": "C",
+          "text": "Brand names."
+        },
+        {
+          "label": "D",
+          "text": "Brand personalities."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "This is a group of people in the process of diffusion who enjoy being at the leading edge of innovation and buy into new products at an early stage:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Late majority."
+        },
+        {
+          "label": "B",
+          "text": "Early adopter."
+        },
+        {
+          "label": "C",
+          "text": "Early majority."
+        },
+        {
+          "label": "D",
+          "text": "Laggards."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "In order for exchange to occur:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A complex societal system must be involved."
+        },
+        {
+          "label": "B",
+          "text": "Organized marketing activities must also occur."
+        },
+        {
+          "label": "C",
+          "text": "A profit-oriented organization must be involved."
+        },
+        {
+          "label": "D",
+          "text": "Each party must have something of value to the other party."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "Which of the following elements is not part of Porter's Five Forces model for industry competitiveness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Threat of substitutes."
+        },
+        {
+          "label": "B",
+          "text": "Threat of suppliers."
+        },
+        {
+          "label": "C",
+          "text": "Power of buyers."
+        },
+        {
+          "label": "D",
+          "text": "Threat from government."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Our perception of risk is greater if we are continually reminded of it than if we consider it only at the point of purchase. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Purchase context."
+        },
+        {
+          "label": "B",
+          "text": "Price bonding."
+        },
+        {
+          "label": "C",
+          "text": "Odd number pricing."
+        },
+        {
+          "label": "D",
+          "text": "Mark-up price."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Which of the following is the interpersonal communication about products or services where a receiver regards the communicator as impartial and is not attempting to sell products or services?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Word of Mouth (WOM)."
+        },
+        {
+          "label": "B",
+          "text": "Personal Selling (PS)."
+        },
+        {
+          "label": "C",
+          "text": "Direct Marketing (DM)."
+        },
+        {
+          "label": "D",
+          "text": "Customer Service (CS)."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "____________ is the set of practices that enables organizations to communicate and engage interactively with their audiences through any mobile device or network.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mobile marketing"
+        },
+        {
+          "label": "B",
+          "text": "Social web marketing."
+        },
+        {
+          "label": "C",
+          "text": "Internet marketing"
+        },
+        {
+          "label": "D",
+          "text": "Social media marketing"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "New technology results in new goods and services, and it can also:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower the quality of existing products."
+        },
+        {
+          "label": "B",
+          "text": "Lower the available level of customer service."
+        },
+        {
+          "label": "C",
+          "text": "Reduce prices through new production and distribution methods."
+        },
+        {
+          "label": "D",
+          "text": "Bring back products that were considered obsolete."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": " Before beginning the market segmentation process, a firm should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Identify bases for segmenting markets."
+        },
+        {
+          "label": "B",
+          "text": "Forecast total market potential."
+        },
+        {
+          "label": "C",
+          "text": "Forecast market share."
+        },
+        {
+          "label": "D",
+          "text": "Select target market segments."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "An advertising model in which advertisers bid on keywords or phrases relevant to their target market, with sponsored/paid search engine listings to drive traffic to a website is called:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Search engine optimization (SEO)."
+        },
+        {
+          "label": "B",
+          "text": "Contextual advertising."
+        },
+        {
+          "label": "C",
+          "text": "Digital asset optimization (DAO)."
+        },
+        {
+          "label": "D",
+          "text": "Pay per click (PPC)."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "_____________ is an assessment of a company's mix of products, services, investments, and other assets in order to optimize the use of resources and to assess its suitability, level of risk, and expected financial return.",
+      "options": [
+        {
+          "label": "A",
+          "text": "SWOT analysis."
+        },
+        {
+          "label": "B",
+          "text": "Political analysis."
+        },
+        {
+          "label": "C",
+          "text": "Portfolio analysis."
+        },
+        {
+          "label": "D",
+          "text": "Competitive analysis."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The Internet has led to the development of an information intermediary. Here the key role is to manage information to improve the efficiency and effectiveness of the distribution channel. This is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Time utility."
+        },
+        {
+          "label": "B",
+          "text": "Information utility."
+        },
+        {
+          "label": "C",
+          "text": "Ownership utility."
+        },
+        {
+          "label": "D",
+          "text": "Place utility."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "This is something that at some time in the future may destabilize and/or reduce the potential performance of the organization.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strength."
+        },
+        {
+          "label": "B",
+          "text": "Weakness."
+        },
+        {
+          "label": "C",
+          "text": "Threat."
+        },
+        {
+          "label": "D",
+          "text": "Opportunities."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Economic—marketing should encourage long-term economic development as opposed to short-term economic development.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ecological, evolutionary, and economic"
+        },
+        {
+          "label": "B",
+          "text": "Ecological, equitable, and economic"
+        },
+        {
+          "label": "C",
+          "text": "Evolutionary, equitable, and economic."
+        },
+        {
+          "label": "D",
+          "text": "Ecological, equitable, and emerging."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Which technique is used to collect data that has been previously collected for a purpose other than the current research situation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Primary research."
+        },
+        {
+          "label": "B",
+          "text": "Secondary research."
+        },
+        {
+          "label": "C",
+          "text": "Primary and secondary."
+        },
+        {
+          "label": "D",
+          "text": "Primary and desk research."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "Services are consumed at the point they are produced. In other words, service delivery cannot be separated or split out of service provision or service consumption. Which characteristic of service is this referred to?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intangibility."
+        },
+        {
+          "label": "B",
+          "text": "Variability."
+        },
+        {
+          "label": "C",
+          "text": "Inseparability."
+        },
+        {
+          "label": "D",
+          "text": "Perishability."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "This is when a product or service is offered together with another typically complementary product or service:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Product pricing."
+        },
+        {
+          "label": "B",
+          "text": "Price differentiation."
+        },
+        {
+          "label": "C",
+          "text": "Pure price bundling."
+        },
+        {
+          "label": "D",
+          "text": "Odd-Number pricing."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Firms that view themselves as market leaders in product quality frequently adopt a",
+      "options": [
+        {
+          "label": "A",
+          "text": "market share strategy"
+        },
+        {
+          "label": "B",
+          "text": "penetration pricing strategy"
+        },
+        {
+          "label": "C",
+          "text": "strategy that focuses on non-price benefits"
+        },
+        {
+          "label": "D",
+          "text": "strategy to expand the overall market"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "ACORN, a segmentation analysis technique, stands for which of the following?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A corresponding official residential notation."
+        },
+        {
+          "label": "B",
+          "text": "A classification of reported nationals."
+        },
+        {
+          "label": "C",
+          "text": "A classification of residential neighbourhoods."
+        },
+        {
+          "label": "D",
+          "text": "A countrywide official resources navigation."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "A commonly used basis for segmenting consumer markets is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Organizational size."
+        },
+        {
+          "label": "B",
+          "text": "Demographics."
+        },
+        {
+          "label": "C",
+          "text": "Product type."
+        },
+        {
+          "label": "D",
+          "text": "Price."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "A commercial activity, whereby one party permits another an opportunity to exploit an association with a target audience in return for funds, services, or resources is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Advertising."
+        },
+        {
+          "label": "B",
+          "text": "Exchange."
+        },
+        {
+          "label": "C",
+          "text": "Sponsorship."
+        },
+        {
+          "label": "D",
+          "text": "Public relations."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": " A means of orchestrating the tools of the marketing communications mix, so that audiences perceive a single, consistent, unified message whenever they have contact with a brand, is referred to as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Integrated marketing communications (IMC)."
+        },
+        {
+          "label": "B",
+          "text": "Personal selling (PS)."
+        },
+        {
+          "label": "C",
+          "text": "Direct marketing (DM)."
+        },
+        {
+          "label": "D",
+          "text": "Customer service (CS)."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "These store goods for moderate to long periods:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Storage warehouses."
+        },
+        {
+          "label": "B",
+          "text": "Distribution centres."
+        },
+        {
+          "label": "C",
+          "text": "Haulage transport."
+        },
+        {
+          "label": "D",
+          "text": "Electronic data interchange."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": " __________ is the collection and interpretation of information about forces, events, and relationships that may affect the organization.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Environmental scanning"
+        },
+        {
+          "label": "B",
+          "text": "Stakeholder analysis"
+        },
+        {
+          "label": "C",
+          "text": "Market sampling"
+        },
+        {
+          "label": "D",
+          "text": "Opportunity analysis"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "This is where the perception on the part of a channel member is that its goal attainment is being impeded by another, with stress or tension the result:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Channel communication."
+        },
+        {
+          "label": "B",
+          "text": "Channel conflict."
+        },
+        {
+          "label": "C",
+          "text": "Channel relationships."
+        },
+        {
+          "label": "D",
+          "text": "Customer conflict."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Which of the following statements is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Marketing is the term used to refer only to the sales function within a firm."
+        },
+        {
+          "label": "B",
+          "text": "Marketing managers don't usually get involved in production or distribution decisions."
+        },
+        {
+          "label": "C",
+          "text": "Marketing is an activity that considers only the needs of the organization; not the needs of society as a whole."
+        },
+        {
+          "label": "D",
+          "text": "Marketing is the activity, set of institutions, and processes for creating, communicating, delivering, and exchanging offerings that have value for customers, clients, partners, and society at large."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": " It has been claimed that the three major outcomes from the development of relationship trust are satisfaction, ___________, and continuity (Pavlou, 2002).",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduced perceived risk."
+        },
+        {
+          "label": "B",
+          "text": "Service recovery."
+        },
+        {
+          "label": "C",
+          "text": "Service processes."
+        },
+        {
+          "label": "D",
+          "text": "Efficiency."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    }
+  ]
+}

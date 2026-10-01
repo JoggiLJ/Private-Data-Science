@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_engineering_validation",
+  "description": "MMLU-Pro benchmark items, category: engineering, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 40,
+      "text": "A point pole has a strength of 4π * 10^-4 weber. The force in newtons on a point pole of 4π * 1.5 * 10^-4 weber placed at a distance of 10 cm from it will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "25 N."
+        },
+        {
+          "label": "B",
+          "text": "12.5 N."
+        },
+        {
+          "label": "C",
+          "text": "15 N."
+        },
+        {
+          "label": "D",
+          "text": "10 N."
+        },
+        {
+          "label": "E",
+          "text": "7.5 N."
+        },
+        {
+          "label": "F",
+          "text": "20 N."
+        },
+        {
+          "label": "G",
+          "text": "5 N."
+        },
+        {
+          "label": "H",
+          "text": "3.75 N."
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "C",
+      "split": "validation"
+    },
+    {
+      "item_id": 41,
+      "text": "The coil of a moving coil meter has 100 turns, is 40 mm long and 30 mm wide. The control torque is 240*10-6 N-m on full scale. If magnetic flux density is 1Wb/m2 range of meter is",
+      "options": [
+        {
+          "label": "A",
+          "text": "2 mA."
+        },
+        {
+          "label": "B",
+          "text": "5 mA."
+        },
+        {
+          "label": "C",
+          "text": "1.5 mA."
+        },
+        {
+          "label": "D",
+          "text": "0.5 mA."
+        },
+        {
+          "label": "E",
+          "text": "6 mA."
+        },
+        {
+          "label": "F",
+          "text": "4 mA."
+        },
+        {
+          "label": "G",
+          "text": "3 mA."
+        },
+        {
+          "label": "H",
+          "text": "1 mA."
+        },
+        {
+          "label": "I",
+          "text": "2.5 mA."
+        },
+        {
+          "label": "J",
+          "text": "3.5 mA."
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 42,
+      "text": "In an SR latch built from NOR gates, which condition is not allowed",
+      "options": [
+        {
+          "label": "A",
+          "text": "S=0, R=2"
+        },
+        {
+          "label": "B",
+          "text": "S=2, R=2"
+        },
+        {
+          "label": "C",
+          "text": "S=1, R=1"
+        },
+        {
+          "label": "D",
+          "text": "S=1, R=-1"
+        },
+        {
+          "label": "E",
+          "text": "S=1, R=2"
+        },
+        {
+          "label": "F",
+          "text": "S=0, R=0"
+        },
+        {
+          "label": "G",
+          "text": "S=2, R=0"
+        },
+        {
+          "label": "H",
+          "text": "S=1, R=0"
+        },
+        {
+          "label": "I",
+          "text": "S=2, R=1"
+        },
+        {
+          "label": "J",
+          "text": "S=0, R=1"
+        }
+      ],
+      "correct_label": "C",
+      "split": "validation"
+    },
+    {
+      "item_id": 43,
+      "text": "Two long parallel conductors carry 100 A. If the conductors are separated by 20 mm, the force per meter of length of each conductor will be",
+      "options": [
+        {
+          "label": "A",
+          "text": "100 N."
+        },
+        {
+          "label": "B",
+          "text": "0.01 N."
+        },
+        {
+          "label": "C",
+          "text": "10 N."
+        },
+        {
+          "label": "D",
+          "text": "0.5 N."
+        },
+        {
+          "label": "E",
+          "text": "0.001 N."
+        },
+        {
+          "label": "F",
+          "text": "5 N."
+        },
+        {
+          "label": "G",
+          "text": "1 N."
+        },
+        {
+          "label": "H",
+          "text": "50 N."
+        },
+        {
+          "label": "I",
+          "text": "0.1 N."
+        },
+        {
+          "label": "J",
+          "text": "0.0001 N."
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 44,
+      "text": "In a 2 pole lap winding dc machine , the resistance of one conductor is 2Ω and total number of conductors is 100. Find the total resistance",
+      "options": [
+        {
+          "label": "A",
+          "text": "50Ω"
+        },
+        {
+          "label": "B",
+          "text": "1Ω"
+        },
+        {
+          "label": "C",
+          "text": "25Ω"
+        },
+        {
+          "label": "D",
+          "text": "200Ω"
+        },
+        {
+          "label": "E",
+          "text": "10Ω"
+        },
+        {
+          "label": "F",
+          "text": "100Ω"
+        },
+        {
+          "label": "G",
+          "text": "500Ω"
+        },
+        {
+          "label": "H",
+          "text": "150Ω"
+        },
+        {
+          "label": "I",
+          "text": "75Ω"
+        },
+        {
+          "label": "J",
+          "text": "20Ω"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    }
+  ]
+}

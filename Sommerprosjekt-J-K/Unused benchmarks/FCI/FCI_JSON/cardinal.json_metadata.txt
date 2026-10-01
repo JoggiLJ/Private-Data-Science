@@ -1,0 +1,55 @@
+Question: 5, Word Count: 102, Token Count: 129, Number of Alternatives: 5
+Question: 6, Word Count: 89, Token Count: 105, Number of Alternatives: 5
+Question: 7, Word Count: 112, Token Count: 130, Number of Alternatives: 5
+Question: 8, Word Count: 120, Token Count: 144, Number of Alternatives: 5
+Question: 12, Word Count: 119, Token Count: 140, Number of Alternatives: 5
+Question: 14, Word Count: 94, Token Count: 112, Number of Alternatives: 5
+Question: 18, Word Count: 106, Token Count: 148, Number of Alternatives: 5
+Question: 19, Word Count: 121, Token Count: 242, Number of Alternatives: 5
+Question: 20, Word Count: 143, Token Count: 229, Number of Alternatives: 5
+Question: 21, Word Count: 168, Token Count: 195, Number of Alternatives: 5
+Question: 23, Word Count: 116, Token Count: 137, Number of Alternatives: 5
+
+Avg word count: 117.27272727272727
+Avg token count: 155.54545454545453
+Avg alternatives count: 5.0
+
+Average similarity (excluding self-similarity): 0.4662424623966217
+--- Benchmark Results ---
+Question: 1, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 0/1 (0.00%)
+
+Question: 2, qwen3:14b answer: B, Result: Correct
+Running accuracy: 1/2 (50.00%)
+
+Question: 3, qwen3:14b answer: B, Result: Correct
+Running accuracy: 2/3 (66.67%)
+
+Question: 4, qwen3:14b answer: B, Result: Correct
+Running accuracy: 3/4 (75.00%)
+
+Question: 5, qwen3:14b answer: B, Result: Correct
+Running accuracy: 4/5 (80.00%)
+
+Question: 6, qwen3:14b answer: B, Result: Incorrect
+Running accuracy: 4/6 (66.67%)
+
+Warning: Model returned unexpected answer 'A) 1 only' for question 7
+
+Question: 7, qwen3:14b answer: A) 1 only, Result: Incorrect
+Running accuracy: 4/7 (57.14%)
+
+Question: 8, qwen3:14b answer: E, Result: Correct
+Running accuracy: 5/8 (62.50%)
+
+Question: 9, qwen3:14b answer: D, Result: Correct
+Running accuracy: 6/9 (66.67%)
+
+Question: 10, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 6/10 (60.00%)
+
+Question: 11, qwen3:14b answer: A, Result: Incorrect
+Running accuracy: 6/11 (54.55%)
+
+Final Score: 6/11
+Final Accuracy: 54.55%

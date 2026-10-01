@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_other_validation",
+  "description": "MMLU-Pro benchmark items, category: other, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 50,
+      "text": "As of 2017, how many of the world’s 1-year-old children today have been vaccinated against some disease? *",
+      "options": [
+        {
+          "label": "A",
+          "text": "30%"
+        },
+        {
+          "label": "B",
+          "text": "60%"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "90%"
+        },
+        {
+          "label": "E",
+          "text": "80%"
+        },
+        {
+          "label": "F",
+          "text": "40%"
+        },
+        {
+          "label": "G",
+          "text": "100%"
+        },
+        {
+          "label": "H",
+          "text": "50%"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "E",
+      "split": "validation"
+    },
+    {
+      "item_id": 51,
+      "text": "Which one of the following items is an example of nonmaterial culture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A dove feather"
+        },
+        {
+          "label": "B",
+          "text": "Dove symbol"
+        },
+        {
+          "label": "C",
+          "text": "Dove body lotion"
+        },
+        {
+          "label": "D",
+          "text": "Dove deodorant"
+        },
+        {
+          "label": "E",
+          "text": "Dove soap"
+        },
+        {
+          "label": "F",
+          "text": "Dove candy bar"
+        },
+        {
+          "label": "G",
+          "text": "Dove conditioner"
+        },
+        {
+          "label": "H",
+          "text": "A dove (bird)."
+        },
+        {
+          "label": "I",
+          "text": "Dove chocolate"
+        },
+        {
+          "label": "J",
+          "text": "Dove shampoo"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 52,
+      "text": "Which of the following cases established the precedent that a defendant must be informed of the right to remain silent, the right to a lawyer, and protection from self-incrimination?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brown v. Board of Education"
+        },
+        {
+          "label": "B",
+          "text": "Miranda v. Arizona"
+        },
+        {
+          "label": "C",
+          "text": "Roe v. Wade"
+        },
+        {
+          "label": "D",
+          "text": "Betts v. Brady"
+        },
+        {
+          "label": "E",
+          "text": "Plessy v. Ferguson"
+        },
+        {
+          "label": "F",
+          "text": "Dred Scott v. Sandford"
+        },
+        {
+          "label": "G",
+          "text": "Weeks v. United States"
+        },
+        {
+          "label": "H",
+          "text": "Gideon v. Wainwright"
+        },
+        {
+          "label": "I",
+          "text": "Marbury v. Madison"
+        },
+        {
+          "label": "J",
+          "text": "Mapp v. Ohio"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    },
+    {
+      "item_id": 53,
+      "text": "A woman who knows she has active herpes and untreated syphilis but continues to have sex without informing her partners of her condition has, in psychoanalytic terms:",
+      "options": [
+        {
+          "label": "A",
+          "text": "a weak conscious mind"
+        },
+        {
+          "label": "B",
+          "text": "a strong conscious mind"
+        },
+        {
+          "label": "C",
+          "text": "a weak id"
+        },
+        {
+          "label": "D",
+          "text": "a weak ego"
+        },
+        {
+          "label": "E",
+          "text": "a weak unconscious mind"
+        },
+        {
+          "label": "F",
+          "text": "a strong id"
+        },
+        {
+          "label": "G",
+          "text": "a strong ego"
+        },
+        {
+          "label": "H",
+          "text": "a strong superego"
+        },
+        {
+          "label": "I",
+          "text": "a strong preconscious mind"
+        },
+        {
+          "label": "J",
+          "text": "a weak superego"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    },
+    {
+      "item_id": 54,
+      "text": "What place is named in the title of the 1979 live album by rock legends Cheap Trick?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Brooklyn"
+        },
+        {
+          "label": "B",
+          "text": "Beijing"
+        },
+        {
+          "label": "C",
+          "text": "Budapest"
+        },
+        {
+          "label": "D",
+          "text": "Boston"
+        },
+        {
+          "label": "E",
+          "text": "Bhutan"
+        },
+        {
+          "label": "F",
+          "text": "Barcelona"
+        },
+        {
+          "label": "G",
+          "text": "Britain"
+        },
+        {
+          "label": "H",
+          "text": "Brisbane"
+        },
+        {
+          "label": "I",
+          "text": "Bruges"
+        },
+        {
+          "label": "J",
+          "text": "Budokan"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    }
+  ]
+}

@@ -1,0 +1,912 @@
+{
+  "1": {
+    "Prompt": "\nMontoya: Many industrial chemical processes that currently use organic solvents could use ionic liquids instead. Ionic liquids are less hazardous to workers and generate less air pollution. Moreover, some reactions occur at a faster rate or yield smaller quantities of unwanted by-products when ionic liquids are used. So chemical companies should begin using ionic liquids for many reactions that currently use organic solvents. Peterson: Ionic liquids cost many times as much as organic solvents, so they are currently not practical for the chemical industry. Of the following, which one, if true, is the strongest counter Montoya could make to Peterson's argument?\n\nA) The cost of organic solvents is only one of many expenses involved in industrial production of chemicals.\nB) New methods for removing by-products of chemical reactions have recently been developed.\nC) The chemical industry has historically been quick to adopt new techniques that increase the rate at which reactions occur.\nD) Ionic liquids can be reused many times, whereas organic solvents can be used only once.\nE) For the sake of public relations, companies will sometimes use a more environmentally friendly process even if it is slightly more expensive.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 210,
+    "Tokens": 252,
+    "Entropy": "6.85 [bits/token]"
+  },
+  "2": {
+    "Prompt": "\nThe relationship between money and the things it allows one to purchase is like that between a tool and the tasks it enables its user to accomplish. Therefore, since tools are useless if there is no task that needs to be done, _______. Which one of the following most logically completes the argument?\n\nA) money should be thought of as no more useful than a tool\nB) any tool that enables its user to accomplish a task is valuable\nC) money is valueless in a world where nothing is for sale\nD) money should be regarded as a tool rather than a commodity\nE) the value of money derives from the tasks it allows one to accomplish\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 136,
+    "Tokens": 156,
+    "Entropy": "6.16 [bits/token]"
+  },
+  "3": {
+    "Prompt": "\nJames: The world is increasingly divided between the computer literate and the computer illiterate. The economic gap between rich and poor is partly responsible for causing this division, but the economic gap will widen because of the increasing importance of computer literacy. Ariel: I disagree. Because of businesses' increasing need for computer-literate employees, companies will have to train nearly all workers in computer skills. This will lessen the division between the computer literate and the computer illiterate. So whatever might cause the economic gap between rich and poor to widen in the future, it won't be the importance of computer literacy. James and Ariel disagree over whether\n\nA) the economic gap between rich and poor will widen\nB) the economic gap between rich and poor is now partly responsible for causing the division between the computer literate and the computer illiterate\nC) businesses' need for computer-literate employees will increase\nD) the economic gap between rich and poor will widen as a result of the increasing importance of computer literacy\nE) companies will have to train their employees in computer skills\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 199,
+    "Tokens": 238,
+    "Entropy": "6.02 [bits/token]"
+  },
+  "4": {
+    "Prompt": "\nOvercrowding inclines human beings toward aggressive, competitive behavior. Just consider the behavior of normally considerate people driving in rush-hour traffic or attending crowded sporting events. This shows that, as world population continues to grow, aggressive behavior, including war and crime, will become more frequent and severe. Each of the following, if true, strengthens the argument EXCEPT:\n\nA) The frequency and severity of overcrowding in the past have been roughly proportional to the size of world population.\nB) The frequency and severity of war and crime have generally increased in the past century, and world population also increased during that period.\nC) Some forms of aggressive, competitive behavior, including war, tend to occur even in situations in which human beings are not overcrowded.\nD) With respect to its effect on behavior, rush-hour traffic is an example of a situation in which human beings are overcrowded.\nE) Most mammals inhabiting a given region exhibit increasingly aggressive, competitive behavior as their population density in that region increases.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 183,
+    "Tokens": 225,
+    "Entropy": "6.57 [bits/token]"
+  },
+  "5": {
+    "Prompt": "\nGahagan's Greenstore sells a large volume of plants. The vast majority are sold wholesale to commercial buyers, most of them to landscape contractors. Gahagan's also sells gardening implements, most of which are purchased retail by home gardeners. Which one of the following is most strongly supported by the information above?\n\nA) Gahagan's makes a larger profit from the sale of plants than from the sale of all other products combined.\nB) Most of those who make regular wholesale purchases from Gahagan's have never purchased gardening implements from Gahagan's.\nC) There are more commercial buyers than home gardeners among Gahagan's regular customers.\nD) Gahagan's sells a few gardening implements wholesale to landscape contractors.\nE) A plant purchased from Gahagan's is more likely to have been purchased by a landscape contractor than by a home gardener.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 153,
+    "Tokens": 201,
+    "Entropy": "6.26 [bits/token]"
+  },
+  "6": {
+    "Prompt": "\nAnthropologist: During the last ice age, nomadic communities probably needed at least 15 or 20 members to survive, and they were generally not much larger than this. Ice-age nomads are commonly portrayed as primarily big-game hunters, but most of their food must have in fact come from other sources, such as small game and plants. Hunting large animals is a dangerous activity that would have risked the lives of several members of the community. Which one of the following most accurately describes the role played in the argumentation by the statement that ice-age nomads are commonly portrayed as primarily big-game hunters?\n\nA) It is a premise used as support for the overall conclusion of the anthropologist's argument.\nB) It is a clarification of one of the premises of the anthropologist's argument.\nC) It is an objection that the anthropologist raises against an opposing theory.\nD) It is the overall conclusion of the anthropologist's argument.\nE) It describes a claim that the anthropologist attempts to refute.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 184,
+    "Tokens": 228,
+    "Entropy": "6.58 [bits/token]"
+  },
+  "7": {
+    "Prompt": "\nA truly visual art form\u2014for example, painting\u2014is one in which time plays no essential role. Though it takes time to look at a painting, there is no fixed order in which one must look at its parts, and no fixed amount of time one must spend examining it. In contrast, most art forms, such as poetry and music, are essentially temporal; that is, they require performance, which means they must be experienced in a fixed order and over a roughly fixed amount of time. Poetry, for instance, though often written down and thus seemingly a visual art, actually must be performed, even if the performance is only a silent reading to oneself. If the statements above are true, then on the basis of them which one of the following must be true?\n\nA) Truly visual art forms do not essentially involve performance.\nB) Poetry is less like music than it is like painting.\nC) Spatiality and temporality are mutually exclusive components of art forms.\nD) Art forms that must be examined for an extended period of time in order to be understood are essentially temporal.\nE) Anything capable of being performed is either musical or poetic, or both musical and poetic.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 220,
+    "Tokens": 258,
+    "Entropy": "6.67 [bits/token]"
+  },
+  "8": {
+    "Prompt": "\nActors generally learn their lines by focusing on the meanings of the words, the motivations of the characters uttering them, and the physical and emotional dimensions of their own performances. It seems likely that memory can be enhanced by factors such as emotion, action, and context, so this approach is probably more effective than mere rote memorization. Each of the following, if true, adds support for the conclusion drawn above EXCEPT:\n\nA) Test subjects are best able to remember items on a shopping list when they are also told how those items will be used.\nB) The actors who are able to deliver the greatest amount of dialogue most effortlessly are those who have spent the most time learning their lines.\nC) Actors are more readily able to remember lines learned while making an appropriate motion\u2014for example, walking across a stage\u2014than lines learned without an accompanying action.\nD) People who try to memorize information by imagining that they are conveying it to somebody else who needs the information show higher retention than those who try to memorize the material by rote.\nE) People with no acting experience are able to memorize and deliver lines from a play more accurately after they have read and understood the entire play.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 227,
+    "Tokens": 264,
+    "Entropy": "6.92 [bits/token]"
+  },
+  "9": {
+    "Prompt": "\nJournalists often claim that their investigation of the private lives of political leaders is an effort to improve society by forcing the powerful to conform to the same standards of conduct as the less powerful. In reality, however, the tactic is detrimental to society. It makes public figures more concerned with mere appearances, and makes everyone else cynical about the character of their leaders. The claim that journalistic investigation of the private lives of political leaders is an effort to improve society plays which one of the following roles in the argument?\n\nA) It is a claim that the argument attempts to refute.\nB) It mentions a justification that is sometimes offered for a practice that, the argument concludes, has undesirable consequences.\nC) It is cited as evidence often given for an assertion that the argument concludes is false.\nD) It describes a phenomenon that, according to the argument, is much less damaging to society than journalists often assume.\nE) It gives an example of a phenomenon that the argument contends has very different effects from those it is generally assumed by everyone to have.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 204,
+    "Tokens": 230,
+    "Entropy": "6.37 [bits/token]"
+  },
+  "10": {
+    "Prompt": "\nWhile the population of city X is approximately one-half that of city Y, the number of city X residents who are patients in hospitals is only one-fourth that of the number of city Y residents who are patients in hospitals. Each of the following, if true, contributes to an explanation of the difference in the number of residents who are patients in hospitals EXCEPT:\n\nA) Preventive health programs are more prevalent in city X than in city Y.\nB) The hospitals in city X are noted as leaders in employing outpatient treatment wherever possible.\nC) The drinking water of city Y has dangerously high levels of pollutants, whereas this is not the case for city X.\nD) The hospitals in city Y are of very high quality, and residents of city X are often sent there for treatment.\nE) The lifestyle in city X is significantly less stressful than the lifestyle in city Y.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 173,
+    "Tokens": 199,
+    "Entropy": "5.98 [bits/token]"
+  },
+  "11": {
+    "Prompt": "\nA law is futile unless most of the parties subject to it abide by it willingly. Thus, there can be no comprehensive international solution to the problem of pollution, since few nations would willingly give up their power over their own industries. Which one of the following is an assumption required by the argument?\n\nA) A comprehensive solution to the problems of pollution would require major changes in international law.\nB) Some nations would be required to give up some of their power over their own industries as part of any comprehensive solution to the problem of pollution.\nC) If most nations were willing to abide by international law, then there could be a comprehensive solution to the problem of pollution.\nD) The problems created by pollution affect most of the world's nations, but the pollution itself is produced by the industries of relatively few nations.\nE) Most of the current international laws concerning pollution do not require nations to give up any of their power over their own industries.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 189,
+    "Tokens": 211,
+    "Entropy": "6.18 [bits/token]"
+  },
+  "12": {
+    "Prompt": "\nEcologist: El Ni\u00f1o, a global weather phenomenon that occurs once every several years, is expected to become more frequent in coming decades due to the global warming caused by air pollution. In region T, El Ni\u00f1o causes heavy winter rainfall. Since rodent populations typically increase during long periods of sustained rain, it is likely that average rodent populations in region T will also increase in coming decades. Which one of the following, if true, would most weaken the ecologist's argument?\n\nA) In region T, there is typically much less rainfall in summer than there is in winter.\nB) Rodent populations in region T often diminish during long periods in which there are no heavy rains.\nC) In many regions that, on average, experience substantially more winter rainfall than region T does, average rodent populations are considerably lower than they are in region T.\nD) In region T, winters marked by relatively high rainfall have usually not been marked by long periods of sustained rain.\nE) The global warming caused by air pollution produces a number of effects, other than the increase in the frequency of El Ni\u00f1o, that could affect rodent populations.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 211,
+    "Tokens": 254,
+    "Entropy": "6.62 [bits/token]"
+  },
+  "13": {
+    "Prompt": "\nIf the natural history museum stays within this year's budget, it will be unable to stay within next year's budget, for renovating next year will make the museum's expenditures exceed next year's very tight budget. After all, the museum will have to renovate next year if it does not do so this year, because work from previous renovations is deteriorating rapidly. The argument's conclusion can be properly inferred if which one of the following is assumed?\n\nA) The museum will stay within this year's budget.\nB) This year's budget is less than next year's budget.\nC) The museum will not renovate next year.\nD) The museum will exceed this year's budget if it renovates this year.\nE) The museum will stay within this year's budget if it does not renovate this year.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 151,
+    "Tokens": 188,
+    "Entropy": "5.84 [bits/token]"
+  },
+  "14": {
+    "Prompt": "\nScience writer: Scientists often accept a scientific argument largely for social reasons, such as the argument's acceptance by other scientists or the prestige of the scientist making the argument. But this is not at all to the sciences' detriment, for similar social factors strongly influence every human endeavor. The science writer's argument is most vulnerable to criticism on the grounds that it\n\nA) takes for granted that the only legitimate reasons for accepting an argument are social reasons\nB) takes for granted that whether a behavior obstructs the achievement of a particular endeavor's goals depends on the prevalence of comparable behaviors in other endeavors\nC) fails to consider the possibility that scientists who accept an argument largely for social reasons also generally consider relevant scientific evidence before accepting the argument\nD) fails to consider the possibility that many scientists are unaware that they usually accept scientific arguments largely for social reasons\nE) takes for granted that a behavior that is not detrimental to the sciences will not be detrimental to any other human endeavor\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 193,
+    "Tokens": 218,
+    "Entropy": "6.40 [bits/token]"
+  },
+  "15": {
+    "Prompt": "\nHistorian: Scholars writing histories of an era's business practices must, of course, analyze the practices and strategies employed by firms of that era. But historians probably study successful firms more frequently than they do unsuccessful firms. Therefore, it is reasonable to think that business histories overestimate the successes of past businesses. Which one of the following would, if true, most support the historian's argument?\n\nA) The specific factors that cause businesses to do poorly are often not inferable from historical records of business activity.\nB) Those who study past first-person accounts of business strategies inevitably approach them with certain present-day cultural assumptions.\nC) The many public legal documents that firms have had to file provide a record that is more objective than that provided by the firms' own internal documents.\nD) The records of businesses that have gone bankrupt are destroyed more frequently than the records of other businesses.\nE) Scholars who study businesses of the past are usually trained in the effective techniques of business administration.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 186,
+    "Tokens": 218,
+    "Entropy": "6.65 [bits/token]"
+  },
+  "16": {
+    "Prompt": "\nManager: I plan to put together a successful marketing team by choosing highly skilled, independent workers who prefer not to work as part of a tightly knit group. This strategy is bound to succeed because recent research shows that when a common purpose is shared, the flexibility of loosely bound groups enables them to function better than tightly knit ones. The reasoning in the manager's argument is most vulnerable to criticism on the grounds that the argument\n\nA) presumes that factors that are collectively sufficient for success are also individually necessary for success\nB) relies on research that has no apparent relevance to the manager's proposed plan\nC) takes for granted that flexible teams always function significantly better than inflexible teams\nD) overlooks the possibility that people who prefer not to work in tightly knit groups may have difficulty committing to a common purpose\nE) confuses the goals that the manager is seeking to achieve with the goals that must be held in common by the members of the marketing team\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 190,
+    "Tokens": 216,
+    "Entropy": "6.65 [bits/token]"
+  },
+  "17": {
+    "Prompt": "\nDifferent cultures have independently reached the conclusion that ingesting honey daily promotes vigor and longevity. Thus, unless strong evidence emerges contradicting this conclusion, we should assume that it is true. The pattern of reasoning in which one of the following is most similar to that in the argument above?\n\nA) Three engineers have inspected the bridge, and each has independently concluded that it is safe. So unless good evidence emerges that the bridge is unsafe, it should be considered safe.\nB) Numerous studies have concluded that most people benefit from weight-training exercises. Thus, since no other form of exercise has been shown to be more beneficial, most people should be encouraged to exercise with weights.\nC) The members of an independent group of scientists have concluded that human activities over the last century have disrupted global weather patterns. Thus, unless these scientists are working from questionable assumptions, we should conclude that their assessment is correct.\nD) Three theater critics, none of whom had any influence on the others, said that Tales in Tokyo was not worth the price of admission. Thus, unless each of these critics happened to attend the play on the same night, it is unlikely that the play will be successful.\nE) Several different physicians examined Janet, and none could agree on a diagnosis. Therefore, unless new evidence shows that Janet is unhealthy, she should instead assume that she is healthy.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 253,
+    "Tokens": 293,
+    "Entropy": "6.83 [bits/token]"
+  },
+  "18": {
+    "Prompt": "\nLand developer: In a certain nation, stringent regulations prevent private landowners from building on their land if any endangered species is present on it. These regulations make the presence of endangered species a severe financial liability for many landowners and thereby discourage the landowners from protecting the endangered species on their land. Therefore, endangered species would very likely not be harmed by removal of the regulations on land development. The reasoning in the land developer's argument is most vulnerable to criticism on which one of the following grounds?\n\nA) It confuses a condition whose presence would be required in order for a certain result to be produced with a condition whose presence would be required to prevent that result from occurring.\nB) It justifies a claim containing a value judgment solely on the basis of factual claims that do not in themselves entail that value judgment.\nC) It unjustifiably overlooks the possibility that even if certain factors tend to produce a given effect, they may be likely to produce stronger countervailing effects as well.\nD) It fails to take into account the possibility that policies that are not in the interest of land developers may well be in the interest of landowners.\nE) It fails to account for potential reactions from private landowners who do not have any endangered species on their land.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 242,
+    "Tokens": 277,
+    "Entropy": "6.72 [bits/token]"
+  },
+  "19": {
+    "Prompt": "\nI promised Bernie that I would answer his question. He asked me whether his project had been approved. I misunderstood and thought he had asked whether I had approved it. I said, truthfully, \"I would approve it if I could, but I don't have the authority to do so\u2014that is up to Dorothy, and she hasn't yet made a decision.\" Thus, I fulfilled my promise to Bernie. Which one of the following, if assumed, enables the conclusion above to be properly drawn?\n\nA) All there is to answering a question is giving the questioner the information requested.\nB) No person can be held accountable for another person's decisions.\nC) The person responsible for a decision is the one who should explain the decision.\nD) One need not fulfill a promise in order to do the best that could be done to fulfill it.\nE) Making a promise always obliges a person to keep it.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 173,
+    "Tokens": 208,
+    "Entropy": "6.56 [bits/token]"
+  },
+  "20": {
+    "Prompt": "\nAzalea bushes flourish in acidic soil. Clay soil, while rarely acidic, can be mixed with other types of soil to create a soil that is acidic. Hence, azalea bushes can be made to flourish in clay soil. Which one of the following is an assumption on which the argument depends?\n\nA) Mixing an acidic soil with another type of soil always results in an acidic soil.\nB) Clay soil that is mixed with certain other types of soil is still clay soil.\nC) Whenever clay soil is mixed with other types of soil, an acidic soil results.\nD) Some plants do not flourish in acidic soil.\nE) Azalea bushes do as well in treated clay soils as in naturally acidic soils.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 140,
+    "Tokens": 168,
+    "Entropy": "5.88 [bits/token]"
+  },
+  "21": {
+    "Prompt": "\nCompany policy: Eligible employees will be granted up to six weeks of paid parental leave following the birth or adoption of a child. To be eligible, an employee must apply for the benefit at least three months prior to the beginning of the leave period and must have at least one year of full-time employment with the company at the time of application. Which one of the following judgments most closely conforms to the company policy?\n\nA) Mac is a full-time employee who has been with the company for exactly one year. He just adopted a child, and he applied for parental leave three months ago, so Mac should be granted the leave.\nB) Sara has worked full-time for the company for three years, and she applied for parental leave four months before the recent birth of her child. However, she should not be granted the leave because she took a leave of absence within the past year.\nC) Hal, a second-year, full-time employee, applied for parental leave three months ago. He wishes to stay at home for only two weeks following the impending birth of his child, so the company should not grant him parental leave.\nD) Dudley has worked part-time for the company for the past seven years. He applied for parental leave over three months before the birth of his child, so it should be granted to him.\nE) Maria has worked full-time for the company for the past two years and applied for parental leave six months prior to her adoption of a child, so she should be granted parental leave.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 284,
+    "Tokens": 325,
+    "Entropy": "6.36 [bits/token]"
+  },
+  "22": {
+    "Prompt": "\nAn effective acting performance does not call the audience's attention to the fact that it is a performance. That would make it more difficult for the audience to empathize with the character the actor is playing, and effective dramatic performances do not detract from the audience's appreciation of a play. The argument's conclusion follows logically from the premises if which one of the following is assumed?\n\nA) An audience will not completely appreciate a play unless all of the acting performances in the play are effective.\nB) As long as an acting performance does not call the audience's attention to the fact that it is a performance, it will not detract from the audience's appreciation of a play.\nC) If a performance by an actor in a play enhances the audience's appreciation of the play, then the play as a whole is better as a result.\nD) An effective dramatic performance in a play will enhance the audience's appreciation of the play.\nE) A dramatic performance that makes it more difficult for the audience to empathize with the actor's character detracts from the audience's appreciation of the play.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 207,
+    "Tokens": 241,
+    "Entropy": "6.00 [bits/token]"
+  },
+  "23": {
+    "Prompt": "\nThe computer software industry is rapidly growing and has been for some time. For a company to grow rapidly, it must be innovative, which means it must have creative employees or a management that is open to new ideas. Logichut is a software company that is said to have no creative employees. If so, its management is evidently open to new ideas. The reasoning in the argument is flawed in that it\n\nA) illicitly presumes that because a set of things has a certain property, each member of that set has the property\nB) confuses a necessary condition for a company's being innovative with a sufficient condition for a company's being innovative\nC) illicitly concludes that because many people believe something, it must be true\nD) confuses a necessary condition for a company to grow rapidly with a sufficient condition for a company to grow rapidly\nE) overlooks the possibility that a software company could have both creative employees and a management that is open to new ideas\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 187,
+    "Tokens": 221,
+    "Entropy": "6.26 [bits/token]"
+  },
+  "24": {
+    "Prompt": "\nA movie studio's script readers discard all proposed scripts that are not submitted by agents, and they discard all scripts that are incorrectly formatted. So a script that is submitted by an agent and formatted correctly will not be discarded by the studio's script readers. Which one of the following exhibits a flawed pattern of reasoning that most closely parallels that in the argument above?\n\nA) To be accepted, entries in the essay contest must be postmarked by the deadline and accompanied by a completed entry form. March 21 was the deadline. Thus, an entry that is accompanied by a completed entry form but postmarked March 22 will not be accepted.\nB) If your kitchen is well organized and you are a good cook, the meals you prepare will be delicious. The dinner Jon prepared last week was not at all tasty, so his kitchen must not be well organized.\nC) If Bob starts exercising daily, he will improve his fitness level. His fitness level will also improve if he quits smoking. So if he refuses to exercise and continues to smoke, his fitness level is not going to improve.\nD) The police are allowed to ticket any parked car that does not have a parking permit. They are also allowed to ticket any parked car whose parking permit has expired. Thus, the police are going to ticket Ruta's car, for her parking permit has expired.\nE) Most dogs that have attended obedience classes respond correctly to basic commands, but only some are able to perform advanced tricks. Thus, any dog that has attended obedience classes and performs advanced tricks will be able to respond correctly to basic commands.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 298,
+    "Tokens": 342,
+    "Entropy": "6.94 [bits/token]"
+  },
+  "25": {
+    "Prompt": "\nTranslator: Dr. Abner, apparently scornful of my translation of an ancient poem on the grounds that it is inaccurate, says that my translation produces in most readers feelings other than those the original text was intended to produce. However, as Dr. Abner should realize, we do not know how people originally responded to the poem or how its author intended them to respond. So Dr. Abner's criticism is unjustified. The translator's argument is flawed in that it\n\nA) fails to adequately address the possibility that the original poem had more than one author\nB) draws a conclusion purely on the basis of an appeal to popular opinion\nC) fails to adequately address the possibility that the original text was not intended to produce any particular feelings in the reader\nD) rejects an argument merely because of the circumstances of the person who offered it\nE) concludes that we cannot know that certain effects were not what the author intended merely because we do not know what specific effects the author did intend\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 191,
+    "Tokens": 224,
+    "Entropy": "6.53 [bits/token]"
+  },
+  "26": {
+    "Prompt": "\nLetter to the editor: In calling on antinuclear activists to \"live up to their own ideals\" and help find better ways of disposing of nuclear waste, advocates of nuclear power merely prove their own dishonesty. Everyone knows that antinuclear activists want the world rid of nuclear power as soon as possible, and they believe any other option is environmentally irresponsible. But finding better ways of disposing of nuclear waste would probably make nuclear power acceptable to more people and thus likelier to continue. Which one of the following principles, if valid, most helps to justify the reasoning in the argument?\n\nA) If other options are available, it is irresponsible to take a possibly beneficial course of action that has the potential of causing harm.\nB) It is better to eliminate a potentially harmful practice than to try to improve it, if improving it will not significantly reduce its capacity to cause harm.\nC) If one is calling on people to act in a way that will possibly undermine their goals, it is dishonest to ask that they do so for the sake of their ideals.\nD) It is irresponsible to try to induce others to find a practice acceptable if it is not one's own belief that that practice is acceptable.\nE) It is dishonest to ask people to live up to their ideals without revealing whether one's own ideals conflict with theirs.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 252,
+    "Tokens": 288,
+    "Entropy": "6.75 [bits/token]"
+  },
+  "27": {
+    "Prompt": "\nColumnist: The dangers of drinking are greatly exaggerated in the medical press. We are always hearing about the extent to which alcohol can shorten one's life, but my grandfather drank heavily his entire life and lived to be 95. The reasoning in the columnist's argument is most vulnerable to criticism on the grounds that the argument\n\nA) does not address moral objections to alcohol consumption\nB) fails to consider factors other than alcohol consumption that can shorten one's life\nC) only addresses the length of a life, and not the quality of that life\nD) confuses the cause of a phenomenon with an effect of that phenomenon\nE) relies merely on anecdotal evidence to challenge a general claim\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 137,
+    "Tokens": 164,
+    "Entropy": "6.36 [bits/token]"
+  },
+  "28": {
+    "Prompt": "\nSome have argued that using food crops to produce fuel represents an unprecedented attack on the food supply. It seems immoral to divert crops from the food supply while there is a need for food. But we currently divert crops from the human food supply to feed livestock. So the diversion of food to fuel is not actually a radical break with traditional practices. The argument proceeds by\n\nA) arguing that the bad consequences of a practice are outweighed by the good consequences of that practice\nB) countering the charge that a practice has a bad consequence by trying to show that the practice does not actually have that consequence\nC) rebutting a charge that a practice is radical by contending that the practice is analogous with an existing one\nD) rejecting the charge that a practice is immoral by trying to undercut the moral foundation of the charge\nE) supporting a moral objection to a practice by trying to show that the practice is actually different from practices that might seem similar\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 192,
+    "Tokens": 215,
+    "Entropy": "6.15 [bits/token]"
+  },
+  "29": {
+    "Prompt": "\nHernandez: Celebrities' public pronouncements can warp a debate because people grant more weight to celebrities' opinions than to ordinary people's. For that reason, celebrities should avoid talking publicly about controversial issues on which they have no expertise. Liu: But celebrities are full members of their communities. It is not their fault if people give their opinions more credence than they should. So it is absurd that they should not feel free to join controversial debates. Hernandez and Liu disagree with each other about which one of the following?\n\nA) People grant more weight to celebrities' opinions than to ordinary people's.\nB) Celebrities should avoid talking publicly about controversial issues on which they have no expertise.\nC) Celebrities' pronouncements on controversial issues can warp debates on those issues.\nD) The public should disregard what celebrities say about controversial issues.\nE) Celebrities are responsible for the fact that people give their opinions more credence than they should.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 174,
+    "Tokens": 213,
+    "Entropy": "6.46 [bits/token]"
+  },
+  "30": {
+    "Prompt": "\nA process of extracting caffeine from coffee without seriously compromising the coffee's taste was introduced a number of years ago. When this decaffeinated coffee first came on the market, however, many coffee drinkers reported that it tasted rather bad. Which one of the following, if true, most helps to resolve the apparent discrepancy in the statements above?\n\nA) The percentage of coffee drinkers who drink only decaffeinated coffee is much larger today than it was at the time the process was introduced.\nB) Many coffee drinkers would not drink decaffeinated coffee even if they believed that it tasted as good as regular coffee.\nC) The taste of any kind of coffee can be affected by the foods that are consumed along with it.\nD) Coffee that is decaffeinated through this process generally costs more than regular coffee.\nE) During the years in which the process was introduced, coffee processors used only low-quality coffee beans for their decaffeinated products.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 177,
+    "Tokens": 211,
+    "Entropy": "6.48 [bits/token]"
+  },
+  "31": {
+    "Prompt": "\nResearchers gave each of eighteen subjects a playing card, then offered them money to lie to a computer about the identity of the card while undergoing a scan by functional magnetic resonance imaging (fMRI). When subjects lied, the scans revealed increased activity in several regions of the brain known to be stimulated by stress. This supports the idea that fMRI can eventually form the basis of an effective lie detector. Which one of the following would, if true, most weaken the argument above?\n\nA) Existing methods of lie detection, including the polygraph, have not been shown to be reliable.\nB) The majority of people regard lying in an experimental situation as unethical.\nC) The amount of stress that accompanies lying varies widely from person to person and is also affected by the circumstances in which the lie is told.\nD) Telling a carefully planned lie causes less stress than telling a lie spontaneously.\nE) Stress reactions in the brains of subjects who are being truthful are similar to those that occur in the brains of subjects who are lying.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 198,
+    "Tokens": 227,
+    "Entropy": "6.73 [bits/token]"
+  },
+  "32": {
+    "Prompt": "\nProminent government officials have denied that their policies have produced serious environmental degradation. But the facts show otherwise. Last year, at the urging of certain mining companies, the government repealed a long-standing provision prohibiting the dumping of mining wastes into streams. Since that time, hundreds of miles of vital streams have been buried under bulldozed mining wastes. The argument relies on which one of the following assumptions?\n\nA) Without the urging of certain mining companies, the government would not have lifted the ban on dumping mining wastes into streams.\nB) The prominent government officials who deny that government policies have produced serious environmental degradation do not really believe what they are claiming.\nC) The mining companies that urged repeal of the ban on dumping mining wastes in streams were among those that buried hundreds of miles of streams under mining wastes.\nD) The government is generally more responsive to pressures from the mining industry than from environmentalists.\nE) If the ban on dumping mining wastes in streams had not been repealed, considerably less mining waste would have found its way into streams.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 201,
+    "Tokens": 230,
+    "Entropy": "6.43 [bits/token]"
+  },
+  "33": {
+    "Prompt": "\nCritic: It generally holds true of concert pianists that the more famous the musician, the greater the pleasure of his or her audience. In my view, this is only fair and should give no cause for cynicism about the ability of audiences to distinguish good playing from bad. Which one of the following, if true, most strongly supports the critic's view?\n\nA) The fame of concert pianists usually reflects their talent as musicians.\nB) Some of the finest concert pianists are unknown to the general public.\nC) In general, the more famous the pianist, the larger the audiences that he or she can draw.\nD) Even the finest concert pianists cannot play consistently well at every performance.\nE) The very best concert pianists often perform works that are difficult for audiences to appreciate.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 152,
+    "Tokens": 185,
+    "Entropy": "6.39 [bits/token]"
+  },
+  "34": {
+    "Prompt": "\nScientists found the remains of several species of mites trapped in rocks in a high-altitude cave. Radioactive dating shows that the mites were trapped about 2,000 years ago. The mite species in the rocks no longer live in the vicinity of the cave, but they are found a few miles away in a cooler area. Therefore, the area around the cave was probably cooler 2,000 years ago, since _______. The conclusion of the argument is most strongly supported if which one of the following completes the passage?\n\nA) the mite species found in the rocks can only survive in very specific climates\nB) the cooler area a few miles away from the cave also has a somewhat wetter climate\nC) the mite species that were trapped in the rocks did not live in the vicinity of the cave much earlier than 2,000 years ago\nD) the mite species found in the rocks only live at high altitudes\nE) there are fewer mite species living in the vicinity of the cave today than there were 2,000 years ago\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 196,
+    "Tokens": 242,
+    "Entropy": "6.22 [bits/token]"
+  },
+  "35": {
+    "Prompt": "\nMarket studies confirm that consumers shopping for automobiles primarily seek those that are most reliable. An automobile is reliable if it very rarely breaks down and it does not require significantly more maintenance than average. Strangely enough, however, some of the most reliable models do not sell well with those who say they care most about reliability. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?\n\nA) Consumers who are shopping for an automobile claim to care more about reliability than about fuel efficiency.\nB) Consumers often choose automobile models based on a reputation for reliability, and reputations can be out of date.\nC) Some owners of reliable automobiles are reluctant to trade them in for newer vehicles and tend to hold on to them for the life of the automobile.\nD) Some automobile models that have been shown to require a lot of maintenance very rarely break down.\nE) Some of the most stylish automobiles are some of the most unreliable.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 190,
+    "Tokens": 216,
+    "Entropy": "6.57 [bits/token]"
+  },
+  "36": {
+    "Prompt": "\nA recent study found that most individuals believe that they sleep less than most other people. However, it is obviously not possible that most people sleep less than most other people. Therefore, _______. Which one of the following most logically completes the argument?\n\nA) some people believe things that could not possibly be true even in principle\nB) most people are not aware of how much they sleep\nC) most people underestimate how much they sleep in comparison to others\nD) most people think that they do not sleep as much as they should\nE) some people incorrectly believe that they sleep less than most other people\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 126,
+    "Tokens": 146,
+    "Entropy": "5.87 [bits/token]"
+  },
+  "37": {
+    "Prompt": "\nRoss: Many governments have attempted to regulate strictly or even outlaw theater because of its subversive power. Such strategies have rarely succeeded, probably because people strongly desire theater for entertainment and dramatists always find subtle ways to criticize authorities who treat them harshly. Thus, since dramatists will not criticize governments of which they are honored employees, an effective strategy for controlling theater and satisfying the public is to make dramatists and performers honored employees of the government. Which one of the following, if true, would most weaken Ross's argument?\n\nA) Few governments are willing to shoulder the expense of employing dramatists and performers.\nB) Even when completely unregulated, theater rarely leads to the overthrow of a government.\nC) Some dramatists criticize their governments even though those governments do not treat them harshly.\nD) Most theatrical productions neither criticize government nor support it.\nE) The public generally dislikes plays written or performed by government employees.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 173,
+    "Tokens": 214,
+    "Entropy": "6.73 [bits/token]"
+  },
+  "38": {
+    "Prompt": "\nMany hikers now carry cell phones so they can call for emergency assistance from remote areas. Many also use their cell phones to call wildlife offices when they see poachers breaking game laws, enabling wildlife agents to reach the scene before the lawbreakers leave. Poachers, however, avoid areas they know to be frequented by hikers. Which one of the following is most strongly supported by the information above?\n\nA) Most hikers can afford cell phones.\nB) Poaching has decreased as cell phone use has increased.\nC) Wildlife agents do not usually carry cell phones.\nD) Some hikers hike in areas that are not known by poachers to be frequented by hikers.\nE) Cell phones are becoming one of the most effective tools in the effort to protect wildlife from poachers.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 149,
+    "Tokens": 184,
+    "Entropy": "6.48 [bits/token]"
+  },
+  "39": {
+    "Prompt": "\nA cognitive psychologist has claimed that intelligence is the ability to figure out how things work in order to overcome obstacles. If, however, we were to become convinced that a particular being had acquired an understanding of how things work, we would certainly not deny that that being possessed intelligence, even if we were sure that its acquisition of this understanding was not prompted by the desire to overcome some specific obstacle. Clearly, then, the cognitive psychologist's definition is inadequate. In the passage the author does which one of the following?\n\nA) rejects a definition on the grounds that the terms employed in the definition would make it impractical to determine which cases it covers\nB) uses a hypothetical application of a definition to argue that the definition would have unacceptably counterintuitive consequences\nC) argues that a proposed definition does not specify the meaning of the concept being defined narrowly enough for the definition to be applied\nD) rejects a definition on the grounds that if it were accepted as correct, the term being defined would apply to things to which it normally does not apply\nE) argues against a proposed definition on the grounds that those who support it do so at least partly on an inappropriate appeal to authority\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 230,
+    "Tokens": 261,
+    "Entropy": "6.61 [bits/token]"
+  },
+  "40": {
+    "Prompt": "\nEnvironmentalist: The adoption of genetically engineered crops in agriculture is moving so rapidly and is monitored so loosely that it poses a significant risk of damaging sensitive ecosystems. One such crop had already been widely planted when a study found that it could threaten monarch butterflies. Therefore, before any new genetically engineered crop is put into agricultural production, rigorous testing of its safety should be required. Which one of the following principles, if valid, most helps to justify the environmentalist's reasoning?\n\nA) A genetically engineered crop should not be put into agricultural production if rigorous testing has shown it to be risky.\nB) If a crop has no potential for posing environmental risks, it may be put into agricultural production without testing of its safety.\nC) No crop that might present risks to the environment should be allowed into agricultural production unless its safety has been thoroughly tested.\nD) If rigorous testing of any genetically engineered crop that is in agricultural production shows that that crop poses environmental risks, production of that crop should be discontinued.\nE) If rigorous studies do not find evidence that a crop would present risks if it is brought into agricultural production, no further testing of that crop's safety is required.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 225,
+    "Tokens": 255,
+    "Entropy": "6.55 [bits/token]"
+  },
+  "41": {
+    "Prompt": "\nFaculty member: The university's financially minded president holds that some academic programs should be eliminated because they do not serve student demands. According to him, the university is a business and the students are consumers, and it is the responsibility of any business to satisfy consumer demand. But the education of students is not analogous to the providing of consumer goods. Therefore, the president is mistaken in claiming that academic programs should be tailored to suit student demand. The faculty member's argument is most vulnerable to the criticism that it\n\nA) argues for a view without showing that an argument against that view fails\nB) appeals to popular opinion to justify a conclusion\nC) treats merely analogous things as identical\nD) improperly attacks the university president's moral character\nE) rejects a view on the grounds that someone has given inadequate reasons for accepting that view\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 164,
+    "Tokens": 190,
+    "Entropy": "6.47 [bits/token]"
+  },
+  "42": {
+    "Prompt": "\nA recent study carefully tracked the specific behaviors of five East African chimpanzee groups of one subspecies, and of two West African groups of another subspecies, in activities such as grooming and foraging. The study found that one of the East African groups was behaviorally more similar to the West African groups than to the other East African groups. It is therefore likely that these behaviors are determined by cultural factors rather than by genetics. Which one of the following, if true, provides the most support for the argument?\n\nA) Chimpanzees sometimes copy the behavior of other chimpanzees, whether or not they are closely related genetically.\nB) Chimpanzees that are new to a group sometimes bring with them new behaviors as well as new genetic characteristics.\nC) The chimpanzee groups studied face different environmental challenges due to their different locations in Africa.\nD) The behavioral differences in the chimpanzee groups studied are sufficient to make each group recognizably distinct from all the others.\nE) Of the chimpanzee groups studied, the five East African groups live in closer proximity to each other than do the two West African groups.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 207,
+    "Tokens": 249,
+    "Entropy": "6.60 [bits/token]"
+  },
+  "43": {
+    "Prompt": "\nEssayist: It would be wrong to defend current testing procedures for new medications simply by appealing to the fact that test subjects are volunteers who are both apprised of and compensated for the risks involved. For while it is not wrong to pay people to do something if they are freely choosing to do it, the same cannot be said if the choice is made under duress. Which one of the following is an assumption required by the essayist's argument?\n\nA) Possessing information about the possible consequences of the choices one makes does not ensure that one's choices are free.\nB) No transaction can be justified merely on the grounds that those participating in the transaction do so voluntarily.\nC) Anyone who acts without complete freedom is acting under some form of externally imposed duress.\nD) There is nothing wrong with accepting money for putting oneself at risk.\nE) People should be permitted to perform any action so long as that action is freely chosen.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 184,
+    "Tokens": 213,
+    "Entropy": "6.81 [bits/token]"
+  },
+  "44": {
+    "Prompt": "\nPutting a tap in a healthy maple that has a trunk 12 or more inches in diameter will not harm the tree. Silver maples, red maples, and Manitoba maples can all be tapped for making maple syrup. The sugar maple, however, is best for syrup making, because of all the maples its sap has the highest concentration of sugar. If the statements above are true, which one of the following must also be true?\n\nA) A maple whose trunk is more than 12 inches in diameter is unhealthy if it is harmed by tapping.\nB) The healthiest maple trees are usually those with the largest trunks.\nC) A maple tree that has been harmed will produce very little sap.\nD) Putting a tap into an unhealthy maple tree that is less than 12 inches in diameter will harm it.\nE) The maple trees most commonly used for making syrup are sugar maples.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 171,
+    "Tokens": 205,
+    "Entropy": "6.44 [bits/token]"
+  },
+  "45": {
+    "Prompt": "\nCompany spokesperson: Although our products are the most expensive in our industry, they are also the best available. After all, consider any less expensive product made by one of our competitors. If it were as good as, or better than, our product, it would cost as much, or more. The reasoning in the company spokesperson's argument is flawed in that the argument\n\nA) contains a premise that presupposes the truth of the conclusion\nB) fails to make a needed distinction between the best product currently available and the best product that could be produced\nC) treats a cause of a product being the most expensive as an effect of its being the most expensive\nD) presumes that because something is true of each of a company's products it is also true of the company as a whole\nE) bases a conclusion on claims that are inconsistent with each other\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 168,
+    "Tokens": 197,
+    "Entropy": "6.33 [bits/token]"
+  },
+  "46": {
+    "Prompt": "\nIt should be illegal to patent an organism's genes, for a person should not be regarded as the inventor of something he or she merely discovered. Moreover, exploitation of genetic information for profit is selfish and irresponsible. Which one of the following principles, if valid, most helps to justify the argument?\n\nA) Any person who exploits genetic information for profit should be considered selfish.\nB) Discovering something should not entitle one to patent it.\nC) Discovering something does not always constitute inventing it.\nD) No person should be allowed to profit from something that was invented by another person.\nE) A person or corporation who invents something should be entitled to patent it.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 132,
+    "Tokens": 159,
+    "Entropy": "6.27 [bits/token]"
+  },
+  "47": {
+    "Prompt": "\nProfessor O'Brien: Any of my students who heard Mercado's lecture from the beginning would have thought it was fascinating, and I know that some of my students did think it was fascinating, so some of my students must have heard it from the beginning. Professor O'Brien's argument does not follow logically from its premises because of the possibility that\n\nA) some of Professor O'Brien's students are very interested in Mercado's work but were unable to attend the lecture\nB) many people who are not Professor O'Brien's students did not think that the lecture was fascinating, even though they heard it from the beginning\nC) some of Professor O'Brien's students were a few minutes late for the lecture and did not find the lecture fascinating\nD) no one who heard the lecture from the beginning and thought that it was fascinating was one of Professor O'Brien's students\nE) not everyone who arrived at the lecture on time was able to hear the entire lecture because of disruptions caused by those who were late in arriving\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 193,
+    "Tokens": 228,
+    "Entropy": "6.19 [bits/token]"
+  },
+  "48": {
+    "Prompt": "\nSome moral virtues, such as honesty, tend to benefit one who has them; others, such as generosity, do not. A personal characteristic is not a moral virtue if it tends to be detrimental to other people. If the statements above are true, which one of the following must also be true?\n\nA) A person totally lacking in moral virtue will tend not to have characteristics that benefit others.\nB) Being honest tends not to be detrimental to other people.\nC) A morally virtuous person tends to be a greater benefit to other people than a person who is not morally virtuous.\nD) Being generous tends to be to one's own detriment but not to the detriment of others.\nE) If a personal characteristic that one has tends to benefit others, then that personal characteristic is a moral virtue.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 157,
+    "Tokens": 184,
+    "Entropy": "6.13 [bits/token]"
+  },
+  "49": {
+    "Prompt": "\nDuring last year's flu season no one who was vaccinated contracted the flu. This year every student at South High School has been vaccinated. So this flu season none of the students at South High School will contract the flu. Which one of the following arguments is most similar in its reasoning to the argument above?\n\nA) No camper who used insect repellent last month was disturbed by mosquitoes. Since everyone in our campsite has applied insect repellent tonight, none of us will be disturbed by mosquitoes tonight.\nB) Last year, Marie purchased a car that had been well maintained. Since Marie will certainly continue to maintain the car this year, the car is unlikely to have mechanical problems this year.\nC) Last year, no student with perfect attendance failed a class, and all students in advanced history had perfect attendance. So no student in advanced history last year failed the class.\nD) All the fruit we purchased yesterday was fresh. All the fruit we bought yesterday is in the refrigerator. Therefore, all the fruit in the refrigerator is fresh.\nE) No sparrow eats seeds with hard shells. All seeds of this tree have hard shells. So no sparrow will eat the seeds of this tree.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 225,
+    "Tokens": 262,
+    "Entropy": "6.59 [bits/token]"
+  },
+  "50": {
+    "Prompt": "\nAdvertising agencies are often wrongly criticized for causing people to desire, and thus purchase, products they do not really need. People actually buy what they buy mainly because they believe the product will satisfy their desires\u2014a belief that, admittedly, it is the purpose of advertising agencies to induce. It is clear then that the desires that people believe products will satisfy _______. Which one of the following most logically completes the argument?\n\nA) can be classified as needs if they actually prompt people to make a purchase\nB) are created by false, but not by true, advertising claims\nC) will rarely be satisfied by the purchases they prompt\nD) are exploited rather than created by advertisers\nE) are generally what induce people to believe claims made by advertisers\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 147,
+    "Tokens": 172,
+    "Entropy": "6.42 [bits/token]"
+  },
+  "51": {
+    "Prompt": "\nArtist: I have never won a prize at the Art Competition, even though several of my submitted paintings have received widespread recognition and have sold thousands of copies as posters. I know six other popular artists who have submitted works to that competition and fared no better. Thus, winning the Art Competition proves that an artist is no good. The pattern of flawed reasoning in which one of the following arguments most closely resembles that in the artist's argument?\n\nA) Researcher: I have never won a prize at the Science Competition, although I have obtained patents for several of my inventions and they have been extremely lucrative. Other scientists have had similar experiences. Therefore, the judges are using some criterion other than marketability to judge the inventions.\nB) Cook: I always win a prize at the Cooking Competition, even though my entries are regarded by the general public as unusual and unappealing. Other cooks have reported similar experiences. Thus, winning proves that one's culinary creation is not to most people's taste.\nC) Professor: The same essays that have won nothing in some years at the Philosophical Essay Competition have won the grand prize in other years. So the essays are not judged entirely on quality.\nD) Student: The student government never takes my proposals seriously, even when these proposals have the support of most students. Others have also introduced widely supported proposals, but the student government has not seriously considered theirs either. So the student government takes only bad proposals seriously.\nE) Travel agent: When I do my most creative and dedicated work, the airlines reduce my commissions. And when I do rushed work, they send me fruit baskets in gratitude. I conclude that airlines want to discourage good ideas and hard work.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "B",
+    "Result": "Incorrect",
+    "Words": 312,
+    "Tokens": 364,
+    "Entropy": "7.07 [bits/token]"
+  },
+  "52": {
+    "Prompt": "\nCritic: While the political message in this short story is interesting enough that the author could have based an essay, or a different short story, around that message alone, it should not have been included in this story. The story's primary focus is humor, and the political message distracts from the story's humorous effect. Which one of the following principles, if valid, most strongly supports the critic's reasoning?\n\nA) Authors should not convey political messages in their short stories.\nB) Nothing in a short story should distract from the story's primary focus.\nC) Writers should not risk alienating readers who disagree with them politically.\nD) Political messages need to be developed differently in essays than in short stories.\nE) A short story's political message is irrelevant to its artistic merit.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 149,
+    "Tokens": 181,
+    "Entropy": "6.37 [bits/token]"
+  },
+  "53": {
+    "Prompt": "\nEntertainment reporter: Unlike most major motion pictures, the release of the upcoming film Escapade II has not been preceded by free, advance screenings that show the film to select audiences for promotional purposes. With movie research showing awareness of the film at 96 percent, and with around 60 percent of filmgoers indicating \"definite interest\" in the film, the film's distributors must have decided not to do anything that could reduce interest in the film. The entertainment reporter's explanation for why there have been no advance screenings of Escapade II relies on assuming that the distributors believe that\n\nA) advance screenings of Escapade II would cost them a significant amount that could much more effectively be spent on advertising\nB) advance screenings of Escapade II might lead to a dampening of the enthusiasm of filmgoers who would otherwise have an interest in seeing the film\nC) the select audiences who would normally be invited to free, advance screenings of a major motion picture would probably not enjoy Escapade II\nD) if 96 percent of the public is aware of the upcoming release of Escapade II, it is probable that 96 percent of the public intends to see the film\nE) the film Escapade II would most likely be viewed by approximately 60 percent of the public if no advance screenings are given\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 240,
+    "Tokens": 294,
+    "Entropy": "6.55 [bits/token]"
+  },
+  "54": {
+    "Prompt": "\nAnthropology professor: The new class I'm offering has been listed in the course catalog as a literature class, but it should be listed instead as an anthropology class. The texts we will study are all novels, but we will be examining them as sources of information about different cultures. Dean: The class is listed as it should be. All the readings in the class are works of literature. The dialogue provides the most support for the claim that the anthropology professor and the dean disagree over whether\n\nA) all of the books that will be read in the new class are novels\nB) a class can be listed as both an anthropology class and a literature class\nC) the approach taken to the readings should be a crucial determinant of how a class is listed\nD) the dean has the power to decide how a new class is to be listed\nE) an anthropology professor should be permitted to teach a literature class\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 182,
+    "Tokens": 208,
+    "Entropy": "6.13 [bits/token]"
+  },
+  "55": {
+    "Prompt": "\nToy manufacturer: Our competitors argue that we should withdraw our KlopperKidz toys from stores because several children have allegedly been injured by them, and manufacturers should voluntarily withdraw toys that can lead to injury. Their allegations, however, have not been proved. Furthermore, even if they were proved, our competitors' argument would still not merit serious attention, because their toys have caused injuries, and they have not volunteered to withdraw them from stores. The toy manufacturer's argument is most vulnerable to the criticism that it\n\nA) attempts to justify a conclusion by offering reasons that are mutually exclusive\nB) rejects an argument on the grounds that those making it have a vested interest in convincing people of the truth of the conclusion\nC) assumes that merely because something has not been proved to be true, it must therefore be false\nD) rejects an argument on the grounds that those making it have failed to abide by what the argument recommends\nE) takes a necessary condition for a toy's being unsafe to be a sufficient condition for its being unsafe\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 197,
+    "Tokens": 230,
+    "Entropy": "6.70 [bits/token]"
+  },
+  "56": {
+    "Prompt": "\nResearcher: Some scholars maintain that the first government other than China to issue any form of paper currency was the Massachusetts colony in 1690. But these scholars are incorrect. During a coin shortage in New France in 1685, its government was unable to use coins to pay soldiers stationed in Quebec. Instead, playing cards were assigned an official value and issued as pay. These cards, which could be used to buy goods, were convertible to coins, which later arrived on supply ships from France. The researcher's conclusion is properly drawn if which one of the following is assumed?\n\nA) The playing cards in use in Quebec in the late 1600s were made of paper.\nB) The Chinese government did not issue paper currency during the 1600s.\nC) Playing cards were not available to inhabitants of the Massachusetts colony before 1690.\nD) The Massachusetts colony's issue of paper currency was not prompted by a coin shortage.\nE) Every government that issued paper currency in the 1600s left records pertaining to that currency.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 190,
+    "Tokens": 234,
+    "Entropy": "6.61 [bits/token]"
+  },
+  "57": {
+    "Prompt": "\nA tiny crab that lives 550 meters below the surface of the Gulf of Mexico has been found to have eyes that are sensitive to ultraviolet light. But ultraviolet light from the sun cannot penetrate to that depth. If the crab's ultraviolet receptors developed as an adaptation to the depths, they are probably for detecting light from bioluminescent organisms. In that case, since the crab is not itself bioluminescent, it probably hunts bioluminescent prey. Which one of the following, if true, would most weaken the argument?\n\nA) A trait that serves no function tends to be lost over time.\nB) Prey is not plentiful at the depth at which the crabs are found.\nC) The crabs can detect each other by nonvisual means.\nD) It takes many generations to develop sensitivity to ultraviolet light.\nE) The crab's most dangerous predators are bioluminescent.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 161,
+    "Tokens": 208,
+    "Entropy": "6.60 [bits/token]"
+  },
+  "58": {
+    "Prompt": "\nLast year a local advertising agency produced many of its television commercials in a studio with improperly installed equipment. As a result, the sound in these commercials was not perfectly synchronized with the picture; this was particularly noticeable when people were shown talking, and it even prompted complaints from some viewers. However, local automobile dealerships that relied on television commercials from this agency tended to have greater sales increases during this period than did local dealerships using television commercials from other agencies instead. Which one of the following, if true, most helps to explain the sales discrepancy described above?\n\nA) Most viewers turned off the sound on their televisions when local automobile-dealership commercials aired during this period.\nB) People are more likely to recall a television commercial they have seen if the sound and pictures were not properly synchronized.\nC) Most of the advertisers that relied on commercials produced at the studio with improperly installed equipment were automobile dealerships.\nD) Not all of the commercials produced for automobile dealerships at this studio contained video of people talking.\nE) Most of the local automobile dealerships during this time did not rely heavily on television advertising.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 213,
+    "Tokens": 246,
+    "Entropy": "6.65 [bits/token]"
+  },
+  "59": {
+    "Prompt": "\nSinking large, obsolete pieces of equipment in coral areas is said to provide much-needed habitats for marine life. This, proponents say, shows that the practice is ecologically sound. However, it may be that this practice is ecologically unsound even if it does provide much-needed habitats, for the practice may upset an area's ecological balance in unknown ways. Which one of the following most accurately describes the role played in the argument by the claim that the practice of sinking large, obsolete pieces of equipment in coral areas may upset an area's ecological balance in unknown ways?\n\nA) It is intended to be a summary of the argument.\nB) It is a claim that the argument purports to refute.\nC) It is a claim that the argument contends is insufficient to show what some have taken it to show.\nD) It is the main conclusion of the argument.\nE) It is a premise of the argument.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 174,
+    "Tokens": 207,
+    "Entropy": "6.24 [bits/token]"
+  },
+  "60": {
+    "Prompt": "\nHaving cameras at traffic intersections to automatically ticket cars that run red lights might raise revenue for municipalities but does not increase traffic safety. Accidents actually increase at intersections that have cameras: There are fewer side-impact collisions but significantly more rear-impact collisions. Which one of the following, if true, most weakens the argument?\n\nA) The revenue raised through automatically generated tickets can be used to address issues other than traffic safety.\nB) Automatically generated tickets for running red lights have been shown to generate some undeserved tickets.\nC) Side-impact collisions are generally the fault of the driver who drives through the red light.\nD) Side-impact collisions are a much greater safety threat than rear-impact collisions.\nE) Automatically generated tickets can punish the owner of the car rather than the driver of the car at the time of the infraction.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 158,
+    "Tokens": 192,
+    "Entropy": "6.49 [bits/token]"
+  },
+  "61": {
+    "Prompt": "\nFor years, Glenville had the highest apartment rents in the metropolitan region in which it is located. This year, Glenville has only the third highest apartment rents in the region. Therefore, it must cost less to rent an apartment in Glenville now than it used to. Which one of the following arguments demonstrates most effectively by parallel reasoning that the argument above is flawed?\n\nA) Because Brenda's kitten's veterinary bills are lower than her puppy's veterinary bills, the kitten must be healthier than the puppy.\nB) Because Brenda's kitten was larger than her puppy a while ago but is now smaller than the puppy, the kitten must have shrunk.\nC) Because Brenda's kitten was born a week before her puppy was, Brenda must have gotten the kitten first.\nD) Because Brenda's kitten eats less than her puppy does, the kitten is unlikely to become overweight.\nE) Because Brenda's kitten has become more friendly toward her puppy recently, the puppy must have become more friendly toward the kitten.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 186,
+    "Tokens": 223,
+    "Entropy": "6.26 [bits/token]"
+  },
+  "62": {
+    "Prompt": "\nThe crocodiles of Lake Victoria, in East Africa, sometimes attack humans that venture into their habitat. The number of attacks on people by these crocodiles has increased significantly in the last 20 years. This is despite the fact that the number of crocodiles in the lake has not increased in that time and the crocodiles have no less food available. Which one of the following, if true, most helps to explain the increase in the incidence of crocodile attacks on humans?\n\nA) Wildlife authorities on Lake Victoria sometimes destroy crocodiles that they believe to be responsible for attacks on humans.\nB) About 100 crocodiles inhabit the part of Lake Victoria where most of the attacks on humans have occurred.\nC) More attacks on humans by crocodiles occur in Lake Victoria than in any other part of Africa.\nD) Adult crocodiles in Lake Victoria are generally unafraid of humans or their boats.\nE) People now fish in more parts of Lake Victoria than they did in previous decades.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 186,
+    "Tokens": 229,
+    "Entropy": "6.34 [bits/token]"
+  },
+  "63": {
+    "Prompt": "\nWhen the annual period of daylight saving time begins, and clocks are set forward one hour, many people lose an hour of sleep. On the following day, according to government statistics, the incidence of traffic accidents is 7 percent greater than the average for that time of year. It is therefore likely that sleep deprivation is responsible for this spike in traffic accidents. Which one of the following, if true, most strengthens the argument?\n\nA) Many people forget to set their clocks forward when daylight saving time begins and are late for appointments on the following day as a result.\nB) Traffic accidents are less common in the spring, when the annual period of daylight saving time begins, than they are in the winter.\nC) The traffic accidents that occur on the day after daylight saving time begins are no more severe than normal.\nD) The higher incidence of accidents is most pronounced later in the day, when sleep-deprived people tend to be most drowsy.\nE) The effects of sleep deprivation can linger for several days.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 195,
+    "Tokens": 228,
+    "Entropy": "6.46 [bits/token]"
+  },
+  "64": {
+    "Prompt": "\nEvery human's brain contains a mental representation of the external world. Yet, this representation necessarily leaves out much detail. After all, the external world is much larger and more complex than the human brain, and there is no way an object could completely represent something larger and more complex than itself. Which one of the following most accurately expresses the conclusion drawn in the argument?\n\nA) The human brain's representation of the external world leaves out much detail.\nB) The external world is much larger and more complex than a human brain.\nC) The human brain cannot completely represent something larger and more complex than itself.\nD) The human brain contains a mental representation of the external world.\nE) It is impossible for any entity to completely represent anything larger and more complicated than itself.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 154,
+    "Tokens": 177,
+    "Entropy": "5.96 [bits/token]"
+  },
+  "65": {
+    "Prompt": "\nGenerally, open discussion of a false and pernicious idea diminishes its appeal. Even in a flourishing democracy, however, certain misconceptions are so alluring that they tend to gain in popularity when they are debated. Which one of the following principles is most clearly illustrated by the statements above?\n\nA) Democratic governments should be allowed on occasion to suppress debate regarding certain misconceptions.\nB) Sometimes it is better to openly discuss an idea even though doing so will increase the popularity of a misconception.\nC) Not all pernicious ideas are misconceptions.\nD) Discussion and debate do not necessarily lead to a greater acceptance of the truth.\nE) One of the reasons some ideas are appealing is that they are false.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 138,
+    "Tokens": 167,
+    "Entropy": "6.50 [bits/token]"
+  },
+  "66": {
+    "Prompt": "\nSchmidt: In enforcing township rules on how homeowners maintain their property, it is a mistake to encourage residents to report violations by their neighbors. Doing so engenders bad feelings among neighbors and leads to tips based on spite. Chandha: It's not a mistake. Without rules on how homeowners maintain their property, a single homeowner could degrade the appearance of an entire neighborhood. Chandha's response is most vulnerable to criticism on the grounds that it\n\nA) takes a criticism of the way in which certain rules are enforced to be a criticism of the rules themselves\nB) challenges the motivation behind Schmidt's argument rather than Schmidt's reasoning\nC) confuses a criticism of the consequences of having a set of rules with a criticism of the detailed provisions of the rules\nD) takes for granted that just because something is likely to happen on some occasions, it will always happen\nE) confuses the cause of bad feelings among neighbors with a consequence of bad feelings among neighbors\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 184,
+    "Tokens": 218,
+    "Entropy": "6.46 [bits/token]"
+  },
+  "67": {
+    "Prompt": "\nSome have argued that once it becomes necessary for us to think about computers in terms of beliefs and desires in order to understand how they function, we can rightly say that computers have beliefs and desires. However, we already need to think about what computers believe and desire in order to understand how they function, and thus the suggested criterion for ascribing beliefs and desires to computers implies that the computers that exist now have beliefs and desires. So the suggested criterion is obviously flawed. The claim that the computers that exist now have beliefs and desires plays which one of the following roles in the argument above?\n\nA) It is held to be an unacceptable conclusion to which the suggested criterion would lead.\nB) It is a view the argument assumes is uncontroversial.\nC) It is an example given to clarify the criterion in question.\nD) It is the conclusion of the argument.\nE) It is a premise whose truth is necessary to the success of the argument.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 189,
+    "Tokens": 213,
+    "Entropy": "6.21 [bits/token]"
+  },
+  "68": {
+    "Prompt": "\nManufacturer: If our biggest competitor were to go out of business, some of the specialized suppliers that we both use would be bankrupted. So, in order for us to stay in business, our biggest competitor must stay in business. The conclusion drawn above follows logically if which one of the following is assumed?\n\nA) The manufacturer's specialized suppliers will not be bankrupted.\nB) The manufacturer will stay in business if its biggest competitor stays in business.\nC) If the manufacturer goes out of business, its biggest competitor will go out of business.\nD) The manufacturer will stay in business if its specialized suppliers are not bankrupted.\nE) The manufacturer will stay in business only if its specialized suppliers are not bankrupted.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 140,
+    "Tokens": 167,
+    "Entropy": "5.91 [bits/token]"
+  },
+  "69": {
+    "Prompt": "\nJack's dog howls whenever a train goes by. Occasionally a train goes by while Jack is washing his dog. So Jack's dog must sometimes howl while he is washing it. The pattern of reasoning in which one of the following arguments is most similar to that in the argument above?\n\nA) Every serious jogger can benefit from good running shoes. But there must be a few serious joggers who prefer to run in ordinary sneakers, since some people who can benefit from good running shoes prefer to run in ordinary sneakers.\nB) Most serious joggers can benefit from good running shoes. But some serious joggers prefer to run in ordinary sneakers. So some people who prefer to run in ordinary sneakers can benefit from good running shoes.\nC) Any serious jogger can benefit from good running shoes. But a few serious joggers prefer to run in ordinary sneakers. So some people who can benefit from good running shoes prefer to run in ordinary sneakers.\nD) At least some serious joggers can benefit from good running shoes. But there are serious joggers who prefer to run in ordinary sneakers. So some people who prefer to run in ordinary sneakers can benefit from good running shoes.\nE) Any serious jogger can benefit from good running shoes. But some serious joggers occasionally prefer to run in ordinary sneakers. So anyone who can benefit from good running shoes occasionally prefers to run in ordinary sneakers.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 260,
+    "Tokens": 302,
+    "Entropy": "5.92 [bits/token]"
+  },
+  "70": {
+    "Prompt": "\nWhen plants are growing quickly, they take more carbon dioxide out of the atmosphere than they release into it. But when they are growing very slowly, the reverse is true. Any substantial increase in the amount of carbon dioxide released into the atmosphere causes temperatures to increase in the tropics, where the bulk of Earth's plants are found. And the more temperatures increase in the tropics, the more slowly, on average, the plants there grow. Which one of the following is most strongly supported by the information above?\n\nA) The amount of carbon dioxide released into the atmosphere will inevitably increase at a gradually accelerating rate of speed.\nB) If the amount of carbon dioxide released into the atmosphere increases substantially, the bulk of Earth's plants will release more carbon dioxide into the atmosphere than they take out of it.\nC) Plants in the tropics will grow more slowly, on average, if they release enough carbon dioxide to increase substantially the total amount of carbon dioxide released into the atmosphere.\nD) If the plants in the tropics begin to grow more slowly, on average, the temperatures in the tropics will increase substantially as a result.\nE) Any increase in temperatures in the tropics will be associated with a substantial increase in the amount of carbon dioxide released into the atmosphere.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 239,
+    "Tokens": 277,
+    "Entropy": "6.01 [bits/token]"
+  },
+  "71": {
+    "Prompt": "\nEssayist: Since ancient times humans have relied on myths to try to explain our place in the cosmos. In this respect the claims of science are not different from stories about the gods of Homer. The question of the truth of science, as with myth, is merely the question of how well it helps us to cope with the human condition. So while science undoubtedly can count some successes, that it falls short of complete truth is amply demonstrated by the degree to which science is responsible for the breakdown of society's key institutions. Which one of the following most accurately states the main conclusion of the essayist's argument?\n\nA) Science is at least in part responsible for the breakdown of key institutions in society.\nB) Science is no more true than the myth of the gods of Homer.\nC) Science is only partially true.\nD) Science is merely a myth.\nE) Science, like stories about the gods of Homer, attempts to explain our place in the cosmos.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 187,
+    "Tokens": 217,
+    "Entropy": "6.39 [bits/token]"
+  },
+  "72": {
+    "Prompt": "\nSodium nitrate is frequently added to sausages to make them pink. However, sodium nitrate does not contribute to preventing spoilage of the meat, and excessive use of it increases the level of sodium in the sausages beyond what is necessary for good taste. Because consumption of an excessive level of sodium can lead to health problems, clearly sodium nitrate should never be added to sausages. The reasoning in the argument is most vulnerable to criticism on which one of the following grounds?\n\nA) The argument makes a recommendation based on evidence from an insufficient sample.\nB) The argument does not address possible risks associated with the proposed recommendation.\nC) The argument presumes, without providing justification, that it is appropriate for the government to protect people from possible health threats without their consent.\nD) The argument does not provide sufficient justification for preferring the solution it recommends over more moderate alternatives.\nE) The argument does not distinguish adequately between medical and economic justifications for a policy.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 184,
+    "Tokens": 220,
+    "Entropy": "6.64 [bits/token]"
+  },
+  "73": {
+    "Prompt": "\nFor a zoo to make a valuable contribution to the community, it must be well run. All large zoos that are well run have some full-time veterinarians on staff, but many small zoos that are well run have only part-time veterinarians. In addition, there are many large zoos that make valuable contributions to their communities and are open all year, while most small zoos are closed in winter. If the statements above are true, then which one of the following must also be true?\n\nA) Most large zoos are well run.\nB) No large, well-run zoos have any part-time veterinarians on staff.\nC) Some zoos that make valuable contributions to their communities have only part-time veterinarians on staff.\nD) Some zoos that are open all year have full-time veterinarians on staff.\nE) Most small zoos make valuable contributions to their communities.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 160,
+    "Tokens": 204,
+    "Entropy": "6.09 [bits/token]"
+  },
+  "74": {
+    "Prompt": "\nPrincipal: All of our school's rural students participate in the school's lunch program because they live too far away to go home for lunch, while roughly one half of their urban counterparts also take part in the program. Some participants in this program, including some of the school's strongest academic achievers, also participate in extracurricular activities such as sports and drama. Therefore, we know that some of the participants in extracurricular activities are rural students and some are urban students. The reasoning in the principal's argument is flawed because this argument\n\nA) takes for granted that a greater number of strong academic achievers than those who are not strong academic achievers participate in extracurricular activities\nB) takes for granted that a greater number of rural students than urban students participate in extracurricular activities\nC) ignores the possibility that those who participate both in the lunch program and in extracurricular activities do not include both urban and rural students\nD) ignores the possibility that both rural and urban students have many other ways of occupying their time besides extracurricular activities\nE) at first uses the word \"participate\" in one sense and then illicitly allows the word's meaning to change\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 217,
+    "Tokens": 271,
+    "Entropy": "6.53 [bits/token]"
+  },
+  "75": {
+    "Prompt": "\nPrinciple: An author of an article that has appeared in a magazine should be allowed to respond in that magazine to harsh criticism of the article if the criticism was published in the same magazine, or, alternatively, if the criticism was published in another magazine and is unfair. Application: McFinton should be allowed to publish a response in Speculator's Digest to Wallace's most recent article, because Wallace's article is harshly critical of McFinton's essay on self-deception. Which one of the following, if true, justifies the above application of the principle?\n\nA) McFinton's essay on self-deception appeared in Speculator's Digest as well as in other magazines.\nB) Wallace's most recent article was published in Speculator's Digest as well as in other magazines.\nC) McFinton's essay on self-deception appeared only in Speculator's Digest, while Wallace's article has been published in a wide array of other magazines.\nD) Both McFinton's essay on self-deception and Wallace's most recent article were published in Speculator's Digest.\nE) Wallace's most recent article appeared in Speculator's Digest and was unfair in its harsh criticism of McFinton's essay on self-deception.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 200,
+    "Tokens": 274,
+    "Entropy": "6.12 [bits/token]"
+  },
+  "76": {
+    "Prompt": "\nPaleontologist: Most biologists accept that birds evolved from dinosaurs known as maniraptors. Some biologists have not accepted this theory, because the oldest known bird fossils predate the oldest known maniraptor fossils by several million years. This reasoning is misguided, however; the fact that no maniraptor fossils of a certain age have been discovered hardly rules out the possibility that such fossils exist. The paleontologist's argument is most vulnerable to criticism on which one of the following grounds?\n\nA) It overlooks the possibility that even if a particular argument against a theory is misguided, that theory may nonetheless be untrue.\nB) It fails to address adequately the possibility that even if maniraptors existed before the first birds did, there may not be any maniraptor fossils older than the oldest known bird fossils.\nC) It takes for granted that if there are any maniraptor fossils older than the oldest known bird fossils, this itself proves that birds evolved from maniraptors.\nD) It overlooks the possibility that there may be substantial evidence that birds did not evolve from maniraptors, but that this evidence may be unrelated to the ages of any known or unknown bird and maniraptor fossils.\nE) It fails to address adequately the possibility that it can be reasonable to refuse to accept a theory solely on the grounds that the evidence yet discovered for the theory appears to be insufficient.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "E",
+    "Result": "Incorrect",
+    "Words": 249,
+    "Tokens": 303,
+    "Entropy": "6.60 [bits/token]"
+  },
+  "77": {
+    "Prompt": "\nParikh: Jon has at least three unpaid parking tickets, so it's clear that he has no respect for the law. Atler: Although Jon does have too many unpaid parking tickets, these few minor infractions indicate nothing more than that he might be lazy or careless. The dialogue provides the most support for the claim that Parikh and Atler disagree over whether there is evidence that Jon\n\nA) has at least three unpaid parking tickets\nB) has no respect for the law\nC) has committed a few minor infractions\nD) has too many unpaid parking tickets\nE) might be lazy or careless\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 120,
+    "Tokens": 148,
+    "Entropy": "6.15 [bits/token]"
+  },
+  "78": {
+    "Prompt": "\nThe nests inhabited by wood rats often contain nibbled bay and oak leaves. Since only the oak leaves are a known food source, the bay leaves are probably placed there to act as a fumigant to reduce parasites such as fleas. This view is backed by an experiment in which some flea larvae were incubated with torn bay leaves and some with torn oak leaves. The survival rate with oak leaves was close to 100 percent, but with bay leaves just one in four larvae survived. Which one of the following, if true, most strengthens the argument?\n\nA) Wood rats that live near oak trees almost invariably have oak leaves in their nests.\nB) Wood rats are the only rodents that have been found to keep nibbled bay leaves in their nests.\nC) Most wood rat nests that do not contain nibbled bay leaves are infested with fleas.\nD) Fleas more commonly live on wood rats themselves than in the nests of wood rats.\nE) Bay leaves are generally more difficult for wood rats to gather than oak leaves are.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 199,
+    "Tokens": 234,
+    "Entropy": "6.58 [bits/token]"
+  },
+  "79": {
+    "Prompt": "\nOf all the commonly consumed foods, eggs contain the highest amount of dietary cholesterol, which contributes to people's blood cholesterol levels. Yet when people who stop eating eggs for breakfast are monitored over the course of a year, their blood cholesterol levels are often found to increase. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?\n\nA) Although eggs are high in dietary cholesterol, they also contain substances such as protein and vitamins, which are beneficial to overall health.\nB) Among people with certain health conditions, there is a high correlation between egg consumption and elevated blood cholesterol.\nC) People who stop eating eggs for breakfast generally do so because of concern about their cholesterol levels.\nD) Many people who regularly eat eggs for breakfast have about the same level of cholesterol in their blood as people who have never eaten eggs for breakfast.\nE) Many people who stop eating eggs for breakfast start eating breakfast foods that are high in saturated fat, which has a greater effect on blood cholesterol than dietary cholesterol does.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 203,
+    "Tokens": 230,
+    "Entropy": "6.51 [bits/token]"
+  },
+  "80": {
+    "Prompt": "\nAn enormous, recently completed resort is the largest project ever built to environmental building standards. However, the resort is an economic failure\u2014most of its many hotel rooms are empty\u2014and it is thus no great achievement in environmental sustainability either. Which one of the following principles, if valid, most helps to justify the reasoning in the argument?\n\nA) Environmental sustainability is no less difficult to achieve with resort facilities than with other kinds of facilities.\nB) Using resources to build things that the market does not demand compromises environmental sustainability.\nC) Buildings designed for recreational uses should be built to the same standards as buildings designed for industrial uses.\nD) To minimize risk, large construction projects should not be undertaken during a time of economic instability.\nE) Reducing energy used during operation of a building is more important than reducing energy used to construct the building.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 164,
+    "Tokens": 190,
+    "Entropy": "6.65 [bits/token]"
+  },
+  "81": {
+    "Prompt": "\nIlluminCo should focus its efforts on developing affordable light-emitting diode (LED) bulbs for widespread use. LED bulbs have many advantages over incandescent and fluorescent bulbs. Because their design is simpler, LED bulbs undergo less wear and tear than other bulbs and consequently last much longer. In addition, LED bulbs use significantly less energy than do other bulbs. However, because of their cost, LED bulbs are currently used only in limited applications. Which one of the following most accurately expresses the main conclusion drawn in the argument?\n\nA) IlluminCo should focus on developing affordable LED bulbs for widespread use.\nB) LED bulbs have many advantages over incandescent and fluorescent bulbs.\nC) LED bulbs last much longer than incandescent and fluorescent bulbs.\nD) LED bulbs use significantly less energy than do other bulbs.\nE) Because of their cost, LED bulbs are currently used only in limited applications.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 164,
+    "Tokens": 205,
+    "Entropy": "6.25 [bits/token]"
+  },
+  "82": {
+    "Prompt": "\nNguyen: The recently discovered structure at Aila, which dates from about 300 A.D., has been labeled \"the oldest Christian church.\" But it is not the oldest, for the Christian church at Doura-Europos, a city destroyed in 250 A.D., is at least half a century older. Parker: Well, the earliest Christians worshiped in private houses, not churches as such, and the Doura-Europos structure was a private house converted into a structure for Christian worship, whereas the Aila structure was built expressly as a Christian church. Which one of the following most accurately expresses the grounds on which Parker criticizes Nguyen's reasoning?\n\nA) The term \"church\" can refer to an organization rather than a structure.\nB) The term \"church\" cannot be appropriately applied to the structure at Doura-Europos.\nC) Nguyen uses the term \"church\" to mean two different things.\nD) There is insufficient evidence for the existence of the structure at Aila.\nE) There is no evidence that the earliest Christians worshiped in structures built expressly as churches.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 185,
+    "Tokens": 251,
+    "Entropy": "6.71 [bits/token]"
+  },
+  "83": {
+    "Prompt": "\nJudith usually eats in Thai restaurants, because Thai food is her favorite kind. Thus, since Pablo usually eats in Italian restaurants, evidently Italian food is his favorite kind. The reasoning in the argument is most vulnerable to criticism on the grounds that the argument\n\nA) takes what is evidently a difference of degree to be a difference of kind\nB) infers from the effect an action has that the action is intended to have that effect\nC) infers that simply because a set of things taken as a whole has a certain property, each member of that set has the property\nD) confuses an absence of evidence against a claim with the existence of evidence in support of that claim\nE) proceeds as if a given kind of causal explanation can be generalized on the basis of a single instance\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 159,
+    "Tokens": 184,
+    "Entropy": "6.25 [bits/token]"
+  },
+  "84": {
+    "Prompt": "\nPlaintiff's lawyer: The judge in this case recently went on a skiing weekend with a small group that included the defendant. Moreover, before the case arose, the judge's family occasionally received complimentary tickets to theater and sporting events from the defendant's company. So, even if the judge's avowal that the case was never discussed during the skiing weekend is accurate, her connections with the defendant raise doubts about whether she can decide it impartially. She should do the right thing and step down from the case. Which one of the following principles, if valid, most helps to justify the reasoning in the plaintiff's lawyer's argument?\n\nA) Because they are human, judges should not ever be expected to be completely impartial in deciding a case.\nB) Judges should always disqualify themselves from cases in which any reasonable question can be raised about their impartiality.\nC) A judge's claim that she has not discussed a case with one of the parties to it should be viewed with suspicion if the judge has received something of value from that party.\nD) A judge should step down from a case if there is clear evidence that the judge has been unfairly influenced by one of the parties to it.\nE) A judge should never accept items of value from someone who is a defendant in a case over which she is presiding.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 247,
+    "Tokens": 290,
+    "Entropy": "6.75 [bits/token]"
+  },
+  "85": {
+    "Prompt": "\nA recent experiment shows that chimpanzees sometimes act not out of self-interest, but altruistically. In this experiment, chimpanzees watched a person unknown to them reach through the bars of their enclosure for a stick. When the person was unable to reach it, most of the chimpanzees handed the stick to the person even though they had to make an effort to reach it. Since no reward was offered to the chimpanzees in the experiment, what it revealed was clearly altruism. Which one of the following is an assumption required by the argument?\n\nA) The chimpanzees in the experiment did not have an expectation that they would be rewarded.\nB) If a reward had been offered in the experiment, the chimpanzees would have behaved differently.\nC) Chimpanzees are the only nonhumans that have been shown to exhibit altruistic behavior.\nD) The chimpanzees in the experiment considered retrieving the stick to be a form of play.\nE) The chimpanzees would have behaved differently had they been familiar with the person who reached through the bars of their enclosure.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 195,
+    "Tokens": 244,
+    "Entropy": "6.35 [bits/token]"
+  },
+  "86": {
+    "Prompt": "\nDr. Cortez: Dr. Brady claims her research shows that the best choice for people at risk for a heart attack is to avoid exercising outdoors on days when there are high levels of air pollution. This conclusion is obviously wrong. It would be far better to remove pollution from the air than to just avoid it. Dr. Cortez's reasoning is questionable in that it\n\nA) criticizes an argument by attacking the person making the argument rather than the content of the argument being made\nB) mistakes what is meant to be advice directed at individuals for a recommendation about public policy\nC) infers that something is best for a group as a whole simply on the grounds that it is best for individual members of that group\nD) presumes, without providing justification, that only those at risk for a heart attack should avoid exercising outdoors on days when there are high levels of air pollution\nE) takes for granted that the removal of pollution from the air would be a good thing when that is one of the issues in dispute\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "B",
+    "Result": "Correct",
+    "Words": 200,
+    "Tokens": 230,
+    "Entropy": "6.57 [bits/token]"
+  },
+  "87": {
+    "Prompt": "\nWhen campaigning for office, politicians sometimes promise to do things that they believe would be contrary to the interests of the public. Once in office, however, a politician who gets elected should try to keep any campaign promises that the politician believes would not make the public worse off. The principle stated above, if valid, most helps to justify the reasoning in which one of the following arguments?\n\nA) Greeley was elected to office on the promise to reduce taxes. Upon taking office it became apparent to Greeley that reducing taxes would require cuts in services that would be unpopular with the public. Thus, Greeley should not try to reduce taxes.\nB) Zamora believes that building the water treatment plant will not make the public better off, but that promising to do so will help Zamora get elected, and that electing Zamora will be in the public's best interest. Thus, it is not wrong for Zamora to make the promise.\nC) Najera campaigned on a promise to preserve funding for a new recycling center. Once in office, Najera came to doubt that fulfilling the promise would provide any benefit to the public. Thus, Najera should break the promise.\nD) Yan campaigned on the promise to increase spending on road maintenance despite believing that fulfilling the promise would be to the detriment of the public. But once elected, Yan concluded that fulfilling the promise would benefit the public. So Yan should keep the promise.\nE) Kourik campaigned on the promise to restructure the Housing Department. Once in office, Kourik concluded that attempting to restructure the Housing Department would be to the public's detriment. Thus, Kourik never should have promised to restructure the Housing Department.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 302,
+    "Tokens": 364,
+    "Entropy": "6.55 [bits/token]"
+  },
+  "88": {
+    "Prompt": "\nSuvaine is a drug that is prescribed to alleviate symptoms associated with a skin disorder. When it became known that the incidence of certain cancers is higher among people taking Suvaine than it is for people of the same age in the general population, some physicians hypothesized that taking Suvaine contributes to cancer risk. Which one of the following would be most useful to know in order to assess the support for the physicians' hypothesis?\n\nA) whether the incidence of the cancers is the same among people with the skin disorder as it is for people who do not have the skin disorder\nB) whether any other drugs alleviate the symptoms of the skin disorder as well as Suvaine does\nC) whether the number of people taking Suvaine increased significantly just before the discovery about the incidence of the cancers\nD) whether there has recently been an increase in the overall incidence of the types of cancer found to have a relatively high incidence among people taking Suvaine\nE) whether people ever use Suvaine for any purpose other than alleviating symptoms associated with the skin disorder\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 205,
+    "Tokens": 240,
+    "Entropy": "6.28 [bits/token]"
+  },
+  "89": {
+    "Prompt": "\nMany toll roads have added methods of collecting tolls by automatically debiting the prepaid accounts of drivers whose vehicles pass by an electronic sensor rather than by making drivers stop to pay. Promoters claim that the savings involved allows tolls to remain lower than they otherwise would be. However, a recent study shows that when electronic payment systems are in place toll increases are 30 percent higher than they are on roads without electronic payment systems. Which one of the following, if true, most helps to resolve the apparent discrepancy in the information above?\n\nA) Electronic payment systems have environmental advantages because they reduce the traffic delays associated with traditional toll collection.\nB) Not all drivers who use toll roads use them enough to make it worth their while to set up an account and acquire the equipment needed to use an electronic system.\nC) When drivers do not take time to pay the cost of each trip on a toll road separately, they are less likely to put pressure on the road's managers to keep toll charges down.\nD) By taking payment in advance of actual trips, electronic payment systems have a financial advantage through the accrual of interest.\nE) Toll increases are an effective strategy for encouraging drivers to carpool, thereby reducing congestion.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "C",
+    "Result": "Correct",
+    "Words": 234,
+    "Tokens": 266,
+    "Entropy": "6.96 [bits/token]"
+  },
+  "90": {
+    "Prompt": "\nBy inserting genes from a certain common vegetable into the vines of wine grapes, researchers have created grapevines that survive very cold winters. This research is useless, however. Even if good wines can be made from these grapes, consumers will not accept wine made from grapes with vegetable genes. Which one of the following, if true, most weakens the argument?\n\nA) Techniques developed in the course of the research could also be used to make wine grapes more cold tolerant by inserting genes from cold-tolerant wild grapes.\nB) Grapes from the vines that the researchers developed have not been tested to determine their suitability for wine making.\nC) Every year, grapevines at many vineyards are destroyed by cold weather.\nD) If winemakers ever make wine from grapes with genetic material from another type of fruit or vegetable, they will be obligated to disclose that information on their labels.\nE) Some very good wines are made from grapes grown in grape-growing regions with cool winters.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "B",
+    "Correct label": "A",
+    "Result": "Incorrect",
+    "Words": 183,
+    "Tokens": 221,
+    "Entropy": "6.71 [bits/token]"
+  },
+  "91": {
+    "Prompt": "\nStephanie: The historic district should be expanded by several blocks immediately. The beauty of the nineteenth-century architecture on these blocks would draw more tourists to the city, and increased tourism would benefit all the residents due to the extra money coming into the community. Shirley: Caution needs to be exercised. Rents would go up in apartment buildings on the fringes of the present historic district if it is expanded. This increase would seriously disrupt the lives of the people affected. On the basis of their statements, Stephanie and Shirley are committed to disagreeing about the truth of which one of the following?\n\nA) The increased tourism in the expanded historic district would be a benefit to the city.\nB) Some of the residents of the expanded historic district would see their rents increase.\nC) Some people would be adversely affected by the expansion of the historic district.\nD) The historic district should not be expanded.\nE) The expansion of the historic district should be done without hesitation.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 186,
+    "Tokens": 217,
+    "Entropy": "6.26 [bits/token]"
+  },
+  "92": {
+    "Prompt": "\nLawyer: In concluding that there were no witnesses to the crime, the investigators relied almost entirely on unverifiable claims. Thus, there is good reason to doubt the truth of their conclusion. But treating that reason for doubt as though it were proof that there were witnesses to the crime is equally unacceptable. Which one of the following conforms most closely to the principle illustrated above?\n\nA) A newspaper published an in-depth report of both sides of a dispute, without questioning the validity of either view. So, although the newspaper allowed each side to make its case, the report did not favor one side over the other.\nB) Although Ventola's proposal appears to be a viable solution to the problem, we should not yet adopt her solution. There are undoubtedly many other solutions available, and we cannot know which solution is best until we have considered all of them.\nC) If a salesperson would receive a commission from selling a product, then it is reasonable to assume that the salesperson's attitude toward the product might be biased. However, the mere possibility of bias should not be confused with actual bias.\nD) Ross has stated that he will never tell a lie, but that cannot be proven while Ross is still alive. After all, the truth of such a statement must be measured against actual events. Nonetheless, it would also be a mistake to take this to indicate that Ross will tell a lie.\nE) The makers of Ever Clean claim that Ever Clean is a better household cleaner than Total Clean because Total Clean is ineffective. It may be true that Total Clean is ineffective, but claims about Ever Clean's efficacy should be based on Ever Clean's performance.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 306,
+    "Tokens": 355,
+    "Entropy": "7.10 [bits/token]"
+  },
+  "93": {
+    "Prompt": "\nGala award ceremonies for theater and film artists can never succeed at their most obvious purpose\u2014rewarding the best artists of a particular year. After all, judgments about an artist's work are based largely on subjective preferences, and some brilliant artists who work outside the mainstream are not even considered for awards. Yet award ceremonies bring art to public awareness, a requirement for the advancement of culture in any society. Which one of the following is most strongly supported by the statements above?\n\nA) The advancement of culture in any society requires that there be award ceremonies for theater and film artists.\nB) Some subjective judgments interfere with the advancement of culture in a society.\nC) An award ceremony for artists who work outside the mainstream would not advance culture in a society.\nD) Gala award ceremonies for theater and film artists are justified only if they reward the best artists of the particular year.\nE) The most obvious purpose behind gala award ceremonies for theater and film artists is not the best reason for holding them.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 195,
+    "Tokens": 221,
+    "Entropy": "6.46 [bits/token]"
+  },
+  "94": {
+    "Prompt": "\nCan everything be reduced to what is studied by physics? Many scientists think that such a reduction is only a matter of time. They argue that all phenomena can be adequately explained by the laws of physics alone. However, the science that is often mentioned as affording the best evidence for physical reductionism\u2014psychology\u2014also furnishes the critics of physical reductionism with their best examples of heretofore unreduced phenomena. Which one of the following most accurately and completely characterizes the role of the reference to psychology in the passage?\n\nA) It is presented as evidence that only in the distant future are reductions to what is studied by physics possible.\nB) It is given as an example of an area of science where reductions to what is studied by physics are common.\nC) It is used to show that attempts to effect a reduction to what is studied by physics, even in the best cases, are questionable.\nD) It is presented as an example of a scientific discipline that refutes the claims of the physical reductionists.\nE) It is used to illustrate the claim that the human sciences contain examples of unreduced phenomena.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "C",
+    "Result": "Incorrect",
+    "Words": 210,
+    "Tokens": 249,
+    "Entropy": "6.50 [bits/token]"
+  },
+  "95": {
+    "Prompt": "\nA minority political faction will gracefully accept the electoral victory of a majority if the two factions share many fundamental values. In such a case, the loss does not constitute a complete surrender of the losing faction's vital interests. Hence, the cases in which majority rule works best include those in which each minority faction shares many fundamental values with the majority. The conclusion of the argument follows logically if which one of the following is assumed?\n\nA) Majority rule is most successful when the political issues that are most widely discussed are not issues of fundamental values.\nB) If a minority political faction gracefully accepts the electoral victory of a majority, then the two factions share many fundamental values.\nC) Only if an electoral loss constitutes a complete surrender of a minority faction's vital interests does majority rule work poorly.\nD) The cases in which majority rule works best include those in which every minority faction gracefully accepts the majority's victory.\nE) Whenever minority and majority factions do not share many fundamental values, a minority faction's electoral loss will constitute a complete surrender of its vital interests.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "C",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 207,
+    "Tokens": 233,
+    "Entropy": "6.22 [bits/token]"
+  },
+  "96": {
+    "Prompt": "\nAdvertisement: If you own a car, you need collision insurance. And anyone who needs collision insurance wants the best insurance bargain available. So if you own a car, you will want to take advantage of Acme's great rates on collision insurance. The questionable pattern of reasoning in which one of the following arguments is most similar to that in the advertisement?\n\nA) Columnist: If you are unhappy with your career, you should pursue a new one. Anyone whose career does not provide interesting challenges should pursue a new one. Hence, if you are unhappy with your career, you should go into computer programming.\nB) Columnist: If you are pursuing a new career, you should consider one that provides interesting challenges. Anyone who goes into computer programming will have interesting challenges. So if you are pursuing a new career, you should consider computer programming.\nC) Columnist: You do not need to pursue a new career if you are happy with your current one. Everyone who pursues a new career should consider the challenging career of computer programming. Therefore, if you are happy with your current career, you should not consider computer programming.\nD) Columnist: Everyone who pursues a new career should seek one that provides the most interesting challenges. If you are unhappy with your career, you should pursue a new one. Thus, if you pursue a new career, you should go into computer programming.\nE) Columnist: You should pursue a new career if you are unhappy with your current one. Everyone who pursues a new career should seek the one that provides the most interesting challenges. So if you are unhappy with your current career, you should go into the challenging career of computer programming.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 304,
+    "Tokens": 361,
+    "Entropy": "6.13 [bits/token]"
+  },
+  "97": {
+    "Prompt": "\nEditorial: Politicians who accept large contributions from corporations are very likely to show favoritism toward those corporations. Mayor Thompson has consistently shown clear favoritism toward the Wycombe Corporation. So the mayor very likely accepted one or more contributions from that corporation. Which one of the following most accurately describes a flaw in the reasoning of the editorial's argument?\n\nA) It proceeds as if the fact that people in a certain category are likely to be in another category establishes that a person in the latter category is likely to be in the former category.\nB) It fails to address the possibility that a specific member of a group is unrepresentative of that group in relevant respects.\nC) It treats a condition that is sufficient to establish the truth of the argument's conclusion as a condition that must hold in order for the conclusion to be true.\nD) It fails to distinguish between the claim that two phenomena are consistently associated with each other and the claim that one of those phenomena is always causally responsible for the other.\nE) It rejects a claim by attacking a proponent of the claim rather than by addressing the claim itself.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 216,
+    "Tokens": 248,
+    "Entropy": "6.57 [bits/token]"
+  },
+  "98": {
+    "Prompt": "\nEconomist: Antagonism toward free trade and resulting attempts to restrict trade are on the rise in many countries of the world, primarily due to substantial increases in the inequality of incomes in those countries. Since free trade brings tremendous benefits to the economies of all participating countries, these countries should introduce reforms like more progressive income tax rates to achieve a significant redistribution of income. Which one of the following is an assumption required by the economist's argument?\n\nA) Substantial increases in inequality of incomes in countries are not directly due to free trade.\nB) In countries with substantially unequal incomes, people with lower incomes receive little or no benefit from free trade.\nC) Restrictions on trade are one effective way to bring about significant redistribution of income in a country.\nD) The proposed policies to redistribute income in certain countries will not significantly undermine the economic benefits of free trade to those countries.\nE) Substantial redistribution of income in a country will increase the economic benefits that country receives from free trade.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "D",
+    "Correct label": "D",
+    "Result": "Correct",
+    "Words": 192,
+    "Tokens": 220,
+    "Entropy": "6.46 [bits/token]"
+  },
+  "99": {
+    "Prompt": "\nOverall ketchup sales rose significantly when ketchup began to be sold in squeezable plastic containers, which made ketchup much easier to use. A paint manufacturer is considering packaging paint in plastic jugs. As was the case with ketchup in plastic containers, this is a smart marketing move. Which one of the following, if true, most strengthens the argument above?\n\nA) Before the introduction of squeezable ketchup containers, surveys showed that customers were dissatisfied with the difficulty of getting ketchup from the bottle.\nB) Many users find traditional paint cans difficult to store.\nC) Previous attempts to change paint packaging have often been well accepted by consumers.\nD) Changing the packaging of paint will create no greater manufacturing difficulties than were created by changing the packaging of ketchup.\nE) Packaging paint in plastic jugs will make paint easier to use.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "E",
+    "Correct label": "E",
+    "Result": "Correct",
+    "Words": 158,
+    "Tokens": 193,
+    "Entropy": "6.45 [bits/token]"
+  },
+  "100": {
+    "Prompt": "\nResearchers have found that when rivers are dammed, the number of plant species along their banks falls by an average of 15 percent. Thus it follows that if the Chiawatchee River is dammed, some plant species will disappear from its banks as a result. The argument is most vulnerable to criticism on which one of the following grounds?\n\nA) It overlooks the possibility that even if damming rivers inevitably contributes to reductions of an average of 15 percent in plant species, other factors may counteract the reductions in this number in specific instances.\nB) It fails to address adequately the possibility that the total number of plant species along the banks of a river need not fall even if some individual plant species disappear from the banks of that river.\nC) It fails to address adequately the possibility that it is inevitable that at least some plant species on the banks of the Chiawatchee River will eventually disappear even if the river is not dammed.\nD) It overlooks the possibility that the number of plant species along riverbanks could fall an average of 15 percent when those rivers are dammed even if the banks of some rivers lose no plant species after being dammed.\nE) It takes for granted that the dammed rivers studied by the researchers generally resembled one another with respect to the number and kinds of plant species along their banks.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "D",
+    "Result": "Incorrect",
+    "Words": 253,
+    "Tokens": 293,
+    "Entropy": "6.45 [bits/token]"
+  },
+  "101": {
+    "Prompt": "\nUser's manual: If the main indicator light is either green or blue when every switch on the control panel is turned on, this indicates both that the system is functioning properly and that the pressure in the chamber is less than 170 kilopascals. Observation: The main indicator light is blue and the pressure in the chamber is 210 kilopascals. If the statement from the user's manual is true and the observation is accurate, which one of the following cannot be true?\n\nA) Every switch on the control panel is turned on.\nB) One switch on the control panel is not turned on.\nC) The system is functioning properly.\nD) The system is not functioning properly.\nE) The pressure in the chamber is rising.\n\nAnswer this multiple choice question. Respond with ONLY the single letter of the correct choice and nothing else.\n\nAnswer:\n",
+    "Model answer": "A",
+    "Correct label": "A",
+    "Result": "Correct",
+    "Words": 142,
+    "Tokens": 173,
+    "Entropy": "5.93 [bits/token]"
+  },
+  "Accuracy": "75/101, 74.26%"
+}

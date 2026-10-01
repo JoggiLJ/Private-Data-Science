@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_moral_disputes_test",
+  "description": "Moral disputes multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — moral_disputes subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "What kind of consequentialist theory does Dershowitz think can justify terrorism in certain extreme particular cases?",
+      "options": [
+        {
+          "label": "A",
+          "text": "act-based deontology"
+        },
+        {
+          "label": "B",
+          "text": "rule-based hedonism"
+        },
+        {
+          "label": "C",
+          "text": "rule utilitarianism"
+        },
+        {
+          "label": "D",
+          "text": "act utilitarianism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "Why, according to Gill, does Leon Kass think the notion of being \"better off dead\" is incoherent?",
+      "options": [
+        {
+          "label": "A",
+          "text": "because dead people no longer exist, and thus cannot benefit from choosing to die."
+        },
+        {
+          "label": "B",
+          "text": "because some things (e.g., long-term torture) are worse than death."
+        },
+        {
+          "label": "C",
+          "text": "because there has yet to be a satisfactory philosophical explanation of why death is bad."
+        },
+        {
+          "label": "D",
+          "text": "because death is, by definition, undesirable."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "One common objection to utilitarianism is that the principle of utility is",
+      "options": [
+        {
+          "label": "A",
+          "text": "too complicated."
+        },
+        {
+          "label": "B",
+          "text": "too demanding."
+        },
+        {
+          "label": "C",
+          "text": "too easy to satisfy."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "The consequentialist approach to punishment is at odds with",
+      "options": [
+        {
+          "label": "A",
+          "text": "retributive theories of punishment."
+        },
+        {
+          "label": "B",
+          "text": "perfectionist theories of punishment."
+        },
+        {
+          "label": "C",
+          "text": "legal theories of punishment."
+        },
+        {
+          "label": "D",
+          "text": "preventive theories of punishment."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Marcia Baron argues that the artificiality of ticking bomb cases is problematic because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the artificial assumptions are, in fact, empirical claims that are central to the debate."
+        },
+        {
+          "label": "B",
+          "text": "all artificial thought experiments are philosophically useless."
+        },
+        {
+          "label": "C",
+          "text": "it leads us to believe that torture is always permissible."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "Velleman believes that euthanasia can be justified on the basis of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Kantian considerations."
+        },
+        {
+          "label": "B",
+          "text": "consequentialist considerations."
+        },
+        {
+          "label": "C",
+          "text": "existentialist considerations."
+        },
+        {
+          "label": "D",
+          "text": "feminist considerations."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "In Carruther's view, the justification for moral criticism for things that we do (or don't to do) to an animal derives from",
+      "options": [
+        {
+          "label": "A",
+          "text": "the animal's direct moral standing."
+        },
+        {
+          "label": "B",
+          "text": "the animals capacity for suffering."
+        },
+        {
+          "label": "C",
+          "text": "the bad qualities of character that our actions evince."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Ashford's article is meant to address a particular paralysis in the face of",
+      "options": [
+        {
+          "label": "A",
+          "text": "the sheer scope of global poverty."
+        },
+        {
+          "label": "B",
+          "text": "having to choose between addressing immediate harm and addressing structural injustice."
+        },
+        {
+          "label": "C",
+          "text": "reconciling conflict moral theories."
+        },
+        {
+          "label": "D",
+          "text": "having to give up so much of our own wealth in light of Singer's arguments."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Which of the following is an example of a virtue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "honesty"
+        },
+        {
+          "label": "B",
+          "text": "courage"
+        },
+        {
+          "label": "C",
+          "text": "kindness"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Shapiro discusses Mediterranean cultures' use of alcohol to show that",
+      "options": [
+        {
+          "label": "A",
+          "text": "even cultures with very low levels of alcohol consumption can have comparatively high levels of alcoholism."
+        },
+        {
+          "label": "B",
+          "text": "the consumption of alcoholic beverages (e.g., wine) can have surprising health benefits."
+        },
+        {
+          "label": "C",
+          "text": "increased use of a drug does not always lead to increased addiction."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "According to Corvino, the \"unnaturalness\" charge can carry moral weight only if those who level it can do two things:",
+      "options": [
+        {
+          "label": "A",
+          "text": "(i) explain the harms of anal sex and (ii) establish that all homosexuals will inevitably suffer those harms."
+        },
+        {
+          "label": "B",
+          "text": "(i) specify exactly what they mean by \"unnaturalness\" and (ii) explain why unnaturalness (so defined) matters morally."
+        },
+        {
+          "label": "C",
+          "text": "(i) establish that one's sexual orientation is a matter of choice and (ii) that people who choose homosexuality have an intrinsic desire for self-harm."
+        },
+        {
+          "label": "D",
+          "text": "(i) explain the value of naturalness and (ii) why nothing \"unnatural\" can be of value."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "Cases in which a doctor is involved to some degree in assisting an individual to commit suicide are known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "mercy killing."
+        },
+        {
+          "label": "B",
+          "text": "physician-assisted suicide."
+        },
+        {
+          "label": "C",
+          "text": "involuntary euthanasia."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "The idea of \"using someone as a mere means\" is centrally relevant to which of the following moral theories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "consequentialism"
+        },
+        {
+          "label": "B",
+          "text": "Kantianism"
+        },
+        {
+          "label": "C",
+          "text": "utilitarianism"
+        },
+        {
+          "label": "D",
+          "text": "natural law theory"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "According to Carruthers, which of the following groups should not be accorded direct moral standing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "human infants"
+        },
+        {
+          "label": "B",
+          "text": "the senile"
+        },
+        {
+          "label": "C",
+          "text": "the mentally disabled"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "Fine asks us to consider the example of a yoga group that practices in Central Park and is free to reject prospective members but isn't free to exclude others from making use of Central Park. The point of this example is to show that",
+      "options": [
+        {
+          "label": "A",
+          "text": "Central Park qualifies as a state."
+        },
+        {
+          "label": "B",
+          "text": "there is a difference between rules of membership and rules about settlement within a physical territory."
+        },
+        {
+          "label": "C",
+          "text": "territorial rights only belong to individuals."
+        },
+        {
+          "label": "D",
+          "text": "Wellman is committed to an absurd theory of group membership."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "One objection to care ethics is thatit seems to imply that we areresponsible for our attitudes, even though they seem not to be under our voluntary control. Collins responds by arguing that",
+      "options": [
+        {
+          "label": "A",
+          "text": "caring attitudes are not moral attitudes at all."
+        },
+        {
+          "label": "B",
+          "text": "we can often bring ourselves to have attitudes of care indirectly"
+        },
+        {
+          "label": "C",
+          "text": "when we fail to have attitudes of care this means that no caring attitudes were required of us towards some person"
+        },
+        {
+          "label": "D",
+          "text": "Collins agrees with the objection."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which of the following is not an example Aquinas gives of a self-evident proposition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"Every whole is greater than its part.\""
+        },
+        {
+          "label": "B",
+          "text": "\"The light of Thy countenance, O Lord, is signed upon us.\""
+        },
+        {
+          "label": "C",
+          "text": "\"Things equal to one and the same are equal to one another.\""
+        },
+        {
+          "label": "D",
+          "text": "\"Man is a rational being.\""
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "According to Kant, an imperative that represents an action as a necessary means to something that is willed is what kind of imperative?",
+      "options": [
+        {
+          "label": "A",
+          "text": "categorical"
+        },
+        {
+          "label": "B",
+          "text": "universalizable"
+        },
+        {
+          "label": "C",
+          "text": "hypothetical"
+        },
+        {
+          "label": "D",
+          "text": "noumenal"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "If Thomson's conclusion is correct, then",
+      "options": [
+        {
+          "label": "A",
+          "text": "the abortion issue cannot be settled just by determining at what stage (if any) the fetus is a person."
+        },
+        {
+          "label": "B",
+          "text": "abortion is always morally permissible."
+        },
+        {
+          "label": "C",
+          "text": "abortion is never morally permissible."
+        },
+        {
+          "label": "D",
+          "text": "the abortion issue can be settled just by determining at what stage (if any) the fetus is a person."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Since Nagel thinks there can be genuine moral dilemmas, he denies the moral principle that",
+      "options": [
+        {
+          "label": "A",
+          "text": "can implies should."
+        },
+        {
+          "label": "B",
+          "text": "can implies ought."
+        },
+        {
+          "label": "C",
+          "text": "ought implies can."
+        },
+        {
+          "label": "D",
+          "text": "ought implies should."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "In responding to terrorism, says Walzer, it is particularly important that",
+      "options": [
+        {
+          "label": "A",
+          "text": "we make an effort to convince the terrorists that they are acting wrongly."
+        },
+        {
+          "label": "B",
+          "text": "we avoid harming terrorists to the same extent that we would avoid harming innocent civilians."
+        },
+        {
+          "label": "C",
+          "text": "we attack the lower-ranking terrorists first."
+        },
+        {
+          "label": "D",
+          "text": "we do not repeat the wrongs of terrorism in the process."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Which of the following theories will approach the morality of abortion by considering how much overall intrinsic value is likely to be brought about by abortion?",
+      "options": [
+        {
+          "label": "A",
+          "text": "virtue ethics"
+        },
+        {
+          "label": "B",
+          "text": "consequentialist theory"
+        },
+        {
+          "label": "C",
+          "text": "Kantian ethics"
+        },
+        {
+          "label": "D",
+          "text": "natural law theory"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Audi proposed that we expand Ross's list of prima facie duties to include",
+      "options": [
+        {
+          "label": "A",
+          "text": "veracity."
+        },
+        {
+          "label": "B",
+          "text": "enhancement and preservation of freedom."
+        },
+        {
+          "label": "C",
+          "text": "respectfulness."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Just war theory's principle of military necessity belongs to",
+      "options": [
+        {
+          "label": "A",
+          "text": "jus in bello."
+        },
+        {
+          "label": "B",
+          "text": "jus ad bellum."
+        },
+        {
+          "label": "C",
+          "text": "moral nihilism."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "Which of the following is a method of torture that Dershowitz believes is appropriate in those cases where torture is permissible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "having a sterilized needle shoved under the victim's fingernails"
+        },
+        {
+          "label": "B",
+          "text": "electrocution at nonlethal levels"
+        },
+        {
+          "label": "C",
+          "text": "submerging the victim in water so he or she feels as if he or she is drowning"
+        },
+        {
+          "label": "D",
+          "text": "none of the above; Dershowitz thinks torture is wrong in all cases."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Carens accepts that it is possible for the sudden opening of one country's borders to do more harm than good from a liberal egalitarian perspective. However, he argues that",
+      "options": [
+        {
+          "label": "A",
+          "text": "in practice, feasible policy options will not entail major costs to current citizens."
+        },
+        {
+          "label": "B",
+          "text": "liberal egalitarianism is false, and so this possibility is irrelevant."
+        },
+        {
+          "label": "C",
+          "text": "sometimes you have to do more harm than good in the short term to do more good in the long term."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "In Baxter's view, the first and foremost step toward a solution of our environmental problems is a clear recognition that our objective is not pure air or water but rather",
+      "options": [
+        {
+          "label": "A",
+          "text": "some optimal state of pollution."
+        },
+        {
+          "label": "B",
+          "text": "an overall maximally clean environment."
+        },
+        {
+          "label": "C",
+          "text": "some maximal state of pollution."
+        },
+        {
+          "label": "D",
+          "text": "the preservation of all living species."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "One of the premises of the \"lack of imagination\" argument that Kamm discusses is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "genetic enhancement is always morally permissible."
+        },
+        {
+          "label": "B",
+          "text": "nature ought to be honored over personal choice."
+        },
+        {
+          "label": "C",
+          "text": "most people's conception of the varieties of goods is limited."
+        },
+        {
+          "label": "D",
+          "text": "we ought to always leave the development of valuable traits up to chance."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Baxter argues that we should view our treatment of the environment as a matter of various trade-offs whose aim is",
+      "options": [
+        {
+          "label": "A",
+          "text": "to minimize damage incurred by all individual living beings."
+        },
+        {
+          "label": "B",
+          "text": "to minimize the suffering of all sentient creatures."
+        },
+        {
+          "label": "C",
+          "text": "to promote the functional integrity of ecosystems."
+        },
+        {
+          "label": "D",
+          "text": "to promote human welfare."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Velleman believes that the option of euthanasia may harm some patients. What does he think is the most significant way in which this might happen?",
+      "options": [
+        {
+          "label": "A",
+          "text": "by burdening a patient with having to justify his or her continued existence"
+        },
+        {
+          "label": "B",
+          "text": "by eliminating the patient's capacity for self-determination"
+        },
+        {
+          "label": "C",
+          "text": "by eliminating a patient's opportunities for self-determination"
+        },
+        {
+          "label": "D",
+          "text": "by tempting a patient to undergo a painful procedure"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Which of the following does Corvino take to be a problematic \"hidden assumption\" of harm arguments against homosexuality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "If a practice is riskier than the alternatives, then that practice is moral, prudent, or otherwise to be pursued."
+        },
+        {
+          "label": "B",
+          "text": "If a practice is risker than the alternatives, then that practice is immoral, imprudent, or otherwise to be avoided."
+        },
+        {
+          "label": "C",
+          "text": "If a practice is safer than the alternatives, then that practice is immoral, imprudent, or otherwise to be avoided."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "Wellman's response to the \"egalitarian\" objection to the state's right to exclude is that states can fulfill their duties to outsiders without allowing them into their territory. Fine thinks Wellman's response is insufficient because",
+      "options": [
+        {
+          "label": "A",
+          "text": "egalitarians are committed to utilitarian principles."
+        },
+        {
+          "label": "B",
+          "text": "Wellman himself is an immigrant."
+        },
+        {
+          "label": "C",
+          "text": "excluding people who wish to pursue interests specific to that state is still potentially harmful."
+        },
+        {
+          "label": "D",
+          "text": "the concept of \"exporting justice\" is internally contradictory."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "Which of the following is the term used to refer to a stage in prenatal development which in humans begins at roughly the second week of pregnancy and lasts until roughly the eighth week?",
+      "options": [
+        {
+          "label": "A",
+          "text": "fertilization"
+        },
+        {
+          "label": "B",
+          "text": "fetal stage"
+        },
+        {
+          "label": "C",
+          "text": "embryonic stage"
+        },
+        {
+          "label": "D",
+          "text": "viability"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "In Singer's understanding, the principle of the equality of human beings is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a description of an alleged actual equality among humans."
+        },
+        {
+          "label": "B",
+          "text": "a description of an alleged actual inequality among humans."
+        },
+        {
+          "label": "C",
+          "text": "a prescription of how we should treat nonhuman animals."
+        },
+        {
+          "label": "D",
+          "text": "a prescription of how we should treat humans."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "West argues that feminist rhetoric has",
+      "options": [
+        {
+          "label": "A",
+          "text": "obscures the harms of noncoerced, consensual sex by implying that because what is coerced is bad what is noncoerced is good."
+        },
+        {
+          "label": "B",
+          "text": "obscures the harms of rape by equating all sex with nonconsensual sex."
+        },
+        {
+          "label": "C",
+          "text": "by not acknowledging a distinction between what is good and what noncoerced, has led to the acknowledgement of the harms of consensual sex."
+        },
+        {
+          "label": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "Ecoholism is the view that",
+      "options": [
+        {
+          "label": "A",
+          "text": "only whole ecosystems (not any of the individuals that make up those ecosystems) have direct moral standing."
+        },
+        {
+          "label": "B",
+          "text": "ecosystems and some of the individuals that make them up have direct moral standing."
+        },
+        {
+          "label": "C",
+          "text": "ecosystems do not have direct moral standing but some of the individuals that make them up do."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "Which of the following conditions would make a slippery-slope argument fallacious?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The envisioned results of the action or practice under consideration turn out not to be bad."
+        },
+        {
+          "label": "B",
+          "text": "The central idea of the argument-that the action or practice under consideration will lead us down a path to disaster-turns out not to be plausible."
+        },
+        {
+          "label": "C",
+          "text": "both A and B are correct; either condition would make the argument fallacious."
+        },
+        {
+          "label": "D",
+          "text": "neither A nor B is correct; neither condition would make the argument fallacious."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "Mill thinks that if something is desirable, but not desirable as an end, then it must be",
+      "options": [
+        {
+          "label": "A",
+          "text": "desirable as a rule."
+        },
+        {
+          "label": "B",
+          "text": "desirable in theory."
+        },
+        {
+          "label": "C",
+          "text": "desirable as a means."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Marquis argues that abortion is morally wrong by",
+      "options": [
+        {
+          "label": "A",
+          "text": "showing that a fetus is a person with full moral rights, including the right to life."
+        },
+        {
+          "label": "B",
+          "text": "appealing to the fact that a fetus is biologically human and arguing that it is presumptively morally wrong to kill biologically human beings."
+        },
+        {
+          "label": "C",
+          "text": "showing that a fetus is sentient and that it is morally wrong to harm and kill sentient creatures."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Carens argues that, for example, liberal egalitarianism has nothing to say about the question of whether a black doctor has a moral obligation to practice in a black community. This is because the only limit that liberal egalitarianism places on individuals' moral obligations, according to Caren, is that they",
+      "options": [
+        {
+          "label": "A",
+          "text": "must not conflict with the rights and duties that liberal egalitarianism itself prescribes."
+        },
+        {
+          "label": "B",
+          "text": "must be in accord with utilitarian moral considerations."
+        },
+        {
+          "label": "C",
+          "text": "must not conflict with reasonable standards of prudence."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Papadaki argues that",
+      "options": [
+        {
+          "label": "A",
+          "text": "sexual objectification is not always wrong."
+        },
+        {
+          "label": "B",
+          "text": "sexual objectification involves the total reduction of a person to an object."
+        },
+        {
+          "label": "C",
+          "text": "sexual objectification is not explainable in Kantian terms."
+        },
+        {
+          "label": "D",
+          "text": "sexual objectification involves the denial of a person's humanity."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "In Gardiner's analysis, which of the following is a characteristic of the climate change problem?",
+      "options": [
+        {
+          "label": "A",
+          "text": "institutional adequacy"
+        },
+        {
+          "label": "B",
+          "text": "dispersion of causes and effects"
+        },
+        {
+          "label": "C",
+          "text": "fragmentation of agency"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Papadaki argues that the narrow view of sexual objectification",
+      "options": [
+        {
+          "label": "A",
+          "text": "is correct."
+        },
+        {
+          "label": "B",
+          "text": "fails to account for cases where there can be unintentional disregard of a person's humanity."
+        },
+        {
+          "label": "C",
+          "text": "fails to account for cases of benign or positive objectification."
+        },
+        {
+          "label": "D",
+          "text": "none of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Shapiro claims that humans are social or cultural animals, which is significant for his view because it implies that",
+      "options": [
+        {
+          "label": "A",
+          "text": "social norms or rules play a significant role in influencing behavior."
+        },
+        {
+          "label": "B",
+          "text": "we are just products of our biochemistry."
+        },
+        {
+          "label": "C",
+          "text": "past experience plays a significant role in influencing behavior."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "Little suggests that we should think about the abortion issue in terms of degrees and layers because",
+      "options": [
+        {
+          "label": "A",
+          "text": "the fetus gains a more certain claim to the right to life over time."
+        },
+        {
+          "label": "B",
+          "text": "the fetus gains more capacities over time."
+        },
+        {
+          "label": "C",
+          "text": "a gestating mother is somewhere in between a mere biological mother and a mother in a thick, normative sense."
+        },
+        {
+          "label": "D",
+          "text": "the gestating mother has different degrees and layers of preferences."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "Singer presents his three-premise argument in addition to appealing to the case of the drowning child because",
+      "options": [
+        {
+          "label": "A",
+          "text": "he believes that abstract arguments are more likely to convince one to act."
+        },
+        {
+          "label": "B",
+          "text": "he argues that our emotional reactions have no bearing on which moral claims are true."
+        },
+        {
+          "label": "C",
+          "text": "he believes arguments are a more efficient way to appeal to one's emotions."
+        },
+        {
+          "label": "D",
+          "text": "he wants to appeal to the reader's reason and not just pull at the reader's heartstrings."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Carruthers argues that, on contractualist grounds, nonhuman animals may be accorded which of the following kinds of moral standing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "direct"
+        },
+        {
+          "label": "B",
+          "text": "indirect"
+        },
+        {
+          "label": "C",
+          "text": "quasi-"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Van den Haag responds to the \"miscarriages of justice\" objection by claiming that",
+      "options": [
+        {
+          "label": "A",
+          "text": "miscarriages of justice are offset by the moral benefits and usefulness of doing justice."
+        },
+        {
+          "label": "B",
+          "text": "there have been no miscarriages of justice, in the sense used in the objection."
+        },
+        {
+          "label": "C",
+          "text": "miscarriages of justice are inevitable and so irrelevant."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "Timmons suggests that many people believe in moral relativism because",
+      "options": [
+        {
+          "label": "A",
+          "text": "They believe in tolerating differences."
+        },
+        {
+          "label": "B",
+          "text": "They are sensitive to the descriptive fact of widespread moral disagreement."
+        },
+        {
+          "label": "C",
+          "text": "They realize that some ethical claims seem true in some contexts but not in others."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "Shapiro discusses experiments about the role of expectations in the experience of drug use to show that",
+      "options": [
+        {
+          "label": "A",
+          "text": "drug effects are inherently biological and are not influenced at all by expectations and other psychological factors."
+        },
+        {
+          "label": "B",
+          "text": "users who do not expect to get addicted to \"hard\" drugs almost always do."
+        },
+        {
+          "label": "C",
+          "text": "there is no such thing as drug addiction."
+        },
+        {
+          "label": "D",
+          "text": "sometimes a drug's effects are the direct result of what one expects from the drug."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "In support of her thesis that global social institutions violate the rights of the world's poor, Ashford argues that",
+      "options": [
+        {
+          "label": "A",
+          "text": "illicit cash flow to tax havens from rich countries exceeds aid to the world's poor."
+        },
+        {
+          "label": "B",
+          "text": "the implementation of neoliberal economic policies have had at mixed and at worse adverse impacts of the economic and social rights of the world's poor."
+        },
+        {
+          "label": "C",
+          "text": "that wealthy nations press their political and economic advantages to secure unfair trade agreements with poor countries."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Norcross claims that if morality demands that we not torture puppies merely to enhance our own eating pleasure, morality also demands that",
+      "options": [
+        {
+          "label": "A",
+          "text": "we try to reduce our carbon footprint."
+        },
+        {
+          "label": "B",
+          "text": "we donate money to Oxfam."
+        },
+        {
+          "label": "C",
+          "text": "we not support factory farming."
+        },
+        {
+          "label": "D",
+          "text": "we follow the Golden Rule."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "According to Shapiro, the standard view has to explain the preeminence of controlled use by arguing that",
+      "options": [
+        {
+          "label": "A",
+          "text": "controlled use is preeminent."
+        },
+        {
+          "label": "B",
+          "text": "drug laws have no effect on access to illegal drugs."
+        },
+        {
+          "label": "C",
+          "text": "drug laws reduce access to illegal drugs."
+        },
+        {
+          "label": "D",
+          "text": "drug laws increase access to illegal drugs."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "If the killing/letting die distinction is morally relevant, then that would show that the following distinction is also morally relevant:",
+      "options": [
+        {
+          "label": "A",
+          "text": "killing/murder"
+        },
+        {
+          "label": "B",
+          "text": "physician/patient"
+        },
+        {
+          "label": "C",
+          "text": "active/passive euthanasia"
+        },
+        {
+          "label": "D",
+          "text": "involuntary/nonvoluntary euthanasia"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "According to Altman, a viewpoint-biased speech restriction should be troubling to whom?",
+      "options": [
+        {
+          "label": "A",
+          "text": "those who value a strong right to privacy"
+        },
+        {
+          "label": "B",
+          "text": "those who value strong protections for freedom of speech"
+        },
+        {
+          "label": "C",
+          "text": "those who don't value strong protection for freedom of speech"
+        },
+        {
+          "label": "D",
+          "text": "those who value equal educational opportunity"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "On Metz's view, what kind of punishment is justified for wrongdoers?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Harmful punishment that is proportionate to the harm done by the wrongdoing."
+        },
+        {
+          "label": "B",
+          "text": "Unfriendly action that is proportionate to the unfriendly wrongdoing, aimed at correcting the wrongdoing."
+        },
+        {
+          "label": "C",
+          "text": "Degradation proportionate to the degrading impacts of the wrongdoing."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "West worries that liberal theory in academia has inadvertently led to the under-acknowledgement of the harms of consensual sex because",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is implicitly sexist."
+        },
+        {
+          "label": "B",
+          "text": "it promotes individualism and valorizes individual choice."
+        },
+        {
+          "label": "C",
+          "text": "it is too left-wing to support a sound gender-based critique of our sex practices."
+        },
+        {
+          "label": "D",
+          "text": "it promotes communitarian thinking to the detriment of individualism."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "Critics of speech codes adopted in the 1980s and early 1990s argued that these codes violated which of the following principles?",
+      "options": [
+        {
+          "label": "A",
+          "text": "freedom of speech"
+        },
+        {
+          "label": "B",
+          "text": "freedom of the press"
+        },
+        {
+          "label": "C",
+          "text": "right to bear arms"
+        },
+        {
+          "label": "D",
+          "text": "right to privacy"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "In the context of Gardiner's article, \"the fragmentation of agency\" refers to what?",
+      "options": [
+        {
+          "label": "A",
+          "text": "an agent's inability to acknowledge his or her contribution to climate change"
+        },
+        {
+          "label": "B",
+          "text": "the fragmentation of the effects of greenhouse gas emissions across generations"
+        },
+        {
+          "label": "C",
+          "text": "the vast number of individuals and agents who contribute to climate change"
+        },
+        {
+          "label": "D",
+          "text": "the idea that it's not rational for each individual to restrict his or her own pollution"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "Foot's Rescue I and Rescue II cases are intended to",
+      "options": [
+        {
+          "label": "A",
+          "text": "contrast evil intentions with good intentions."
+        },
+        {
+          "label": "B",
+          "text": "contrast originating a harmful sequence with allowing a harmful sequence to continue."
+        },
+        {
+          "label": "C",
+          "text": "show that evil intentions always involve the origination of harmful sequences."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask",
+      "options": [
+        {
+          "label": "A",
+          "text": "why the act of destroying nature might be immoral."
+        },
+        {
+          "label": "B",
+          "text": "why people who destroy the environment might be bad people."
+        },
+        {
+          "label": "C",
+          "text": "how the decision to preserve the environment benefits the environment."
+        },
+        {
+          "label": "D",
+          "text": "whether plants have interests."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "Mill thinks that each person desires",
+      "options": [
+        {
+          "label": "A",
+          "text": "to do his or her duty."
+        },
+        {
+          "label": "B",
+          "text": "to be virtuous."
+        },
+        {
+          "label": "C",
+          "text": "his or her own happiness."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Corvino considers the following argument: Homosexuals are \"born that way\"; therefore, homosexual activity is good and natural. Corvino claims that this argument is unsound. Why?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It ignores the possibility that homosexuality is a lifestyle choice."
+        },
+        {
+          "label": "B",
+          "text": "It assumes that all innate desires are good ones."
+        },
+        {
+          "label": "C",
+          "text": "It is equivalent to recognizing that homosexuality is unusual."
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "According to Aristotle, if something has a function, then its good depends on",
+      "options": [
+        {
+          "label": "A",
+          "text": "its function."
+        },
+        {
+          "label": "B",
+          "text": "its substance."
+        },
+        {
+          "label": "C",
+          "text": "our beliefs about it."
+        },
+        {
+          "label": "D",
+          "text": "cultural practices."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "What does Pence think is an appropriate standard for the safety of SCNT before it should be allowed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "There should be no standards for safety."
+        },
+        {
+          "label": "B",
+          "text": "SCNT should not be allowed unless a healthy baby could be guaranteed."
+        },
+        {
+          "label": "C",
+          "text": "SCNT should be allowed when it falls within the range of risks that is accepted by ordinary people in sexual reproduction."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "According to West, which of the following reasons for a women to engage in sex with her male partner may cause her harm?",
+      "options": [
+        {
+          "label": "A",
+          "text": "She or her children are economically dependent on her male partner, and so she reasons that she better have sex with him and keep him happy."
+        },
+        {
+          "label": "B",
+          "text": "Her refusal will result in her partner's being in a foul mood which is more burdensome than having undesired sex."
+        },
+        {
+          "label": "C",
+          "text": "Her refusal might result in a violent outburst."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Which of the following best characterizes Rachels's argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Both active and passive euthanasia involve the intentional termination of a human life with dignity; therefore, both are morally wrong."
+        },
+        {
+          "label": "B",
+          "text": "Neither active nor passive euthanasia involves the intentional termination of a human life with dignity; therefore, both are morally permissible."
+        },
+        {
+          "label": "C",
+          "text": "There is no inherent moral difference between killing and letting die; therefore, there is no inherent moral difference between active and passive euthanasia."
+        },
+        {
+          "label": "D",
+          "text": "There is no inherent moral difference between killing and letting die; therefore, both active and passive euthanasia are morally wrong."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "According to Mill, the only evidence it is possible to produce that anything is desirable is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "God has deemed it desirable."
+        },
+        {
+          "label": "B",
+          "text": "experts on desirability have deemed it desirable."
+        },
+        {
+          "label": "C",
+          "text": "people do actually desire it."
+        },
+        {
+          "label": "D",
+          "text": "rational insight reveals it to be desirable."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "John considers what Mary has done and thinks to himself, Mary did the right thing. This thought is primarily a judgment about",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mary's upbringing."
+        },
+        {
+          "label": "B",
+          "text": "an action Mary performed."
+        },
+        {
+          "label": "C",
+          "text": "Mary's moral character."
+        },
+        {
+          "label": "D",
+          "text": "what John thinks he would have done."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "In accordance with the theory of justice proposed by John Rawls, Stephen Macedo argues,\"We must consider the justifiability of policies from the standpoint of the _____ well-off among our fellow citizens.\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "most"
+        },
+        {
+          "label": "B",
+          "text": "least"
+        },
+        {
+          "label": "C",
+          "text": "historically"
+        },
+        {
+          "label": "D",
+          "text": "permanently"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "West argues that feminist legal theory has inadvertently led to the under-acknowledgement of the harms of consensual sex because",
+      "options": [
+        {
+          "label": "A",
+          "text": "it posits that all sex is rape."
+        },
+        {
+          "label": "B",
+          "text": "by suggesting that the harm of rape is that it is nonconsensual, it implies that all consensual sex is good."
+        },
+        {
+          "label": "C",
+          "text": "by suggesting that the harm of rape has nothing to do with the victim's gender, it implies that women are not especially harmed by nonconsensual sex."
+        },
+        {
+          "label": "D",
+          "text": "all of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Nagel clarifies that absolutism is the view that we should",
+      "options": [
+        {
+          "label": "A",
+          "text": "prevent murder at all costs"
+        },
+        {
+          "label": "B",
+          "text": "avoid murder at all costs"
+        },
+        {
+          "label": "C",
+          "text": "only sometimes prevent murder"
+        },
+        {
+          "label": "D",
+          "text": "only sometimes avoid murder"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "In response to the argument that embryos are not persons because they do not exercise higher mental capacities, Lee and George argue that",
+      "options": [
+        {
+          "label": "A",
+          "text": "embryos actually do exercise higher mental capacities."
+        },
+        {
+          "label": "B",
+          "text": "it doesn't make sense to say that a person exercises higher mental capacities."
+        },
+        {
+          "label": "C",
+          "text": "the argument is sound, but its validity fails due to a common logical fallacy."
+        },
+        {
+          "label": "D",
+          "text": "to have killed a human embryos that developed into you would have been the same thing as killing you."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "What does Marquis think is the main reason why it is wrong to kill a fetus?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The fetus can feel pain."
+        },
+        {
+          "label": "B",
+          "text": "Abortion will harm the woman."
+        },
+        {
+          "label": "C",
+          "text": "Killing the fetus would deprive it of a valuable future."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "According to Norcross, any attempt to justify the claim that humans have a higher moral status than other animals by appealing to some version of rationality as the morally relevant difference between humans and animals will",
+      "options": [
+        {
+          "label": "A",
+          "text": "fail to give an adequate answer to the argument from marginal cases."
+        },
+        {
+          "label": "B",
+          "text": "fail to make the case that such a difference is morally relevant to the status of animals as moral patients as opposed to their status as moral agents."
+        },
+        {
+          "label": "C",
+          "text": "both A and B"
+        },
+        {
+          "label": "D",
+          "text": "neither A nor B"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "According to Sandel, eugenics and genetic enhancement can be seen to be wrong from a secular perspective because they would produce unwelcome changes in",
+      "options": [
+        {
+          "label": "A",
+          "text": "humility."
+        },
+        {
+          "label": "B",
+          "text": "responsibility."
+        },
+        {
+          "label": "C",
+          "text": "solidarity."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "In his definition of terrorism, Valls defines \"violence\" as",
+      "options": [
+        {
+          "label": "A",
+          "text": "including only bodily harm to persons."
+        },
+        {
+          "label": "B",
+          "text": "including bodily harm to persons and the destruction of property."
+        },
+        {
+          "label": "C",
+          "text": "including only the destruction of property."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Lukianoff and Haidt argue that the disinvitation of certain speakers",
+      "options": [
+        {
+          "label": "A",
+          "text": "is an example of mental filtering."
+        },
+        {
+          "label": "B",
+          "text": "will only serve to promote intellectual homogeneity on college and universities."
+        },
+        {
+          "label": "C",
+          "text": "will encourage students to disregard positive aspects of a person's history."
+        },
+        {
+          "label": "D",
+          "text": "All of the above."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "According to Macedo, we have special obligations to our fellow citizens arising from",
+      "options": [
+        {
+          "label": "A",
+          "text": "our relationships to noncitizens."
+        },
+        {
+          "label": "B",
+          "text": "consequentialist duties to promote the greatest good for the greatest number."
+        },
+        {
+          "label": "C",
+          "text": "membership in a legitimate self-governing community."
+        },
+        {
+          "label": "D",
+          "text": "nothing; we do not have special obligations to fellow citizens."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "Callahan cites the Oregon Death with Dignity Legal Defense and the Education Center's finding that \"after four full years .. there have been no missteps, abuses or coercive tendencies\" regarding laws permitting euthanasia. In response he argues that",
+      "options": [
+        {
+          "label": "A",
+          "text": "they can't know this to be true without an anonymous survey."
+        },
+        {
+          "label": "B",
+          "text": "other studies have found contrary results."
+        },
+        {
+          "label": "C",
+          "text": "even if the finding is true, it is irrelevant to the moral status of euthanasia."
+        },
+        {
+          "label": "D",
+          "text": "the findings are suspect because the study was performed by advocates of euthanasia."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following is a kind of consequentialist theory that explains right action in terms of the net balance of pleasure (or lack of pain) produced by that action?",
+      "options": [
+        {
+          "label": "A",
+          "text": "hedonistic utilitarianism"
+        },
+        {
+          "label": "B",
+          "text": "perfectionist consequentialism"
+        },
+        {
+          "label": "C",
+          "text": "rule consequentialism"
+        },
+        {
+          "label": "D",
+          "text": "By definition, consequentialist theories do not mention pain."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Which of the following objections to adopting speech codes does Altman discuss?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speech codes encourage bigotry."
+        },
+        {
+          "label": "B",
+          "text": "Speech codes treat hate speakers with less than equal consideration."
+        },
+        {
+          "label": "C",
+          "text": "Speech codes result in causal harms."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "By definition, if a person or thing needs to be taken into account in moral decision-making (i.e., if it counts morally), then that person or thing has",
+      "options": [
+        {
+          "label": "A",
+          "text": "moral standing."
+        },
+        {
+          "label": "B",
+          "text": "moral permissibility."
+        },
+        {
+          "label": "C",
+          "text": "viability."
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "One problem with treating the ticking bomb case as involving only a single instance of torture, according to Baron, is that",
+      "options": [
+        {
+          "label": "A",
+          "text": "justifying one instance of torture requires justifying the practice of torture."
+        },
+        {
+          "label": "B",
+          "text": "it is virtually impossible for torture to be limited to just one instance."
+        },
+        {
+          "label": "C",
+          "text": "both A and B"
+        },
+        {
+          "label": "D",
+          "text": "neither A nor B"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The second premise in Singer's main argument is: \"If it is in your power to prevent something bad from happening, without sacrificing anything nearly as important, it is wrong not to do so.\" Which phrase in this premise is deliberately left vague?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"something bad\""
+        },
+        {
+          "label": "B",
+          "text": "\"it is wrong\""
+        },
+        {
+          "label": "C",
+          "text": "\"nearly as important\""
+        },
+        {
+          "label": "D",
+          "text": "\"in your power\""
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "Wellman cites a number of \"unpalatable implications that follow from denying a country's right to freedom of association,\" including",
+      "options": [
+        {
+          "label": "A",
+          "text": "the inability to explain why it would be wrong to force Canada to join NAFTA."
+        },
+        {
+          "label": "B",
+          "text": "the inability to explain why it would be wrong for the United States to forcefully annex Canada ."
+        },
+        {
+          "label": "C",
+          "text": "both A and B"
+        },
+        {
+          "label": "D",
+          "text": "neither A nor B"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Hate speech, according to Richardson-Self involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "only violence"
+        },
+        {
+          "label": "B",
+          "text": "violence and oppression in the form of subordination, exploitation, and cultural imperialism."
+        },
+        {
+          "label": "C",
+          "text": "only forms of oppression like subordination, exploitation, and cultural imperialism."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "Carens argues that a policy of exclusion does not always imply that the culture and people being protected are superior because",
+      "options": [
+        {
+          "label": "A",
+          "text": "such a policy actually implies that the protected culture is inferior."
+        },
+        {
+          "label": "B",
+          "text": "the exclusion may simply reflect an attachment to what is one's own (rather than a belief in superiority)."
+        },
+        {
+          "label": "C",
+          "text": "superiority and inferiority are inherently subjective concepts."
+        },
+        {
+          "label": "D",
+          "text": "only superior cultures have freedom of movement."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "According to Marquis, abortion is",
+      "options": [
+        {
+          "label": "A",
+          "text": "absolutely wrong."
+        },
+        {
+          "label": "B",
+          "text": "seriously presumptively wrong."
+        },
+        {
+          "label": "C",
+          "text": "generally permissible."
+        },
+        {
+          "label": "D",
+          "text": "always permissible."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "Carruthers approaches questions about the moral standing of nonhuman animals from the perspective of which of the following moral theories?",
+      "options": [
+        {
+          "label": "A",
+          "text": "consequentialism"
+        },
+        {
+          "label": "B",
+          "text": "Kantianism"
+        },
+        {
+          "label": "C",
+          "text": "virtue ethics"
+        },
+        {
+          "label": "D",
+          "text": "contractualism"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "A war that involves actual fighting is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "a hot war."
+        },
+        {
+          "label": "B",
+          "text": "a cold war."
+        },
+        {
+          "label": "C",
+          "text": "a war simpliciter."
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Joseph Carens argues that restrictions on free migration can be justified if",
+      "options": [
+        {
+          "label": "A",
+          "text": "such restrictions are decreed by a sovereign leader."
+        },
+        {
+          "label": "B",
+          "text": "the restrictions are necessary to preserve a distinct culture or way of life."
+        },
+        {
+          "label": "C",
+          "text": "both A and B are true"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "Aristotle defines virtue as",
+      "options": [
+        {
+          "label": "A",
+          "text": "the ability to control one's anger."
+        },
+        {
+          "label": "B",
+          "text": "a disposition to avoid extremes in feeling and action."
+        },
+        {
+          "label": "C",
+          "text": "intellectual knowledge."
+        },
+        {
+          "label": "D",
+          "text": "the capacity to ascertain what God would desire."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Utilitarian arguments depend heavily on factual claims about",
+      "options": [
+        {
+          "label": "A",
+          "text": "what a virtuous person ought to do in a particular situation."
+        },
+        {
+          "label": "B",
+          "text": "what God has commanded or would prefer."
+        },
+        {
+          "label": "C",
+          "text": "what duties one has inherited through implicit social contracts."
+        },
+        {
+          "label": "D",
+          "text": "the overall comparative effects of contemplated courses of action."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "According to Carruthers, our duties to animals are",
+      "options": [
+        {
+          "label": "A",
+          "text": "direct and basic."
+        },
+        {
+          "label": "B",
+          "text": "indirect and derivative."
+        },
+        {
+          "label": "C",
+          "text": "nonexistent."
+        },
+        {
+          "label": "D",
+          "text": "perfect (rather than imperfect)."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "Which of the following is a basic intrinsic good, according to Aquinas's version of natural law theory?",
+      "options": [
+        {
+          "label": "A",
+          "text": "human life"
+        },
+        {
+          "label": "B",
+          "text": "human procreation"
+        },
+        {
+          "label": "C",
+          "text": "human sociability"
+        },
+        {
+          "label": "D",
+          "text": "all of the above"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "According to Singer, the principle of equality requires",
+      "options": [
+        {
+          "label": "A",
+          "text": "identical treatment."
+        },
+        {
+          "label": "B",
+          "text": "differential treatment."
+        },
+        {
+          "label": "C",
+          "text": "equal consideration."
+        },
+        {
+          "label": "D",
+          "text": "differential consideration."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "On the proposal that we need to establish world food banks to help those who are in need, Hardin would say that",
+      "options": [
+        {
+          "label": "A",
+          "text": "if the proposal were to be realized, the operation must be conducted consistently."
+        },
+        {
+          "label": "B",
+          "text": "only the richer countries have some moral obligation to make deposits in the world food banks."
+        },
+        {
+          "label": "C",
+          "text": "it would be subject to the tragedy of the commons."
+        },
+        {
+          "label": "D",
+          "text": "we need to go with the idea because we ought not to punish poor people who are caught in an emergency."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Why does Metz think that extant dignity-based arguments based on African values fail?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is unclear that they show that capital punishment is degrading, and so therefore wrong."
+        },
+        {
+          "label": "B",
+          "text": "They prove too much. They seem to entail that any instance of killing in self-defense is wrong."
+        },
+        {
+          "label": "C",
+          "text": "Both A and B"
+        },
+        {
+          "label": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Christopher Heath Wellman defends the position that",
+      "options": [
+        {
+          "label": "A",
+          "text": "anti-egalitarianism is compatible with liberal cosmopolitanism."
+        },
+        {
+          "label": "B",
+          "text": "closing borders to all potential immigrations is an inherently racist social policy."
+        },
+        {
+          "label": "C",
+          "text": "nation-states have an obligation to open their borders to the least well-off potential immigrants."
+        },
+        {
+          "label": "D",
+          "text": "nation-states have a presumptive right to close their borders to all potential immigrants."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

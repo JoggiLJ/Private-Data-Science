@@ -1,0 +1,73 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "logiqa",
+  "dataset_size": 7574537,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/lucasmccabe/logiqa@fa9f9918fa81eca088805c1395d7f592f7755ae0/default/train/0000.parquet": {
+      "num_bytes": 3682116,
+      "checksum": null
+    },
+    "hf://datasets/lucasmccabe/logiqa@fa9f9918fa81eca088805c1395d7f592f7755ae0/default/validation/0000.parquet": {
+      "num_bytes": 290456,
+      "checksum": null
+    },
+    "hf://datasets/lucasmccabe/logiqa@fa9f9918fa81eca088805c1395d7f592f7755ae0/default/test/0000.parquet": {
+      "num_bytes": 288760,
+      "checksum": null
+    }
+  },
+  "download_size": 4261332,
+  "features": {
+    "context": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "query": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "options": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "correct_option": {
+      "dtype": "int32",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 11835869,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 6440687,
+      "num_examples": 7376,
+      "dataset_name": "logiqa"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 562183,
+      "num_examples": 651,
+      "dataset_name": "logiqa"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 571667,
+      "num_examples": 651,
+      "dataset_name": "logiqa"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

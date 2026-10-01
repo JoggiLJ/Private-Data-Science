@@ -1,0 +1,32 @@
+Question: 1, Word Count: 11, Token Count: 11, Number of Alternatives: 4
+Question: 2, Word Count: 20, Token Count: 23, Number of Alternatives: 4
+Question: 3, Word Count: 12, Token Count: 14, Number of Alternatives: 4
+Question: 4, Word Count: 18, Token Count: 19, Number of Alternatives: 4
+Question: 5, Word Count: 5, Token Count: 8, Number of Alternatives: 4
+Question: 6, Word Count: 5, Token Count: 6, Number of Alternatives: 4
+Question: 7, Word Count: 11, Token Count: 11, Number of Alternatives: 4
+Question: 8, Word Count: 9, Token Count: 9, Number of Alternatives: 4
+Question: 9, Word Count: 4, Token Count: 4, Number of Alternatives: 4
+Question: 10, Word Count: 7, Token Count: 9, Number of Alternatives: 4
+Question: 11, Word Count: 10, Token Count: 13, Number of Alternatives: 4
+Question: 12, Word Count: 14, Token Count: 16, Number of Alternatives: 4
+Question: 13, Word Count: 9, Token Count: 12, Number of Alternatives: 4
+Question: 14, Word Count: 6, Token Count: 6, Number of Alternatives: 4
+Question: 15, Word Count: 6, Token Count: 6, Number of Alternatives: 4
+Question: 16, Word Count: 9, Token Count: 9, Number of Alternatives: 4
+Question: 17, Word Count: 15, Token Count: 19, Number of Alternatives: 4
+Question: 18, Word Count: 12, Token Count: 16, Number of Alternatives: 4
+Question: 19, Word Count: 23, Token Count: 25, Number of Alternatives: 4
+Question: 20, Word Count: 5, Token Count: 5, Number of Alternatives: 4
+Question: 21, Word Count: 19, Token Count: 20, Number of Alternatives: 4
+Question: 22, Word Count: 23, Token Count: 32, Number of Alternatives: 4
+Question: 23, Word Count: 7, Token Count: 7, Number of Alternatives: 4
+Question: 24, Word Count: 15, Token Count: 17, Number of Alternatives: 4
+Question: 25, Word Count: 4, Token Count: 5, Number of Alternatives: 4
+Question: 26, Word Count: 12, Token Count: 12, Number of Alternatives: 4
+
+Avg word count: 11.192307692307692
+Avg token count: 12.846153846153847
+Avg alternatives count: 4.0
+
+Average similarity (excluding self-similarity): 0.11355429142713547

@@ -1,0 +1,116 @@
+{
+ "source_file": "MMLU_logical_fallacies_val.json",
+ "num_questions": 18,
+ "file_avg_question_words": 15.33,
+ "file_avg_answer_words": 6.85,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 31,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 2,
+   "question_words": 16,
+   "num_answers": 4,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 3,
+   "question_words": 21,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 4,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 5,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 18.75
+  },
+  {
+   "item_id": 6,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 15.75
+  },
+  {
+   "item_id": 7,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 14.25
+  },
+  {
+   "item_id": 8,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 9,
+   "question_words": 23,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 10,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 11,
+   "question_words": 28,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 12,
+   "question_words": 22,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 13,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 1.0
+  },
+  {
+   "item_id": 14,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 15,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 1.75
+  },
+  {
+   "item_id": 16,
+   "question_words": 23,
+   "num_answers": 4,
+   "avg_answer_words": 3.75
+  },
+  {
+   "item_id": 17,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 18,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 18.25
+  }
+ ]
+}

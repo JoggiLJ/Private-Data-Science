@@ -1,0 +1,38 @@
+{
+ "source_file": "MMLU_logical_fallacies_dev.json",
+ "num_questions": 5,
+ "file_avg_question_words": 18.0,
+ "file_avg_answer_words": 7.0,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 27,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 2,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 18.5
+  },
+  {
+   "item_id": 3,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 8.75
+  },
+  {
+   "item_id": 4,
+   "question_words": 18,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 5,
+   "question_words": 28,
+   "num_answers": 4,
+   "avg_answer_words": 3.0
+  }
+ ]
+}

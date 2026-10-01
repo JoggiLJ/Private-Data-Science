@@ -1,0 +1,17 @@
+Question: 1, AI answer: D, Result: Correct
+Running accuracy: 1/1 (100.00%)
+
+Question: 2, AI answer: B, Result: Correct
+Running accuracy: 2/2 (100.00%)
+
+Question: 3, AI answer: D, Result: Correct
+Running accuracy: 3/3 (100.00%)
+
+Question: 4, AI answer: D, Result: Correct
+Running accuracy: 4/4 (100.00%)
+
+Question: 5, AI answer: C, Result: Incorrect
+Running accuracy: 4/5 (80.00%)
+
+Final Score: 4/5
+Final Accuracy: 80.00%

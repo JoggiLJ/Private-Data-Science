@@ -1,0 +1,2407 @@
+{
+  "variant_id": "mmlu_redux_logical_fallacies_test",
+  "description": "Logical fallacies multiple-choice questions from the MMLU-Redux benchmark (test split).",
+  "source": "MMLU-Redux (Gema et al., 2024) — logical_fallacies subject, test split. Dataset: edinburgh-dawg/mmlu-redux-2.0 (Hugging Face).",
+  "items": [
+    {
+      "item_id": 1,
+      "text": "All things that are spoiled are inedible. Timothy is spoiled. So, Timothy is inedible.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equivocation"
+        },
+        {
+          "label": "B",
+          "text": "Attacking the Person (ad hominem)"
+        },
+        {
+          "label": "C",
+          "text": "Fallacy of Division"
+        },
+        {
+          "label": "D",
+          "text": "Questionable Cause"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 2,
+      "text": "An arguer who threatens another to gain agreement commits the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to force"
+        },
+        {
+          "label": "B",
+          "text": "tu quoque"
+        },
+        {
+          "label": "C",
+          "text": "ignorance of refutation"
+        },
+        {
+          "label": "D",
+          "text": "straw person"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 3,
+      "text": "The false analogy fallacy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "a specific type of false cause fallacy that argues that since two event happened at the same time one event must have caused the other"
+        },
+        {
+          "label": "B",
+          "text": "arguing that an event that preceded another event necessarily is the cause of the second event"
+        },
+        {
+          "label": "C",
+          "text": "arguing that since something is new it is necessarily good"
+        },
+        {
+          "label": "D",
+          "text": "drawing a conclusion based on a comparison when the items being compared are not similar enough to support the conclusion."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 4,
+      "text": "Tan ah Tiat, forty-nine years old, a native of Kuala Lumpar, Malaysia, was charged with possession of opium. Arguing for acquittal, he told the judge that his opium habit did no harm, as he was too old to work anyway. Asked how he lived, he replied that he lived on the earnings of his grandmother.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Straw Man"
+        },
+        {
+          "label": "B",
+          "text": "False Dilemma"
+        },
+        {
+          "label": "C",
+          "text": "Inconsistency"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Authority"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 5,
+      "text": "Whether someone is hypocritical regarding her claims is...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Irrelevant to her character"
+        },
+        {
+          "label": "B",
+          "text": "Evidence that the claims are false"
+        },
+        {
+          "label": "C",
+          "text": "Irrelevant to the truth of the claims"
+        },
+        {
+          "label": "D",
+          "text": "Relevant only in court"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 6,
+      "text": "The false cause fallacy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that since someone is poor she must have high moral character"
+        },
+        {
+          "label": "B",
+          "text": "arguing that two things are causally related without evidence of a causal relationship"
+        },
+        {
+          "label": "C",
+          "text": "arguing that since something is new it is necessarily bad"
+        },
+        {
+          "label": "D",
+          "text": "substituting individual stories for a larger sample in support of a claim"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 7,
+      "text": "Which of the following is another name for appeal to the people?",
+      "options": [
+        {
+          "label": "A",
+          "text": "argument by consensus"
+        },
+        {
+          "label": "B",
+          "text": "appeal to beliefs"
+        },
+        {
+          "label": "C",
+          "text": "no true Scotsman"
+        },
+        {
+          "label": "D",
+          "text": "overlooked evidence"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 8,
+      "text": "Which of the following fallacies happens when someone attributes the cause of an event to a simple cause when the cause is actually more complicated?",
+      "options": [
+        {
+          "label": "A",
+          "text": "complex cause"
+        },
+        {
+          "label": "B",
+          "text": "hasty generalization"
+        },
+        {
+          "label": "C",
+          "text": "post hoc"
+        },
+        {
+          "label": "D",
+          "text": "division"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 9,
+      "text": "Arguing in favor of a claim based only on the evidence that some regular people believe the claim is one way to commit which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "poisoning the well"
+        },
+        {
+          "label": "B",
+          "text": "common person appeal"
+        },
+        {
+          "label": "C",
+          "text": "ad numerum"
+        },
+        {
+          "label": "D",
+          "text": "suppressed evidence"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 10,
+      "text": "Telling people that they haven't been harmed because there is something they should be thankful for commits which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "genetic fallacy"
+        },
+        {
+          "label": "B",
+          "text": "horse laugh"
+        },
+        {
+          "label": "C",
+          "text": "false consolation"
+        },
+        {
+          "label": "D",
+          "text": "appeal to joy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 11,
+      "text": "Which of the following fallacies happens when someone concludes that someone couldn't have done something bad because he or she has good qualities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "B",
+          "text": "Guilt by association"
+        },
+        {
+          "label": "C",
+          "text": "Reprehensible personality"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 12,
+      "text": "I don't understand why everyone thinks they belong in college. After all, everyone knows that when you are intelligent you'll succeed. But so many people that elect to attend college don't have even the most basic intelligence. How do they expect to get anywhere here?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attacking the Person (ad hominem)"
+        },
+        {
+          "label": "B",
+          "text": "Straw Man"
+        },
+        {
+          "label": "C",
+          "text": "Denying the Antecedent"
+        },
+        {
+          "label": "D",
+          "text": "Begging the Question"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 13,
+      "text": "In a faulty analogy, the things being compared are...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sufficiently similar"
+        },
+        {
+          "label": "B",
+          "text": "Sufficiently similar in irrelevant ways"
+        },
+        {
+          "label": "C",
+          "text": "Complete opposites"
+        },
+        {
+          "label": "D",
+          "text": "Not sufficiently similar in relevant ways"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 14,
+      "text": "When someone tries to support a proposition with information that really has nothing to do with the claim being made, that person has probably committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "straw person"
+        },
+        {
+          "label": "B",
+          "text": "genetic fallacy"
+        },
+        {
+          "label": "C",
+          "text": "irrelevant conclusion"
+        },
+        {
+          "label": "D",
+          "text": "ignoratio elenchi"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 15,
+      "text": "If you say an opposing arguer has taken a position that you can easily defeat, when he or she has not taken that position, then you go on to defeat that position and claim to have done significant damage to that arguer's overall argument, you are probably guilty of which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "genetic fallacy"
+        },
+        {
+          "label": "B",
+          "text": "appeal to emotions"
+        },
+        {
+          "label": "C",
+          "text": "straw person"
+        },
+        {
+          "label": "D",
+          "text": "ignorance of refutation"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 16,
+      "text": "When someone changes the meaning of a word or phrase from one part of the argument to another that person may have committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Special pleading"
+        },
+        {
+          "label": "B",
+          "text": "Hypostatization"
+        },
+        {
+          "label": "C",
+          "text": "Question begging epithets"
+        },
+        {
+          "label": "D",
+          "text": "Equivocation"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 17,
+      "text": "Which of the following describes the fallacy of appeal to tradition?",
+      "options": [
+        {
+          "label": "A",
+          "text": "reasoning that a claim must be true because it's been made so often"
+        },
+        {
+          "label": "B",
+          "text": "reasoning that a claim must be true because a regular person believes it"
+        },
+        {
+          "label": "C",
+          "text": "reasoning that a claim must be true because it's been believed in the past"
+        },
+        {
+          "label": "D",
+          "text": "reasoning that a claim must be true because a lot of people believe it"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 18,
+      "text": "Anecdotal evidence is a specific kind of",
+      "options": [
+        {
+          "label": "A",
+          "text": "False sign"
+        },
+        {
+          "label": "B",
+          "text": "False criteria"
+        },
+        {
+          "label": "C",
+          "text": "False cause"
+        },
+        {
+          "label": "D",
+          "text": "Hasty Generalization"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 19,
+      "text": "The genetic fallacy consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that a conclusion should be made based on feeling sorry for someone when that feeling is irrelevant to the conclusion"
+        },
+        {
+          "label": "B",
+          "text": "responding to charges of wrongdoing by saying the accuser does something just as bad"
+        },
+        {
+          "label": "C",
+          "text": "arguing that an idea should be accepted or rejected based only on who originated the idea."
+        },
+        {
+          "label": "D",
+          "text": "causing confusion during refutation because of a real or feigned lack of ability to engage in refutation"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 20,
+      "text": "Which of the following describes the fallacy of false consolation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing against a position based only on negative personal feelings toward the position"
+        },
+        {
+          "label": "B",
+          "text": "responding to charges of wrongdoing by saying others do things as bad or worse"
+        },
+        {
+          "label": "C",
+          "text": "arguing that someone is not really harmed because things could be worse or by pointing out what they have to be thankful for"
+        },
+        {
+          "label": "D",
+          "text": "using threats of harm instead of reasoning to get agreement"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 21,
+      "text": "When someone argues that making a change will have no significant effect, but there is no evidence that the effect will not be significant, that person has committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "poisoning the well"
+        },
+        {
+          "label": "B",
+          "text": "solid slope"
+        },
+        {
+          "label": "C",
+          "text": "appeal to tradition"
+        },
+        {
+          "label": "D",
+          "text": "argument from authority"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 22,
+      "text": "Another name for the fallacy of false dilemma is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guilt by association"
+        },
+        {
+          "label": "B",
+          "text": "Circular reasoning"
+        },
+        {
+          "label": "C",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "D",
+          "text": "False dichotomy"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 23,
+      "text": "Appeal to beliefs is another name for which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ad nauseam"
+        },
+        {
+          "label": "B",
+          "text": "appeal to tradition"
+        },
+        {
+          "label": "C",
+          "text": "solid slope"
+        },
+        {
+          "label": "D",
+          "text": "self evident truths"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 24,
+      "text": "Rejecting a claim by criticizing the person who makes it rather than the claim itself is known as the fallacy of...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Division"
+        },
+        {
+          "label": "B",
+          "text": "Appeal to emotion"
+        },
+        {
+          "label": "C",
+          "text": "Composition"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to the person"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 25,
+      "text": "At the end of the course, Professor Jones told us that we were the best class he had ever had. That's why I'm sure that the 0.0 the appeared on my grade report is a mistake. Surely, if we were as good a class as Professor Jones said we were, none of us deserved to fail.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fallacy of Composition"
+        },
+        {
+          "label": "B",
+          "text": "Fallacy of Division"
+        },
+        {
+          "label": "C",
+          "text": "Questionable Cause"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Gallery (Provicialism)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 26,
+      "text": "Another name for the fallacy of reducing to an absurdity is",
+      "options": [
+        {
+          "label": "A",
+          "text": "tu quoque"
+        },
+        {
+          "label": "B",
+          "text": "ad baculum"
+        },
+        {
+          "label": "C",
+          "text": "ad hominem"
+        },
+        {
+          "label": "D",
+          "text": "reductio ad absurdum"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 27,
+      "text": "The argument against the person consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "ignoring another person's arguments and attacking her character instead"
+        },
+        {
+          "label": "B",
+          "text": "asserting an opposing arguer has taken an easily defeated position, which she has not really taken"
+        },
+        {
+          "label": "C",
+          "text": "causing confusion during an argument by a lack of ability to engage in refutation"
+        },
+        {
+          "label": "D",
+          "text": "using threats of harm instead of reasoning to gain agreement"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 28,
+      "text": "Another name for the fallacy of accident is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sweeping generalization"
+        },
+        {
+          "label": "B",
+          "text": "Black-or-white fallacy"
+        },
+        {
+          "label": "C",
+          "text": "Petitio principii"
+        },
+        {
+          "label": "D",
+          "text": "False dichotomy"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 29,
+      "text": "Which of the following is another name for evading the issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"you too\" fallacy"
+        },
+        {
+          "label": "B",
+          "text": "irrelevant conclusion"
+        },
+        {
+          "label": "C",
+          "text": "appeal to fear"
+        },
+        {
+          "label": "D",
+          "text": "argument against the person"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 30,
+      "text": "Which of the following describes the _tu quoque_ fallacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "summarizing an opponent's position in a way that makes it seem silly"
+        },
+        {
+          "label": "B",
+          "text": "attempting to gain agreement based only on the feelings aroused in the argument"
+        },
+        {
+          "label": "C",
+          "text": "responding to charges of wrongdoing by saying the accuser does the same thing"
+        },
+        {
+          "label": "D",
+          "text": "arguing against a position based only on negative personal feelings toward the position"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 31,
+      "text": "Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms describes which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ambiguity"
+        },
+        {
+          "label": "B",
+          "text": "Special pleading"
+        },
+        {
+          "label": "C",
+          "text": "Reification"
+        },
+        {
+          "label": "D",
+          "text": "Hypostatization"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 32,
+      "text": "When a claim is supported only by asserting that unidentified experts accept the claim the arguer has committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to tradition"
+        },
+        {
+          "label": "B",
+          "text": "ad vericundiam"
+        },
+        {
+          "label": "C",
+          "text": "appeal to anonymous authority"
+        },
+        {
+          "label": "D",
+          "text": "snob appeal"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 33,
+      "text": "\"To be valid, the minor premise must either agree with the antecedent, or disagree with the consequent\" is a requirement for",
+      "options": [
+        {
+          "label": "A",
+          "text": "a disjunctive syllogism"
+        },
+        {
+          "label": "B",
+          "text": "a categorical syllogism"
+        },
+        {
+          "label": "C",
+          "text": "a conditional syllogism"
+        },
+        {
+          "label": "D",
+          "text": "disjunctive enthymeme"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 34,
+      "text": "Which of the following best describes the fallacy of special pleading?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reasoning that ideas presented in an appealing manner are correct, regardless of the content of the message."
+        },
+        {
+          "label": "B",
+          "text": "Using language and punctuation in a way that a statement can have multiple interpretations, so it's not really clear what is meant."
+        },
+        {
+          "label": "C",
+          "text": "Confusing figurative language with literal language."
+        },
+        {
+          "label": "D",
+          "text": "Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 35,
+      "text": "Which of the following best describes the fallacy of poisoning the well?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source"
+        },
+        {
+          "label": "B",
+          "text": "arguing that a claim should be accepted based on evidence that is not presented, but asserted to be well known or obvious."
+        },
+        {
+          "label": "C",
+          "text": "arguing something should be done based only on evidence that it's been done that way in the past, or should be believed only because it's been believed for a long time."
+        },
+        {
+          "label": "D",
+          "text": "reasoning that a claim is true based only on the evidence that it has been made so often."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 36,
+      "text": "If someone argues that something should be done in a certain way because that's the way it's always been done, that person has committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "slippery slope"
+        },
+        {
+          "label": "B",
+          "text": "appeal to tradition"
+        },
+        {
+          "label": "C",
+          "text": "argument from authority"
+        },
+        {
+          "label": "D",
+          "text": "ad nauseam"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 37,
+      "text": "When someone makes an argument, and the only evidence he or she uses to support the claim is the testimony that an authority figure believes the claim, the arguer has committed which fallacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Questionable use of statistics"
+        },
+        {
+          "label": "B",
+          "text": "Apple polishing"
+        },
+        {
+          "label": "C",
+          "text": "Self evident truths"
+        },
+        {
+          "label": "D",
+          "text": "Argument from authority"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 38,
+      "text": "The complex proposition fallacy involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "including more than one claim in the proposition and treating proof for one claim as proof for all the claims."
+        },
+        {
+          "label": "B",
+          "text": "asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless."
+        },
+        {
+          "label": "C",
+          "text": "arguing that a claim must be true because there is no evidence that it is false."
+        },
+        {
+          "label": "D",
+          "text": "arguing something is inferior just because it doesn't do something it was never intended to do."
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 39,
+      "text": "Including more than one claim in a proposition may lead to which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complex question"
+        },
+        {
+          "label": "B",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "C",
+          "text": "Compound proposition"
+        },
+        {
+          "label": "D",
+          "text": "Extension"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 40,
+      "text": "Which of the following fallacies happens when someone concludes that a legitimate generalization necessarily applies to a particular case?",
+      "options": [
+        {
+          "label": "A",
+          "text": "False dilemma"
+        },
+        {
+          "label": "B",
+          "text": "Circular reasoning"
+        },
+        {
+          "label": "C",
+          "text": "Accident"
+        },
+        {
+          "label": "D",
+          "text": "Bifurcation"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 41,
+      "text": "Fallacies can be psychologically persuasive even though they are...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Psychologically impotent"
+        },
+        {
+          "label": "B",
+          "text": "Logically flawed"
+        },
+        {
+          "label": "C",
+          "text": "Deductively valid"
+        },
+        {
+          "label": "D",
+          "text": "Inductively valid"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 42,
+      "text": "In a valid disjunctive syllogism the minor premise must",
+      "options": [
+        {
+          "label": "A",
+          "text": "accept one choice"
+        },
+        {
+          "label": "B",
+          "text": "reject all but one choice"
+        },
+        {
+          "label": "C",
+          "text": "either A or B"
+        },
+        {
+          "label": "D",
+          "text": "none of the above"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 43,
+      "text": "Another name for the fallacy of complex question is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fallacy of interrogation"
+        },
+        {
+          "label": "B",
+          "text": "Compound proposition"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "D",
+          "text": "Extension"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 44,
+      "text": "Which of the following best describes the snob appeal fallacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "reasoning that a claim is true based only on the evidence that it has been made so often."
+        },
+        {
+          "label": "B",
+          "text": "arguing someone should accept a claim based only on the evidence that he or she has the favorable characteristics to understand the truth of the claim."
+        },
+        {
+          "label": "C",
+          "text": "arguing a claim should be accepted based only on evidence that unidentified authorities accept it."
+        },
+        {
+          "label": "D",
+          "text": "arguing that someone should accept an idea or product based only on evidence that prestigious people accept it, or that non-prestigious people reject it."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 45,
+      "text": "The fallacy of guilt by association is a specific type of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fallacy of accident"
+        },
+        {
+          "label": "B",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "C",
+          "text": "Begging the question"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 46,
+      "text": "William Safire in American Heritage Magazine (December 1987): ...The greatness of Lincoln was his purposefulness. He saw something that few others saw: that the democratic experiment centered on the Union and that majority rule was everything. The minute you allowed secession, you made democracy an absurdity---because what would happen would be continued subdivision.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slippery Slope"
+        },
+        {
+          "label": "B",
+          "text": "Questionable Analogy"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to Authority"
+        },
+        {
+          "label": "D",
+          "text": "Straw Man"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 47,
+      "text": "Which of the following describes the fallacy of appeal to common practice?",
+      "options": [
+        {
+          "label": "A",
+          "text": "eliminating a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source"
+        },
+        {
+          "label": "B",
+          "text": "reasoning that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence there will be no consequences"
+        },
+        {
+          "label": "C",
+          "text": "drawing a conclusion after purposely leaving out evidence or ignoring known evidence that might contradict a claim"
+        },
+        {
+          "label": "D",
+          "text": "arguing that something is the right thing to do based only on evidence that other people are already doing it."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 48,
+      "text": "Which of the following best describes the fallacy of equivocation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim."
+        },
+        {
+          "label": "B",
+          "text": "Changing the meaning of a word or phrase from one part of the argument to another."
+        },
+        {
+          "label": "C",
+          "text": "Confusing figurative language with literal language."
+        },
+        {
+          "label": "D",
+          "text": "Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 49,
+      "text": "\" _Ad novitatem_ \" is",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that what is true of a few members of a class is true of all members of the class"
+        },
+        {
+          "label": "B",
+          "text": "drawing a conclusion by applying irrelevant criteria to a subject"
+        },
+        {
+          "label": "C",
+          "text": "substituting individual stories for a larger sample as support for a claim"
+        },
+        {
+          "label": "D",
+          "text": "arguing that something must be good because it is new, or must be bad because it is old"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 50,
+      "text": "The universe, like a watch, must have a maker.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fallacy of Accident"
+        },
+        {
+          "label": "B",
+          "text": "Questionable Analogy"
+        },
+        {
+          "label": "C",
+          "text": "Questionable Cause"
+        },
+        {
+          "label": "D",
+          "text": "Fallacy of Composition"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 51,
+      "text": "Which of the following best describes the fallacy of figure of speech?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject."
+        },
+        {
+          "label": "B",
+          "text": "Treating something that exists in the mind as if it was a real object."
+        },
+        {
+          "label": "C",
+          "text": "Confusing figurative language with literal language."
+        },
+        {
+          "label": "D",
+          "text": "A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 52,
+      "text": "Men are better drivers than women are. The proof of this is that men are more capable than women of managing cars on the road.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Begging the question"
+        },
+        {
+          "label": "B",
+          "text": "Ad hominem (Attacking the Person)"
+        },
+        {
+          "label": "C",
+          "text": "False Dilemma"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Pity"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 53,
+      "text": "Polonius in William Shakespeare's Hamlet: \"Your noble son is mad: Mad call I it, for to define true madness, What is't but to be nothing else but mad?\"",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attacking the Person (ad hominem)"
+        },
+        {
+          "label": "B",
+          "text": "Equivocation"
+        },
+        {
+          "label": "C",
+          "text": "Begging the Question"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Pity"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 54,
+      "text": "E.F. Schumacher, famous economist, in an article in the Atlantic (April 1979): Fifteen months [after I had advised that rural India should have a technology intermediate between the hoe and the tractor,] an all-India conference on intermediate technology was arranged. (They still didn't like the term [intermediate], so they called it appropriate technology. That's all right: when I come to India and somebody says, \"Oh, Mr. Schumacher, I don't believe in appropriate technology\", I just look him straight in the face and say, \"Oh, that's splendid. Do you believe in inappropriate technology?\")",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equivocation"
+        },
+        {
+          "label": "B",
+          "text": "Inconsistency"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to Authority"
+        },
+        {
+          "label": "D",
+          "text": "Prejudicial Language"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 55,
+      "text": "A valid disjunctive syllogism has which of the following characteristics?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The minor premise must either affirm the antecedent or deny the consequent"
+        },
+        {
+          "label": "B",
+          "text": "The minor premise must either accept an alternative or reject an alternative"
+        },
+        {
+          "label": "C",
+          "text": "One of the premises is missing"
+        },
+        {
+          "label": "D",
+          "text": "It reaches a truthful conclusion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 56,
+      "text": "Another name for the bandwagon appeal is",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to beliefs"
+        },
+        {
+          "label": "B",
+          "text": "appeal to authority"
+        },
+        {
+          "label": "C",
+          "text": "appeal to the people"
+        },
+        {
+          "label": "D",
+          "text": "common man appeal"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 57,
+      "text": "Evading burden of proof is another name for the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Extension"
+        },
+        {
+          "label": "B",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "C",
+          "text": "Complex question"
+        },
+        {
+          "label": "D",
+          "text": "Complex proposition"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 58,
+      "text": "_A priori_ is a fallacy that involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless."
+        },
+        {
+          "label": "B",
+          "text": "arguing something is inferior just because it doesn't do something it was never intended to do."
+        },
+        {
+          "label": "C",
+          "text": "arguing that a claim must be true because there is no evidence that it is false."
+        },
+        {
+          "label": "D",
+          "text": "reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion."
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 59,
+      "text": "The fallacy of composition is",
+      "options": [
+        {
+          "label": "A",
+          "text": "attributing the cause of an event to a simple cause when the cause is more complex"
+        },
+        {
+          "label": "B",
+          "text": "arguing that what is true of part of an object must be true of the entire object"
+        },
+        {
+          "label": "C",
+          "text": "drawing a conclusion without enough evidence to support that conclusion"
+        },
+        {
+          "label": "D",
+          "text": "drawing a conclusion based on sign reasoning when there is not really a direct relationship between the alleged sign and the subject of the conclusion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 60,
+      "text": "The fallacy of laudatory personality is a specific type of",
+      "options": [
+        {
+          "label": "A",
+          "text": "The fallacy of accident"
+        },
+        {
+          "label": "B",
+          "text": "False dilemma"
+        },
+        {
+          "label": "C",
+          "text": "Begging the question"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 61,
+      "text": "Arguing that a lack of evidence proves something is the fallacy of...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "B",
+          "text": "Double negative"
+        },
+        {
+          "label": "C",
+          "text": "Equivocation"
+        },
+        {
+          "label": "D",
+          "text": "Burden of proof"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 62,
+      "text": "The appeal to anonymous authority fallacy consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "reasoning that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence there will be no consequences."
+        },
+        {
+          "label": "B",
+          "text": "arguing that a claim should be accepted based on the evidence that a large number of people accept it"
+        },
+        {
+          "label": "C",
+          "text": "arguing that something should be done because it has been done in the past"
+        },
+        {
+          "label": "D",
+          "text": "arguing a claim should be accepted based only on the assertion that unidentified authorities accept it"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 63,
+      "text": "Arguing that a claim must be true merely because a substantial number of people believe it is called the fallacy of...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Tu quoque"
+        },
+        {
+          "label": "B",
+          "text": "Composition"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to the masses"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to reason"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 64,
+      "text": "Arguing that what is true of an entire object is also true of each part of that object is the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "false criteria"
+        },
+        {
+          "label": "B",
+          "text": "hasty generalization"
+        },
+        {
+          "label": "C",
+          "text": "ad crumenam"
+        },
+        {
+          "label": "D",
+          "text": "division"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 65,
+      "text": "The fallacy of appeal to emotions consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "trying to make an opponent's argument seem ridiculous"
+        },
+        {
+          "label": "B",
+          "text": "defending wrongdoing by claiming the opposing arguer does the same thing"
+        },
+        {
+          "label": "C",
+          "text": "arguing that an argument should be rejected because the source of the argument"
+        },
+        {
+          "label": "D",
+          "text": "trying to get someone else to agree to a claim only by arousing that person's feelings about the subject"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 66,
+      "text": "When someone treats an imaginary concept as if it was something tangible that person might commit the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "Question begging epithets"
+        },
+        {
+          "label": "B",
+          "text": "Misusing ambiguity"
+        },
+        {
+          "label": "C",
+          "text": "Hypostatization"
+        },
+        {
+          "label": "D",
+          "text": "Amphiboly"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 67,
+      "text": "Arguing that a claim must be true because there is no evidence that it is false is which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "a priori"
+        },
+        {
+          "label": "B",
+          "text": "Extension"
+        },
+        {
+          "label": "C",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "D",
+          "text": "plurium interrogationum"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 68,
+      "text": "Which of the following describes the fallacy of evading the issue?",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that someone should do something only because of ill will towards someone else"
+        },
+        {
+          "label": "B",
+          "text": "characterizing an opponent's position in a way that makes it seem ridiculous"
+        },
+        {
+          "label": "C",
+          "text": "supporting a claim with evidence or reasoning that is not relevant to the proposition, or responding to another's argument by changing the subject"
+        },
+        {
+          "label": "D",
+          "text": "attempting to gain agreement based only on the feelings aroused in the message"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 69,
+      "text": "Which of the following describes the fallacy of appeal to indignation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "attacking the character or background of someone making an argument instead of his or her evidence and reasoning"
+        },
+        {
+          "label": "B",
+          "text": "responding to charges of wrongdoing by saying other people do the same thing"
+        },
+        {
+          "label": "C",
+          "text": "arguing against a position only based on personal feelings toward the position"
+        },
+        {
+          "label": "D",
+          "text": "responding to an argument with an expression of derision instead of a counter argument"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 70,
+      "text": "\"The minor premise must affirm the antecedent or deny the consequent\" is a way to determine the validity of which type of argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Categorical syllogism"
+        },
+        {
+          "label": "B",
+          "text": "Disjunctive syllogism"
+        },
+        {
+          "label": "C",
+          "text": "Hypothetical syllogism"
+        },
+        {
+          "label": "D",
+          "text": "Toulmin model"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 71,
+      "text": "The fallacy of extension consists of",
+      "options": [
+        {
+          "label": "A",
+          "text": "asking a question that includes either an unproven assumption or more than one question, thus making a straightforward yes or no answer meaningless."
+        },
+        {
+          "label": "B",
+          "text": "arguing something is flawed because it doesn't do what it was never intended to do."
+        },
+        {
+          "label": "C",
+          "text": "arguing about something when you don't know what you're talking about"
+        },
+        {
+          "label": "D",
+          "text": "including more than one claim in the proposition and treating proof for one claim as proof for all the claims."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 72,
+      "text": "Which of the following fallacies happens when someone concludes that someone couldn't have done something good because he or she has negative qualities?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "B",
+          "text": "Guilt by association"
+        },
+        {
+          "label": "C",
+          "text": "Reprehensible personality"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 73,
+      "text": "Which of the following is another name for the fallacy of amphiboly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Misusing ambiguity"
+        },
+        {
+          "label": "B",
+          "text": "Reification"
+        },
+        {
+          "label": "C",
+          "text": "Figure of speech"
+        },
+        {
+          "label": "D",
+          "text": "Special pleading"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 74,
+      "text": "Which fallacy happens because of a failure to recognize the alternatives presented are not mutually exclusive?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Begging the Question"
+        },
+        {
+          "label": "B",
+          "text": "Accident"
+        },
+        {
+          "label": "C",
+          "text": "Circular reasoning"
+        },
+        {
+          "label": "D",
+          "text": "False dilemma"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 75,
+      "text": "When someone responds to your argument with a sarcastic statement such as, \"Yeah, right. Like that's ever going to happen,\" that person may have committed which fallacy?",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to indignation"
+        },
+        {
+          "label": "B",
+          "text": "appeal to spite"
+        },
+        {
+          "label": "C",
+          "text": "horse laugh"
+        },
+        {
+          "label": "D",
+          "text": "tu quoque"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 76,
+      "text": "\"The minor premise must affirm the antecedent or deny the consequent\" is a validity requirement of which type of argument?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Toulmin"
+        },
+        {
+          "label": "B",
+          "text": "Categorical"
+        },
+        {
+          "label": "C",
+          "text": "Disjunctive"
+        },
+        {
+          "label": "D",
+          "text": "Conditional (or hypothetical)"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 77,
+      "text": "The hasty conclusion fallacy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that a single event caused another when the cause is really several events"
+        },
+        {
+          "label": "B",
+          "text": "making an argument without enough evidence to support the conclusion"
+        },
+        {
+          "label": "C",
+          "text": "substituting individual stories for a larger sample in support of a claim"
+        },
+        {
+          "label": "D",
+          "text": "reasoning that applies irrelevant criteria to the subject of the argument."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 78,
+      "text": "Which of the following describes he fallacy of appeal to pride?",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing a claim should be accepted based only on evidence that unidentified authorities accept it."
+        },
+        {
+          "label": "B",
+          "text": "arguing someone should accept a claim based only on the evidence that he or she has the favorable characteristics to understand the truth of the claim."
+        },
+        {
+          "label": "C",
+          "text": "arguing something should be done based only on evidence that it's been done that way in the past, or should be believed only because it's been believed for a long time."
+        },
+        {
+          "label": "D",
+          "text": "arguing that an act or series of acts should be carried out because they will have no significant consequences, when there is no evidence for the lack of significant effects."
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 79,
+      "text": "Which of the following fallacies is a way of suppressing evidence that eliminates a source of evidence from consideration by claiming the source is flawed, when there is no true relationship between the alleged flaw and the reliability of the source?",
+      "options": [
+        {
+          "label": "A",
+          "text": "significance"
+        },
+        {
+          "label": "B",
+          "text": "snob appeal"
+        },
+        {
+          "label": "C",
+          "text": "poisoning the well"
+        },
+        {
+          "label": "D",
+          "text": "appeal to anonymous authority"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 80,
+      "text": "The concomitant variation fallacy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "attributing the cause of an event to a single cause when the cause is more complicated"
+        },
+        {
+          "label": "B",
+          "text": "arguing that since two events happened at the same time, one event must have caused the other"
+        },
+        {
+          "label": "C",
+          "text": "arguing that since one event preceded another event it must have caused the second event"
+        },
+        {
+          "label": "D",
+          "text": "drawing a conclusion based on sign reasoning when there is not really a direct relationship between the alleged sign and the subject of the conclusion"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 81,
+      "text": "Which of the following best describes the fallacy of self-evident truths?",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that a claim is true based only on evidence that an authority figure accepts the claim."
+        },
+        {
+          "label": "B",
+          "text": "arguing a claim should be accepted based only on evidence that unidentified authorities accept it."
+        },
+        {
+          "label": "C",
+          "text": "arguing that a claim should be accepted based on evidence that is not presented, but is asserted to be well known or obvious."
+        },
+        {
+          "label": "D",
+          "text": "arguing someone should accept a claim based only on the evidence that he or she has the favorable characteristics to understand the truth of the claim."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 82,
+      "text": "Another name for the fallacy of begging the question is",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dito simpliciter"
+        },
+        {
+          "label": "B",
+          "text": "Bifurcation"
+        },
+        {
+          "label": "C",
+          "text": "Reprehensible personality"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 83,
+      "text": "Which of the following best describes the fallacy of amphiboly?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using emotionally charged languages to create an impression about the subject of a claim, without making an argument that the language fits the subject."
+        },
+        {
+          "label": "B",
+          "text": "Referring to an act committed by an opponent in negative terms while referring to the same act committed by the arguer or supporters in favorable terms."
+        },
+        {
+          "label": "C",
+          "text": "Using grammar and punctuation in a way that a statement may have multiple interpretations, so it's not really clear what is meant."
+        },
+        {
+          "label": "D",
+          "text": "Changing the meaning of a word or phrase from one part of the argument to another."
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 84,
+      "text": "The fallacy that involves reasoning that determines the conclusion one wants first, then accepts only evidence supporting that conclusion, or interprets all evidence as support for that conclusion is known as",
+      "options": [
+        {
+          "label": "A",
+          "text": "ad ignorantium"
+        },
+        {
+          "label": "B",
+          "text": "a priori"
+        },
+        {
+          "label": "C",
+          "text": "plurium interrogationum"
+        },
+        {
+          "label": "D",
+          "text": "Extension"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 85,
+      "text": "The natural law fallacy is",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing that something is necessarily bad because it doesn't cost very much"
+        },
+        {
+          "label": "B",
+          "text": "substituting individual stories for a larger sample when supporting a generalization"
+        },
+        {
+          "label": "C",
+          "text": "arguing that what is true in nature must be true about humans"
+        },
+        {
+          "label": "D",
+          "text": "the same thing as the  post hoc  fallacy"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 86,
+      "text": "\"Misuse of statistics,\" \"questionable statistics,\" and \"questionable use of statistics\" are all other names for the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to a pride"
+        },
+        {
+          "label": "B",
+          "text": "significance"
+        },
+        {
+          "label": "C",
+          "text": "poisoning the well"
+        },
+        {
+          "label": "D",
+          "text": "slippery slope"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 87,
+      "text": "Which of the following describes the fallacy of appeal to spite?",
+      "options": [
+        {
+          "label": "A",
+          "text": "responding to an argument with an expression of derision instead of a counter argument"
+        },
+        {
+          "label": "B",
+          "text": "arguing against a position based only on negative personal feelings toward the position"
+        },
+        {
+          "label": "C",
+          "text": "arguing someone should do something only because that person dislikes someone else"
+        },
+        {
+          "label": "D",
+          "text": "saying someone shouldn't do something because if he or she does it people won't like him or her"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 88,
+      "text": "_Ad hominem_ is another name for the fallacy of",
+      "options": [
+        {
+          "label": "A",
+          "text": "appeal to loyalty"
+        },
+        {
+          "label": "B",
+          "text": "reducing to an absurdity"
+        },
+        {
+          "label": "C",
+          "text": "ignorance of refutation"
+        },
+        {
+          "label": "D",
+          "text": "argument against the person"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 89,
+      "text": "If someone uses an emotionally charged restatement of a claim in place of support for the claim, that person may have committed which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Style over substance"
+        },
+        {
+          "label": "B",
+          "text": "Question begging epithets"
+        },
+        {
+          "label": "C",
+          "text": "Hypostatization"
+        },
+        {
+          "label": "D",
+          "text": "Amphiboly"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 90,
+      "text": "The appeal to fear involves",
+      "options": [
+        {
+          "label": "A",
+          "text": "arguing something should be done only because it will make the person doing it feel good"
+        },
+        {
+          "label": "B",
+          "text": "arguing someone should do something only because of ill will towards someone else"
+        },
+        {
+          "label": "C",
+          "text": "arguing actions should be taken to avoid exaggerated, unlikely, or irrelevant negative results"
+        },
+        {
+          "label": "D",
+          "text": "characterizing an opponents position in a way that makes it seem silly"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 91,
+      "text": "Arguing that an idea should be accepted or rejected only because of the source of the idea commits which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "genetic fallacy"
+        },
+        {
+          "label": "B",
+          "text": "appeal to popularity"
+        },
+        {
+          "label": "C",
+          "text": "scare tactics"
+        },
+        {
+          "label": "D",
+          "text": "appeal to emotions"
+        }
+      ],
+      "correct_label": "A",
+      "split": "test"
+    },
+    {
+      "item_id": 92,
+      "text": "Which of the following fallacies happens when someone concludes that someone must be honest because the people he hangs around with are honest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "B",
+          "text": "Guilt by association"
+        },
+        {
+          "label": "C",
+          "text": "Reprehensible personality"
+        },
+        {
+          "label": "D",
+          "text": "Circular reasoning"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 93,
+      "text": "\" _Ad crumenam_ \" is a specific kind of",
+      "options": [
+        {
+          "label": "A",
+          "text": "False analogy"
+        },
+        {
+          "label": "B",
+          "text": "Hasty Generalization"
+        },
+        {
+          "label": "C",
+          "text": "False sign"
+        },
+        {
+          "label": "D",
+          "text": "Hasty Conclusion"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 94,
+      "text": "Which fallacy happens when someone argues in favor of a two part proposition, only supports one part of the proposition, then asserts that the entire proposition has been supported.",
+      "options": [
+        {
+          "label": "A",
+          "text": "a priori"
+        },
+        {
+          "label": "B",
+          "text": "Complex proposition"
+        },
+        {
+          "label": "C",
+          "text": "Extension"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to ignorance"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 95,
+      "text": "So, how long have you been beating your wife?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Attacking the Person (ad hominem)"
+        },
+        {
+          "label": "B",
+          "text": "False Dilemma"
+        },
+        {
+          "label": "C",
+          "text": "Prejudicial Language"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Force"
+        }
+      ],
+      "correct_label": "C",
+      "split": "test"
+    },
+    {
+      "item_id": 96,
+      "text": "John S. Knight, Detroit Free Press (3 July 1970): ...Capitalism is the economic system in which the means of production and distribution are privately owned and operated for profit. The alternative system is called socialism, the theory of the ownership and operation of the means of production by society, with all members sharing in the work and the products.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Begging the Question"
+        },
+        {
+          "label": "B",
+          "text": "False Dilemma"
+        },
+        {
+          "label": "C",
+          "text": "Straw Man"
+        },
+        {
+          "label": "D",
+          "text": "Appeal to Gallery (Provicialism)"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 97,
+      "text": "The fallacy of appeal to the person is rejecting a claim by...",
+      "options": [
+        {
+          "label": "A",
+          "text": "Using rhetoric"
+        },
+        {
+          "label": "B",
+          "text": "Making false statements"
+        },
+        {
+          "label": "C",
+          "text": "Ignoring the person"
+        },
+        {
+          "label": "D",
+          "text": "Criticizing the person who makes it"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 98,
+      "text": "We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",
+      "options": [
+        {
+          "label": "A",
+          "text": "Argument from Ignorance"
+        },
+        {
+          "label": "B",
+          "text": "Affirming the Consequent"
+        },
+        {
+          "label": "C",
+          "text": "Denying the Antecedent"
+        },
+        {
+          "label": "D",
+          "text": "Begging the Question"
+        }
+      ],
+      "correct_label": "B",
+      "split": "test"
+    },
+    {
+      "item_id": 99,
+      "text": "Asking a question that includes an unproven assumption may lead to which of the following fallacies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Appeal to ignorance"
+        },
+        {
+          "label": "B",
+          "text": "Extension"
+        },
+        {
+          "label": "C",
+          "text": "a priori"
+        },
+        {
+          "label": "D",
+          "text": "Complex question"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    },
+    {
+      "item_id": 100,
+      "text": "Which of the following fallacies happens when someone draws a conclusion that is simply a restatement of one of the premises?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Laudatory personality"
+        },
+        {
+          "label": "B",
+          "text": "Guilt by association"
+        },
+        {
+          "label": "C",
+          "text": "Accident"
+        },
+        {
+          "label": "D",
+          "text": "Begging the question"
+        }
+      ],
+      "correct_label": "D",
+      "split": "test"
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_math_validation",
+  "description": "MMLU-Pro benchmark items, category: math, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 0,
+      "text": "The symmetric group $S_n$ has $\n\\factorial{n}$ elements, hence it is not true that $S_{10}$ has 10 elements.\nFind the characteristic of the ring 2Z.",
+      "options": [
+        {
+          "label": "A",
+          "text": "0"
+        },
+        {
+          "label": "B",
+          "text": "30"
+        },
+        {
+          "label": "C",
+          "text": "3"
+        },
+        {
+          "label": "D",
+          "text": "10"
+        },
+        {
+          "label": "E",
+          "text": "12"
+        },
+        {
+          "label": "F",
+          "text": "50"
+        },
+        {
+          "label": "G",
+          "text": "2"
+        },
+        {
+          "label": "H",
+          "text": "100"
+        },
+        {
+          "label": "I",
+          "text": "20"
+        },
+        {
+          "label": "J",
+          "text": "5"
+        }
+      ],
+      "correct_label": "A",
+      "split": "validation"
+    },
+    {
+      "item_id": 1,
+      "text": "Let V be the set of all real polynomials p(x). Let transformations T, S be defined on V by T:p(x) -> xp(x) and S:p(x) -> p'(x) = d/dx p(x), and interpret (ST)(p(x)) as S(T(p(x))). Which of the following is true?",
+      "options": [
+        {
+          "label": "A",
+          "text": "ST + TS is the identity map of V onto itself."
+        },
+        {
+          "label": "B",
+          "text": "TS = 0"
+        },
+        {
+          "label": "C",
+          "text": "ST = 1"
+        },
+        {
+          "label": "D",
+          "text": "ST - TS = 0"
+        },
+        {
+          "label": "E",
+          "text": "ST = T"
+        },
+        {
+          "label": "F",
+          "text": "ST = 0"
+        },
+        {
+          "label": "G",
+          "text": "ST = TS"
+        },
+        {
+          "label": "H",
+          "text": "ST - TS is the identity map of V onto itself."
+        },
+        {
+          "label": "I",
+          "text": "TS = T"
+        },
+        {
+          "label": "J",
+          "text": "ST = S"
+        }
+      ],
+      "correct_label": "H",
+      "split": "validation"
+    },
+    {
+      "item_id": 2,
+      "text": "Let A be the set of all ordered pairs of integers (m, n) such that 7m + 12n = 22. What is the greatest negative number in the set B = {m + n : (m, n) \\in A}?",
+      "options": [
+        {
+          "label": "A",
+          "text": "-5"
+        },
+        {
+          "label": "B",
+          "text": "0"
+        },
+        {
+          "label": "C",
+          "text": "-3"
+        },
+        {
+          "label": "D",
+          "text": "-7"
+        },
+        {
+          "label": "E",
+          "text": "-4"
+        },
+        {
+          "label": "F",
+          "text": "-6"
+        },
+        {
+          "label": "G",
+          "text": "-1"
+        },
+        {
+          "label": "H",
+          "text": "-2"
+        },
+        {
+          "label": "I",
+          "text": "-9"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "E",
+      "split": "validation"
+    },
+    {
+      "item_id": 3,
+      "text": "A tank initially contains a salt solution of 3 grams of salt dissolved in 100 liters of water. A salt solution containing 0.02 grams of salt per liter of water is sprayed into the tank at a rate of 4 liters per minute. The sprayed solution is continually mixed with the salt solution in the tank, and the mixture flows out of the tank at a rate of 4 liters per minute. If the mixing is instantaneous, how many grams of salt are in the tank after 100 minutes have elapsed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 + e^-2"
+        },
+        {
+          "label": "B",
+          "text": "2 - e^-4"
+        },
+        {
+          "label": "C",
+          "text": "2 - e^-2"
+        },
+        {
+          "label": "D",
+          "text": "3 + e^-4"
+        },
+        {
+          "label": "E",
+          "text": "2 + e^-3"
+        },
+        {
+          "label": "F",
+          "text": "2 - e^-3"
+        },
+        {
+          "label": "G",
+          "text": "3 - e^-2"
+        },
+        {
+          "label": "H",
+          "text": "2 + e^-2"
+        },
+        {
+          "label": "I",
+          "text": "2 + e^-4"
+        },
+        {
+          "label": "J",
+          "text": "2"
+        }
+      ],
+      "correct_label": "I",
+      "split": "validation"
+    },
+    {
+      "item_id": 4,
+      "text": "A total of 30 players will play basketball at a park. There will be exactly 5 players on each team. Which statement correctly explains how to find the number of teams needed?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Multiply 5 by 5 to find 25 teams."
+        },
+        {
+          "label": "B",
+          "text": "Divide 30 by 5 to find 6 teams."
+        },
+        {
+          "label": "C",
+          "text": "Add 5 to 30 to find 35 teams."
+        },
+        {
+          "label": "D",
+          "text": "Subtract 30 from 5 to find -25 teams."
+        },
+        {
+          "label": "E",
+          "text": "Divide 5 by 30 to find 0.1667 teams."
+        },
+        {
+          "label": "F",
+          "text": "Add 5 to 30 then divide by 2 to find 17.5 teams."
+        },
+        {
+          "label": "G",
+          "text": "N/A"
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "B",
+      "split": "validation"
+    }
+  ]
+}

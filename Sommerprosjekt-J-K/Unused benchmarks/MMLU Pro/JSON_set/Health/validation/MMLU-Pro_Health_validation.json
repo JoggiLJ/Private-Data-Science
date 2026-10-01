@@ -1,0 +1,247 @@
+{
+  "variant_id": "mmlu_pro_health_validation",
+  "description": "MMLU-Pro benchmark items, category: health, split: validation.",
+  "source": "TIGER-Lab/MMLU-Pro (Hugging Face): https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
+  "items": [
+    {
+      "item_id": 5,
+      "text": "Which of the following is the body cavity that contains the pituitary gland?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ventral"
+        },
+        {
+          "label": "B",
+          "text": "Dorsal"
+        },
+        {
+          "label": "C",
+          "text": "Buccal"
+        },
+        {
+          "label": "D",
+          "text": "Thoracic"
+        },
+        {
+          "label": "E",
+          "text": "Pericardial"
+        },
+        {
+          "label": "F",
+          "text": "Abdominal"
+        },
+        {
+          "label": "G",
+          "text": "Spinal"
+        },
+        {
+          "label": "H",
+          "text": "Pelvic"
+        },
+        {
+          "label": "I",
+          "text": "Pleural"
+        },
+        {
+          "label": "J",
+          "text": "Cranial"
+        }
+      ],
+      "correct_label": "J",
+      "split": "validation"
+    },
+    {
+      "item_id": 6,
+      "text": "What is the embryological origin of the hyoid bone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The third and fourth pharyngeal arches"
+        },
+        {
+          "label": "B",
+          "text": "The fourth pharyngeal arch"
+        },
+        {
+          "label": "C",
+          "text": "The third pharyngeal arch"
+        },
+        {
+          "label": "D",
+          "text": "The second pharyngeal arch"
+        },
+        {
+          "label": "E",
+          "text": "The second, third and fourth pharyngeal arches"
+        },
+        {
+          "label": "F",
+          "text": "The first pharyngeal arch"
+        },
+        {
+          "label": "G",
+          "text": "The second and third pharyngeal arches"
+        },
+        {
+          "label": "H",
+          "text": "The first and third pharyngeal arches"
+        },
+        {
+          "label": "I",
+          "text": "The first, second and third pharyngeal arches"
+        },
+        {
+          "label": "J",
+          "text": "The first and second pharyngeal arches"
+        }
+      ],
+      "correct_label": "G",
+      "split": "validation"
+    },
+    {
+      "item_id": 7,
+      "text": "What is the difference between a male and a female catheter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Female catheters are used more frequently than male catheters."
+        },
+        {
+          "label": "B",
+          "text": "Male catheters are bigger than female catheters."
+        },
+        {
+          "label": "C",
+          "text": "Male catheters are more flexible than female catheters."
+        },
+        {
+          "label": "D",
+          "text": "Male catheters are made from a different material than female catheters."
+        },
+        {
+          "label": "E",
+          "text": "Female catheters are longer than male catheters."
+        },
+        {
+          "label": "F",
+          "text": "Male catheters are longer than female catheters."
+        },
+        {
+          "label": "G",
+          "text": "Female catheters are bigger than male catheters."
+        },
+        {
+          "label": "H",
+          "text": "Female catheters have a curved shape while male catheters are straight."
+        },
+        {
+          "label": "I",
+          "text": "Male and female catheters are different colours."
+        },
+        {
+          "label": "J",
+          "text": "Male catheters have a smaller diameter than female catheters."
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    },
+    {
+      "item_id": 8,
+      "text": "How many attempts should you make to cannulate a patient before passing the job on to a senior colleague, according to the medical knowledge of 2020?",
+      "options": [
+        {
+          "label": "A",
+          "text": "1"
+        },
+        {
+          "label": "B",
+          "text": "Unlimited attempts"
+        },
+        {
+          "label": "C",
+          "text": "5"
+        },
+        {
+          "label": "D",
+          "text": "0, always pass on to a senior colleague"
+        },
+        {
+          "label": "E",
+          "text": "7"
+        },
+        {
+          "label": "F",
+          "text": "2"
+        },
+        {
+          "label": "G",
+          "text": "4"
+        },
+        {
+          "label": "H",
+          "text": "6"
+        },
+        {
+          "label": "I",
+          "text": "3"
+        },
+        {
+          "label": "J",
+          "text": "8"
+        }
+      ],
+      "correct_label": "F",
+      "split": "validation"
+    },
+    {
+      "item_id": 9,
+      "text": "Why are parvoviruses a highly impactful parasite?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are able to alter the host's DNA"
+        },
+        {
+          "label": "B",
+          "text": "Because they have no nucleic acid"
+        },
+        {
+          "label": "C",
+          "text": "They can survive in extreme temperatures"
+        },
+        {
+          "label": "D",
+          "text": "Only replicate in dividing cells"
+        },
+        {
+          "label": "E",
+          "text": "They can infect multiple species"
+        },
+        {
+          "label": "F",
+          "text": "They don't require a host to survive"
+        },
+        {
+          "label": "G",
+          "text": "Can integrate into host chromosomes"
+        },
+        {
+          "label": "H",
+          "text": "N/A"
+        },
+        {
+          "label": "I",
+          "text": "N/A"
+        },
+        {
+          "label": "J",
+          "text": "N/A"
+        }
+      ],
+      "correct_label": "D",
+      "split": "validation"
+    }
+  ]
+}

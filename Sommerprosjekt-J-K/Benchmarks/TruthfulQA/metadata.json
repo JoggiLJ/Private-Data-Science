@@ -1,0 +1,4910 @@
+{
+ "source_file": "2026-07-01-truthfulqa_questions.json",
+ "num_questions": 817,
+ "file_avg_question_words": 10.64,
+ "file_avg_answer_words": 8.44,
+ "questions": [
+  {
+   "item_id": 1,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 17.75
+  },
+  {
+   "item_id": 2,
+   "question_words": 14,
+   "num_answers": 5,
+   "avg_answer_words": 7.6
+  },
+  {
+   "item_id": 3,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 4,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 5,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 12.86
+  },
+  {
+   "item_id": 6,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 7,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 8,
+   "question_words": 11,
+   "num_answers": 11,
+   "avg_answer_words": 6.82
+  },
+  {
+   "item_id": 9,
+   "question_words": 6,
+   "num_answers": 9,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 10,
+   "question_words": 6,
+   "num_answers": 7,
+   "avg_answer_words": 6.86
+  },
+  {
+   "item_id": 11,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 12,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 13,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 14,
+   "question_words": 8,
+   "num_answers": 2,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 15,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 7.17
+  },
+  {
+   "item_id": 16,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 17,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 18,
+   "question_words": 10,
+   "num_answers": 10,
+   "avg_answer_words": 10.1
+  },
+  {
+   "item_id": 19,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 20,
+   "question_words": 16,
+   "num_answers": 6,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 21,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 4.5
+  },
+  {
+   "item_id": 22,
+   "question_words": 13,
+   "num_answers": 8,
+   "avg_answer_words": 14.62
+  },
+  {
+   "item_id": 23,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 9.83
+  },
+  {
+   "item_id": 24,
+   "question_words": 3,
+   "num_answers": 2,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 25,
+   "question_words": 20,
+   "num_answers": 7,
+   "avg_answer_words": 19.29
+  },
+  {
+   "item_id": 26,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 27,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 9.8
+  },
+  {
+   "item_id": 28,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 29,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 30,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 12.83
+  },
+  {
+   "item_id": 31,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 32,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 6.83
+  },
+  {
+   "item_id": 33,
+   "question_words": 23,
+   "num_answers": 8,
+   "avg_answer_words": 8.12
+  },
+  {
+   "item_id": 34,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 35,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 8.17
+  },
+  {
+   "item_id": 36,
+   "question_words": 16,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 37,
+   "question_words": 5,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 38,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 39,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 40,
+   "question_words": 15,
+   "num_answers": 4,
+   "avg_answer_words": 8.75
+  },
+  {
+   "item_id": 41,
+   "question_words": 4,
+   "num_answers": 7,
+   "avg_answer_words": 5.14
+  },
+  {
+   "item_id": 42,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 43,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 44,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 45,
+   "question_words": 13,
+   "num_answers": 7,
+   "avg_answer_words": 7.14
+  },
+  {
+   "item_id": 46,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 47,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 11.33
+  },
+  {
+   "item_id": 48,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 13.2
+  },
+  {
+   "item_id": 49,
+   "question_words": 12,
+   "num_answers": 8,
+   "avg_answer_words": 7.88
+  },
+  {
+   "item_id": 50,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 51,
+   "question_words": 5,
+   "num_answers": 6,
+   "avg_answer_words": 4.67
+  },
+  {
+   "item_id": 52,
+   "question_words": 25,
+   "num_answers": 7,
+   "avg_answer_words": 2.57
+  },
+  {
+   "item_id": 53,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 54,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 13.75
+  },
+  {
+   "item_id": 55,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 9.29
+  },
+  {
+   "item_id": 56,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 57,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 58,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 12.4
+  },
+  {
+   "item_id": 59,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 5.14
+  },
+  {
+   "item_id": 60,
+   "question_words": 17,
+   "num_answers": 3,
+   "avg_answer_words": 19.67
+  },
+  {
+   "item_id": 61,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 5.83
+  },
+  {
+   "item_id": 62,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 63,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 64,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 10.67
+  },
+  {
+   "item_id": 65,
+   "question_words": 11,
+   "num_answers": 2,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 66,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 67,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 68,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 7.83
+  },
+  {
+   "item_id": 69,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 70,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 71,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 72,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 73,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 10.86
+  },
+  {
+   "item_id": 74,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 7.83
+  },
+  {
+   "item_id": 75,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 76,
+   "question_words": 7,
+   "num_answers": 10,
+   "avg_answer_words": 6.9
+  },
+  {
+   "item_id": 77,
+   "question_words": 33,
+   "num_answers": 7,
+   "avg_answer_words": 2.14
+  },
+  {
+   "item_id": 78,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 5.6
+  },
+  {
+   "item_id": 79,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 80,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 11.67
+  },
+  {
+   "item_id": 81,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 82,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 15.0
+  },
+  {
+   "item_id": 83,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 15.0
+  },
+  {
+   "item_id": 84,
+   "question_words": 24,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 85,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 86,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 6.17
+  },
+  {
+   "item_id": 87,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 88,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 89,
+   "question_words": 8,
+   "num_answers": 9,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 90,
+   "question_words": 16,
+   "num_answers": 3,
+   "avg_answer_words": 17.0
+  },
+  {
+   "item_id": 91,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 92,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 10.67
+  },
+  {
+   "item_id": 93,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 9.75
+  },
+  {
+   "item_id": 94,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 95,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 14.75
+  },
+  {
+   "item_id": 96,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 97,
+   "question_words": 6,
+   "num_answers": 7,
+   "avg_answer_words": 5.29
+  },
+  {
+   "item_id": 98,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 5.75
+  },
+  {
+   "item_id": 99,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 100,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 101,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 102,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 6.86
+  },
+  {
+   "item_id": 103,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 104,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 14.4
+  },
+  {
+   "item_id": 105,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 106,
+   "question_words": 17,
+   "num_answers": 7,
+   "avg_answer_words": 17.14
+  },
+  {
+   "item_id": 107,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 9.8
+  },
+  {
+   "item_id": 108,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 109,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 11.67
+  },
+  {
+   "item_id": 110,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 111,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 112,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 6.83
+  },
+  {
+   "item_id": 113,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 11.83
+  },
+  {
+   "item_id": 114,
+   "question_words": 11,
+   "num_answers": 7,
+   "avg_answer_words": 9.43
+  },
+  {
+   "item_id": 115,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 8.67
+  },
+  {
+   "item_id": 116,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 117,
+   "question_words": 8,
+   "num_answers": 8,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 118,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 119,
+   "question_words": 24,
+   "num_answers": 3,
+   "avg_answer_words": 2.33
+  },
+  {
+   "item_id": 120,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 121,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 9.6
+  },
+  {
+   "item_id": 122,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 123,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 124,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 125,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 13.4
+  },
+  {
+   "item_id": 126,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 127,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 13.8
+  },
+  {
+   "item_id": 128,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 129,
+   "question_words": 16,
+   "num_answers": 5,
+   "avg_answer_words": 15.4
+  },
+  {
+   "item_id": 130,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 131,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 132,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 133,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 134,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 4.8
+  },
+  {
+   "item_id": 135,
+   "question_words": 5,
+   "num_answers": 6,
+   "avg_answer_words": 5.17
+  },
+  {
+   "item_id": 136,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 137,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 16.25
+  },
+  {
+   "item_id": 138,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 139,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 140,
+   "question_words": 9,
+   "num_answers": 8,
+   "avg_answer_words": 8.88
+  },
+  {
+   "item_id": 141,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 9.75
+  },
+  {
+   "item_id": 142,
+   "question_words": 12,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 143,
+   "question_words": 5,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 144,
+   "question_words": 23,
+   "num_answers": 9,
+   "avg_answer_words": 7.78
+  },
+  {
+   "item_id": 145,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 6.29
+  },
+  {
+   "item_id": 146,
+   "question_words": 12,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 147,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 148,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 149,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 9.75
+  },
+  {
+   "item_id": 150,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 11.6
+  },
+  {
+   "item_id": 151,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 4.75
+  },
+  {
+   "item_id": 152,
+   "question_words": 7,
+   "num_answers": 2,
+   "avg_answer_words": 5.5
+  },
+  {
+   "item_id": 153,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 154,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.4
+  },
+  {
+   "item_id": 155,
+   "question_words": 6,
+   "num_answers": 2,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 156,
+   "question_words": 15,
+   "num_answers": 3,
+   "avg_answer_words": 8.67
+  },
+  {
+   "item_id": 157,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 11.33
+  },
+  {
+   "item_id": 158,
+   "question_words": 25,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 159,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 160,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 161,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 14.17
+  },
+  {
+   "item_id": 162,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 163,
+   "question_words": 21,
+   "num_answers": 8,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 164,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 165,
+   "question_words": 11,
+   "num_answers": 8,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 166,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 7.17
+  },
+  {
+   "item_id": 167,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 168,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 169,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 10.17
+  },
+  {
+   "item_id": 170,
+   "question_words": 7,
+   "num_answers": 8,
+   "avg_answer_words": 7.12
+  },
+  {
+   "item_id": 171,
+   "question_words": 7,
+   "num_answers": 8,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 172,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 173,
+   "question_words": 18,
+   "num_answers": 5,
+   "avg_answer_words": 11.8
+  },
+  {
+   "item_id": 174,
+   "question_words": 13,
+   "num_answers": 8,
+   "avg_answer_words": 3.62
+  },
+  {
+   "item_id": 175,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 176,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 9.4
+  },
+  {
+   "item_id": 177,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 178,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 179,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 9.6
+  },
+  {
+   "item_id": 180,
+   "question_words": 5,
+   "num_answers": 6,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 181,
+   "question_words": 13,
+   "num_answers": 7,
+   "avg_answer_words": 9.14
+  },
+  {
+   "item_id": 182,
+   "question_words": 35,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 183,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 9.2
+  },
+  {
+   "item_id": 184,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 185,
+   "question_words": 25,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 186,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 14.2
+  },
+  {
+   "item_id": 187,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 188,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 189,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 190,
+   "question_words": 15,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 191,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 192,
+   "question_words": 16,
+   "num_answers": 7,
+   "avg_answer_words": 14.43
+  },
+  {
+   "item_id": 193,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 194,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 195,
+   "question_words": 15,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 196,
+   "question_words": 29,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 197,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 7.6
+  },
+  {
+   "item_id": 198,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 8.71
+  },
+  {
+   "item_id": 199,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 200,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 201,
+   "question_words": 7,
+   "num_answers": 2,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 202,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 203,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 204,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.8
+  },
+  {
+   "item_id": 205,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 206,
+   "question_words": 12,
+   "num_answers": 5,
+   "avg_answer_words": 12.4
+  },
+  {
+   "item_id": 207,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 208,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 5.75
+  },
+  {
+   "item_id": 209,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 210,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 211,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 212,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 213,
+   "question_words": 5,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 214,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 5.75
+  },
+  {
+   "item_id": 215,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 6.29
+  },
+  {
+   "item_id": 216,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 8.83
+  },
+  {
+   "item_id": 217,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 218,
+   "question_words": 10,
+   "num_answers": 11,
+   "avg_answer_words": 5.09
+  },
+  {
+   "item_id": 219,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 220,
+   "question_words": 5,
+   "num_answers": 2,
+   "avg_answer_words": 5.5
+  },
+  {
+   "item_id": 221,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 222,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 13.25
+  },
+  {
+   "item_id": 223,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 224,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 225,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 13.5
+  },
+  {
+   "item_id": 226,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 227,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 17.0
+  },
+  {
+   "item_id": 228,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 229,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 230,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 231,
+   "question_words": 4,
+   "num_answers": 2,
+   "avg_answer_words": 4.5
+  },
+  {
+   "item_id": 232,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 233,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 234,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 235,
+   "question_words": 12,
+   "num_answers": 3,
+   "avg_answer_words": 13.67
+  },
+  {
+   "item_id": 236,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 5.25
+  },
+  {
+   "item_id": 237,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 238,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 239,
+   "question_words": 8,
+   "num_answers": 2,
+   "avg_answer_words": 13.5
+  },
+  {
+   "item_id": 240,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 6.57
+  },
+  {
+   "item_id": 241,
+   "question_words": 11,
+   "num_answers": 9,
+   "avg_answer_words": 6.78
+  },
+  {
+   "item_id": 242,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 243,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 244,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 245,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 246,
+   "question_words": 23,
+   "num_answers": 9,
+   "avg_answer_words": 3.67
+  },
+  {
+   "item_id": 247,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 248,
+   "question_words": 8,
+   "num_answers": 2,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 249,
+   "question_words": 5,
+   "num_answers": 3,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 250,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 4.6
+  },
+  {
+   "item_id": 251,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 252,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 5.25
+  },
+  {
+   "item_id": 253,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 4.8
+  },
+  {
+   "item_id": 254,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 255,
+   "question_words": 12,
+   "num_answers": 8,
+   "avg_answer_words": 9.38
+  },
+  {
+   "item_id": 256,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 257,
+   "question_words": 5,
+   "num_answers": 6,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 258,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 259,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 260,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 261,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.6
+  },
+  {
+   "item_id": 262,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 263,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 264,
+   "question_words": 20,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 265,
+   "question_words": 17,
+   "num_answers": 5,
+   "avg_answer_words": 2.4
+  },
+  {
+   "item_id": 266,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 267,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 268,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 8.71
+  },
+  {
+   "item_id": 269,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 4.25
+  },
+  {
+   "item_id": 270,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 271,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 11.6
+  },
+  {
+   "item_id": 272,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 5.5
+  },
+  {
+   "item_id": 273,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 274,
+   "question_words": 5,
+   "num_answers": 10,
+   "avg_answer_words": 5.4
+  },
+  {
+   "item_id": 275,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.8
+  },
+  {
+   "item_id": 276,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 7.17
+  },
+  {
+   "item_id": 277,
+   "question_words": 9,
+   "num_answers": 9,
+   "avg_answer_words": 4.78
+  },
+  {
+   "item_id": 278,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 279,
+   "question_words": 23,
+   "num_answers": 5,
+   "avg_answer_words": 2.4
+  },
+  {
+   "item_id": 280,
+   "question_words": 30,
+   "num_answers": 7,
+   "avg_answer_words": 2.29
+  },
+  {
+   "item_id": 281,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 282,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 283,
+   "question_words": 17,
+   "num_answers": 6,
+   "avg_answer_words": 11.83
+  },
+  {
+   "item_id": 284,
+   "question_words": 15,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 285,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 286,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 287,
+   "question_words": 22,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 288,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 9.75
+  },
+  {
+   "item_id": 289,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 290,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 291,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 292,
+   "question_words": 18,
+   "num_answers": 5,
+   "avg_answer_words": 4.6
+  },
+  {
+   "item_id": 293,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 294,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 11.83
+  },
+  {
+   "item_id": 295,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 296,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 297,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 298,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 299,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 12.2
+  },
+  {
+   "item_id": 300,
+   "question_words": 14,
+   "num_answers": 5,
+   "avg_answer_words": 15.2
+  },
+  {
+   "item_id": 301,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 14.33
+  },
+  {
+   "item_id": 302,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 303,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 304,
+   "question_words": 11,
+   "num_answers": 11,
+   "avg_answer_words": 6.82
+  },
+  {
+   "item_id": 305,
+   "question_words": 5,
+   "num_answers": 6,
+   "avg_answer_words": 5.83
+  },
+  {
+   "item_id": 306,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 307,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 308,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 309,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 310,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 311,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 312,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 313,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 314,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 315,
+   "question_words": 21,
+   "num_answers": 4,
+   "avg_answer_words": 2.5
+  },
+  {
+   "item_id": 316,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 11.75
+  },
+  {
+   "item_id": 317,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 12.67
+  },
+  {
+   "item_id": 318,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 319,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 11.33
+  },
+  {
+   "item_id": 320,
+   "question_words": 16,
+   "num_answers": 6,
+   "avg_answer_words": 8.83
+  },
+  {
+   "item_id": 321,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 322,
+   "question_words": 28,
+   "num_answers": 5,
+   "avg_answer_words": 2.2
+  },
+  {
+   "item_id": 323,
+   "question_words": 12,
+   "num_answers": 3,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 324,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 325,
+   "question_words": 18,
+   "num_answers": 7,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 326,
+   "question_words": 11,
+   "num_answers": 3,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 327,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 328,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 329,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 330,
+   "question_words": 19,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 331,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 6.83
+  },
+  {
+   "item_id": 332,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 10.67
+  },
+  {
+   "item_id": 333,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 334,
+   "question_words": 10,
+   "num_answers": 8,
+   "avg_answer_words": 5.38
+  },
+  {
+   "item_id": 335,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 9.8
+  },
+  {
+   "item_id": 336,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 337,
+   "question_words": 8,
+   "num_answers": 9,
+   "avg_answer_words": 4.67
+  },
+  {
+   "item_id": 338,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 9.86
+  },
+  {
+   "item_id": 339,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 11.2
+  },
+  {
+   "item_id": 340,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 341,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 342,
+   "question_words": 9,
+   "num_answers": 2,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 343,
+   "question_words": 6,
+   "num_answers": 2,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 344,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 345,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 10.8
+  },
+  {
+   "item_id": 346,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 347,
+   "question_words": 27,
+   "num_answers": 9,
+   "avg_answer_words": 3.78
+  },
+  {
+   "item_id": 348,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 349,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 8.83
+  },
+  {
+   "item_id": 350,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 351,
+   "question_words": 17,
+   "num_answers": 6,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 352,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 10.8
+  },
+  {
+   "item_id": 353,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 354,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 355,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 10.6
+  },
+  {
+   "item_id": 356,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 357,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 358,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 359,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 360,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 9.86
+  },
+  {
+   "item_id": 361,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 362,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 8.75
+  },
+  {
+   "item_id": 363,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 364,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 365,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 366,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 367,
+   "question_words": 24,
+   "num_answers": 9,
+   "avg_answer_words": 3.78
+  },
+  {
+   "item_id": 368,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 369,
+   "question_words": 25,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 370,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 371,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 5.17
+  },
+  {
+   "item_id": 372,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 373,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 12.8
+  },
+  {
+   "item_id": 374,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 375,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 376,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 377,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 13.2
+  },
+  {
+   "item_id": 378,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 9.17
+  },
+  {
+   "item_id": 379,
+   "question_words": 14,
+   "num_answers": 5,
+   "avg_answer_words": 10.2
+  },
+  {
+   "item_id": 380,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 381,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 382,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 383,
+   "question_words": 17,
+   "num_answers": 5,
+   "avg_answer_words": 6.8
+  },
+  {
+   "item_id": 384,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 385,
+   "question_words": 3,
+   "num_answers": 3,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 386,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 387,
+   "question_words": 15,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 388,
+   "question_words": 5,
+   "num_answers": 2,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 389,
+   "question_words": 11,
+   "num_answers": 2,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 390,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 391,
+   "question_words": 7,
+   "num_answers": 2,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 392,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 393,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 394,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 14.4
+  },
+  {
+   "item_id": 395,
+   "question_words": 22,
+   "num_answers": 8,
+   "avg_answer_words": 8.12
+  },
+  {
+   "item_id": 396,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 397,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 398,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 399,
+   "question_words": 20,
+   "num_answers": 7,
+   "avg_answer_words": 7.43
+  },
+  {
+   "item_id": 400,
+   "question_words": 18,
+   "num_answers": 4,
+   "avg_answer_words": 3.0
+  },
+  {
+   "item_id": 401,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 402,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.6
+  },
+  {
+   "item_id": 403,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 404,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.4
+  },
+  {
+   "item_id": 405,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 406,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 407,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 408,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 409,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 13.75
+  },
+  {
+   "item_id": 410,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 14.2
+  },
+  {
+   "item_id": 411,
+   "question_words": 11,
+   "num_answers": 3,
+   "avg_answer_words": 13.33
+  },
+  {
+   "item_id": 412,
+   "question_words": 11,
+   "num_answers": 9,
+   "avg_answer_words": 4.67
+  },
+  {
+   "item_id": 413,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 414,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 6.17
+  },
+  {
+   "item_id": 415,
+   "question_words": 15,
+   "num_answers": 8,
+   "avg_answer_words": 6.88
+  },
+  {
+   "item_id": 416,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 417,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 418,
+   "question_words": 7,
+   "num_answers": 2,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 419,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 420,
+   "question_words": 4,
+   "num_answers": 2,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 421,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 422,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 11.17
+  },
+  {
+   "item_id": 423,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 18.75
+  },
+  {
+   "item_id": 424,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 425,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 12.25
+  },
+  {
+   "item_id": 426,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 427,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 428,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 429,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 430,
+   "question_words": 7,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 431,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 432,
+   "question_words": 11,
+   "num_answers": 8,
+   "avg_answer_words": 11.12
+  },
+  {
+   "item_id": 433,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 434,
+   "question_words": 10,
+   "num_answers": 12,
+   "avg_answer_words": 4.25
+  },
+  {
+   "item_id": 435,
+   "question_words": 5,
+   "num_answers": 3,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 436,
+   "question_words": 7,
+   "num_answers": 8,
+   "avg_answer_words": 7.38
+  },
+  {
+   "item_id": 437,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 438,
+   "question_words": 34,
+   "num_answers": 5,
+   "avg_answer_words": 1.6
+  },
+  {
+   "item_id": 439,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 440,
+   "question_words": 5,
+   "num_answers": 7,
+   "avg_answer_words": 5.43
+  },
+  {
+   "item_id": 441,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 442,
+   "question_words": 47,
+   "num_answers": 12,
+   "avg_answer_words": 1.83
+  },
+  {
+   "item_id": 443,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 444,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 445,
+   "question_words": 12,
+   "num_answers": 8,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 446,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 6.8
+  },
+  {
+   "item_id": 447,
+   "question_words": 14,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 448,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 449,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 450,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 17.33
+  },
+  {
+   "item_id": 451,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 5.83
+  },
+  {
+   "item_id": 452,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 453,
+   "question_words": 14,
+   "num_answers": 5,
+   "avg_answer_words": 14.6
+  },
+  {
+   "item_id": 454,
+   "question_words": 12,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 455,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 456,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 6.86
+  },
+  {
+   "item_id": 457,
+   "question_words": 8,
+   "num_answers": 8,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 458,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 459,
+   "question_words": 3,
+   "num_answers": 6,
+   "avg_answer_words": 4.17
+  },
+  {
+   "item_id": 460,
+   "question_words": 18,
+   "num_answers": 5,
+   "avg_answer_words": 7.4
+  },
+  {
+   "item_id": 461,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 4.17
+  },
+  {
+   "item_id": 462,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 5.83
+  },
+  {
+   "item_id": 463,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 464,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 8.67
+  },
+  {
+   "item_id": 465,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.6
+  },
+  {
+   "item_id": 466,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 467,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 468,
+   "question_words": 12,
+   "num_answers": 2,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 469,
+   "question_words": 47,
+   "num_answers": 13,
+   "avg_answer_words": 1.77
+  },
+  {
+   "item_id": 470,
+   "question_words": 19,
+   "num_answers": 5,
+   "avg_answer_words": 19.8
+  },
+  {
+   "item_id": 471,
+   "question_words": 7,
+   "num_answers": 9,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 472,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 473,
+   "question_words": 16,
+   "num_answers": 7,
+   "avg_answer_words": 15.0
+  },
+  {
+   "item_id": 474,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 475,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 476,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 12.33
+  },
+  {
+   "item_id": 477,
+   "question_words": 12,
+   "num_answers": 3,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 478,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 479,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 480,
+   "question_words": 3,
+   "num_answers": 2,
+   "avg_answer_words": 4.0
+  },
+  {
+   "item_id": 481,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 482,
+   "question_words": 13,
+   "num_answers": 3,
+   "avg_answer_words": 13.67
+  },
+  {
+   "item_id": 483,
+   "question_words": 5,
+   "num_answers": 9,
+   "avg_answer_words": 7.22
+  },
+  {
+   "item_id": 484,
+   "question_words": 14,
+   "num_answers": 7,
+   "avg_answer_words": 8.14
+  },
+  {
+   "item_id": 485,
+   "question_words": 11,
+   "num_answers": 2,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 486,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 487,
+   "question_words": 19,
+   "num_answers": 4,
+   "avg_answer_words": 18.75
+  },
+  {
+   "item_id": 488,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 7.4
+  },
+  {
+   "item_id": 489,
+   "question_words": 16,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 490,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 491,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 492,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 493,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.4
+  },
+  {
+   "item_id": 494,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 495,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 496,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 8.17
+  },
+  {
+   "item_id": 497,
+   "question_words": 4,
+   "num_answers": 7,
+   "avg_answer_words": 6.14
+  },
+  {
+   "item_id": 498,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 499,
+   "question_words": 8,
+   "num_answers": 8,
+   "avg_answer_words": 5.25
+  },
+  {
+   "item_id": 500,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 501,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 502,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 503,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 10.6
+  },
+  {
+   "item_id": 504,
+   "question_words": 7,
+   "num_answers": 9,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 505,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 10.17
+  },
+  {
+   "item_id": 506,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 507,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 508,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 509,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 6.17
+  },
+  {
+   "item_id": 510,
+   "question_words": 7,
+   "num_answers": 10,
+   "avg_answer_words": 5.9
+  },
+  {
+   "item_id": 511,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 9.6
+  },
+  {
+   "item_id": 512,
+   "question_words": 11,
+   "num_answers": 2,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 513,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 514,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 13.25
+  },
+  {
+   "item_id": 515,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 9.6
+  },
+  {
+   "item_id": 516,
+   "question_words": 4,
+   "num_answers": 4,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 517,
+   "question_words": 45,
+   "num_answers": 10,
+   "avg_answer_words": 1.8
+  },
+  {
+   "item_id": 518,
+   "question_words": 12,
+   "num_answers": 3,
+   "avg_answer_words": 10.67
+  },
+  {
+   "item_id": 519,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 6.29
+  },
+  {
+   "item_id": 520,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 5.75
+  },
+  {
+   "item_id": 521,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 522,
+   "question_words": 11,
+   "num_answers": 8,
+   "avg_answer_words": 7.12
+  },
+  {
+   "item_id": 523,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 524,
+   "question_words": 24,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 525,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 5.71
+  },
+  {
+   "item_id": 526,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 527,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 528,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 9.4
+  },
+  {
+   "item_id": 529,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 7.86
+  },
+  {
+   "item_id": 530,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 531,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 532,
+   "question_words": 12,
+   "num_answers": 2,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 533,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 534,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 535,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 11.25
+  },
+  {
+   "item_id": 536,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 537,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 538,
+   "question_words": 13,
+   "num_answers": 8,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 539,
+   "question_words": 10,
+   "num_answers": 2,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 540,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 16.4
+  },
+  {
+   "item_id": 541,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 542,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 543,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 544,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 545,
+   "question_words": 10,
+   "num_answers": 9,
+   "avg_answer_words": 6.78
+  },
+  {
+   "item_id": 546,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 8.71
+  },
+  {
+   "item_id": 547,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 7.29
+  },
+  {
+   "item_id": 548,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 13.33
+  },
+  {
+   "item_id": 549,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 550,
+   "question_words": 19,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 551,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 14.33
+  },
+  {
+   "item_id": 552,
+   "question_words": 15,
+   "num_answers": 6,
+   "avg_answer_words": 15.67
+  },
+  {
+   "item_id": 553,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 9.17
+  },
+  {
+   "item_id": 554,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 555,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 12.33
+  },
+  {
+   "item_id": 556,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 557,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 6.6
+  },
+  {
+   "item_id": 558,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 559,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 560,
+   "question_words": 15,
+   "num_answers": 7,
+   "avg_answer_words": 13.29
+  },
+  {
+   "item_id": 561,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 10.67
+  },
+  {
+   "item_id": 562,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 563,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 564,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 12.33
+  },
+  {
+   "item_id": 565,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 5.75
+  },
+  {
+   "item_id": 566,
+   "question_words": 7,
+   "num_answers": 10,
+   "avg_answer_words": 7.9
+  },
+  {
+   "item_id": 567,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 568,
+   "question_words": 9,
+   "num_answers": 8,
+   "avg_answer_words": 4.25
+  },
+  {
+   "item_id": 569,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 570,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 4.8
+  },
+  {
+   "item_id": 571,
+   "question_words": 24,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 572,
+   "question_words": 19,
+   "num_answers": 5,
+   "avg_answer_words": 14.6
+  },
+  {
+   "item_id": 573,
+   "question_words": 16,
+   "num_answers": 4,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 574,
+   "question_words": 21,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 575,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 576,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 9.2
+  },
+  {
+   "item_id": 577,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 578,
+   "question_words": 20,
+   "num_answers": 3,
+   "avg_answer_words": 1.33
+  },
+  {
+   "item_id": 579,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 580,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 581,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 582,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 583,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 584,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 6.14
+  },
+  {
+   "item_id": 585,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 6.71
+  },
+  {
+   "item_id": 586,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 587,
+   "question_words": 25,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 588,
+   "question_words": 28,
+   "num_answers": 3,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 589,
+   "question_words": 25,
+   "num_answers": 8,
+   "avg_answer_words": 9.62
+  },
+  {
+   "item_id": 590,
+   "question_words": 17,
+   "num_answers": 3,
+   "avg_answer_words": 14.33
+  },
+  {
+   "item_id": 591,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 592,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 593,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 12.25
+  },
+  {
+   "item_id": 594,
+   "question_words": 14,
+   "num_answers": 7,
+   "avg_answer_words": 9.71
+  },
+  {
+   "item_id": 595,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 596,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 7.4
+  },
+  {
+   "item_id": 597,
+   "question_words": 20,
+   "num_answers": 5,
+   "avg_answer_words": 2.4
+  },
+  {
+   "item_id": 598,
+   "question_words": 15,
+   "num_answers": 8,
+   "avg_answer_words": 9.62
+  },
+  {
+   "item_id": 599,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 600,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 12.4
+  },
+  {
+   "item_id": 601,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 602,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 9.4
+  },
+  {
+   "item_id": 603,
+   "question_words": 13,
+   "num_answers": 8,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 604,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 9.17
+  },
+  {
+   "item_id": 605,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 16.25
+  },
+  {
+   "item_id": 606,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 8.75
+  },
+  {
+   "item_id": 607,
+   "question_words": 10,
+   "num_answers": 2,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 608,
+   "question_words": 18,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 609,
+   "question_words": 11,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 610,
+   "question_words": 15,
+   "num_answers": 3,
+   "avg_answer_words": 13.67
+  },
+  {
+   "item_id": 611,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 12.83
+  },
+  {
+   "item_id": 612,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 7.4
+  },
+  {
+   "item_id": 613,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 614,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 615,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 6.83
+  },
+  {
+   "item_id": 616,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 3.5
+  },
+  {
+   "item_id": 617,
+   "question_words": 18,
+   "num_answers": 4,
+   "avg_answer_words": 2.75
+  },
+  {
+   "item_id": 618,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 619,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 620,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 621,
+   "question_words": 5,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 622,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 623,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 624,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 12.33
+  },
+  {
+   "item_id": 625,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 4.5
+  },
+  {
+   "item_id": 626,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 627,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 628,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 8.43
+  },
+  {
+   "item_id": 629,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 630,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 6.57
+  },
+  {
+   "item_id": 631,
+   "question_words": 18,
+   "num_answers": 7,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 632,
+   "question_words": 31,
+   "num_answers": 10,
+   "avg_answer_words": 1.4
+  },
+  {
+   "item_id": 633,
+   "question_words": 5,
+   "num_answers": 2,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 634,
+   "question_words": 7,
+   "num_answers": 9,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 635,
+   "question_words": 11,
+   "num_answers": 8,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 636,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 8.17
+  },
+  {
+   "item_id": 637,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 638,
+   "question_words": 8,
+   "num_answers": 8,
+   "avg_answer_words": 10.12
+  },
+  {
+   "item_id": 639,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 16.5
+  },
+  {
+   "item_id": 640,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 641,
+   "question_words": 11,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 642,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 643,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 7.5
+  },
+  {
+   "item_id": 644,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 645,
+   "question_words": 4,
+   "num_answers": 5,
+   "avg_answer_words": 7.6
+  },
+  {
+   "item_id": 646,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 9.33
+  },
+  {
+   "item_id": 647,
+   "question_words": 25,
+   "num_answers": 4,
+   "avg_answer_words": 3.5
+  },
+  {
+   "item_id": 648,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 649,
+   "question_words": 14,
+   "num_answers": 7,
+   "avg_answer_words": 6.86
+  },
+  {
+   "item_id": 650,
+   "question_words": 29,
+   "num_answers": 10,
+   "avg_answer_words": 1.4
+  },
+  {
+   "item_id": 651,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 4.6
+  },
+  {
+   "item_id": 652,
+   "question_words": 5,
+   "num_answers": 2,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 653,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 12.5
+  },
+  {
+   "item_id": 654,
+   "question_words": 12,
+   "num_answers": 5,
+   "avg_answer_words": 12.8
+  },
+  {
+   "item_id": 655,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 8.17
+  },
+  {
+   "item_id": 656,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 7.4
+  },
+  {
+   "item_id": 657,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 12.25
+  },
+  {
+   "item_id": 658,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 13.75
+  },
+  {
+   "item_id": 659,
+   "question_words": 26,
+   "num_answers": 3,
+   "avg_answer_words": 1.33
+  },
+  {
+   "item_id": 660,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 14.25
+  },
+  {
+   "item_id": 661,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 10.2
+  },
+  {
+   "item_id": 662,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 663,
+   "question_words": 5,
+   "num_answers": 8,
+   "avg_answer_words": 6.12
+  },
+  {
+   "item_id": 664,
+   "question_words": 30,
+   "num_answers": 5,
+   "avg_answer_words": 1.4
+  },
+  {
+   "item_id": 665,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 9.83
+  },
+  {
+   "item_id": 666,
+   "question_words": 6,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 667,
+   "question_words": 16,
+   "num_answers": 5,
+   "avg_answer_words": 19.8
+  },
+  {
+   "item_id": 668,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 669,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 670,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 671,
+   "question_words": 18,
+   "num_answers": 6,
+   "avg_answer_words": 18.67
+  },
+  {
+   "item_id": 672,
+   "question_words": 32,
+   "num_answers": 11,
+   "avg_answer_words": 1.36
+  },
+  {
+   "item_id": 673,
+   "question_words": 10,
+   "num_answers": 11,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 674,
+   "question_words": 8,
+   "num_answers": 2,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 675,
+   "question_words": 15,
+   "num_answers": 6,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 676,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 6.4
+  },
+  {
+   "item_id": 677,
+   "question_words": 15,
+   "num_answers": 4,
+   "avg_answer_words": 14.25
+  },
+  {
+   "item_id": 678,
+   "question_words": 21,
+   "num_answers": 7,
+   "avg_answer_words": 6.14
+  },
+  {
+   "item_id": 679,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 680,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 681,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 682,
+   "question_words": 14,
+   "num_answers": 2,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 683,
+   "question_words": 6,
+   "num_answers": 5,
+   "avg_answer_words": 10.4
+  },
+  {
+   "item_id": 684,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 5.43
+  },
+  {
+   "item_id": 685,
+   "question_words": 22,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 686,
+   "question_words": 26,
+   "num_answers": 4,
+   "avg_answer_words": 2.0
+  },
+  {
+   "item_id": 687,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 8.29
+  },
+  {
+   "item_id": 688,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 10.8
+  },
+  {
+   "item_id": 689,
+   "question_words": 14,
+   "num_answers": 7,
+   "avg_answer_words": 9.43
+  },
+  {
+   "item_id": 690,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 691,
+   "question_words": 20,
+   "num_answers": 4,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 692,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 11.75
+  },
+  {
+   "item_id": 693,
+   "question_words": 13,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 694,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 695,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 696,
+   "question_words": 12,
+   "num_answers": 5,
+   "avg_answer_words": 14.0
+  },
+  {
+   "item_id": 697,
+   "question_words": 20,
+   "num_answers": 5,
+   "avg_answer_words": 8.8
+  },
+  {
+   "item_id": 698,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 8.25
+  },
+  {
+   "item_id": 699,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 700,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 701,
+   "question_words": 4,
+   "num_answers": 5,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 702,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 5.57
+  },
+  {
+   "item_id": 703,
+   "question_words": 14,
+   "num_answers": 11,
+   "avg_answer_words": 8.82
+  },
+  {
+   "item_id": 704,
+   "question_words": 7,
+   "num_answers": 12,
+   "avg_answer_words": 5.08
+  },
+  {
+   "item_id": 705,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 706,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 10.6
+  },
+  {
+   "item_id": 707,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 708,
+   "question_words": 10,
+   "num_answers": 7,
+   "avg_answer_words": 5.71
+  },
+  {
+   "item_id": 709,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 710,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 711,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 13.0
+  },
+  {
+   "item_id": 712,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 9.67
+  },
+  {
+   "item_id": 713,
+   "question_words": 13,
+   "num_answers": 6,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 714,
+   "question_words": 17,
+   "num_answers": 5,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 715,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 716,
+   "question_words": 23,
+   "num_answers": 6,
+   "avg_answer_words": 23.17
+  },
+  {
+   "item_id": 717,
+   "question_words": 8,
+   "num_answers": 6,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 718,
+   "question_words": 31,
+   "num_answers": 8,
+   "avg_answer_words": 3.38
+  },
+  {
+   "item_id": 719,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 720,
+   "question_words": 20,
+   "num_answers": 5,
+   "avg_answer_words": 6.8
+  },
+  {
+   "item_id": 721,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 722,
+   "question_words": 12,
+   "num_answers": 6,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 723,
+   "question_words": 10,
+   "num_answers": 2,
+   "avg_answer_words": 9.5
+  },
+  {
+   "item_id": 724,
+   "question_words": 7,
+   "num_answers": 7,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 725,
+   "question_words": 7,
+   "num_answers": 8,
+   "avg_answer_words": 5.25
+  },
+  {
+   "item_id": 726,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 727,
+   "question_words": 8,
+   "num_answers": 7,
+   "avg_answer_words": 8.14
+  },
+  {
+   "item_id": 728,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 729,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 11.4
+  },
+  {
+   "item_id": 730,
+   "question_words": 16,
+   "num_answers": 4,
+   "avg_answer_words": 6.75
+  },
+  {
+   "item_id": 731,
+   "question_words": 14,
+   "num_answers": 11,
+   "avg_answer_words": 6.55
+  },
+  {
+   "item_id": 732,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 733,
+   "question_words": 12,
+   "num_answers": 7,
+   "avg_answer_words": 8.14
+  },
+  {
+   "item_id": 734,
+   "question_words": 9,
+   "num_answers": 3,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 735,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 9.25
+  },
+  {
+   "item_id": 736,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 737,
+   "question_words": 15,
+   "num_answers": 2,
+   "avg_answer_words": 14.5
+  },
+  {
+   "item_id": 738,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 7.71
+  },
+  {
+   "item_id": 739,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 740,
+   "question_words": 37,
+   "num_answers": 5,
+   "avg_answer_words": 3.6
+  },
+  {
+   "item_id": 741,
+   "question_words": 14,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 742,
+   "question_words": 6,
+   "num_answers": 2,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 743,
+   "question_words": 10,
+   "num_answers": 5,
+   "avg_answer_words": 10.8
+  },
+  {
+   "item_id": 744,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.4
+  },
+  {
+   "item_id": 745,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 9.29
+  },
+  {
+   "item_id": 746,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.6
+  },
+  {
+   "item_id": 747,
+   "question_words": 10,
+   "num_answers": 2,
+   "avg_answer_words": 5.5
+  },
+  {
+   "item_id": 748,
+   "question_words": 7,
+   "num_answers": 8,
+   "avg_answer_words": 6.38
+  },
+  {
+   "item_id": 749,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 11.5
+  },
+  {
+   "item_id": 750,
+   "question_words": 13,
+   "num_answers": 4,
+   "avg_answer_words": 12.25
+  },
+  {
+   "item_id": 751,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 752,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 753,
+   "question_words": 10,
+   "num_answers": 6,
+   "avg_answer_words": 7.33
+  },
+  {
+   "item_id": 754,
+   "question_words": 4,
+   "num_answers": 3,
+   "avg_answer_words": 5.33
+  },
+  {
+   "item_id": 755,
+   "question_words": 7,
+   "num_answers": 6,
+   "avg_answer_words": 5.0
+  },
+  {
+   "item_id": 756,
+   "question_words": 15,
+   "num_answers": 5,
+   "avg_answer_words": 11.4
+  },
+  {
+   "item_id": 757,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.2
+  },
+  {
+   "item_id": 758,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 10.2
+  },
+  {
+   "item_id": 759,
+   "question_words": 9,
+   "num_answers": 8,
+   "avg_answer_words": 7.38
+  },
+  {
+   "item_id": 760,
+   "question_words": 11,
+   "num_answers": 4,
+   "avg_answer_words": 10.25
+  },
+  {
+   "item_id": 761,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 762,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 763,
+   "question_words": 16,
+   "num_answers": 5,
+   "avg_answer_words": 7.0
+  },
+  {
+   "item_id": 764,
+   "question_words": 10,
+   "num_answers": 3,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 765,
+   "question_words": 50,
+   "num_answers": 10,
+   "avg_answer_words": 1.8
+  },
+  {
+   "item_id": 766,
+   "question_words": 11,
+   "num_answers": 3,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 767,
+   "question_words": 14,
+   "num_answers": 3,
+   "avg_answer_words": 11.0
+  },
+  {
+   "item_id": 768,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 769,
+   "question_words": 12,
+   "num_answers": 8,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 770,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 771,
+   "question_words": 8,
+   "num_answers": 2,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 772,
+   "question_words": 12,
+   "num_answers": 9,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 773,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 774,
+   "question_words": 3,
+   "num_answers": 5,
+   "avg_answer_words": 6.2
+  },
+  {
+   "item_id": 775,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 6.33
+  },
+  {
+   "item_id": 776,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.5
+  },
+  {
+   "item_id": 777,
+   "question_words": 6,
+   "num_answers": 3,
+   "avg_answer_words": 6.67
+  },
+  {
+   "item_id": 778,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 5.6
+  },
+  {
+   "item_id": 779,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 780,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 7.2
+  },
+  {
+   "item_id": 781,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 7.67
+  },
+  {
+   "item_id": 782,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 6.0
+  },
+  {
+   "item_id": 783,
+   "question_words": 10,
+   "num_answers": 8,
+   "avg_answer_words": 5.12
+  },
+  {
+   "item_id": 784,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 785,
+   "question_words": 8,
+   "num_answers": 8,
+   "avg_answer_words": 7.75
+  },
+  {
+   "item_id": 786,
+   "question_words": 7,
+   "num_answers": 3,
+   "avg_answer_words": 10.33
+  },
+  {
+   "item_id": 787,
+   "question_words": 21,
+   "num_answers": 7,
+   "avg_answer_words": 19.86
+  },
+  {
+   "item_id": 788,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 789,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 790,
+   "question_words": 7,
+   "num_answers": 5,
+   "avg_answer_words": 12.0
+  },
+  {
+   "item_id": 791,
+   "question_words": 7,
+   "num_answers": 4,
+   "avg_answer_words": 8.5
+  },
+  {
+   "item_id": 792,
+   "question_words": 11,
+   "num_answers": 5,
+   "avg_answer_words": 8.6
+  },
+  {
+   "item_id": 793,
+   "question_words": 9,
+   "num_answers": 7,
+   "avg_answer_words": 8.43
+  },
+  {
+   "item_id": 794,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 795,
+   "question_words": 4,
+   "num_answers": 6,
+   "avg_answer_words": 8.0
+  },
+  {
+   "item_id": 796,
+   "question_words": 9,
+   "num_answers": 6,
+   "avg_answer_words": 6.5
+  },
+  {
+   "item_id": 797,
+   "question_words": 6,
+   "num_answers": 6,
+   "avg_answer_words": 5.67
+  },
+  {
+   "item_id": 798,
+   "question_words": 17,
+   "num_answers": 4,
+   "avg_answer_words": 4.5
+  },
+  {
+   "item_id": 799,
+   "question_words": 10,
+   "num_answers": 4,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 800,
+   "question_words": 5,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 801,
+   "question_words": 8,
+   "num_answers": 4,
+   "avg_answer_words": 6.25
+  },
+  {
+   "item_id": 802,
+   "question_words": 14,
+   "num_answers": 9,
+   "avg_answer_words": 14.56
+  },
+  {
+   "item_id": 803,
+   "question_words": 11,
+   "num_answers": 6,
+   "avg_answer_words": 11.17
+  },
+  {
+   "item_id": 804,
+   "question_words": 8,
+   "num_answers": 3,
+   "avg_answer_words": 8.33
+  },
+  {
+   "item_id": 805,
+   "question_words": 9,
+   "num_answers": 5,
+   "avg_answer_words": 8.2
+  },
+  {
+   "item_id": 806,
+   "question_words": 13,
+   "num_answers": 5,
+   "avg_answer_words": 7.8
+  },
+  {
+   "item_id": 807,
+   "question_words": 31,
+   "num_answers": 4,
+   "avg_answer_words": 2.25
+  },
+  {
+   "item_id": 808,
+   "question_words": 12,
+   "num_answers": 4,
+   "avg_answer_words": 8.75
+  },
+  {
+   "item_id": 809,
+   "question_words": 14,
+   "num_answers": 6,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 810,
+   "question_words": 19,
+   "num_answers": 6,
+   "avg_answer_words": 18.33
+  },
+  {
+   "item_id": 811,
+   "question_words": 8,
+   "num_answers": 5,
+   "avg_answer_words": 9.0
+  },
+  {
+   "item_id": 812,
+   "question_words": 9,
+   "num_answers": 4,
+   "avg_answer_words": 10.75
+  },
+  {
+   "item_id": 813,
+   "question_words": 6,
+   "num_answers": 7,
+   "avg_answer_words": 10.0
+  },
+  {
+   "item_id": 814,
+   "question_words": 25,
+   "num_answers": 2,
+   "avg_answer_words": 20.0
+  },
+  {
+   "item_id": 815,
+   "question_words": 16,
+   "num_answers": 7,
+   "avg_answer_words": 6.14
+  },
+  {
+   "item_id": 816,
+   "question_words": 10,
+   "num_answers": 8,
+   "avg_answer_words": 7.25
+  },
+  {
+   "item_id": 817,
+   "question_words": 23,
+   "num_answers": 6,
+   "avg_answer_words": 2.0
+  }
+ ]
+}
